@@ -1,0 +1,97 @@
+<article>
+	<id>1498</id>
+	<title>中國國民黨 競選廣告 抄襲 頭家來開講</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo>Bin5-si7-sin-bun5-po3-to7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>中國國民黨 力拚 五大都市 選戰，</segmentation>
+			<TaiLuo>Tiong-kok-kok-bin5-tong2 lek8-piann3 gou7-toa7-tou-chhi7 soan2-chian3，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Diong1-Gok7*-Gok7-Vin5-Dong4* lik6-biann3 qo2-dua2-do1-ci2* suan4-zen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>最近 在 很多電視 上，</segmentation>
+			<TaiLuo>choe3-kin7-ti7 chiok-choe7 tian7-si7-teng2，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zue3-gin2* di2 zin1-ze2-den2-si2* ding4-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>強打一支 抨擊 高雄市市政 的 競選廣告，</segmentation>
+			<TaiLuo>kiong5-phah chit8-ki peng5-kek Ko-hiong5-chhi7 chhi7-cheng3-e5 keng7-soan2-kong2-ko3，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>giong5-pah7-zit6-gi1 pue1-bing5 Gor1-Hiong5-Ci2*-ci2-zing3* e5 ging2-suan4*-gong4-gor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>不過， 眼尖的人 會發現，</segmentation>
+			<TaiLuo>m7-ku2 ， bak8-chiu-kim-e5-lang5 e7-hoat-hian7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>m2-gorh7*， vak6-ziu1*-lai2*-e5-lang5* e2-huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>簡直是 民視 頭家來開講 的 盜版，</segmentation>
+			<TaiLuo>kun-pun2-si7 Bin5-si7 Thau5-ke-lai5-khai-kang2 e5 chhat8-thau-pan2，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gin1-bun4*-si2 Vin5-Si2* Tau5-Ge1*-Lai5-Kai1-Gang4* e5 dor2-ban4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>這 也害得 節目主持人 謝志偉，</segmentation>
+			<TaiLuo>chit-ma7-hai7-kah8 chiat-bok8-chu2-chhi5-jin5 Sia7-chi3-ui2，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ze1* ma2-hai2-diorh6 zet7-vok6-zu4-ci5-rin5* Zia2-Zi3-Ui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>被太太 懷疑 偷接廣告，</segmentation>
+			<TaiLuo>pi7 khan-chhiu2 hiau-gi5 thau-chiap kong2-ko3，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ho2-tai3-tai3* huai5-qi5 tau1-ziap7-gong4-gor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>謝志偉 看了廣告 之後，</segmentation>
+			<TaiLuo>Sia7-chi3-ui2 khoann3-liau2 kong2-ko3 liau2-au7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Zia2-Zi3-Ui4* kuann3-liau4-gong4-gor3* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>誇獎 中國國民黨 抄襲功力 一流，</segmentation>
+			<TaiLuo>khoa-chan3 Tiong-kok-kok-bin5-tong2 chhau-lang5 kong-lek8-it-liu5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>or1-lor4 Diong1-Gok7*-Gok7-Vin5-Dong4* cau1-sip6-gong1-lik6* it7-liu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>可惜 用錯地方，</segmentation>
+			<TaiLuo>bo5-chhai2 eng7-chho3-sou2-chai7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>kor4-siorh7* iong2-m2-diorh6-so4-zai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>如果 執政能力 也這麼強，</segmentation>
+			<TaiLuo>na7-chun2 chip-cheng3-leng5-lek8 ma7-chiah-ni2-kiong5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>na2-si2 zip7-zing3*-ling5-lik6* ma2-ziah7-ni2-giong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>就不用 花錢拍廣告 了。</segmentation>
+			<TaiLuo>to-m7-bian2 khai-chinn5 phah-kong2-ko3-ah。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>diorh6-m2-ven4 kai1-zinn5*-pah7-gong4-gor3* a3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

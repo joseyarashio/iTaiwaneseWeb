@@ -1,0 +1,57 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>表單資料驗證：信用卡號碼</h2>
+<hr>
+
+<script>
+function validateForm(form){
+	if (checkCreditCardNumber(form.cardNumber)){
+		alert("資料正確無誤，立刻送出表單！");
+		form.submit();
+		return(true);
+	}
+	alert("資料有誤，表單將不送出！");
+	form.cardNumber.focus();
+	return(false);
+}
+
+function checkCreditCardNumber(control){
+	var number=control.value;
+	var character;
+	var digit;
+	if (number.length!=19){
+		alert("<"+number+">：卡號長度有誤，請查核！");
+		return false;
+	}
+	for (i=0; i<19; i++){
+		character=number.charAt(i);
+		if ((i==4)||(i==9)||(i==14)){	// 檢查是否是 "-"
+			if (character!="-"){
+				alert("<"+number+">：卡號輸入有誤（請以「-」分開四碼），請查核！");
+				return false;
+			}
+		} else {	// 檢查是否是數字
+			if (isNaN(parseInt(character))){
+				alert("<"+number+">：卡號輸入有誤，請查核！");
+				return false;
+			}
+		}
+	}
+	return true;
+}
+</script>
+
+請輸入您個人的信用卡資料: <p>
+<form>
+卡號:
+<input type="text" name=cardNumber size=20 value="xxxx-xxxx-xxxx-xxxx"><br>
+<p><input type=button VALUE="查核" onClick="validateForm(this.form)">
+</form>
+
+<hr>
+</body>
+</html>

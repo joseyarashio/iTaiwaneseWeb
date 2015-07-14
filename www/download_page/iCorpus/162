@@ -1,0 +1,370 @@
+<article>
+	<id>162</id>
+	<title>美國 國會議員 建議 對AIG員工 徵特別稅</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-iu5-si5-po3-po3-to7</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>美國國會 包括 參議院</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bi2-kok-kok-hoe7 pau-koat Chham-gi7-inn7 ，</JiaoLuo>
+			<TongYong>Vi4-gok7*-gok7-hue2* bau1-gua1 cam1-qi2-inn2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>金融委員會 主席 Max Baucus 在內 的</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kim-iong5-ui2-oan5-hoe7 chu2-sek8 Max Baucus chai7-lai7-e5 ，</JiaoLuo>
+			<TongYong>gim1-iong5-ui4-uan5-hue2* zu4-sik6* Max Baucus zai2-lai2* e5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>多位 美國國會 金融委員會 議員 今天建議，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>che7-ui7 Bi2-kok-kok-hoe7 kim-iong5-ui2-oan5-hoe7 gi7-oan5 kin-a2-jit kian3-gi7，</JiaoLuo>
+			<TongYong>ze2-ui2 vi4-gok7*-gok7-hue2* gim1-iong5-ui4-uan5-hue2* qi2-uan5* gin1-a4-rit6* gen3-qi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>以 課徵 特別稅 的 方式，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng7 kho3-cheng tek8-piat8-soe3 e5 hong-sek ，</JiaoLuo>
+			<TongYong>ing2 kor3-zing1 dik6-bet6-sue3* e5 hong1-sik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>對 收取 鉅額紅利 的</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 siu-chhu2 toa7-tiau5 ang5-li7 e5 ，</JiaoLuo>
+			<TongYong>dui3 siu1-cu4 gi2-qiah6-ang5-li2* e5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>AIG 美國國際集團 員工，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>AIG Bi2-kok-kok-che3-chip8-thoan5 oan5-kang ，</JiaoLuo>
+			<TongYong>AIG vi4-gok7*-gok7-ze3-zip6-tuan5* uan5-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>吐出 所謂的 「保留獎金」。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thou3-chhut sou2-ui7-e5 「 po2-liu5-chiong2-kim 」 。</JiaoLuo>
+			<TongYong>to3-cut7 so4-ui2*-e5 「bor4-liu5-ziong4-gim1*」。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>紐約州 檢察長 Andrew Cuomo，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Niu2-iok-chiu kiam2-chhat-tiunn2 Andrew Cuomo ，</JiaoLuo>
+			<TongYong>Niu4-iok7-ziu1* giam4-cat7-diunn4* Andrew Cuomo，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>今天 致函</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit ti3-ham5 ，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* di3-ham5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>眾議院 金融委員會 主席 Barney Frank，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chiong3-gi7-inn7 kim-iong5-ui2-oan5-hoe7 chu2-sek8 Barney Frank ，</JiaoLuo>
+			<TongYong>ziong3-qi2-inn2* gim1-iong5-ui4-uan5-hue2* zu4-sik6* Barney Frank，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>詳列 「美國國際集團」 上週，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong5-liat8 「 Bi2-kok-kok-che3-chip8-thoan5 」 teng2-le2-pai3 ，</JiaoLuo>
+			<TongYong>siong5-let6 「vi4-gok7*-gok7-ze3-zip6-tuan5*」 ding4-le4-bai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>發給員工 總數</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hou7 oan5-kang chong2-sou3 ，</JiaoLuo>
+			<TongYong>huat7-ho2-uan5-gang1* zong4-so3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>高達 一億六千五百萬 美元 獎金 的 細節。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koan5-kau3 chit8-ek lak8-chheng gou7-pah-ban7 bi2-kim e5 soe3-chiat 。</JiaoLuo>
+			<TongYong>gor1-dat6 zit6-ik7*-lak6-cing1*-qo2-bah7-van2 vi4-gim1* ziong4-gim1* e5 se3-zet7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>Cuomo 在信中 指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Cuomo ti7 phe-lai7 chi2-chhut ，</JiaoLuo>
+			<TongYong>Cuomo di2-pue1-diong1* zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>AIG 「美國國際集團」 造成 公司 重大虧損，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>AIG 「 Bi2-kok-kok-che3-chip8-thoan5 」 cho7-seng5 kong-si tiong7-tai7 khui-sun2 ，</JiaoLuo>
+			<TongYong>AIG 「1 Bi4-gok7-gok7-ze3-zip6-tuan5 」1 zor2-sing5 gong1-si1* diong2-dai2-kui1-sun4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>需要 靠 納稅人的錢 來紓困 的 部門，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>su-iau3 kho3 lap8-soe3-lang5 e5 chinn5 lai5 su-khun3 e5 pou7-bun5 ，</JiaoLuo>
+			<TongYong>su1-iau3 kor3 lap6-sue3-rin5*-e5-zinn5* lai5-su1-kun3* e5 bo2-mng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>有 七十三名 員工 成為 百萬富豪，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 chhit-chap8-sann-mia5 oan5-kang chiann5-choe3 pah-ban7-hu3-ho5 ，</JiaoLuo>
+			<TongYong>u2 cit7-zap6-sann1-mia5 uan5-gang1* ben3-sing5 bah7-van2-hu3-hor5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>這種情況 嚴重錯誤。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-chiong2 cheng5-hong2 giam5-tiong7 chho3-gou7 。</JiaoLuo>
+			<TongYong>zit7-ziong4-zing5-kong4* qiam5-diong2-cor3-nqo2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>雖然， Cuomo 沒有 針對</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5 ， Cuomo bo5 chiam-tui3 ，</JiaoLuo>
+			<TongYong>Sui1-ren5*， Cuomo vor5 ziam1-dui3</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>收取 鉅額獎金 的 人 指名道姓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu-chhu2 toa7-tiau5 chiong2-kim e5 lang5 chi2-mia5-to7-senn3 ，</JiaoLuo>
+			<TongYong>siu1-cu4 gi2-qiah6-ziong4-gim1* e5 lang5* zi4-mia5*-dor2-senn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>不過 明確指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh beng5-khak chi2-chhut ，</JiaoLuo>
+			<TongYong>m2-gorh7 ving5-kak7-zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>個人 收受獎金的</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ko3-jin5 siu-siu7 chiong2-kim-e5 ，</JiaoLuo>
+			<TongYong>gor3-rin5* siu1-siu2-ziong4-gim1*-e5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>最高金額 是 六百四十萬 美元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-koan5 kim-giah8 si7 lak8-pah si3-chap8-ban7 bi2-kim ，</JiaoLuo>
+			<TongYong>siang2-guan5-gim1-qiah6* si2 lak6-bah7-si3-zap6-van2 vi4-gim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>另外 有六人 各得 四百萬 美元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7 u7 lak8-lang5 koh-tit si3-pah pah-ban7 bi2-kim ，</JiaoLuo>
+			<TongYong>ling2-qua2* u2-lak6-e5-lang5* gok7-dit7-diorh6 si3-bah7-van2 vi4-gim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>十五人 各得 兩百萬 美元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-gou7-lang5 koh-tit nng7-pah-ban7 bi2-kim ，</JiaoLuo>
+			<TongYong>zap6-qo2-e5-lang5* gok7-dit7-diorh6 nng2-bah7-van2 vi4-gim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>還有 五十一人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 gou7-chap8-it-lang5 ，</JiaoLuo>
+			<TongYong>gorh7-u2 qo2-zap6-it7-e5 lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>各得 一百萬 美元 到 兩百萬 美元 之間。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-tit chit8-pah-ban7 bi2-kim kau3 nng7-pah-ban7 bi2-kim chi-kan 。</JiaoLuo>
+			<TongYong>gok7-dit7-diorh6 zit6-bah7-van2 vi4-gim1* gau3 nng2-bah7-van2 vi4-gim1* zi1-gan1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>美國總統 歐巴馬 昨天表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bi2-kok-chong2-thong2 Obama choh8-jit8 piau2-si7 ，</JiaoLuo>
+			<TongYong>Vi4-gok7-zong4-tong4* Obama za1-hng1*-biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>接受 政府 紓困援助 的 「美國國際集團」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiap-siu7 cheng3-hu2 su-khun3 oan7-chou7-e5 「 Bi2-kok-kok-che3-chip8-thoan5  」 ，</JiaoLuo>
+			<TongYong>ziap7-siu2 zing3-hu4* su1-kun3*-uan2-zo2* e5 「vi4-gok7*-gok7-ze3-zip6-tuan5*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>因為 不考慮 後果 的 作為，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 bo5-kho2-lu7 hio7-ko2-e5 chok-ui5 ，</JiaoLuo>
+			<TongYong>in1-ui2 vor5-kor4-lu2 hior2-gor4* e5 zok7-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>及 貪婪 造成 陷入 財務困境，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kap tham-lam5 cho7-seng5 ham7-loh8 chai5-bu7 khun3-keng2 ，</JiaoLuo>
+			<TongYong>gah7 tam1-lam5* zor2-sing5 ham2-rip6 zai5-vu2-kun3-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>竟然 還 用 納稅人的錢 來付獎金。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 iau2-eng7 lap8-soe3-lang5 e5 chinn5 lai5-hu3 chiong2-kim 。</JiaoLuo>
+			<TongYong>ging4-ren5* gorh7 iong2 lap6-sue3-rin5*-e5-zinn5* lai5-hu3-ziong4-gim1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>歐巴馬 他 指示 財金官員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Obama i chi2-si7 chai5-kim-koann-oan5 ，</JiaoLuo>
+			<TongYong>Obama i1 zi4-si2 zai5-gim1-guann1-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>尋求 所有的 法律管道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siam5-kiu5 sou2-u7-e5 hoat-lut8-koan2-to7 ，</JiaoLuo>
+			<TongYong>sun5-giu5 so4-u2*-e5 huat7-lut6-guan4-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>阻止 這項獎金的 發放。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chou2-chi2 chit-hang7 chiong2-kim e5 hoat-hong3 。</JiaoLuo>
+			<TongYong>zo4-zi4 zit7-hang2-ziong4-gim1*-e5 huat7-hong3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>憤怒的 美國民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hun3-nou7-e5 Bi2-kok-bin5-chiong3 ，</JiaoLuo>
+			<TongYong>Hun3-no2*-e5 vi4-gok7-vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>今天 紛紛 打電話 給 國會議員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit hun-hun phah-tian7-oe7 hou7 kok-hoe7-gi7-oan5 ，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* hun1-hun1* ka3-den2-ue2* ho2 gok7-hue2-qi2-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>要求 對 「美國國際集團」 採取行動。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau-kiu5 tui3 「 Bi2-kok-kok-che3-chip8-thoan5 」 chhai2-chhu2 heng5-tong7 。</JiaoLuo>
+			<TongYong>iau1-giu5 dui3 「vi4-gok7*-gok7-ze3-zip6-tuan5*」 cai4-cu4-hing5-dong2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>多位 國會議員 提議 對 這項獎金</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>che7-ui7 kok-hoe7-gi7-oan5 the5-gi7 tui3 chit-hang7 chiong2-kim ，</JiaoLuo>
+			<TongYong>Ze2-ui2 gok7-hue2-qi2-uan5* te5-qi2 dui3 zit7-hang2-ziong4-gim1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>課徵 百分之 九十 到 百分之 九十五 的 特別稅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khe3-cheng pah-hun-chi-kau2-chap8 kau3 pah-hun-chi-kau2-chap8-gou7 e5 tek8-piat8-soe3 ，</JiaoLuo>
+			<TongYong>kor3-zing1 bah7-hun1-zi1 gau4-zap6* gau3 bah7-hun1-zi1 gau4-zap6-qo2* e5 dik6-bet6-sue3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>希望 藉此</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi-bong7 chioh-chhu2 ，</JiaoLuo>
+			<TongYong>hi1-vong2 ziorh7-iu5-an4-ne1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>讓 領取獎金的 人 自動 放棄鉅款。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 nia2 chiong2-kim e5 lang5 chu7-tong7 hong3-khi3 toa7-tiau5-chinn5 。</JiaoLuo>
+			<TongYong>ho2 nia4-cu4-ziong4-gim1*-e5 lang5* zu2-dong2 hong3-ki3-gi2-kuan4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>在 接受 政府 一千七百億 美元 紓困金援 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chiap-siu7 cheng3-hu2 chit8-chheng chhit-pah-ek bi2-kim su-khun3 kim-oan7 chi-au7 ，</JiaoLuo>
+			<TongYong>Di2 ziap7-siu2 zing3-hu4 zit6-cing1*-cit7-bah7-ik7* vi4-gim1 su1-kun3*-gim1-uan2* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>AIG 「美國國際集團」 百分之八十 屬於政府。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>AIG 「 Bi2-kok-kok-che3-chip8-thoan5 」 pah-hun-chi-peh-chap8 siok8-i5 cheng3-hu2 。</JiaoLuo>
+			<TongYong>AIG 「vi4-gok7*-gok7-ze3-zip6-tuan5*」 bah7-hun1-zi1-beh7-zap6* siok6-i5-zing3-hu4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>對於 發放 「保留獎金」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-i5 hoat-hong3 「 po2-liu5-chiong2-kim 」 ，</JiaoLuo>
+			<TongYong>Dui3-i5 huat7-hong3 「bor4-liu5-ziong4-gim1*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>「美國國際集團」 的 說詞 是，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>「 Bi2-kok-kok-che3-chip8-thoan5 」 e5 seh-su5 si7 ，</JiaoLuo>
+			<TongYong>「vi4-gok7*-gok7-ze3-zip6-tuan5*」 e5 gong4-huat7* si2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=47>
+			<segmentation>根據合約 行事，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kun-ku3 hap8-iok heng5-su7 ，</JiaoLuo>
+			<TongYong>gin1-gi3-hap6-iok7* hing5-su2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=48>
+			<segmentation>當初 簽約 雇用 這些人 的 時後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng-chhoe chhiam-iok kou3-iong7 chia-e5-lang5 si5-chun7 ，</JiaoLuo>
+			<TongYong>dong1-co1* ciam1-iok7* go3-iong2 zia3-e5-lang5* e5 si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=49>
+			<segmentation>提供的 優厚條件 是 為了 留住人才。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>the5-kiong-e5 iu-hou7 tiau5-kiann7 si7-ui7-tioh8 lau5-tiau5 jin5-chai5 。</JiaoLuo>
+			<TongYong>te5-giong1*-e5 iu1-ho2-diau5-giann2* si2 ui2-diorh6 lau5-ha2-rin5-zai5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=50>
+			<segmentation>白宮官員 指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Peh8-kiong-koann-oan5 chi2-chhut ，</JiaoLuo>
+			<TongYong>beh6-giong1*-guann1-uan5* zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=51>
+			<segmentation>歐巴馬 總統 也要求 重新審視 這些合約。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Obama chong2-thong2 iah8-iau-kiu5 teng5-sin sim2-si7 chia-e5 hap8-iok 。</JiaoLuo>
+			<TongYong>Obama zong4-tong4* ma2-iau1-giu5 diong5-sin1-sim4-si2 zia3-e5-hap6-iok7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

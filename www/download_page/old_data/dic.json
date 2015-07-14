@@ -1,0 +1,495 @@
+[
+ {
+  "syllable": "a2-vu4", 
+  "meaning": {
+   "A2-VU4": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "阿母": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs16-20130322-20130428-0516.trs+124.208+0": 1379403710, 
+     "/GitRepos/finish/DaAi/vvrs16-20130322-20130428-0516.trs+156.532+3": 1379403962
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "qua1", 
+  "meaning": {
+   "QUA1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "我": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs19-20130324-0429-0513.trs+133.224+1": 1378959091
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "gah1-gok1-vun5", 
+  "meaning": {
+   "GAH1-GOK1-VUN5": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "qu3-hi1-", 
+  "meaning": {
+   "QU3-HI1-": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "qua3-ze2", 
+  "meaning": {
+   "QUA3-ZE2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "多少錢": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs04-20130309(0324)-20130420.trs+132.876+2": 1378449047
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "kor4-e2-kor2-vok2", 
+  "meaning": {
+   "KOR4-E2-KOR2-VOK2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "mui-zui4", 
+  "meaning": {
+   "MUI-ZUI4": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "梅子": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs01-20130301 (20130316)-0416.trs+165.166+0": 1378795408
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "e3", 
+  "meaning": {
+   "E3": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "si3-so4-hak2", 
+  "meaning": {
+   "SI3-SO4-HAK2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "hor1-sng4", 
+  "meaning": {
+   "HOR1-SNG4": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "ve3-vai4", 
+  "meaning": {
+   "VE3-VAI4": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "lan1-dau1", 
+  "meaning": {
+   "LAN1-DAU1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "meaning": {
+   "語助詞": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs16-20130322-20130428-0516.trs+156.532+1": 1379403962
+    }
+   }, 
+   "AH1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "guai1-gaui1", 
+  "meaning": {
+   "GUAI1-GAUI1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "乖乖的": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "乖乖": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs01-20130301 (20130316)-0416.trs+158.703+0": 1378876362
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "la3,gu1-cai4-hue1", 
+  "meaning": {
+   "LA3,GU1-CAI4-HUE1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "qua3-zue2", 
+  "meaning": {
+   "多少錢": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "QUA3-ZUE2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "多少": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs25-20130331-0505-0513.trs+131.671+0": 1378875785
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "ve1-ze1", 
+  "meaning": {
+   "VE1-ZE1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "e2", 
+  "meaning": {
+   "E2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "a2-ma4", 
+  "meaning": {
+   "阿嬤": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs19-20130324-0429-0513.trs+133.224+0": 1378959091, 
+     "/GitRepos/finish/DaAi/vvrs16-20130322-20130428-0516.trs+150.759+0": 1379403837
+    }
+   }, 
+   "A2-MA4": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "de3-it1-pinn1-", 
+  "meaning": {
+   "DE3-IT1-PINN1-": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "honnh2", 
+  "meaning": {
+   "HONNH2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "語助詞": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs01-20130301 (20130316)-0416.trs+158.703+1": 1376639092
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "m3-hor1-kau3", 
+  "meaning": {
+   "M3-HOR1-KAU3": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "ve1", 
+  "meaning": {
+   "VE1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "買": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs19-20130324-0429-0513.trs+133.224+3": 1378959091
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "oh2", 
+  "meaning": {
+   "OH2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "gaui2", 
+  "meaning": {
+   "GAUI2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "le3", 
+  "meaning": {
+   "語助詞": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs16-20130322-20130428-0516.trs+156.532+4": 1379403962
+    }
+   }, 
+   "LE3": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "呢": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs01-20130301 (20130316)-0416.trs+165.166+1": 1378795408
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "a3", 
+  "meaning": {
+   "A3": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "ziok1", 
+  "meaning": {
+   "ZIOK1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "guai2", 
+  "meaning": {
+   "GUAI2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "guai1", 
+  "meaning": {
+   "GUAI1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "he1", 
+  "meaning": {
+   "HE1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "zai1-ki4", 
+  "meaning": {
+   "ZAI1-KI4": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "qau2-za4", 
+  "meaning": {
+   "QAU2-ZA4": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "早": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs16-20130322-20130428-0516.trs+156.532+0": 1379403962
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "vor2", 
+  "meaning": {
+   "VOR2": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "ze1", 
+  "meaning": {
+   "這個": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs19-20130324-0429-0513.trs+133.224+4": 1378963038
+    }
+   }, 
+   "ZE1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "tau2-ge1", 
+  "meaning": {
+   "TAU2-GE1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "老闆": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs04-20130309(0324)-20130420.trs+132.876+0": 1378449047
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "veh1", 
+  "meaning": {
+   "VEH1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }, 
+   "要": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs19-20130324-0429-0513.trs+133.224+2": 1378959091
+    }
+   }
+  }
+ }, 
+ {
+  "syllable": "ziah3-cai3", 
+  "meaning": {
+   "吃菜": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs16-20130322-20130428-0516.trs+150.759+1": 1379403837
+    }
+   }, 
+   "ZIAH3-CAI3": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "mui2-zu4", 
+  "meaning": {
+   "MUI2-ZU4": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "lin1", 
+  "meaning": {
+   "你的": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs16-20130322-20130428-0516.trs+156.532+2": 1379403962
+    }
+   }, 
+   "LIN1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }, 
+ {
+  "syllable": "zia1", 
+  "meaning": {
+   "這些": {
+    "Text_addr": {}, 
+    "Audio_addr": {
+     "/GitRepos/finish/DaAi/vvrs04-20130309(0324)-20130420.trs+132.876+1": 1378449047
+    }
+   }, 
+   "ZIA1": {
+    "Text_addr": {}, 
+    "Audio_addr": {}
+   }
+  }
+ }
+]

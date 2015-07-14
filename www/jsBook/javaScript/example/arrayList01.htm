@@ -1,0 +1,28 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>陣列的使用</h2>
+<hr>
+
+<script src="listArray.js"></script>
+<script src="listProp.js"></script>
+<script>
+myArray=["Mon", "Tue", "Wed"];
+listArray(myArray, "myArray");
+listProp(myArray, "myArray");
+
+myArray=new Array("Mon", "Tue", "Wed");
+listArray(myArray, "myArray");
+listProp(myArray, "myArray");
+
+myArray={"Taipei":"Taiwan", "San Francisco":"USA", "Tokyo":"Japan"};	// 建構一個陣列，一次指派完成
+listArray(myArray, "myArray");
+listProp(myArray, "myArray");
+</script>
+
+<hr>
+</body>
+</html>

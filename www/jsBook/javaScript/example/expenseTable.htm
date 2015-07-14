@@ -1,0 +1,44 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>自訂物件示範：以陣列來存放支出表</h2>
+<hr>
+
+<script>
+function expenseItem(expense, timeUnit, multiply, comment) {
+	this.expense = expense;
+	this.timeUnit=timeUnit;
+	this.multiply = multiply;
+	this.comment = comment;
+}
+// 列出每一項支出名目
+expense = new Array();
+i=0;
+expense[i++]=new expenseItem( 200, "每天", 365/12, "餐費");
+expense[i++]=new expenseItem(3000, "每月", 1, "房租");
+expense[i++]=new expenseItem(1000, "每月", 1, "電費＋瓦斯＋水費＋電話");
+expense[i++]=new expenseItem( 500, "每週", 365/7/12, "購物及其他雜費");
+expense[i++]=new expenseItem( 300, "每週", 365/7/12, "交通費");
+// 列印支出表
+document.writeln("<table align=center border=1>")
+document.writeln("<tr><th>說明<th>單價<th>時間單位<th>乘數<th>每月小計")
+total=0;
+for (i=0; i<expense.length; i++){
+	document.writeln("<tr>");
+	document.writeln("<td align=center>"+expense[i].comment);
+	document.writeln("<td align=right>"+expense[i].expense);
+	document.writeln("<td align=center>"+expense[i].timeUnit);
+	document.writeln("<td align=right>"+expense[i].multiply);
+	document.writeln("<td align=right>"+Math.round(expense[i].expense*expense[i].multiply));
+	total=total+expense[i].expense*expense[i].multiply;
+}
+document.writeln("<tr><td colspan=4>&nbsp;<td align=right><b>每月總計</b>："+Math.round(total));
+document.writeln("</table>")
+</script>
+
+<hr>
+</body>
+</html>

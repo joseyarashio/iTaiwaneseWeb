@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>測試 parseInt() 和 parseFloat()</h2>
+<hr>
+
+<script>
+x = "15.32";
+document.writeln("parseInt(\""+x+"\") = " + parseInt(x) + "<br>");
+x = "5e+3.42";
+document.writeln("parseInt(\""+x+"\") = " + parseInt(x) + "<br>");
+x = "15abc";
+document.writeln("parseInt(\""+x+"\") = " + parseInt(x) + "<br>");
+x = "abc";
+document.writeln("parseInt(\""+x+"\") = " + parseInt(x) + "<br>");
+</script>
+<p>
+<script>
+x = "15.32";
+document.writeln("parseFloat(\""+x+"\") = " + parseFloat(x) + "<br>");
+x = "5.28e+3.42";
+document.writeln("parseFloat(\""+x+"\") = " + parseFloat(x) + "<br>");
+x = "15.32abc";
+document.writeln("parseFloat(\""+x+"\") = " + parseFloat(x) + "<br>");
+x = "abc";
+document.writeln("parseFloat(\""+x+"\") = " + parseFloat(x) + "<br>");
+</script>
+
+<hr>
+</body>
+</html>

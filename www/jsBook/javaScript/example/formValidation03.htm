@@ -1,0 +1,97 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>表單資料驗證：驗證各類控制項的資料</h2>
+<hr>
+
+<script>
+function checkName(control) {
+	if (control.value == "") {
+		validatePrompt(control, "請輸入大名！");
+		return (false);
+	}
+	return (true);
+}
+
+function checkPassword(control) {
+	if (control.value.length != 5) {
+		validatePrompt(control, "請輸入長度為 5 的密碼！");
+		return (false);
+	}
+	return (true);
+}
+
+function checkGender(control) {
+	for (i=0; i<control.length; i++)
+		if (control[i].status)
+			return(true);
+	alert ("請輸入性別！");
+	return (false);
+}
+
+function checkNationality(control) {
+	for (i=1; i<control.length; i++)
+		if (control[i].selected)
+			return(true);
+	alert ("請輸入國籍！");
+	return (false);
+}
+
+function checkHobbies(control) {
+	var count=0;
+	for (i=1; i<control.length; i++)
+		if (control[i].selected)
+			count++;
+	if (count>=2)
+		return(true);
+	alert ("請輸入至少兩樣興趣！");
+	return (false);
+}
+
+function checkComment(control) {
+	if (control.value == "") {
+		validatePrompt(control, "請輸入您的寶貴意見！");
+		return (false);
+	}
+	return (true);
+}
+
+function validateForm(form) {
+	if (!checkName(form.realname)) return;
+	if (!checkPassword(form.password)) return;
+	if (!checkGender(form.gender)) return;
+	if (!checkNationality(form.nationality)) return;
+	if (!checkHobbies(form.hobbies)) return;
+	if (!checkComment(form.comments)) return;
+	alert ("你終於聽我的話了！\n全部資料通過驗證！\n表單即將送出！！！");
+	document.testform.submit();	// Submit form
+}
+
+function validatePrompt(control, promptStr) {
+	alert(promptStr);
+	control.focus();
+	return;
+}
+</script>
+
+<form name=testform>
+<P>貴性大名：<input type="text" name="realname" value="xxx">
+<P>個人密碼：<input type="password" name="password">
+<P>您的性別：<input type="radio" name="gender" value="male"> male
+	<input type="radio" name="gender" value="female"> female
+<P>您的國籍：<select name="nationality">
+	<option>----<option>台灣<option>日本<option>韓國
+	</select>
+<P>您的興趣：<select multiple name="hobbies">
+	<option>打球<option>下棋<option selected>聽音樂<option>閱讀<option>上網
+	</select>
+<p>寶貴意見：<textarea name=comments cols=40 rows=3></textarea>
+<P><input type="button" value="送出" onClick="validateForm(this.form)"><input type="reset">
+</form>
+
+<hr>
+</body>
+</html>

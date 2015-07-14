@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：簡易英文名字驗證</h2>
+<hr>
+
+<script>
+function checkEnglishName(string) {
+	re1 = /^[A-Za-z\-]+\s+[A-Za-z\-]+$/;
+	re2 = /^[A-Za-z\-]+\s+[A-Za-z\-]+\s+[A-Za-z\-]+$/;
+	if (re1.test(string) || re2.test(string))
+		alert("成功！符合「" + re1 + "」或「" + re2 + "」的格式！");
+	else
+		alert("失敗！不符合「" + re1 + "」或「" + re2 + "」的格式！");
+}
+</script>
+你的英文全名（格式：First Last 或 First Middle Last）：<input id=englishName value="Jyh-Shing Roger Jang">
+<input type=button value="驗證" onClick="checkEnglishName(englishName.value)">
+
+<hr>
+</body>
+</html>

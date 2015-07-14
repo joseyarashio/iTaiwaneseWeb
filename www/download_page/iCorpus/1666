@@ -1,0 +1,132 @@
+<article>
+	<id>1666</id>
+	<title>市售毛毯 抽查 標示 全不清楚</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>天氣 越來越冷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thinn-khi3 lu2-lai5-lu2-leng2 ，</JiaoLuo>
+			<TongYong>Tinn1-ki3* lu4-lai5*-lu4-ling4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>有人 習慣 窩在毛毯裡 看電視，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-lang5 sip8-koan3 noa7-ti7 mou5-than2-lai7 khoann3-tian7-si7 ，</JiaoLuo>
+			<TongYong>u2-lang5 guan3-si3 giu1-di2-mo5-tan4*-lai2* kuann3-den2-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>只是 大家 選購毛毯 的時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-si7 tak8-ke soan2-kou3 mou5-than2 e5 si5-chun7 ，</JiaoLuo>
+			<TongYong>zi4-si2 dak6-ge1 suan4-go3-mo5-tan4* e5-si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>要注意 仔細看 產品標籤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ai3-chu3-i3 teng2-chin-khoann3 san2-phin2 phiau-chhiam ，</JiaoLuo>
+			<TongYong>ai3-zu3-i3* zim1-ziok7-kuann3 san4-pin4*-biau1-ciam1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>根據 消基會 抽查 市售毛毯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ki3 Siau-ki-hoe7 thiu-cha soann3-be7 mou5-than2 ，</JiaoLuo>
+			<TongYong>gin1-gi3 Siau1-Gi1-Hue2* tiu1-za1 ci2-siu2*-mo5-tan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>結果 發現 全部 標示不清楚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 hoat-hian7 choan5-pou7 phiau-si7 bo5-chheng-chho2 ，</JiaoLuo>
+			<TongYong>get7-gor4 huat7-hen2 zuan5-bo2* biau1-si2*-vor5-cing1-cor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>其中 還有兩件 成分 和標示 不符合。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong iau2-u7 nng7-kiann7 seng5-hun kap phiau-si7 bo5-hu5-hap8 ，</JiaoLuo>
+			<TongYong>gi5-diong1* gorh7-u2-nng2-giann2* sing5-hun2* ham2-biau1-si2* vor5-hu5-hap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>只是 要怎麼 買到 安全又保暖 的 毛毯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-si7 beh-an2-choann2 be2-tioh8 an-choan5 koh po2-loan2-e5 mou5-than2 ，</JiaoLuo>
+			<TongYong>Zi4-si2 veh7-an4-zuann4 ve4-diorh6 an1-zuan5*-gorh7-bor4-luan4* e5 mo5-tan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>這 也是 要有「撇步」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma7-si7 ai3-u7 「 phiat-pou7 」 ，</JiaoLuo>
+			<TongYong>ze1* ma2-si2 ai3-u2「pet7-bo2*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>消基會 抽查的 十二件 市售毛毯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Siau-ki-hoe7 thiu-cha-e5 chap8-ji7-kiann7 soann3-be7 mou5-than2，</JiaoLuo>
+			<TongYong>Siau1-Gi1-Hue2* tiu1-za1*-e5 zap6-qi2-giann2 ci2-siu2*-mo5-tan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>全部 標示不完全，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-pou7 phiau-si7 bo5-oan5-choan5 ，</JiaoLuo>
+			<TongYong>zuan5-bo2* biau1-si2*-vor5-uan5-zuan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>有兩件 明明是 聚酯纖維，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 nng7-kiann7 beng5-beng5-si7 chu7-chi2-chhiam-ui5 ，</JiaoLuo>
+			<TongYong>u2-nng2-giann2* ving5-ving5-si2 zu2-zi4*-ciam1-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>卻 刻意寫著 壓克力 材料 製造，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-tiau5-kang sia2-tioh8 a7-khu2-lih chhai2-liau7 che3-cho7 ，</JiaoLuo>
+			<TongYong>suah7 tiau1-gang1-sia4 a2-ku4-lih7* zai4-liau2* ze3-zor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>忽視 消費者的 權益。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hut-si7 siau-hui3-chia2 e5 koan5-ek 。</JiaoLuo>
+			<TongYong>hut7-si2 siau1-hui3-zia4*-e5 kuan5-ik7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>消基會 要求 相關單位 加強 監督廠商，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Siau-ki-hoe7 iau-kiu5 siang-koan-tan-ui7 ka-kiong5 kam3-tok chhiunn2-siong ，</JiaoLuo>
+			<TongYong>Siau1-Gi1-Hue2* iau1-giu5 siang1-guan1-dan1-ui2* ga1-giong5 gam3-dok7-ciunn4-siong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>也 提醒民眾 要 養成習慣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7-the5-chhenn2 bin5-chiong3 ai3-iang2-seng5 sip8-koan3 ，</JiaoLuo>
+			<TongYong>ma2 te5-cenn4-vin5-ziong3* ai3 iang4-sing5-sip6-guan3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>拒絕購買 記載 不清楚 的 產品。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki7-choat8 kou3-be2 ki3-chai3 bo5-chheng-chho2 e5 san2-phin2 。</JiaoLuo>
+			<TongYong>gi2-zuat6-go3-ve4 gi3-zai3* vor5-cing1-cor4* e5 san4-pin4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

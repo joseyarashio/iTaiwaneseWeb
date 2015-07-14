@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>"navigator" 的性質列表</h2>
+<hr>
+
+<script>
+function ArgTest(){
+   var s = "";
+   s += "個別的引數是: "
+   for (n=0; n< arguments.length; n++){
+      s += ArgTest.arguments[n];
+      s += " ";
+   }
+   return(s);
+}
+document.write(ArgTest(1, 2, "hello", new Date()));
+</script>
+
+<hr>
+</body>
+</html>

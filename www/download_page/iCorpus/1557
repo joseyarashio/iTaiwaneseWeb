@@ -1,0 +1,125 @@
+<article>
+	<id>1557</id>
+	<title>台北捷運 板南線 再出包 上班人潮 塞爆</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>在 十九日的 早上八點，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chap8-kau2-ho7 e5 cha2-khi2 peh-tiam2，</JiaoLuo>
+			<TongYong>Di2 zap6-gau4-hor2*-e5 zai4-ki4*-beh7-diam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台北捷運 板南線 又 出現狀況，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chiat8-un7 Pang-lam5-soann3 koh-chhut-hian7 chong7-hong2，</JiaoLuo>
+			<TongYong>Dai5-Bak7-zet6-un2* Bang1-Lam5-Suann3* gorh7 cut7-hen2-zong2-hong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>新埔站 一輛 開往南港的 捷運列車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-pou-cham7 chit8-tai5 khui-ong2 Lam5-kang2 e5 chiat8-un7-liat8-chhia，</JiaoLuo>
+			<TongYong>Sin1-Bo1-Zam2* zit6-dai5 kui1-ong4-Lam5-Gang4*-e5 zet6-un2-let6-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>因為 偵測到 煞車異常，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 cheng-chhek-tioh8 chhia-tong3-koh-iunn7，</JiaoLuo>
+			<TongYong>in1-ui2 zin1-cik7-diorh6 dong3-a4*-i2-siong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>造成 捷運 停駛 十多分鐘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 chiat8-un7 theng5-sai2 chap8-goa7-hun-cheng，</JiaoLuo>
+			<TongYong>zor2-sing5 zet6-un2* ting5-su4 zap6-qua2-hun1-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>也延誤到 後來的 發車進度，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-ian5-gou7-tioh8 au7-lai5-e5 hoat-chhia chin3-tou7，</JiaoLuo>
+			<TongYong>ma2-en5-qo2-diorh6 au2*-lai5 huat7-cia1*-e5-zin3-do2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>三千多位 趕著 上課和上班 的 民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-chheng-goa7-ui7 koann2-tioh8 siang7-kho3 kap siang7-pan-e5 bin5-chiong3，</JiaoLuo>
+			<TongYong>sann1-cing1-qua2-ui2 guann4-veh7 siong2-kor3*-gah7-siong2-ban1* e5 vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>全 被卡在 台北車站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-pi7-khah8-leh Tai5-pak-chhia-cham7 ，</JiaoLuo>
+			<TongYong>long4 ki3-ho2-kah6-di2 Dai5-Bak7-Cia1-Zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>塞爆的人潮 完全 擠不上車。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>that-piak-e5 jin5-tiau5 oan5-choan5 kheh-be7-chiunn7-chhia。</JiaoLuo>
+			<TongYong>bok6-vuan4*-e5-rin5-diau5* uan5-zuan5* keh7-ve2-ziunn2-cia1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>趕著要 九點上班 的 民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-tioh8-beh kau2-tiam2 siang7-pan-e5 bin5-chiong3，</JiaoLuo>
+			<TongYong>Guann4-veh7 gau4-diam4*-siong2-ban1* e5 vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>急得 拼命 往 捷運車廂 門口 擠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kip-kah8 piann3-mia7-tui3 chiat8-un7-chhia-siunn mng5-khau2-kheh，</JiaoLuo>
+			<TongYong>diorh6-gip7-gah7 biann3-mia2* hiong3 zet6-un2-cia1-siunn1* mng5-kau4* keh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>乘客 全部 都 擠在月台上 無法走動，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>seng5-kheh choan5-pou7 long2-kheh-leh goeh8-tai5-teng2 bo5-hoat-kiann5-tang7，</JiaoLuo>
+			<TongYong>sing5-keh7* zuan5-bo2* long4 keh7-di2-quat6-dai5-ding4* vor5-huat7-do2* giann5-din4-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>只能 眼巴巴 看車子開走，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kan-tann-e7 kim-kim-khoann3 chhia khui-chau2，</JiaoLuo>
+			<TongYong>gan1-na2*-e2-dang3 vak6-ziu1*-gim1-gim1* kuann3-cia1*-sai4-zau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>就算 捷運公司 加開 好幾班列車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiu7-sng3 chiat8-un7-kong-si ka-khui kui2-na7-pan liat8-chhia，</JiaoLuo>
+			<TongYong>ziu2-sng3 zet6-un2-gong1-si1* ga1-kui1 gui4*-a2-ban1-let6-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>仍 無法紓解 上班 尖峰人潮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-bo5-hoat sou-thau2 siang7-pan chiam-hong-jin5-tiau5，</JiaoLuo>
+			<TongYong>iau4-si2 ve2-dang3-so1-san3 siong2-ban1*-e5 ziam1-hong1-rin5-diau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>只好 廣播 要求民眾 改搭 其它列車。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-ho2 kong2-po3 iau-kiu5 bin5-chiong3 kai2-che7 ki5-thann liat8-chhia。</JiaoLuo>
+			<TongYong>zi4-hor4 gong4-bor3* iau1-giu5-vin5-ziong3* gai4-ze2 gi5-tann1-let6-cia1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

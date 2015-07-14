@@ -1,0 +1,251 @@
+<article>
+	<id>1035</id>
+	<title>大里 黃昏市集 魚肉海鮮蔬果 尚青</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 台中報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 Tai5-tiong-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* Dai5-Diong1*-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台中縣 人口最多的 大里市，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-koan7 jin5-khau2 siong7-choe7-e5 Tai7-li2-chhi7，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Guan2* rin5-kau4*-siang2-ze2*-e5 Dai2-Li4-Ci2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>有一個 內新 黃昏市場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-chit8-e5 Lai7-sin-hong5-hun-chhi7-a2，</JiaoLuo>
+			<TongYong>u2-zit6-e5* Lai2-Sin1* hong5-hun1-ci2-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>每天 下午 三、四點 以後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tak8-kang e5-pou saN-si3-tiam2 koe3-au7，</JiaoLuo>
+			<TongYong>mui4-gang1* e2-bo1* sann1、si3-diam4* i4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一直到 傍晚時分 總是 人聲鼎沸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tit8-kau3 am3-thau5-a2-si5 chong2-si7 kap8-kap8-kio3，</JiaoLuo>
+			<TongYong>it7-dit6-gau3 am3-tau5-a4*-e5-si5* zong4-si2 lang5-siann1-han4-huah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>市場 擠滿 購物人潮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-a2-lai7 kheh-moa2 be2-mih8-a2 jin5-tiau5，</JiaoLuo>
+			<TongYong>ci2-diunn5* keh7-vuan4 ve4-mih6-giann2*-e5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>儘管 現在 生鮮超市、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin7-koan2 chit-ma2 seng-sian chhiau-chhi7、</JiaoLuo>
+			<TongYong>sui1-ren5 zit7-ma4* sing1-sen1-ciau1-ci2*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>便利商店 林立，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pian7-li7-siong-tiam3 chit8-si3-ke3，</JiaoLuo>
+			<TongYong>ben2-li2-siong1-diam3* lim5-lip6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>但是 因為 它的貨色 齊全，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh in-ui7 i-e5 hoe3-sek chiau5-chng5，</JiaoLuo>
+			<TongYong>m2-gorh7 in1-ui2 i1-e5-hue3-sik7* ze5-zuan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>價格便宜，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke3-siau3-siok8，</JiaoLuo>
+			<TongYong>ge3-siau3*-siok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>又有不少 現成的熟食，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-u7 be7-chio2 cho3-pian7-e5 sek8-chhai3-png7，</JiaoLuo>
+			<TongYong>gorh7-u2-ve2-zior4 zi4-sik6*-e5-liau2-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>因此 一直有 不少 死忠的客源。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-chhu2 it-tit8-u7 be7-chio2 si2-tiong-e5 kheh-goan5。</JiaoLuo>
+			<TongYong>so4-i4 it7-dit6-u2 ve2-zior4 si4-diong1-e5-keh7-quan5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>太陽 正西下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jit8-thau5 tng-loh8-soaN，</JiaoLuo>
+			<TongYong>Rit6-tau5* dng1-lorh6-sai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>大里的 內新 黃昏市場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai7-li2 e5 Lai7-sin hong5-hun-chhi7-a2，</JiaoLuo>
+			<TongYong>Dai2-Li4*-e5 Lai2-Sin1* hong5-hun1-ci2-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>才 正要 熱鬧起來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-tu2-beh lau7-jiat8-khi2-lai5，</JiaoLuo>
+			<TongYong>ziah7 du4-veh7 lau2-ret6*-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>熱鬧喧譁的 買賣聲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lau7-jiat8 hoa7-hoa7-kun2-e5 be2-be7-siaN，</JiaoLuo>
+			<TongYong>lau2-ret6*-suan1-hua5*-e5 ve4-ve2-siann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>拉近 攤商和顧客 的 距離，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>giu2-kin7 taN3-a2-hoan3 kap lang5-kheh e5 ku7-li5，</JiaoLuo>
+			<TongYong>qiu4-gin2 tan1-siong1*-gah7-lang5-keh7* e5 gi2-li5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>用的、吃的 都一樣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iong7-e5、chiah8-e5 long2-kang7-khoan2，</JiaoLuo>
+			<TongYong>ing2*-e5、ziah6*-e5 long4-gang2-kuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>老闆 俐落的刀法 吸引注意，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5-ke khiau2-lai7-e5 to-hoat khip-in2-chu3-i3，</JiaoLuo>
+			<TongYong>tau5-ge1* liu4-liah7*-e5-dor1-huat7* kip7-in4-zu3-i3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>油亮的烤鴨 有 賣相效果，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-kim-e5 hahN-ah ho2-be7-khoan2 hau7-ko2，</JiaoLuo>
+			<TongYong>iu5-gim1*-e5-hang1-ah7* u2 ve2-siunn3*-hau2-gor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>一盤 才 一百五十，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-poaN5 chiah chit8-pah-gou7-chap8，</JiaoLuo>
+			<TongYong>zit6-buann5* ziah7-bah7-qo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>還要滿足 你的胃口，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-ai3 boan2-chiok li2-e5 chhui3-lou7，</JiaoLuo>
+			<TongYong>gorh7-ai3-vuan4-ziok7 li4-e5-ui2-kau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>而 除了熟食，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah-tu5-liau2 sek8-chhai3-png7，</JiaoLuo>
+			<TongYong>a1* di5-liau4 zi4-sik6*-liau2-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>這裡的海鮮 不只 比價錢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chia-e5 hai2-sian m7-na7 pi2-ke3-siau3，</JiaoLuo>
+			<TongYong>zia1*-e5-hai4-san4* m2-na2 bi4-ge3-siau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>還得 比新鮮。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-tioh8 pi2-sin-sian。</JiaoLuo>
+			<TongYong>gorh7-ai3 bi4-sin1-sen1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>轉個彎 看見 民眾 大排長龍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng2-chit8-e5-oat khoaN3-tioh8 bin5-chiong3 khia7-pai2-tng5-lo3-lo3，</JiaoLuo>
+			<TongYong>Seh6-zit6-e5*-uan1* kuann3-diorh6 vin5-ziong3* bai4-gah7 lor3-lor3-dng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>這一攤 有 炒麵、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-taN3 u7 chha2-mi7、</JiaoLuo>
+			<TongYong>zit7-dann3* u2 ca4-mi2*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>炒米粉 和 油飯 任君選擇，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chha2-bi2-hun2 kap iu5-png7 chai7-li2-soan2-tek8，</JiaoLuo>
+			<TongYong>ca4-vi4-hun4* gah7 iu5-bng2* zai2-li4-suan4-dik6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>渴了 這裡 有 充滿 懷念滋味 的 豆漿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhui3-ta-ah chia-u7 chhiong-boan2 hoai5-liam7-chu-bi7 e5 tau7-leng，</JiaoLuo>
+			<TongYong>cui3-da1*-a1* zia1* u2 ciong1-vuan4 huai5-liam2*-zu1-vi2* e5 dau2-ling1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>嘴饞的 還能 吃看看</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tham-chiah8-e5 iau2-e7-eng7 chiah8-khoaN3-mai7，</JiaoLuo>
+			<TongYong>ai3-ziah6*-e5 gorh7-e2-dang3 ziah6-kuann3-mai2-a4</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>人氣 同樣 強強滾 的 鮮肉包。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kang7-khoan2 chhiang5-chhiang5-kun2 e5 sian-bah-pau。</JiaoLuo>
+			<TongYong>rin5-ki3* gang2-kuan4 ciang2-ciang2-gun4* e5 sen1-vah7-bau1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>儘管 便利商店 和 大賣場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin7-koan2 pian7-li7-siong-tiam3 kap toa7-be7-tiuN5，</JiaoLuo>
+			<TongYong>sui1-ren5* ben2-li2-siong1-diam3* gah7 dua2-ve2-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>提供許多 日常所需，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>the5-kiong chin-choe7 jit8-siong5-sou2-su，</JiaoLuo>
+			<TongYong>te5-giong1-zin1-ze2 rit6-siong5*-e5-si1-iau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>黃昏市場 充滿 濃濃的 人情味，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hong5-hun-chhi7-a2 chhiong-boan2 kau7-tut-tut-e5 lin5-cheng5-bi7，</JiaoLuo>
+			<TongYong>hong5-hun1-ci2-diunn5* ciong1-vuan4 zin1-gau2*-e5 rin5-zing5-vi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>是怎麼樣 也無法 取代。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7-an2-choaN2 oan-na2 bo5-hoat-tou7 chhu2-tai7。</JiaoLuo>
+			<TongYong>si2-an4-zuann4-iunn2* ma2-vor5-huat7-do2 cu4-dai2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

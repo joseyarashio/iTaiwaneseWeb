@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<html lang="zh-tw"> 
+<head> 
+	<title>read xml</title>
+	<script type="text/javascript" src="js/jquery-1.7.2.js"></script>
+	<link rel="stylesheet" type="text/css" href="js/tree_themes/SimpleTree.css"/>
+	<script type="text/javascript" src="js/SimpleTree.js"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<style> 
+		.lineNum {font-size:18px;color:dimgray}
+		.blueLyric {font-size:20px;font-weight:bold;color:blue;}
+        .normalLyric {font-size:20px;font-weight:bold;color:black;}
+	</style> 
+</head>
+
+<body> 
+	<form name="myform">
+		<div class="file_list" id="file_list" name="file_list"  style="width:260px;height:500px; overflow:auto;"></div>
+	</form>
+	<script type="text/javascript">
+		var i=0;
+		var id="";
+		$.ajax({
+		url:'http://140.109.18.117/GitRepos/finish/filelist.xml',
+		type: 'GET',
+		dataType: 'xml',//資料型態可以不設定，且此型態不可是text或html
+		timeout: 1000,
+		error: function(xml){alert('讀取xml錯誤'+xml);}, //當xml讀取失敗
+		success: function(xml){
+			
+			$(xml).find("filelist").each(
+				function(){  //取得xml父節點       
+				$(this).find("file").each(
+				function(){
+				id=id+' '+$(this).text();//xml的總筆數}
+				});
+			alert(id);})}
+		/* 讀取xml結束 ------------------------------------------------------------------------------ */		
+		
+		
+		});
+	</script>
+</body> 

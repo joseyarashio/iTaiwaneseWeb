@@ -1,0 +1,69 @@
+<article>
+	<id>1053</id>
+	<title>大樓水表 失竊 缺水泡牛奶 阿公 罵缺德</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>前一陣子 台南地區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teng2-chit8-cham7-a2 Tai5-lam5-te7-khu，</JiaoLuo>
+			<TongYong>Zing5-zit6-zam2-a4* Dai5-Lam5-de2-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>頻頻發生 水表失竊 案件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu-chu-hoat-seng chui2-pio2 tioh8-chhat8-thau an3-kiaN7，</JiaoLuo>
+			<TongYong>len5-len5-huat7-sing1 zui4-bior4*-sit7-cet7*-e5 an3-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>結果 嘉義 也發生 同樣的案件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 Ka-gi7 oan-na2-hoat-seng kang5-khoan2-e5 an3-kiaN7，</JiaoLuo>
+			<TongYong>get7-gor4 Ga1-Qi2* ma2-huat7-sing1 gang2-kuan4*-e5-an3-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>嘉義市 嘉北街 一棟大樓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ka-gi7-chhi7 Ka-pak-ke chit8-tong3-toa7-lau5，</JiaoLuo>
+			<TongYong>Ga1-Qi2-Ci2* Ga1-Bak7-Ge1* zit6-dong3-dua2-lau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>一個傍晚 就 被偷走 三十九個 水表，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-e5-am3-thau5 to-pi7 thau-chau2 saN-chap8-kau2 e5 chui2-pio2，</JiaoLuo>
+			<TongYong>zit6-e5 vue4-am3-a4* diorh6  hong5*-tau1-zau4 sann1-zap6-gau4-e5 zui4-bior4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>阿公 晚上 要 泡牛奶 給孫子喝，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>a-kong me5-si5 beh phau3-gu5-leng hou7 sun-a2 lim，</JiaoLuo>
+			<TongYong>a1-gong1* am3-si5 veh7 pau3-qu5-ling1* ho2-sun1-a4*-lim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>結果 沒水 還得 在深夜 出去買水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 bo5-chui2 iau3-tioh8-ti7 poaN3-me5 chhut-khi3 be2-chui2，</JiaoLuo>
+			<TongYong>get7-gor4 vor5-zui4* gorh7-ai3 di2-buann3-me5* cut7-ki3-ve4-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>大罵竊賊 缺德。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-me7 chhat8-a2 phaiN2-sit-tek。</JiaoLuo>
+			<TongYong>dua2-me2-cat6-a4* sit7-dik7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

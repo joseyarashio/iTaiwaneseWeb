@@ -1,0 +1,111 @@
+<article>
+	<id>1288</id>
+	<title>少年 夜遊遇臨檢 母親控訴 警察追逐 導致摔車</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>高雄市 一名 未成年 男性，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7 chit8-mia5 bi7-seng5-lian5-cha-pou，</JiaoLuo>
+			<TongYong>Gor1-Hiong5-Ci2* zit6-e5* vi2-sing5-len5*-e5 lam5-sing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>這個月初 和朋友 騎車夜遊 碰上 警察臨檢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ko3-goeh8-chhoe kap peng5-iu2 khia5-chhia ia7-iu5 gu7-tioh8 keng2-chhat-lim5-kiam2，</JiaoLuo>
+			<TongYong>zit7-gor3-queh6-ce1* gah7-bing5-iu4* kia5-cia1*-ia2-iu5* du4-diorh6 ging4-cat7*-lim5-giam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>因為 沒戴 安全帽 心虛逃逸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 bo5-ti3 an-choan5-bo7-a2 sim-hi-liu5-soan，</JiaoLuo>
+			<TongYong>in1-ui2 vor5-di3 an1-zuan5-vor2-a4* sim1-hi1*-dor5-zau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>結果 撞到 路邊護欄 摔得 鼻青臉腫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-kiok8 e-tioh8 lou7-pinn hou7-lan5 poah8-kah chhui3-phinn7-bin7-cheng2，</JiaoLuo>
+			<TongYong>get7-gor4 long3-diorh6 lo2-binn1*-ho2-lan5* siak7-gah7 gui1-e5-vin2* o1-cenn1*-ang5-zing4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>家屬 痛批警察 開車追逐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-siok8 thong3-phe keng2-chhat khui-chhia-sio-jiok，</JiaoLuo>
+			<TongYong>ga1-siok6* giong5-let6 pe1-ping5*-ging4-cat7* sai4-cia1*-ga2*-rik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>導致 發生 少年摔車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 hoat-seng siau3-lian5 poah8-chhia，</JiaoLuo>
+			<TongYong>di3-su4 huat7-sing1 siau3-len5*-siak7-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>但是 警察 卻 見死不救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 keng2-chhat soah kian3-si2-put-kiu3，</JiaoLuo>
+			<TongYong>dan2-si2 ging4-cat7* suah7 gen3-su4*-but7-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>三立新聞 獨家 採訪到 摔車少年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5 tok8-ka chhai2-hong2-tioh8 poah8-chhia siau3-lian5，</JiaoLuo>
+			<TongYong>Sam1-Lip6-Sin1-Vun5* dok6-ga1* cai4-hong4-diorh6 siak7-cia1*-e5-siau3-len5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>他 承認 因為 無照駕駛 心虛 躲警察，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-seng5-jin7 in-ui7 bo5-chiau3-ka3-su2 sim-hi bih-keng2-chhat，</JiaoLuo>
+			<TongYong>i1 sing5-rin2 in1-ui2 vor5-ziau3*-ga3-su4* sim1-hi1* vih7-ging4-cat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>才會 加速狂飆，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-e7 ka-sok-kong5-pio，</JiaoLuo>
+			<TongYong>ziah7-e2 ga1-sok7*-gong5-bior1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>但是 警察 在後緊追 讓他 很緊張 才摔車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 keng2-chhat chai7-au7-jiok-kin2-kin2 hou7-i chin-kin2-tiunn chiah-poah8-chhia，</JiaoLuo>
+			<TongYong>dan2-si2 ging4-cat7* di2-au2-biah7* rik7-diau5-diau5* ho2-i1 zin1-gin4-diunn1* ziah7-e2-siak7-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>而且 警察 沒有 伸手幫助，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiann2 keng2-chhat bo5-chhun-chhiu2 pang-chou7，</JiaoLuo>
+			<TongYong>ri5-ciann4 ging4-cat7* vor5 cut7-ciu4* dau3-sann1-gang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>但是 警方否認，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 keng2-hong hio2-jim7，</JiaoLuo>
+			<TongYong>dan2-si2 ging4-hong1*-honn4-rin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>摔車事件 變成了 羅生門。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>poah8-chhia-su7-kiann7 pinn3-chiann5-liau2 lo5-seng-mng5。</JiaoLuo>
+			<TongYong>siak7-cia1*-su2-giann2* ben3-sing5-liau4 lor5-sing1-mui5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,188 @@
+<article>
+	<id>1028</id>
+	<title>台北市議員 爆料 軍火商 介入 內湖捷運</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 綜合報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 chong-hap8-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* zong1-hap6-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>內湖線 通車後 風波不斷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lai7-ou5-soaN3 thong-chhia-au7 hong-pho7-put-toan7，</JiaoLuo>
+			<TongYong>Lai2-O5-Suann3* tong1-cia1*-liau4-au2* hong1-por1*-but7-duan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>民主進步黨 簡余晏議員 爆料，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chu2-chin3-pou7-tong2 Kan2-i5-oaN3 gi7-oan5 piak-liau7，</JiaoLuo>
+			<TongYong>Vin5-Zu4-Zin3-Bo2-Dong4* Gan4-I5-An3*-qi2-uan5* bok7-liau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>捷運的 承包商 工信工程，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiat8-un7-e5 seng5-pau-siong Kong-sin3-kang-teng5，</JiaoLuo>
+			<TongYong>zet6-un2*-e5 sing5-bau1-siang1* Gang1-Sin3*-Gang1-Ding5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>會選擇 Bombardier系統 是 軍火商 居中牽線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-soan2-tek8 Bombardier he7-thong2 si7 kun-hoe2-siong tui3-tiong-khiu2-koan-he7，</JiaoLuo>
+			<TongYong>e2-suan4-dik6 Bombardier he2-tong4* si2 gun1-hue4-siang1* gi1-diong1*-kan1-suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>馬英九 在 市長任內 的 左右手 吳秀光，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ma2-Eng-Kiu2 ti7 chhi7-tiuN2 jim7-lai7-e5 cho2-iu7-chhiu2 Gou5-siu3-kng，</JiaoLuo>
+			<TongYong>Ma4-Ing1-Giu4* di2 ci2-diunn4*-rim2-lai2* e5 zor4-iu2-ciu4* Nqo5-Siu3-Gong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>就因為 拿過 這家軍火商 的 顧問費，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-in-ui7 theh8-koe3 chit-keng kun-hoe2-siong e5 kou3-bun7-hui3，</JiaoLuo>
+			<TongYong>diorh6-in1-ui2 teh6-gue3 zit7-ging1-gun1-hue4-siang1* e5 go3-vun2-hui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>最後 請辭下臺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choe3-au7 chheng2-si5 ha7-tai5，</JiaoLuo>
+			<TongYong>zue3-au2* cing4-si5*-lorh6-dai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>中國國民黨 自家議員 也直言，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok-kok-bin5-tong2 ka-ki7-e5 gi7-oan5 oan-na2-beng5-chhiang3，</JiaoLuo>
+			<TongYong>Diong1-Gok7*-Gok7-Vin5-Dong4* zu2-ga1-qi2-uan5* ma2-ving5-gong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>內湖線 發包 在 馬英九市長 任內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lai7-ou5-soaN3 hoat-pau ti7 Ma2-Eng-Kiu2 chhi7-tiuN2-jim7-lai7，</JiaoLuo>
+			<TongYong>Lai2-O5-Suann3* huat7-bau1* di2 Ma4-Ing1-Giu4*-ci2-diunn4* rim2-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>現在 運作出包，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 un7-chok chhut-pau，</JiaoLuo>
+			<TongYong>zit7-ma4* un2-zok7*-cut7-bau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>馬英九 自然 要 概括承受。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ma2-Eng-Kiu2 chu7-jian5-ai3 khai3-koah-seng5-siu7</JiaoLuo>
+			<TongYong>Ma4-Ing1-Giu4* zu2-ren5* ai3 it7-kai3*-sing5-siu2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>內湖線 採用 Bombardier系統，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lai7-ou5-soaN3 chhai2-iong7 Bombardier he7-thong2，</JiaoLuo>
+			<TongYong>Lai2-O5-Suann3* cai4-ing2 Bombardier he2-tong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>車廂窄小， 不斷出包，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eh8-sio2 chhia-siuN，put-toan7 chhut-pau，</JiaoLuo>
+			<TongYong>cia1-siunn1* eh6*-gorh7-se3*， but7-duan2-cut7-bau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>當初 怎麼 選擇系統 的？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-chhou an-choaN2 soan2-tek8 he7-thong2-e5，</JiaoLuo>
+			<TongYong>dong1-co1* an4-zuann4 suan4-dik6-he2-tong4* e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>台北市 市議員 爆料， 有內幕，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7-chhi7-gi7-oan5 piak-liau7，u7-loe7-bou7，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2* ci2-qi2-uan5* bok6-liau2*， u2-lue2-vo2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>議員 說 軍火商 就是 來福公司，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi7-oan5 kong2 kun-hoe2-siong to-si7 Lai5-hok-kong-si，</JiaoLuo>
+			<TongYong>qi2-uan5* gong4 gun1-hue4-siang1* diorh6-si2 Lai5-Hok7*-Gong1-Si1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>董事長 李華得 是美國籍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tang2-su7-tiuN2 Li2-hoa5-tit si7 Bi2-kok-chek8，</JiaoLuo>
+			<TongYong>dang4-su2-diunn4* Li4-Hua5-Dik7* si2-Vi4-Gok7-zik6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>集團 曾負責 IDF戰鬥機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chip8-thoan5 bat-hu7-chek IDF chian3-tou3-ki，</JiaoLuo>
+			<TongYong>zip6-tuan5* vat7-hu2-zik7 IDF zen3-dau3-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>還有 F16的銷售。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 F-chap8-lak8 e5 siau-siu5。</JiaoLuo>
+			<TongYong>gorh7-u2 F16 e5 siau1-siu2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>工信工程的 總裁 潘俊榮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kong-sin3-kang-teng5 e5 chong2-chhai5 Phoan-chun3-eng5，</JiaoLuo>
+			<TongYong>Gang1-Sin3*-Gang1-Ding5*-e5 zong4-cai5* Puann1-Zun3-Ing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>現在 是 工總 副理事長，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2-si7 Kang-chong2 hu3-li2-su7-tiuN2，</JiaoLuo>
+			<TongYong>zit7-ma4* si2 Gang1-Zong4* hu3-li4-su2-diunn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>還是 中國國民黨 中央委員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-si7 Tiong-kok-kok-bin5-tong2 tiong-iong-ui2-goan5，</JiaoLuo>
+			<TongYong>gorh7-si2 Diong1-Gok7*-Gok7-Vin5-Dong4* diong1-iang1-ui4-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>除了 捷運 內湖線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu5-liau2 chiat8-un7 Lai7-ou5-soaN3，</JiaoLuo>
+			<TongYong>di5-liau4 zet6-un2* Lai2-O5-Suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>新生北 高架橋 的 護欄工程，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-seng-pak-ko-ke3-kio5 e5 hou7-lan5 kang-teng5，</JiaoLuo>
+			<TongYong>Sin1-Sing1-Bak7* gor1-ge3-gior5* e5 ho2-lan5*-gang1-ding5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>都是 工信工程 承包。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-si7 Kong-sin3-kang-teng5 seng5-pau。</JiaoLuo>
+			<TongYong>long4-si2 Gang1-Sin3*-Gang1-Ding5* sing5-bau1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,69 @@
+<!-- METADATA TYPE="TypeLib" 
+    UUID="{00000200-0000-0010-8000-00AA006D2EA4}"
+    VERSION="2.0"
+-->
+<SCRIPT LANGUAGE=VBScript RUNAT=Server> 
+
+Sub Application_OnStart
+'Web 應用程式中 Application 開始時所進行的處理內容
+    Application("WebUser") = "DSN=WebUser;USER=;Password="
+    Application("MailServer") = "ms7.hinet.net"
+    Application("WebMaster") = "t530903@ms7.hinet.net"
+    Application("start") = Now
+End Sub
+
+Sub Session_OnStart
+'Web 應用程式中 Session 開始時所進行的處理內容
+    URLs = Split(Request.ServerVariables("SCRIPT_NAME"), "/")
+    page = LCase(URLs(UBound(URLs)))
+    If page <> "logon.asp" And page <> "datain.asp" Then
+        URLs(UBound(URLs)) = "Logon.asp"
+        Response.Redirect join(URLs, "/") 
+        Response.End
+    ElseIf Request.FORM("user") <> "" Then
+        Set objConn = Server.CreateObject("ADODB.Connection")
+        Set objRecord = Server.CreateObject("ADODB.Recordset")
+        SQLs = "select * from WAccount where " & _
+            "name = '" & Request.FORM("user") & "' and " &_
+            "passwd = '" & Request.FORM("passwd") & "';"
+        Application.Lock
+        objConn.Open Application("WebUser")
+        objRecord.Open SQLs, objConn, adOpenForwardOnly, , adCmdText
+        If Not (objRecord.EOF Or objRecord.BOF) Then
+            Session("start") = Now
+            Session("user") = objRecord("name")
+            URLs(UBound(URLs)) = "Index.asp"
+            objRecord.Close
+            objRecord.Open "LogTable", objConn, adOpenKeyset, adLockPessimistic
+            objRecord.AddNew
+            objRecord("LogDate") =date
+            objRecord("LogTime") =time
+            objRecord("CADDR") = Request.ServerVariables("REMOTE_ADDR")
+            objRecord("CHOST") = Request.ServerVariables("REMOTE_HOST")
+            objRecord("AGENT") = Request.ServerVariables("HTTP_USER_AGENT")
+            objRecord("USER") = Session("user")
+            objRecord("LANGUAGE") = Request.ServerVariables("HTTP_ACCEPT_LANGUAGE")
+            objRecord.Update
+            objRecord.Close
+            Set objPage = Server.CreateObject("IISSample.PageCounter")
+            objPage.PageHit
+            Session("count") = objPage.Hits
+        Else
+            URLs(UBound(URLs)) = "datain.asp"
+        End If
+        objConn.Close
+        Application.Unlock
+        Response.Redirect join(URLs, "/")
+        Response.End
+    ElseIF (Request.FORM("name1") = "" and Page = "datain.asp") Then
+        URLs(UBound(URLs)) = "Logon.asp" 
+        Response.Redirect join(URLs, "/")
+        Response.End
+    ElseIF (Request.FORM("User") = "" and Page <> "datain.asp") Then
+        URLs(UBound(URLs)) = "datain.asp" 
+        Response.Redirect join(URLs, "/")
+        Response.End
+    End If
+End Sub
+</SCRIPT>
+

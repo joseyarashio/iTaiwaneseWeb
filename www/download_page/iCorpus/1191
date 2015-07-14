@@ -1,0 +1,97 @@
+<article>
+	<id>1191</id>
+	<title>視線不佳 車隊出遊 失蹤男子 陳屍 台東溪谷</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>一位 宜蘭縣 救援協會 的 隊員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-ui7 Gi5-lan5-koan7 kiu3-oan7-hiap8-hoe7 e5 tui7-oan5，</JiaoLuo>
+			<TongYong>Zit6-ui2 Qi5-Lan5-Guan2* giu3-uan5*-hiap6-hue2* e5 dui2-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>大年初三 駕駛休旅車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-chiann-chhoe-sann  khui hiu-li2-chhia，</JiaoLuo>
+			<TongYong>ziann1-queh6-ce1-sann1* sai4-hiu1-li4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>跟車隊 到台東 露營，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toe3 chhia-tui7 kau3 Tai5-tang lou7-iann5，</JiaoLuo>
+			<TongYong>due3-cia1-dui2* gau3-Dai5-Dang1* lo2-iann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>卻 在中途 脫隊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-ti7 tou5-tiong lau3-tin7，</JiaoLuo>
+			<TongYong>suah7 di2-diong1-do5* tuat7-dui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>由於 這位隊員 平常就有 脫隊的紀錄，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-i5 chit-ui7 tui7-oan5 peng5-siong5 to-u7 lau3-tin7-e5 ki3-lok8，</JiaoLuo>
+			<TongYong>in1-ui2 zit7-ui2-dui2-uan5* bing5-siang5*-diorh6-u2 tuat7-dui2*-e5-gi3-lok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>其他人 不以為意，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-thann-lang5 cho3-bo5-iau3-kin2，</JiaoLuo>
+			<TongYong>gi5-tann1*-e5-lang5* vor5-iau3-vor5-gin4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>一直到 星期一 上班日，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tit8-kau3 le2-pai3-it siang7-pan-jit8，</JiaoLuo>
+			<TongYong>it7-dit6-gau3 bai3-it7* siang2-ban1-rit6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>人 還是 沒出現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lang5 iau2-si7 bo5-chhut-hian7，</JiaoLuo>
+			<TongYong>lang5* iau4-si2 vor5-cut7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>大家 驚慌 情況不對，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ta-ke tioh8-kiann cheng5-hong2-m7-tioh8，</JiaoLuo>
+			<TongYong>dak6-ge1 diorh6-giann1* zing5-kong4*-m2-diorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>才 報警搜尋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah po3-keng2 sou2-chhoe7，</JiaoLuo>
+			<TongYong>ziah7 bor3-ging4*-zau4-cue7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>結果 在 南橫公路的 溪谷裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2-ti7 Lam5-hoainn5-kong-lou7 khoe-kok-lai7，</JiaoLuo>
+			<TongYong>get7-gor4 di2 lam5-hing5-gong1-lo2*-e5 ke1-gok7*-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>發現 他的 遺體 跟 休旅車。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 i-e5 ui5-the2 kap hiu-li2-chhia。</JiaoLuo>
+			<TongYong>huat7-hen2 i1-e5 ui5-te4* gah7 hiu1-li4-cia1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>非同步呼叫遠端&nbsp;Scripting&nbsp;方法</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rscallingremotescriptingmethodsasynchronously"></a>非同步呼叫遠端&nbsp;Scripting&nbsp;方法</h1>
+<p>
+遠端 scripting 提供您以<FONT COLOR=RED>非同步</FONT>的選項呼叫伺服端方法&nbsp;- 意即當伺服端方法在執行時，客戶端 script 依然持續執行。以非同步方式呼叫遠端 scripting 方法，可以避免降低應用程式之使用者介面的執行效率，因為當伺服端 script 正在執行時，使用者可以繼續作業。</p>
+<p>
+<b>附註</b>&nbsp;&nbsp;&nbsp;如果基於應用程式的需要，您也可以用同步的方式呼叫伺服端方法。相關的詳細資訊，請參閱<a href="rmscpt5.htm">同步呼叫遠端 Scripting 方法</a>。</p>
+<p>
+以非同步方式呼叫遠端 script 與同步呼叫的方式很類似。但是當您呼叫時，必須指定最多三個額外的參數
+<ul>
+<li>
+當伺服端方法結束處理時，客戶端 script 中的 JavaScript <FONT COLOR=RED>回呼函數</FONT>就會被呼叫。例如，如果遠端 scripting 方法進行查詢資料庫的作業，回呼函數會取得遠端呼叫所傳回的查詢數值，並且將數值顯示在客戶端網頁的控制項中。<br><br></li>
+<li>
+一個選擇性的 JavaScript 錯誤回呼函數，在非同步呼叫發生錯誤時會被呼叫。<br><br></li>
+
+<li>
+一個選擇性的內容參數。此為傳送給方法的資料，稍後會再傳回。此參數在回呼函數中，通常可幫助您決定呼叫的方法為何。例如，您是否將所有遠端 script 呼叫傳回給一個單一的回呼函數。</li>
+</ul>
+<p>
+就像同步呼叫一樣，非同步呼叫也會建立一個呼叫物件，此物件所支援的屬性，包含了有關呼叫程序的傳回與狀態資訊。例如，遠端 scripting 方法的傳回值可自呼叫物件的 <code>return_value</code> 屬性中選用。在非同步呼叫中，呼叫物件的<code>status</code> 屬性提供了呼叫狀態的相關資訊。</p>
+<p>
+當您進行非同步呼叫時，呼叫物件會被當成參數傳送給回呼函數。因此，您可以在呼叫 script (例如，若要決定呼叫的狀態) 或在回呼函數 (例如，若要取得方法的傳回值) 中加以測試。</p>
+<p>如果您已建立一個對伺服端網頁的物件引用，您就可以使用標準的 <i>object.method</i> 語法來呼叫方法。關於建立物件引用的詳細資訊，請參閱<a href="rmscpt4.htm">將 ASP 網頁當作物件引用</a>。</p>
+<p>
+<b>若要以非同步方式呼叫伺服端方法 </b>
+<ul>
+<li>
+如果您已建立一個對伺服端網頁的物件引用，請使用下列語法。因為如果您必須傳送回呼函數的函數指標，您就必須在非同步方法呼叫時使用 JavaScript。<pre><code><i>callObject</i> = <i>ASPObject</i>.<i>methodName</i>(<i>p1</i>, <i>p2</i>[,...],
+&nbsp;&nbsp;&nbsp;<i>callbackFunction</i>, <i>errorCallbackFunction</i>, <i>context</i>)
+</code></pre>
+<p>
+-&nbsp;或&nbsp;-
+</li>
+<li>
+如果您尚未建立物件引用，請用下列語法呼叫 <code>RSExecute</code> 函數︰<pre><code><i>callobject</i> = RSExecute(<i>url</i>, <i>methodName</i>, <i>p1</i>, <i>p2</i>[,...], 
+&nbsp;&nbsp;&nbsp;<i>callbackFunction</i>, <i>errorCallbackFunction</i>, <i>context</i>)
+</code></pre>
+<p>
+其中︰
+<ul>
+<li>
+<i>ASPObject</i>&nbsp;&nbsp;&nbsp;表示先前使用 <a href="rmscpt14.htm">RSGetASPObject</a>方法所建立的物件引用。相關的詳細資訊，請參閱<a href="rmscpt4.htm">將 ASP 網頁當作物件引用</a>。<br><br></li>
+<li>
+<i>callObject</i>&nbsp;&nbsp;&nbsp;當遠端 scripting 呼叫結束時，將會被啟動之呼叫物件的名稱。您並不需要在呼叫遠端 script 之前先建立此物件；RSExecute 方法會為您建立該物件。<br><br></li>
+<li>
+<i>url&nbsp;&nbsp;&nbsp;</i>為 ASP 網頁的 URL，此網頁包含了您想執行的遠端 script。伺服端網頁必須已按照<a href="rmscpt3.htm">在伺服端網頁中啟動 Scripting</a>中所述的方式建構。此伺服端網頁必須放在您要求目前客戶端網頁的伺服器上。<br><br></li>
+<li>
+<i>methodName&nbsp;&nbsp;&nbsp;</i>伺服端網頁上，一個您想要執行的方法名稱。<br><br></li>
+<li>
+<i>p1, p2, ...</i> 執行 <i>methodName</i>中的方法所需要的各種參數。參數以數值方式傳送。您可以傳送像是數字或文字數值之類的簡單資料型態，但是不能傳送陣列或物件之類的結構化資料。<p>
+<b>附註</b>&nbsp;&nbsp;&nbsp;當參數從客戶端傳送到伺服端時，會被轉換為字串。請確定伺服端方法在使用這些參數數值時，會將其轉換為適當的資料型態。如需詳細的資訊，請參閱<a href="rmscpt3.htm">在伺服端網頁中啟動遠端 Scripting</a>。
+</li>
+<li>
+<i>callbackFunction</i>&nbsp;&nbsp;&nbsp;這是一個函數指標，供客戶端 script 中的 JavaScript 函數使用，當遠端 scripting 方法結束執行後，就會呼叫這個函數。因為您要傳遞的是指標，所以請不要將名稱包含在引號中。將回呼函數的名稱包含在  <code>RSExecute</code> 呼叫中，代表您想以非同步的方式執行遠端 scripting 方法。<br><br></li>
+<li>
+<i>errorCallbackFunction</i>&nbsp;&nbsp;&nbsp;客戶端 script 中的選擇性 JavaScript 函數使用的函數指標，如果遠端 scripting 方法發生錯誤時，就會呼叫這個函數。因為您要傳遞的是指標，所以請不要將名稱包含在引號中。關於遠端 scripting 中發生錯誤的詳細資訊，請參閱<a href="rmscpt7.htm">檢查錯誤</a>。<br><br></li>
+<li>
+<i>context</i>&nbsp;&nbsp;&nbsp;這是一個選擇性的數值，將此數值傳遞給遠端 scripting 方法，然後會再傳回給您。在您的回呼函數中，您可以使用任何自己覺得有用的方式來使用這個數值。</li>
+</ul>
+</li>
+</ul>
+<p>
+例如，下列的客戶端 script 中，<code>btnSquare</code> 按鈕的 <code>onclick</code> 處理常式會呼叫伺服端方法  <code>square</code>，計算文字方塊 <code>txt1</code> 中數字的平方。當方法執行完成後，就會呼叫<code>showResults</code> 函數。此項作業的名稱 ("squaring") 會透過 <code>context</code> 參數傳遞。</p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript" for="btnSquare" event="onclick"&gt;
+    rsMath = RSGetASPObject("../myPages/RSMath.asp")
+    number1 = txt1.value;
+    context = "squaring";
+    co = rsmath.square(number1,showResults,context);
+&lt;/SCRIPT&gt;
+</code></pre>
+<p>
+與上述相同的範例，如果改用 RSExecute 來取代物件引用，可能會如下列範例所示︰</p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript" for="btnSquare" event="onclick"&gt;
+    number1 = txt1.value;
+    context = "squaring";
+    co = RSExecute("RSmath.asp","square",number1,showResults,context);
+&lt;/SCRIPT&gt;
+</code></pre>
+<p>
+在前一個範例中的回呼函數 <code>showResults</code>，可能會如下列範例所示︰</p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript"&gt;
+function showResults(co){
+    typeOp = co.context;
+    rValue = co.return_value;
+    txt2.value = "Result of " + typeOp + " operation = " + rValue;
+}
+&lt;SCRIPT&gt;
+</code></pre>
+<p>
+這時候，此  <code>showResults</code> 函數就可以被用做一般用途的回呼函數，用來顯示任何動作的結果。此函數說明何時可能會使用呼叫物件的 <code>context</code> 屬性 (此屬性會隨著遠端 scripting 函數被呼叫而啟動)，來決定回呼函數被呼叫的方式。</p>
+<h2>測試非同步呼叫</h2>
+<p>
+您可以測試遠端呼叫的狀態，以決定此呼叫是否成功。如果您進行了非同步呼叫，則可以測試該呼叫是否已結束。</p>
+<p>
+<b>若要測試遠端呼叫的狀態 </b>
+<ul>
+<li>
+在呼叫 script 中，取得<a href="rmscpt9.htm">呼叫物件</a>之 <code>status</code> 屬性的數值，其中可能包含下列數值之一︰</li>
+</ul>
+<blockquote>
+<table border=1 cols=2 frame=void rules=rows>
+<tr valign=top>
+<td width=286><b>數值</b></td>
+<td width=286><b>描述</b></td>
+</tr>
+<tr valign=top>
+<td width=286>-1</td>
+<td width=286>失敗</td>
+</tr>
+<tr valign=top>
+<td width=286>0</td>
+<td width=286>已完成</td>
+</tr>
+<tr valign=top>
+<td width=286>1</td>
+<td width=286>暫停 (只可在非同步呼叫中使用)。</td>
+</tr>
+</table><br>
+</blockquote>
+<p>
+下列範例顯示一個客戶端 script，此客戶端 script 以同步方式呼叫一個名為 <code>square</code> 的遠端 scripting 方法，然後再在網頁的文字方塊中顯示呼叫的狀態。</p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript" for="btnSquare" event="onclick"&gt;
+    number1 = txt1.value;
+    context = "squaring";
+    co = RSExecute("RSmath.asp","square",number1);
+    if (co.status == -1)
+        {txt2.value = "Call failed";}
+    else    
+        {txt2.value = "Call succeeded, return value = " + co.return_value;}    }
+&lt;/SCRIPT&gt;
+</code></pre>
+<p>
+有關錯誤的相關資訊，請參閱<a href="rmscpt7.htm">檢查錯誤</a>。</p>
+<p></p>
+<H2>控制非同步呼叫</H2>
+<p>當非同步呼叫正在進行時，您可以用下列兩種方式來控制此呼叫︰ 
+<ul>
+<li>
+等待呼叫完成。這樣會暫停客戶端 script 的處理，直到遠端 scripting 呼叫完成為止，再實際地將非同步呼叫轉換為同步呼叫。如果當您執行到客戶端 script 中的某個位置，而這裡需要非同步呼叫所提供的資訊時，您就可以這樣做。若要等待，請呼叫該呼叫物件的 <a href="rmscpt15.htm">wait</a> 方法。<br><br></li>
+<li>
+取消此呼叫。若要取消，請呼叫該呼叫物件的  <a href="rmscpt10.htm">cancel</a> 方法。</li>
+</ul>
+</BODY>
+</HTML>

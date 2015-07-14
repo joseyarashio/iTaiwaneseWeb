@@ -1,0 +1,32 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>表單元素 checkbox 的性質列表</h2>
+<hr>
+
+<b>呈現方式</b>：<input type=checkbox id=myCheckbox1>線性代數
+		<input type=checkbox id=myCheckbox2 checked>Web程式設計
+		<input type=checkbox id=myCheckbox3>數值方法
+<script>
+obj1=document.all["myCheckbox1"];
+obj2=document.all["myCheckbox2"];
+obj3=document.all["myCheckbox3"];
+</script>
+<script src="utility.js"></script>
+<p><b>原始碼</b>：
+<script>sourcePrint(obj1)</script>
+<script>sourcePrint(obj2)</script>
+<script>sourcePrint(obj3)</script>
+<p><b>myCheckbox1 性質排序列表</b>：
+<p><script>propertyPrint(obj1, "obj")</script>
+<p><b>myCheckbox2 性質排序列表</b>：
+<p><script>propertyPrint(obj2, "obj")</script>
+<p><b>myCheckbox3 性質排序列表</b>：
+<p><script>propertyPrint(obj3, "obj")</script>
+
+<hr>
+</body>
+</html>

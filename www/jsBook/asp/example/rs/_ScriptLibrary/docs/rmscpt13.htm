@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>RSExecute 方法</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rsrsexecutemethod"></a>RSExecute 方法</h1>
+<p>
+在已建構為可存取遠端 scripting 呼叫的 ASP 網頁中呼叫方法。</p>
+<p>
+<b>語法</b></p>
+<p>
+RSExecute(<i>url</i>, <i>method</i> [, <i>p1</i>, <i>p2</i>, ...] [, <i>callback</i> [, <i>errorcallback</i>] [, <i>context</i>]])</p>
+<p>
+<b>參數</b></p>
+<DL>
+<DT><i>url</i></DT>
+<DD>
+已建構為可接收遠端 scripting 呼叫的 ASP 網頁之 URL。<P><P></DD>
+<DT>
+<i>method</i></DT>
+<DD>
+在 <i>url</i> 中所要執行的方法名稱。請將此數值以字串方式傳遞 (如果要以字元方式傳遞，請加上引號。)<P></DD>
+<DT>
+<i>p1, p2, ...</i></DT>
+<DD>
+所需的任何參數值。您可以自行決定參數個數，但是不得將資料的結構設定為陣列或物件。 
+<P></P>
+<b>附註&nbsp;&nbsp;&nbsp;</b>參數在從客戶端傳送給伺服端時，會轉換為字串。請確定 ASP 網頁中的方法會依您的需求檢查或轉換資料型態。<P></DD>
+<DT>
+<i>callback</i></DT>
+<DD>
+對 JavaScript 客戶端函數的一種選擇性引用，會在 <i>method</i> 完成時加以呼叫。還要加上指定希望以非同步方式執行 <i>method</i> 的 callback 函數名稱。如果您沒有加上 <i>callback</i> 名稱，<i>method</i> 將會同步執行。所傳遞的會是函數指標，而非字串。<P></DD>
+<DT>
+<i>errorcallback</i></DT>
+<DD>
+如果遠端 scripting 機制無法完成對 <i>method</i> 的呼叫，將會呼叫對 JavaScript 客戶端函數的選擇性引用。會將呼叫分派到 errorcallback 的典型錯誤包括引用不存在的網頁 URL、或嘗試呼叫不存在的方法。如需詳細資訊，請參閱<a href="rmscpt7.htm">檢查錯誤</a>。<P></DD>
+<DT>
+<i>context</i></DT>
+<DD>
+一種選擇性數值，用以傳遞給傳回的遠端 script。這個 <i>context</i> 數值通常用來將資料傳遞給一般用途的回呼函數，如此您便能判斷出原先所呼叫的方法。<P></DD>
+</DL>
+<p>
+<b>請注意</b></p>
+<p>
+若要使用遠端 scripting，必須先在客戶端呼叫 <code>RSEnableRemoteScripting</code>。如需詳細資訊，請參閱<a href="rmscpt2.htm">在客戶端網頁中啟動遠端 Scripting</a>。伺服端網頁則必須建構為可顯露方法。如需詳細資訊，請參閱<a href="rmscpt3.htm">在伺服端網頁中啟動遠端 Scripting</a>。</p>
+<p>
+<b>附註&nbsp;&nbsp;&nbsp;</b>另一個使用 RSExecute來呼叫遠端 scripting 的方法是建立引用 <i>url</i> 的物件，並使用標準的<i>object</i>.<i>method</i> 語法。如需詳細資訊，請參閱<code>RSGetASPObject</code>與<a href="rmscpt4.htm">將 ASP 網頁當成物件來引用</a>。</p>
+<p>
+遠端 scripting 方法可以用同步 (呼叫遠端 script 時，客戶端執行中止) 或非同步 (客戶端 script 繼續執行) 的方式呼叫。當遠端 script 呼叫的結果在呼叫結束後會立即用到時，就要使用同步呼叫。而如果客戶端執行並非取決於遠端 script 呼叫的結果，則使用非同步呼叫。通常使用者比較喜歡非同步呼叫，因為非同步呼叫不會讓他們的工作中斷。</p>
+<p>
+在非同步呼叫中，您所指定的函數名稱，會在完成遠端呼叫時呼叫該函數。當客戶端 script 結束時就會呼叫此回呼函數。</p>
+<p>
+遠端呼叫會傳回呼叫物件。您可以取得該呼叫物件的屬性值，來決定方法的傳回值，及目前呼叫的狀態。在非同步呼叫中，呼叫物件會被當成參數來傳遞給回呼函數。</p>
+<p>
+如果您進行非同步呼叫，則可以呼叫一個方法來等待非同步呼叫的完成，這對於讓呼叫同步化時最有用。您也可以取消非同步呼叫。如需詳細資訊，請參閱<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a>。</p>
+<p>
+<b>範例</b></p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript" for="btnSquare" event="onclick"&gt;
+    number1 = txt1.value;
+    context = "squaring";
+    co = RSExecute("RSmath.asp","square",number1,showResults,context);
+&lt;/SCRIPT&gt;
+</code></pre>
+<p>
+<b>請參閱</b></p>
+<p>
+<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a></p>
+<p>
+<a href="rmscpt5.htm">同步呼叫遠端 Scripting 方法</a></p>
+</BODY>
+</HTML>

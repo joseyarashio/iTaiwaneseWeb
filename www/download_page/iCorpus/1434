@@ -1,0 +1,118 @@
+<article>
+	<id>1434</id>
+	<title>「行動咖啡車」 蔡英文 親自當司機</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>民進黨 新北市長 參選人 蔡英文，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 Sin-pak-chhi7-tiunn2 chham-soan2-jin5 Chhoa3-eng-bun5，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* Sin1-Bak7-ci2-diunn4* cam1-suan4-rin5* Cua3-Ing1-Vun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>今天 帶著 她的 行動咖啡車 露臉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit chhoa7-tioh8 i-e5 heng5-tong7-ka-pi-chhia lou7-bin7，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* cua2-diorh6 i1-e5 hing5-dong2-ga1-bi1-cia1* lo2-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>未來 咖啡車 將在 台北縣 二十九鄉鎮 四處奔走，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bi7-lai5 ka-pi-chhia beh-ti7 Tai5-pak-koan7 ji7-chap8-kau2 hiong-tin3 si3-ke3-chau2-thau3-thau3，</JiaoLuo>
+			<TongYong>vi2-lai5* ga1-bi1-cia1* e2-di2 Dai5-Bak7-Guan2* qi2-zap6-gau4-hiang1-din3* si3-ge3-zau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>透過 與市民 喝咖啡 聊聊市政。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau3-koe3 ham chhi7-bin5 lim-ka-pi khai-kang2 chhi7-cheng3，</JiaoLuo>
+			<TongYong>tau3-gue3 ham2-ci2-vin5* lim1-ga1-bi1* dam5-lun2-ci2-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>親自 開著 行動咖啡車 來到廣場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhin-chu7 khui-tioh8 heng5-tong7-ka-pi-chhia lai5-kau3 kong2-tiunn5，</JiaoLuo>
+			<TongYong>Cin1-zu2 sai4-diorh6 hing5-dong2-ga1-bi1-cia1* lai5-gau3-gong4-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>蔡英文 自己 當司機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chhoa3-eng-bun5 ka-ki7 cho3-su-ki，</JiaoLuo>
+			<TongYong>Cua3-Ing1-Vun5* ga1-di2* zor3-su1-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>也宣告 咖啡車 正式開張，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-soan-ko3 ka-pi-chhia cheng3-sek-khai-tiong，</JiaoLuo>
+			<TongYong>ma2-suan1-gor3 ga1-bi1-cia1* zing3-sik7*-kai1-diang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>未來 將到 台北縣 二十九鄉鎮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bi7-lai5 beh-kau3 Tai5-pak-koan7 ji7-chap8-kau2 hiong-tin3，</JiaoLuo>
+			<TongYong>vi2-lai5* e2-gau3 Dai5-Bak7-Guan2* qi2-zap6-gau4-hiang1-din3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>和市民 坐下來 喝咖啡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kap chhi7-bin5 che7-loh8-lai5 lim-ka-pi，</JiaoLuo>
+			<TongYong>ham2-ci2-vin5* ze2-lorh6-lai5 lim1-ga1-bi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>不聊是非 聊市政，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-kang2-si7-hui kang2-chhi7-cheng3，</JiaoLuo>
+			<TongYong>vor5-gong4-si2-hui1* gong4-ci2-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>蔡英文 想要 當面聆聽 人民的需求，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chhoa3-eng-bun5 siunn7-beh tng-bin7 leng5-thiann jin5-bin5-e5 su-kiu5，</JiaoLuo>
+			<TongYong>Cua3-Ing1-Vun5* siunn2-veh7 dng1-vin2* tiann1 rin5-vin5*-e5-su1-giu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>除了 替 六輕 當地人 發出聲音，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti5-liau2 the3 lak8-khin chai7-te7-lang5 hoat-chhut-siann-im，</JiaoLuo>
+			<TongYong>di5-liau4 te3 lak6-Kin1* zai2-de2-lang5* huat7-cut7-siann1-im1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>蔡英文 順勢 為 雲林縣長 蘇治芬 抱屈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chhoa3-eng-bun5 sun7-se3-ui7 Hun5-lim5-koan7-tiunn2 Sou-ti7-hun au2-ut，</JiaoLuo>
+			<TongYong>Cua3-Ing1-Vun5* sun2-se3* ui2 Hun5-Lim5-guan2-diunn4* So1-Di2-Hun1* huah7-ui4-kut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>要將 六輕事件 定調為 中央責任，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh-ka7 Lak8-khin-su7-kiann7 teng7-tiau7-cho3 tiong-iang chek-jim7，</JiaoLuo>
+			<TongYong>veh7-ga2 Lak6-Kin1*-su2-giann2* ding2-diau2-ui5 diong1-iang1*-e5-zik7-rim2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>不讓 這把火 燒到 自家人縣長 身上。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mai3-hou7 chit-pe2-hoe2 sio-tioh8 chu7-ka-lang5 koan7-tiunn2 sin-khu-teng2。</JiaoLuo>
+			<TongYong>m2-ho2 zit7-be4-hue4* sior1-gau3 zu2-ga1-guan2-diunn4* sin1-siong2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

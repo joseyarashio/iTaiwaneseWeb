@@ -1,0 +1,328 @@
+<article>
+	<id>853</id>
+	<title>中央研究院 發現 抑癌基因</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 記者 林嘉琪 台北報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-iu5-si5-po3 ki3-chia2 Lim5-ka-ki5 Tai5-pak-po3-to7</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* gi3-zia4* lim5-ga1-gi5* dai5-bak7*-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>肺癌治療 出現曙光！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi3-gam5 ti7-liau5 chhut-hian7 su2-kng ！</JiaoLuo>
+			<TongYong>Hi3-qam5*-di2-liau5* cut7-hen2-su4-gng1*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台灣大學 醫學院 院長、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5-tai7-hak i-hak-inn7 inn7-tiunn2 、</JiaoLuo>
+			<TongYong>dai5-uan5-dai2-hak6* i1-hak6-inn2* inn2-diunn4*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>中央研究院 院士 楊泮池，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-iang-gian2-kiu3-inn7 inn7-su7 Iunn5-phoan3-ti5 ，</JiaoLuo>
+			<TongYong>diong1-iang1*-qen4-giu3-inn2* inn2-su2* iunn5-puan3-di5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>他領軍的 研究團隊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i nia2-kun-e5 gian2-kiu3 thoan5-tui7 ，</JiaoLuo>
+			<TongYong>i1-nia4-gun1*-e5 qen4-giu3-tuan5-dui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>針對 肺癌 轉移機制，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiam-tui3 hi3-gam5 choan2-i5 ki-che3 ，</JiaoLuo>
+			<TongYong>ziam1-dui3 hi3-qam5* zuan4-i5*-gi1-ze3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>首度發現 癌細胞，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>te7-it-pai2 hoat-hian7 gam5-se3-pau ，</JiaoLuo>
+			<TongYong>de2-it7-bai4* huat7-hen2 qam5-se3-bau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>會 經由 特殊的路徑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-keng-iu5 tek8-su5-e5 lo7-keng3 ，</JiaoLuo>
+			<TongYong>e2 ging1-iu5 dik6-su5*-e5-lo2-ging3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>調控 侵襲轉移，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiau5-khong3 chhim-sip choan2-i5 ，</JiaoLuo>
+			<TongYong>diau5-kong3 cim1-sip6*-zuan4-i5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>這個 研究成果，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-e5 gian2-kiu3 seng5-ko2 ，</JiaoLuo>
+			<TongYong>zit7-le5 qen4-giu3-sing5-gor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>登上 重量級 學術期刊 「自然 細胞生物學」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teng-siong7 tang7-liong7-kip hak-sut-ki5-khan 「 chu7-jian5 se3-pau seng-but-hak 」 ，</JiaoLuo>
+			<TongYong>ding1-siong2 diong2-liang2-gip7* hak6-sut6-gi5-kan1* 「zu2-ren5* se3-bau1*-sing1-vut6-hak6*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>未來 可望 研發 治療新藥，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bi7-lai5 u7-bong7 gian2-hoat ti7-liau5 sin-ioh ，</JiaoLuo>
+			<TongYong>vi2-lai5* kor4-vong2 qen5-huat7 di2-liau5*-sin1-iorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>有機會 讓 惡性腫瘤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-ki-hoe7 ho7 ok-seng3 cheng2-liu5 ，</JiaoLuo>
+			<TongYong>u2-gi1-hue2* ho2 ok7-sing3*-zing4-liu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>成為 可控制的 慢性病。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiann5-cho3 thang-khong3-che3-e5 ban7-seng3-penn7 。</JiaoLuo>
+			<TongYong>ben3-sing5 e2-dang3-kong3-ze3*-e5 van2-sing3-benn2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>楊泮池說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Iunn5-phoan3-ti5 kong2 ，</JiaoLuo>
+			<TongYong>Iunn5-puan3-di5*-gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>肺癌 是 台灣 癌症死亡率 的 第一位，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi3-gam5 si7 Tai5-oan5 gam5-cheng3 si2-bong5-lut e5 te7-it-ui7 ，</JiaoLuo>
+			<TongYong>hi3-qam5* si2 dai5-uan5* qam5-zing3*-si4-vong5-lut6* e5 de2-it7-ui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>不易診斷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phainn2 chin2-toan7 ，</JiaoLuo>
+			<TongYong>zin1-painn4-zin4-duan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>一旦發現 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tan3 hoat-hian7-si5 ，</JiaoLuo>
+			<TongYong>it7-dan3*-huat7-hen2* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>僅有 三成的 肺癌病患，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kan-tann-u7 sann-siann5 e5 hi3-gam5 penn7-hoan7 ，</JiaoLuo>
+			<TongYong>gan1-na1-u2 sann1-siann5*-e5 hi3-qam5*-benn2-huan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>可以接受 開刀治療。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-eng7 chiap-siu7 khui-to ti7-liau5 。</JiaoLuo>
+			<TongYong>e2-dang3-ziap7-siu2 kui1-dor1*-di2-liau5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>臨床上 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lim5-chhng-siong7 ，</JiaoLuo>
+			<TongYong>Lim5-cng5-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>轉移機率 很高，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan2-i5 ki-lut chin-koan5 ，</JiaoLuo>
+			<TongYong>zuan4-i5*-gi1-lut6* zin1-guan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>近八成 病患 在 開刀治療 後 五年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin7 poeh-siann5 penn7-hoan7 ti7 khui-to ti7-liau5-au7 go7-ni5 ，</JiaoLuo>
+			<TongYong>gin2-beh7-siann5* benn2-huan2* di2 kui1-dor1*-di2-liau5 liau4-au2* qo2-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>發生 癌轉移 現象。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng gam5-choan2-i5 hian7-siong7 。</JiaoLuo>
+			<TongYong>huat7-sing1 qam5*-zuan4-i5* hen2-siong2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>楊泮池 與 他指導的 研究團隊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Iunn5-phoan3-ti5 ham i chi2-to7-e5 gian2-kiu3-thoan5-tui7 ，</JiaoLuo>
+			<TongYong>Iunn5-puan3-di5* ham2 i1-zi4-dor2*-e5 qen4-giu3-tuan5-dui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>國立 國防醫學院 生命科學研究所，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kok-lip kok-hong5-i-hak-inn7 senn3-mia7-kho-hak-gian2-kiu3-so2 ，</JiaoLuo>
+			<TongYong>gok7-lip6* gok7-hong5*-i1-hak6-inn2* senn3-mia2-kor1-hak6*-qen4-giu3-so4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>以及 博士生 王書品 等人 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-kip phok-su7-seng Ong5-su-phin2 teng2-lang5 ，</JiaoLuo>
+			<TongYong>i4-gip6 pok7-su2-sing1* ong5-su1-pin4* ding4-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>找出 癌轉移的 調控途徑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhoe7-chhut gam5-choan2-i5 e5 tiau5-khong3 to5-keng3 ，</JiaoLuo>
+			<TongYong>cue2-cut7 qam5*-zuan4-i5*-e5 diau5-kong3*-do5-ging3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>這條途徑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-tiau5 to5-keng3 ，</JiaoLuo>
+			<TongYong>zit7-diau5-do5-ging3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>也 出現跡象 在 乳癌、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7-chhut-hian7 iann2-chiah ti7 leng-gam5 、</JiaoLuo>
+			<TongYong>ma2 cut7-hen2-zik7-siong2* di2 ling1-qam5*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>大腸癌 及 直腸癌 上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-tng-gam5 kap tit-tng-gam5 siong7 ，</JiaoLuo>
+			<TongYong>dua2-dng5-qam5* gah7 dit7-dng5-qam5* siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>目前 於臨床上的 肺癌檢體 中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok-cheng5 ti7 lim5-chhng-siong7 e5 hi3-gam5 kiam2-the2-tiong ，</JiaoLuo>
+			<TongYong>vok6-zing5* di2-lim5-cng5-siong2*-e5 hi3-qam5*-giam4-te4* diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>已經 獲得驗證，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng hek-tit giam7-cheng3 ，</JiaoLuo>
+			<TongYong>i4-ging1 dit7-diorh6-qiam2-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>可用於 預測</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-eng7-ti7 i7-chhek ，</JiaoLuo>
+			<TongYong>e2-dang3 iong2-di2 i2-cik7</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>肺癌病患 癌轉移的 機率，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi3-gam5 penn7-hoan7 gam5-choan2-i5 e5 ki-lut ，</JiaoLuo>
+			<TongYong>hi3-qam5*-benn2-huan2* qam5*-zuan4-i5*-e5 gi1-lut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>未來 癌症 變慢性病 並非夢想。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bi7-lai5 gam5-cheng3 pian3 ban7-seng3-penn7 peng7-hui bong7-siong2 。</JiaoLuo>
+			<TongYong>vi2-lai5* qam5-zing3* ben3-van2-sing3-benn2* bing2-hui1-vang2-siong4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>預計 藥物的研發 成功上市，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-ke3 ioh-but e5 gian2-hoat seng5-kong chiunn7-chhi7 ，</JiaoLuo>
+			<TongYong>I2-ge3* iorh6-vut6*-e5-qen5-huat7* sing5-gong1*-ziunn2-ci2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>仍然 需要 五年 至 十年。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-goan5 su-iau3 go7-ni5 kau3 chap-ni5 。</JiaoLuo>
+			<TongYong>iu5-quan5* su1-iau3 qo2-ni5* zi3 zap6-ni5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>楊泮池 提醒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Iunn5-phoan3-ti5 the5-chhenn2 ，</JiaoLuo>
+			<TongYong>Iunn5-puan3-di5* te5-cenn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>到時 民眾 能夠 透過</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3-si5 bin5-chion3 e7-eng7 thau3-koe3 ，</JiaoLuo>
+			<TongYong>gau3-si5* vin5-ziorn3* e2-dang3 tau3-gue3</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>低劑量 的 電腦斷層掃描，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke7-che7-liong7 e5 tian7-nau2-tng-chan5-sau3-biau5 ，</JiaoLuo>
+			<TongYong>ge2-ze3-liong2*-e5 CT，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>進行 肺癌檢查，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin3-heng5 hi3-gam5 kiam2-cha ，</JiaoLuo>
+			<TongYong>zin3-hing5 hi3-qam5*-giam4-za1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>一旦 確認 自己 是 高危險群 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tan3 khak-jim7 ka-ki7-si7 ko-hui5-hiam2-kun5 si5 ，</JiaoLuo>
+			<TongYong>it7-dan3* kak7-rin2 ga1-di2* si2 gor1-hui5-hiam4-gun5* si5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>就要 每半年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-ai3 moe2-poann3-ni5 ，</JiaoLuo>
+			<TongYong>diorh6-ai3 mui4-buann3-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>進行一次 斷層掃描，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin3-heng5 chit-pai2 tng-chan5-sau3-biau5 ，</JiaoLuo>
+			<TongYong>zin3-hing5-zit6-bai4 CT，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>確保 早期發現、 早期治療。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khak-po2 cha2-ki5 hoat-hian7 、 cha2-ki5 ti7-liau5 。</JiaoLuo>
+			<TongYong>kak7-bor4 za4-gi5*-huat7-hen2*、 za4-gi5*-di2-liau5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

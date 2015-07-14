@@ -1,0 +1,76 @@
+<article>
+	<id>1217</id>
+	<title>油罐車翻覆 甲苯外洩 起火 駕駛燒死</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>一輛 從高雄 開到 台中港 的 油罐車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tai5 tui3 Ko-hiong5 khui-kau3 Tai5-tiong-kang2 e5 iu5-koan3-chhia，</JiaoLuo>
+			<TongYong>Zit6-dai5 ui3-Gor1-Hiong5* sai4-gau3 Dai5-Diong1-Gang4* e5 iu5-guan3-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>疑似 車速過快，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 chhia-sok koe3-kin2，</JiaoLuo>
+			<TongYong>qi5-su2 cia1-sok7*-siunn1-gin4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>轉彎 不慎翻車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng2-oan put-sin7 peng2-chhia，</JiaoLuo>
+			<TongYong>seh6-uan1*-si5* vor5-se3-qi2* bing4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>車上 載運 工業用的 甲笨 外洩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-teng2 chai3-un7-e5 kang-giap8-iong7 Kah-pun2 goa7-lau3，</JiaoLuo>
+			<TongYong>cia1-ding4* zai3-un2 gang1-qiap6*-ing2*-e5 gah7-bun4* qua2-siap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>發生氣爆 起火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng khi3-pok8 tioh8-hoe2，</JiaoLuo>
+			<TongYong>huat7-sing1-ki3-bok6* dorh6-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>消防隊 緊急出動 灌救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-tui7 kin2-kip-chhut-tong7 koan3-kiu3，</JiaoLuo>
+			<TongYong>siau1-hong5-dui2* gin4-gip7*-cut7-dong2* guan3-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>火勢 三十分鐘 後 控制，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe2-si3 sann-chap8-hun-cheng-au7 khong3-che3，</JiaoLuo>
+			<TongYong>hue4-se3* sann1-zap6-hun1-zing1* liau4-au2* kong3-ze3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>不過 車上駕駛 逃生不及，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 chhia-teng2 ka3-su2 to5-senn-be7-hu3，</JiaoLuo>
+			<TongYong>m2-gorh7 cia1-ding4*-e5-ga3-su4* ve2-hu3-dor5-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>活活 被燒死。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oah8-oah8 pi7-sio-si2。</JiaoLuo>
+			<TongYong>uah6-uah6* ho2-hue4*-sior1-si4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

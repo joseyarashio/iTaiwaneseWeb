@@ -1,0 +1,104 @@
+<article>
+	<id>1135</id>
+	<title>拖板車 卡在鐵軌 自強號 剎車不及 撞上</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>高雄市的 街頭 上演了 一幕</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7-e5 koe-thau5 chiunn7-ian2-liau2 chit8-bou7，</JiaoLuo>
+			<TongYong>Gor1-Hiong5-Ci2*-e5 ge1-tau5* ziunn2-en4-liau4 zit6-vo7</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>火車 撞上 拖板車 的 驚險畫面！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe2-chhia long3-tioh8 thoa-pan2-chhia-e5 kiann-hiam2 oe7-bin7！</JiaoLuo>
+			<TongYong>hue4-cia1* long3-diorh6 tua1-ban4-cia1*-e5 giann1-hiam4*-ue2-vin2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一輛 大型 拖板車 行經 平交道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tai5 toa7-heng5 thoa-pan2-chhia kiann5-koe3 peng5-kau-to7，</JiaoLuo>
+			<TongYong>Zit6-dai5 dua2-hing5* tua1-ban4-cia1* ging1-gue3 bing5-gau1-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>底盤 竟然 被 卡在鐵軌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toe2-poann5 keng3-jian5 pi7-khah8-ti7 thih-ki-lou7，</JiaoLuo>
+			<TongYong>de4-buann5* ging3-ren5* ki3-ho2 kah6-di2 tih7-gi1-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>整部車 在鐵軌上 動彈不得，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-tai5-chhia ti7-thih-ki-lou7-teng2 boe7-tin2-boe7-tang7，</JiaoLuo>
+			<TongYong>gui1-dai5-cia1* di2 tih7-gi1-lo2-ding4* ve2-din4-ve2-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>這時後 一列 北上的 自強號 剛好經過，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-tong-si5 chit8-liat8 chiunn7-pak-e5 Chu7-kiong5-ho7 tu2-ho2 keng-ke3，</JiaoLuo>
+			<TongYong>zit7-si5-zun2* zit6-let6 ziunn2-bak7*-e5 Zu2-Giong5-Hor2* du4-hor4-ging1-gue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>儘管 拖板車的 駕駛 在 第一時間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin7-koan2 thoa-pan2-chhia e5 ka3-su2 ti7 te7-it-si5-kan，</JiaoLuo>
+			<TongYong>sui1-ren5* tua1-ban4-cia1*-e5 su1-gi1* di2 de2-it7-si5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>按下 平交道的 緊急鈕，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jih8-loh8 peng5-kau-to7-e5 kin2-kip-liu2-a2，</JiaoLuo>
+			<TongYong>rih6-lorh6 bing5-gau1-dor2*-e5 gin4-gip7-liu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>提早 通知火車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>the5-cha2 thong-ti hoe2-chhia，</JiaoLuo>
+			<TongYong>te5-za4 tong1-di1-hue4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>但是 自強號 列車 還是 煞車不及，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh Chu7-kiong5-ho7-liat8-chhia iau3-si7 tong3-chhia-be7-hu3，</JiaoLuo>
+			<TongYong>m2-gorh7 Zu2-Giong5-Hor2* let6-cia1* iau4-si2 ve2-hu3-dong3-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>當場 撞上 拖板車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-tiunn5 long3-tioh8 thoa-pan2-chhia，</JiaoLuo>
+			<TongYong>dong1-diunn5* long3-diorh6 tua1-ban4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>好在 驚慌一場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 kiann-hiann5-chit8-tiunn5，</JiaoLuo>
+			<TongYong>hor4-ga1-zai3* giann1-hiann5*-zit6-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>沒有人 受傷。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-lang5-lang5 siu7-siong。</JiaoLuo>
+			<TongYong>vor5-lang5-siu2-siong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

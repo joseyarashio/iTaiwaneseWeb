@@ -1,0 +1,2434 @@
+<!doctype html>
+<head>
+<script type="text/javascript" src="js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="js/raphael.js"></script>
+<script type="text/javascript" src="js/morris.js"></script>
+<style type="text/css"> 
+pre {
+  height: 250px;
+  overflow: auto;
+}
+</style> 
+<script type="text/javascript">
+	$(function(){
+		var data =[
+			{"syllable": "  ","number": 2 },
+			{"syllable": " , ","number": 265 },
+			{"syllable": " / ","number": 21 },
+			{"syllable": " a1 ","number": 76 },
+			{"syllable": " a2 ","number": 307 },
+			{"syllable": " a3 ","number": 177 },
+			{"syllable": " a4 ","number": 49 },
+			{"syllable": " a5 ","number": 2 },
+			{"syllable": " ah1 ","number": 120 },
+			{"syllable": " ah2 ","number": 28 },
+			{"syllable": " ah3 ","number": 3 },
+			{"syllable": " ai1 ","number": 1 },
+			{"syllable": " ai2 ","number": 2 },
+			{"syllable": " ai3 ","number": 13 },
+			{"syllable": " ai4 ","number": 54 },
+			{"syllable": " ai5 ","number": 1 },
+			{"syllable": " aih2 ","number": 11 },
+			{"syllable": " aih3 ","number": 1 },
+			{"syllable": " am3 ","number": 1 },
+			{"syllable": " am4 ","number": 3 },
+			{"syllable": " an1 ","number": 71 },
+			{"syllable": " an2 ","number": 7 },
+			{"syllable": " an5 ","number": 1 },
+			{"syllable": " ang1 ","number": 3 },
+			{"syllable": " ang2 ","number": 2 },
+			{"syllable": " ang5 ","number": 1 },
+			{"syllable": " ap1 ","number": 2 },
+			{"syllable": " au2 ","number": 7 },
+			{"syllable": " au3 ","number": 3 },
+			{"syllable": " au5 ","number": 2 },
+			{"syllable": " ba1 ","number": 2 },
+			{"syllable": " ba4 ","number": 1 },
+			{"syllable": " ba5 ","number": 2 },
+			{"syllable": " bah1 ","number": 1 },
+			{"syllable": " bah2 ","number": 38 },
+			{"syllable": " bah3 ","number": 1 },
+			{"syllable": " bai2 ","number": 3 },
+			{"syllable": " bai3 ","number": 3 },
+			{"syllable": " bai4 ","number": 4 },
+			{"syllable": " bak1 ","number": 5 },
+			{"syllable": " bak2 ","number": 5 },
+			{"syllable": " ban1 ","number": 2 },
+			{"syllable": " ban3 ","number": 5 },
+			{"syllable": " bang2 ","number": 3 },
+			{"syllable": " bang4 ","number": 4 },
+			{"syllable": " bat1 ","number": 1 },
+			{"syllable": " bat3 ","number": 6 },
+			{"syllable": " bau ","number": 1 },
+			{"syllable": " bau1 ","number": 3 },
+			{"syllable": " bau2 ","number": 9 },
+			{"syllable": " be2 ","number": 6 },
+			{"syllable": " be3 ","number": 2 },
+			{"syllable": " be4 ","number": 1 },
+			{"syllable": " beh2 ","number": 3 },
+			{"syllable": " beh3 ","number": 3 },
+			{"syllable": " ben3 ","number": 6 },
+			{"syllable": " ben4 ","number": 2 },
+			{"syllable": " benn2 ","number": 5 },
+			{"syllable": " benn3 ","number": 1 },
+			{"syllable": " bi1 ","number": 4 },
+			{"syllable": " bi2 ","number": 1 },
+			{"syllable": " bi4 ","number": 1 },
+			{"syllable": " biah2 ","number": 1 },
+			{"syllable": " biau1 ","number": 4 },
+			{"syllable": " bik1 ","number": 1 },
+			{"syllable": " bik2 ","number": 1 },
+			{"syllable": " bin1 ","number": 3 },
+			{"syllable": " bing1 ","number": 2 },
+			{"syllable": " bing2 ","number": 1 },
+			{"syllable": " bing5 ","number": 1 },
+			{"syllable": " binn1 ","number": 7 },
+			{"syllable": " binn2 ","number": 1 },
+			{"syllable": " bit1 ","number": 1 },
+			{"syllable": " bit2 ","number": 5 },
+			{"syllable": " bit3 ","number": 1 },
+			{"syllable": " bng2 ","number": 3 },
+			{"syllable": " bng4 ","number": 1 },
+			{"syllable": " bo2 ","number": 2 },
+			{"syllable": " bo3 ","number": 2 },
+			{"syllable": " bor2 ","number": 1 },
+			{"syllable": " bor3 ","number": 2 },
+			{"syllable": " bor4 ","number": 1 },
+			{"syllable": " bor5 ","number": 1 },
+			{"syllable": " bu2 ","number": 3 },
+			{"syllable": " bua3 ","number": 3 },
+			{"syllable": " buann2 ","number": 4 },
+			{"syllable": " buat3 ","number": 3 },
+			{"syllable": " bun1 ","number": 3 },
+			{"syllable": " bun2 ","number": 1 },
+			{"syllable": " bun4 ","number": 2 },
+			{"syllable": " but1 ","number": 3 },
+			{"syllable": " but3 ","number": 1 },
+			{"syllable": " ca1 ","number": 6 },
+			{"syllable": " ca2 ","number": 3 },
+			{"syllable": " ca4 ","number": 1 },
+			{"syllable": " cai3 ","number": 3 },
+			{"syllable": " cai4 ","number": 1 },
+			{"syllable": " cam2 ","number": 1 },
+			{"syllable": " can2 ","number": 3 },
+			{"syllable": " can5 ","number": 2 },
+			{"syllable": " cang2 ","number": 3 },
+			{"syllable": " cap2 ","number": 1 },
+			{"syllable": " cau2 ","number": 2 },
+			{"syllable": " ce2 ","number": 1 },
+			{"syllable": " ceh2 ","number": 14 },
+			{"syllable": " cen2 ","number": 1 },
+			{"syllable": " cenn2 ","number": 3 },
+			{"syllable": " ci2 ","number": 4 },
+			{"syllable": " ci3 ","number": 2 },
+			{"syllable": " ci4 ","number": 1 },
+			{"syllable": " cia1 ","number": 2 },
+			{"syllable": " cia4 ","number": 6 },
+			{"syllable": " ciann1 ","number": 14 },
+			{"syllable": " ciann4 ","number": 1 },
+			{"syllable": " cim2 ","number": 1 },
+			{"syllable": " cin1 ","number": 12 },
+			{"syllable": " cin2 ","number": 5 },
+			{"syllable": " cing2 ","number": 9 },
+			{"syllable": " cing3 ","number": 2 },
+			{"syllable": " cinn ","number": 1 },
+			{"syllable": " cinn1 ","number": 1 },
+			{"syllable": " cinn2 ","number": 1 },
+			{"syllable": " cior3 ","number": 1 },
+			{"syllable": " ciorh3 ","number": 1 },
+			{"syllable": " cit1 ","number": 1 },
+			{"syllable": " cit2 ","number": 2 },
+			{"syllable": " ciu1 ","number": 2 },
+			{"syllable": " ciu3 ","number": 2 },
+			{"syllable": " ciu4 ","number": 2 },
+			{"syllable": " ciunn1 ","number": 2 },
+			{"syllable": " ciunn2 ","number": 1 },
+			{"syllable": " ciunn3 ","number": 2 },
+			{"syllable": " cong4 ","number": 2 },
+			{"syllable": " cor3 ","number": 1 },
+			{"syllable": " cor4 ","number": 4 },
+			{"syllable": " cu1 ","number": 2 },
+			{"syllable": " cu3 ","number": 8 },
+			{"syllable": " cu4 ","number": 15 },
+			{"syllable": " cua2 ","number": 1 },
+			{"syllable": " cua3 ","number": 9 },
+			{"syllable": " cuan2 ","number": 1 },
+			{"syllable": " cuan5 ","number": 2 },
+			{"syllable": " cue2 ","number": 9 },
+			{"syllable": " cue3 ","number": 6 },
+			{"syllable": " cui3 ","number": 4 },
+			{"syllable": " cun1 ","number": 4 },
+			{"syllable": " cun2 ","number": 2 },
+			{"syllable": " cut1 ","number": 8 },
+			{"syllable": " cut2 ","number": 2 },
+			{"syllable": " cut3 ","number": 1 },
+			{"syllable": " da2 ","number": 1 },
+			{"syllable": " da3 ","number": 1 },
+			{"syllable": " da4 ","number": 8 },
+			{"syllable": " dai2 ","number": 4 },
+			{"syllable": " dai3 ","number": 34 },
+			{"syllable": " dak3 ","number": 17 },
+			{"syllable": " dam1 ","number": 1 },
+			{"syllable": " dam2 ","number": 3 },
+			{"syllable": " dam3 ","number": 3 },
+			{"syllable": " dan1 ","number": 13 },
+			{"syllable": " dan2 ","number": 2 },
+			{"syllable": " dan3 ","number": 2 },
+			{"syllable": " dan4 ","number": 13 },
+			{"syllable": " dan5 ","number": 1 },
+			{"syllable": " dang1 ","number": 1 },
+			{"syllable": " dang2 ","number": 19 },
+			{"syllable": " dang4 ","number": 19 },
+			{"syllable": " dann1 ","number": 4 },
+			{"syllable": " dann3 ","number": 1 },
+			{"syllable": " dann4 ","number": 3 },
+			{"syllable": " dat3 ","number": 1 },
+			{"syllable": " dau1 ","number": 16 },
+			{"syllable": " dau2 ","number": 5 },
+			{"syllable": " dau3 ","number": 2 },
+			{"syllable": " dau4 ","number": 18 },
+			{"syllable": " de1 ","number": 1 },
+			{"syllable": " de2 ","number": 2 },
+			{"syllable": " de3 ","number": 4 },
+			{"syllable": " de4 ","number": 14 },
+			{"syllable": " de5 ","number": 5 },
+			{"syllable": " deh1 ","number": 4 },
+			{"syllable": " di1 ","number": 2 },
+			{"syllable": " di2 ","number": 26 },
+			{"syllable": " di3 ","number": 27 },
+			{"syllable": " di5 ","number": 1 },
+			{"syllable": " diam1 ","number": 4 },
+			{"syllable": " diam2 ","number": 1 },
+			{"syllable": " diam4 ","number": 4 },
+			{"syllable": " diann3 ","number": 4 },
+			{"syllable": " diau2 ","number": 1 },
+			{"syllable": " diau5 ","number": 2 },
+			{"syllable": " dih1 ","number": 1 },
+			{"syllable": " dik1 ","number": 2 },
+			{"syllable": " din2 ","number": 4 },
+			{"syllable": " din3 ","number": 1 },
+			{"syllable": " ding1 ","number": 4 },
+			{"syllable": " ding2 ","number": 2 },
+			{"syllable": " ding3 ","number": 13 },
+			{"syllable": " ding5 ","number": 1 },
+			{"syllable": " dinn1 ","number": 6 },
+			{"syllable": " diong1 ","number": 2 },
+			{"syllable": " diong3 ","number": 1 },
+			{"syllable": " dior3 ","number": 25 },
+			{"syllable": " diorh1 ","number": 2 },
+			{"syllable": " diorh2 ","number": 27 },
+			{"syllable": " diorh3 ","number": 25 },
+			{"syllable": " dit1 ","number": 2 },
+			{"syllable": " dit2 ","number": 1 },
+			{"syllable": " dit3 ","number": 5 },
+			{"syllable": " diu2 ","number": 3 },
+			{"syllable": " diunn1 ","number": 1 },
+			{"syllable": " diunn5 ","number": 2 },
+			{"syllable": " dng1 ","number": 9 },
+			{"syllable": " dng2 ","number": 6 },
+			{"syllable": " dng3 ","number": 4 },
+			{"syllable": " dng4 ","number": 25 },
+			{"syllable": " dngh2 ","number": 3 },
+			{"syllable": " do2 ","number": 2 },
+			{"syllable": " do4 ","number": 1 },
+			{"syllable": " do5 ","number": 1 },
+			{"syllable": " dong1 ","number": 4 },
+			{"syllable": " dong2 ","number": 5 },
+			{"syllable": " dong3 ","number": 3 },
+			{"syllable": " dor1 ","number": 5 },
+			{"syllable": " dor2 ","number": 26 },
+			{"syllable": " dor3 ","number": 79 },
+			{"syllable": " dor4 ","number": 16 },
+			{"syllable": " dorh2 ","number": 2 },
+			{"syllable": " du1 ","number": 6 },
+			{"syllable": " dua2 ","number": 1 },
+			{"syllable": " dua3 ","number": 20 },
+			{"syllable": " dua4 ","number": 2 },
+			{"syllable": " duann1 ","number": 3 },
+			{"syllable": " duann3 ","number": 1 },
+			{"syllable": " due4 ","number": 1 },
+			{"syllable": " dueh2 ","number": 1 },
+			{"syllable": " dui2 ","number": 1 },
+			{"syllable": " dui4 ","number": 20 },
+			{"syllable": " dun3 ","number": 1 },
+			{"syllable": " e1 ","number": 36 },
+			{"syllable": " e2 ","number": 146 },
+			{"syllable": " e3 ","number": 181 },
+			{"syllable": " e5 ","number": 9 },
+			{"syllable": " eh1 ","number": 2 },
+			{"syllable": " eh2 ","number": 23 },
+			{"syllable": " eh3 ","number": 5 },
+			{"syllable": " eh5 ","number": 1 },
+			{"syllable": " en2 ","number": 2 },
+			{"syllable": " en3 ","number": 2 },
+			{"syllable": " en5 ","number": 3 },
+			{"syllable": " ga1 ","number": 1 },
+			{"syllable": " ga2 ","number": 26 },
+			{"syllable": " ga3 ","number": 45 },
+			{"syllable": " ga4 ","number": 6 },
+			{"syllable": " ga5 ","number": 8 },
+			{"syllable": " gah ","number": 2 },
+			{"syllable": " gah1 ","number": 38 },
+			{"syllable": " gai1 ","number": 4 },
+			{"syllable": " gai2 ","number": 4 },
+			{"syllable": " gai4 ","number": 12 },
+			{"syllable": " gak1 ","number": 9 },
+			{"syllable": " gak2 ","number": 2 },
+			{"syllable": " gam1 ","number": 33 },
+			{"syllable": " gam2 ","number": 1 },
+			{"syllable": " gam4 ","number": 2 },
+			{"syllable": " gan1 ","number": 6 },
+			{"syllable": " gan2 ","number": 7 },
+			{"syllable": " gang1 ","number": 9 },
+			{"syllable": " gang2 ","number": 16 },
+			{"syllable": " gang3 ","number": 7 },
+			{"syllable": " gang4 ","number": 1 },
+			{"syllable": " gang5 ","number": 2 },
+			{"syllable": " gann1 ","number": 1 },
+			{"syllable": " gau2 ","number": 2 },
+			{"syllable": " gau3 ","number": 8 },
+			{"syllable": " gau4 ","number": 10 },
+			{"syllable": " gaui1 ","number": 1 },
+			{"syllable": " ge1 ","number": 16 },
+			{"syllable": " ge2 ","number": 13 },
+			{"syllable": " ge3 ","number": 19 },
+			{"syllable": " ge4 ","number": 10 },
+			{"syllable": " gen4 ","number": 2 },
+			{"syllable": " get2 ","number": 1 },
+			{"syllable": " gi1 ","number": 1 },
+			{"syllable": " gi2 ","number": 16 },
+			{"syllable": " gi3 ","number": 9 },
+			{"syllable": " gi4 ","number": 3 },
+			{"syllable": " gia3 ","number": 1 },
+			{"syllable": " giam1 ","number": 3 },
+			{"syllable": " giann1 ","number": 1 },
+			{"syllable": " giann2 ","number": 14 },
+			{"syllable": " giann4 ","number": 17 },
+			{"syllable": " giann5 ","number": 13 },
+			{"syllable": " gik2 ","number": 1 },
+			{"syllable": " gin1 ","number": 32 },
+			{"syllable": " gin2 ","number": 9 },
+			{"syllable": " gin3 ","number": 2 },
+			{"syllable": " gin4 ","number": 24 },
+			{"syllable": " ging1 ","number": 4 },
+			{"syllable": " ging2 ","number": 14 },
+			{"syllable": " ging4 ","number": 4 },
+			{"syllable": " ging5 ","number": 1 },
+			{"syllable": " ginn4 ","number": 1 },
+			{"syllable": " giong2 ","number": 1 },
+			{"syllable": " giong4 ","number": 1 },
+			{"syllable": " gior3 ","number": 1 },
+			{"syllable": " gior4 ","number": 16 },
+			{"syllable": " gip1 ","number": 1 },
+			{"syllable": " gip2 ","number": 2 },
+			{"syllable": " giunn1 ","number": 1 },
+			{"syllable": " gng1 ","number": 1 },
+			{"syllable": " go1 ","number": 1 },
+			{"syllable": " go2 ","number": 1 },
+			{"syllable": " go3 ","number": 3 },
+			{"syllable": " go4 ","number": 8 },
+			{"syllable": " go5 ","number": 1 },
+			{"syllable": " gok1 ","number": 1 },
+			{"syllable": " gong1 ","number": 53 },
+			{"syllable": " gong2 ","number": 8 },
+			{"syllable": " gong4 ","number": 39 },
+			{"syllable": " gong5 ","number": 1 },
+			{"syllable": " gor1 ","number": 27 },
+			{"syllable": " gor2 ","number": 1 },
+			{"syllable": " gor4 ","number": 4 },
+			{"syllable": " gorh ","number": 2 },
+			{"syllable": " gorh1 ","number": 92 },
+			{"syllable": " gu1 ","number": 1 },
+			{"syllable": " gu4 ","number": 9 },
+			{"syllable": " gua1 ","number": 2 },
+			{"syllable": " gua3 ","number": 3 },
+			{"syllable": " gua4 ","number": 2 },
+			{"syllable": " guah1 ","number": 1 },
+			{"syllable": " guai1 ","number": 22 },
+			{"syllable": " guai2 ","number": 7 },
+			{"syllable": " guai3 ","number": 1 },
+			{"syllable": " guai4 ","number": 3 },
+			{"syllable": " guan1 ","number": 4 },
+			{"syllable": " guan2 ","number": 6 },
+			{"syllable": " guan3 ","number": 6 },
+			{"syllable": " guan4 ","number": 2 },
+			{"syllable": " guan5 ","number": 3 },
+			{"syllable": " guann1 ","number": 7 },
+			{"syllable": " guann2 ","number": 1 },
+			{"syllable": " guat1 ","number": 1 },
+			{"syllable": " gue3 ","number": 6 },
+			{"syllable": " gue4 ","number": 1 },
+			{"syllable": " gui1 ","number": 7 },
+			{"syllable": " gui2 ","number": 5 },
+			{"syllable": " gui3 ","number": 2 },
+			{"syllable": " gun2 ","number": 1 },
+			{"syllable": " gut1 ","number": 3 },
+			{"syllable": " ha1 ","number": 3 },
+			{"syllable": " ha2 ","number": 1 },
+			{"syllable": " ha3 ","number": 4 },
+			{"syllable": " hah1 ","number": 3 },
+			{"syllable": " hai2 ","number": 3 },
+			{"syllable": " hai4 ","number": 3 },
+			{"syllable": " haih2 ","number": 1 },
+			{"syllable": " hainn4 ","number": 1 },
+			{"syllable": " hak3 ","number": 22 },
+			{"syllable": " ham3 ","number": 1 },
+			{"syllable": " han2 ","number": 23 },
+			{"syllable": " han3 ","number": 12 },
+			{"syllable": " han4 ","number": 5 },
+			{"syllable": " hang2 ","number": 2 },
+			{"syllable": " hang3 ","number": 2 },
+			{"syllable": " hang5 ","number": 1 },
+			{"syllable": " hann1 ","number": 1 },
+			{"syllable": " hann5 ","number": 6 },
+			{"syllable": " hannh1 ","number": 2 },
+			{"syllable": " hannh2 ","number": 15 },
+			{"syllable": " hannh5 ","number": 2 },
+			{"syllable": " hau2 ","number": 19 },
+			{"syllable": " hau3 ","number": 7 },
+			{"syllable": " hau4 ","number": 1 },
+			{"syllable": " he1 ","number": 25 },
+			{"syllable": " he2 ","number": 3 },
+			{"syllable": " he4 ","number": 1 },
+			{"syllable": " hen2 ","number": 1 },
+			{"syllable": " henn2 ","number": 1 },
+			{"syllable": " hennh2 ","number": 4 },
+			{"syllable": " hennh3 ","number": 1 },
+			{"syllable": " hi1 ","number": 3 },
+			{"syllable": " hi2 ","number": 4 },
+			{"syllable": " hi4 ","number": 8 },
+			{"syllable": " hia1 ","number": 7 },
+			{"syllable": " hiah1 ","number": 6 },
+			{"syllable": " hiai4 ","number": 1 },
+			{"syllable": " hiam1 ","number": 1 },
+			{"syllable": " hiam4 ","number": 1 },
+			{"syllable": " hiang1 ","number": 2 },
+			{"syllable": " hiang4 ","number": 2 },
+			{"syllable": " hiann1 ","number": 13 },
+			{"syllable": " hiau1 ","number": 4 },
+			{"syllable": " hiau4 ","number": 2 },
+			{"syllable": " him2 ","number": 1 },
+			{"syllable": " hing2 ","number": 1 },
+			{"syllable": " hing3 ","number": 2 },
+			{"syllable": " hing4 ","number": 3 },
+			{"syllable": " hing5 ","number": 3 },
+			{"syllable": " hioh2 ","number": 3 },
+			{"syllable": " hiong1 ","number": 1 },
+			{"syllable": " hiong2 ","number": 2 },
+			{"syllable": " hiong5 ","number": 1 },
+			{"syllable": " hior4 ","number": 1 },
+			{"syllable": " hiorh2 ","number": 5 },
+			{"syllable": " hit1 ","number": 8 },
+			{"syllable": " hmh5 ","number": 1 },
+			{"syllable": " hng2 ","number": 2 },
+			{"syllable": " ho1 ","number": 1 },
+			{"syllable": " ho2 ","number": 13 },
+			{"syllable": " ho3 ","number": 35 },
+			{"syllable": " ho4 ","number": 2 },
+			{"syllable": " ho5 ","number": 1 },
+			{"syllable": " hoh2 ","number": 2 },
+			{"syllable": " hoh3 ","number": 2 },
+			{"syllable": " hok1 ","number": 1 },
+			{"syllable": " hok2 ","number": 11 },
+			{"syllable": " hong1 ","number": 2 },
+			{"syllable": " hong2 ","number": 1 },
+			{"syllable": " hong4 ","number": 8 },
+			{"syllable": " honnh1 ","number": 1 },
+			{"syllable": " honnh2 ","number": 130 },
+			{"syllable": " honnh3 ","number": 3 },
+			{"syllable": " honnh5 ","number": 1 },
+			{"syllable": " hor1 ","number": 37 },
+			{"syllable": " hor4 ","number": 141 },
+			{"syllable": " hu1 ","number": 1 },
+			{"syllable": " hu3 ","number": 1 },
+			{"syllable": " hu4 ","number": 1 },
+			{"syllable": " hua1 ","number": 1 },
+			{"syllable": " hua5 ","number": 3 },
+			{"syllable": " huah2 ","number": 5 },
+			{"syllable": " huan2 ","number": 10 },
+			{"syllable": " huan5 ","number": 5 },
+			{"syllable": " huann2 ","number": 11 },
+			{"syllable": " huat1 ","number": 8 },
+			{"syllable": " huat2 ","number": 8 },
+			{"syllable": " huat3 ","number": 1 },
+			{"syllable": " hue1 ","number": 4 },
+			{"syllable": " hue2 ","number": 5 },
+			{"syllable": " hue3 ","number": 8 },
+			{"syllable": " hue4 ","number": 2 },
+			{"syllable": " hue5 ","number": 2 },
+			{"syllable": " hui2 ","number": 17 },
+			{"syllable": " hui3 ","number": 3 },
+			{"syllable": " hui4 ","number": 1 },
+			{"syllable": " hun1 ","number": 1 },
+			{"syllable": " hun2 ","number": 6 },
+			{"syllable": " hun4 ","number": 2 },
+			{"syllable": " i1 ","number": 27 },
+			{"syllable": " i2 ","number": 84 },
+			{"syllable": " i3 ","number": 8 },
+			{"syllable": " i4 ","number": 13 },
+			{"syllable": " i5 ","number": 8 },
+			{"syllable": " ia3 ","number": 5 },
+			{"syllable": " iah1 ","number": 10 },
+			{"syllable": " iah3 ","number": 1 },
+			{"syllable": " iann1 ","number": 9 },
+			{"syllable": " iann2 ","number": 1 },
+			{"syllable": " iann4 ","number": 5 },
+			{"syllable": " iau1 ","number": 5 },
+			{"syllable": " iau3 ","number": 2 },
+			{"syllable": " iau4 ","number": 14 },
+			{"syllable": " in1 ","number": 4 },
+			{"syllable": " in2 ","number": 19 },
+			{"syllable": " ing1 ","number": 3 },
+			{"syllable": " ing2 ","number": 13 },
+			{"syllable": " ing3 ","number": 3 },
+			{"syllable": " ing4 ","number": 7 },
+			{"syllable": " ing5 ","number": 7 },
+			{"syllable": " inn2 ","number": 1 },
+			{"syllable": " iok1 ","number": 1 },
+			{"syllable": " iong1 ","number": 11 },
+			{"syllable": " iong2 ","number": 5 },
+			{"syllable": " iong3 ","number": 5 },
+			{"syllable": " ior1 ","number": 1 },
+			{"syllable": " ior2 ","number": 2 },
+			{"syllable": " ior3 ","number": 2 },
+			{"syllable": " iorh1 ","number": 1 },
+			{"syllable": " iorh2 ","number": 5 },
+			{"syllable": " iorh3 ","number": 13 },
+			{"syllable": " it1 ","number": 19 },
+			{"syllable": " iu1 ","number": 2 },
+			{"syllable": " iu2 ","number": 3 },
+			{"syllable": " iu3 ","number": 1 },
+			{"syllable": " iu5 ","number": 3 },
+			{"syllable": " ka1 ","number": 1 },
+			{"syllable": " ka2 ","number": 4 },
+			{"syllable": " ka4 ","number": 18 },
+			{"syllable": " kah1 ","number": 38 },
+			{"syllable": " kah2 ","number": 1 },
+			{"syllable": " kai2 ","number": 3 },
+			{"syllable": " kai4 ","number": 13 },
+			{"syllable": " kang1 ","number": 1 },
+			{"syllable": " kang2 ","number": 6 },
+			{"syllable": " kat1 ","number": 1 },
+			{"syllable": " kau3 ","number": 8 },
+			{"syllable": " kau4 ","number": 3 },
+			{"syllable": " ke2 ","number": 1 },
+			{"syllable": " ke4 ","number": 1 },
+			{"syllable": " keh2 ","number": 1 },
+			{"syllable": " ki1 ","number": 78 },
+			{"syllable": " ki2 ","number": 1 },
+			{"syllable": " ki3 ","number": 63 },
+			{"syllable": " ki4 ","number": 3 },
+			{"syllable": " kia2 ","number": 1 },
+			{"syllable": " kiai3 ","number": 4 },
+			{"syllable": " kiai4 ","number": 1 },
+			{"syllable": " kiam2 ","number": 1 },
+			{"syllable": " kiam4 ","number": 1 },
+			{"syllable": " kiau4 ","number": 2 },
+			{"syllable": " kin1 ","number": 1 },
+			{"syllable": " kin2 ","number": 2 },
+			{"syllable": " king ","number": 1 },
+			{"syllable": " king1 ","number": 6 },
+			{"syllable": " kit1 ","number": 1 },
+			{"syllable": " kit2 ","number": 3 },
+			{"syllable": " kit3 ","number": 2 },
+			{"syllable": " kng3 ","number": 1 },
+			{"syllable": " kng4 ","number": 3 },
+			{"syllable": " ko1 ","number": 3 },
+			{"syllable": " ko4 ","number": 10 },
+			{"syllable": " kong4 ","number": 2 },
+			{"syllable": " kor1 ","number": 11 },
+			{"syllable": " kor3 ","number": 9 },
+			{"syllable": " kor4 ","number": 6 },
+			{"syllable": " ku1 ","number": 1 },
+			{"syllable": " ku2 ","number": 1 },
+			{"syllable": " kuai3 ","number": 1 },
+			{"syllable": " kuai4 ","number": 2 },
+			{"syllable": " kuainn3 ","number": 1 },
+			{"syllable": " kuainn5 ","number": 1 },
+			{"syllable": " kuan1 ","number": 2 },
+			{"syllable": " kuan4 ","number": 4 },
+			{"syllable": " kuann2 ","number": 1 },
+			{"syllable": " kuann3 ","number": 13 },
+			{"syllable": " kuann4 ","number": 33 },
+			{"syllable": " kue3 ","number": 5 },
+			{"syllable": " kui1 ","number": 3 },
+			{"syllable": " kui2 ","number": 4 },
+			{"syllable": " kuinn4 ","number": 1 },
+			{"syllable": " kun3 ","number": 1 },
+			{"syllable": " kun4 ","number": 1 },
+			{"syllable": " la2 ","number": 6 },
+			{"syllable": " la3 ","number": 224 },
+			{"syllable": " la4 ","number": 1 },
+			{"syllable": " lai2 ","number": 66 },
+			{"syllable": " lai3 ","number": 32 },
+			{"syllable": " lai5 ","number": 52 },
+			{"syllable": " laih2 ","number": 2 },
+			{"syllable": " lak1 ","number": 2 },
+			{"syllable": " lak2 ","number": 1 },
+			{"syllable": " lak3 ","number": 2 },
+			{"syllable": " lam2 ","number": 1 },
+			{"syllable": " lam5 ","number": 1 },
+			{"syllable": " lan1 ","number": 37 },
+			{"syllable": " lan3 ","number": 1 },
+			{"syllable": " lan4 ","number": 1 },
+			{"syllable": " lan5 ","number": 1 },
+			{"syllable": " lang2 ","number": 20 },
+			{"syllable": " lang3 ","number": 5 },
+			{"syllable": " lang5 ","number": 24 },
+			{"syllable": " lap3 ","number": 2 },
+			{"syllable": " lat2 ","number": 2 },
+			{"syllable": " lau1 ","number": 3 },
+			{"syllable": " lau2 ","number": 7 },
+			{"syllable": " lau3 ","number": 7 },
+			{"syllable": " lau4 ","number": 1 },
+			{"syllable": " lau5 ","number": 1 },
+			{"syllable": " le1 ","number": 6 },
+			{"syllable": " le2 ","number": 17 },
+			{"syllable": " le3 ","number": 14 },
+			{"syllable": " le4 ","number": 1 },
+			{"syllable": " le5 ","number": 1 },
+			{"syllable": " leh1 ","number": 22 },
+			{"syllable": " leh2 ","number": 6 },
+			{"syllable": " leh3 ","number": 9 },
+			{"syllable": " len2 ","number": 5 },
+			{"syllable": " len3 ","number": 3 },
+			{"syllable": " len5 ","number": 7 },
+			{"syllable": " let2 ","number": 2 },
+			{"syllable": " li ","number": 3 },
+			{"syllable": " li1 ","number": 286 },
+			{"syllable": " li2 ","number": 16 },
+			{"syllable": " li3 ","number": 29 },
+			{"syllable": " li4 ","number": 31 },
+			{"syllable": " lia1 ","number": 3 },
+			{"syllable": " lia2 ","number": 1 },
+			{"syllable": " lia3 ","number": 7 },
+			{"syllable": " liam2 ","number": 4 },
+			{"syllable": " liam3 ","number": 1 },
+			{"syllable": " liap2 ","number": 4 },
+			{"syllable": " liap3 ","number": 2 },
+			{"syllable": " liau1 ","number": 15 },
+			{"syllable": " liau2 ","number": 1 },
+			{"syllable": " liau4 ","number": 11 },
+			{"syllable": " liau5 ","number": 1 },
+			{"syllable": " lih1 ","number": 1 },
+			{"syllable": " lih2 ","number": 1 },
+			{"syllable": " lih3 ","number": 1 },
+			{"syllable": " lik2 ","number": 2 },
+			{"syllable": " lim1 ","number": 4 },
+			{"syllable": " lim2 ","number": 2 },
+			{"syllable": " lim5 ","number": 2 },
+			{"syllable": " lin1 ","number": 43 },
+			{"syllable": " lin2 ","number": 7 },
+			{"syllable": " lin3 ","number": 3 },
+			{"syllable": " lin4 ","number": 3 },
+			{"syllable": " ling2 ","number": 1 },
+			{"syllable": " ling3 ","number": 2 },
+			{"syllable": " liong2 ","number": 3 },
+			{"syllable": " liorh2 ","number": 3 },
+			{"syllable": " lip2 ","number": 3 },
+			{"syllable": " lit1 ","number": 1 },
+			{"syllable": " lit2 ","number": 5 },
+			{"syllable": " lit3 ","number": 4 },
+			{"syllable": " liu1 ","number": 1 },
+			{"syllable": " lo2 ","number": 4 },
+			{"syllable": " lo3 ","number": 1 },
+			{"syllable": " loh3 ","number": 1 },
+			{"syllable": " lok2 ","number": 2 },
+			{"syllable": " long1 ","number": 49 },
+			{"syllable": " long3 ","number": 1 },
+			{"syllable": " lor1 ","number": 1 },
+			{"syllable": " lor2 ","number": 1 },
+			{"syllable": " lor3 ","number": 3 },
+			{"syllable": " lor4 ","number": 11 },
+			{"syllable": " lorh2 ","number": 1 },
+			{"syllable": " lorh3 ","number": 4 },
+			{"syllable": " lu1 ","number": 18 },
+			{"syllable": " lua3 ","number": 1 },
+			{"syllable": " luaih2 ","number": 1 },
+			{"syllable": " luan4 ","number": 1 },
+			{"syllable": " lueh2 ","number": 1 },
+			{"syllable": " lun3 ","number": 1 },
+			{"syllable": " lun5 ","number": 1 },
+			{"syllable": " m2 ","number": 2 },
+			{"syllable": " m3 ","number": 90 },
+			{"syllable": " m4 ","number": 4 },
+			{"syllable": " m5 ","number": 2 },
+			{"syllable": " ma1 ","number": 5 },
+			{"syllable": " ma2 ","number": 4 },
+			{"syllable": " ma3 ","number": 44 },
+			{"syllable": " ma4 ","number": 23 },
+			{"syllable": " mah3 ","number": 2 },
+			{"syllable": " mai2 ","number": 7 },
+			{"syllable": " mai3 ","number": 2 },
+			{"syllable": " mai4 ","number": 38 },
+			{"syllable": " mau2 ","number": 2 },
+			{"syllable": " me1 ","number": 2 },
+			{"syllable": " me2 ","number": 7 },
+			{"syllable": " me4 ","number": 1 },
+			{"syllable": " me5 ","number": 2 },
+			{"syllable": " meh2 ","number": 12 },
+			{"syllable": " mh1 ","number": 1 },
+			{"syllable": " mh2 ","number": 17 },
+			{"syllable": " mi3 ","number": 1 },
+			{"syllable": " mi4 ","number": 3 },
+			{"syllable": " mia2 ","number": 1 },
+			{"syllable": " mih1 ","number": 19 },
+			{"syllable": " mih2 ","number": 1 },
+			{"syllable": " mih3 ","number": 5 },
+			{"syllable": " mng2 ","number": 6 },
+			{"syllable": " mng3 ","number": 3 },
+			{"syllable": " mng5 ","number": 2 },
+			{"syllable": " mo2 ","number": 1 },
+			{"syllable": " mue5 ","number": 1 },
+			{"syllable": " mui ","number": 1 },
+			{"syllable": " mui2 ","number": 31 },
+			{"syllable": " mui3 ","number": 4 },
+			{"syllable": " na1 ","number": 11 },
+			{"syllable": " na2 ","number": 7 },
+			{"syllable": " na3 ","number": 34 },
+			{"syllable": " na4 ","number": 29 },
+			{"syllable": " nai3 ","number": 1 },
+			{"syllable": " nai4 ","number": 11 },
+			{"syllable": " nau2 ","number": 1 },
+			{"syllable": " nau3 ","number": 2 },
+			{"syllable": " nau4 ","number": 1 },
+			{"syllable": " ne1 ","number": 47 },
+			{"syllable": " ne2 ","number": 5 },
+			{"syllable": " neh2 ","number": 44 },
+			{"syllable": " ng3 ","number": 1 },
+			{"syllable": " ngh2 ","number": 1 },
+			{"syllable": " ni2 ","number": 3 },
+			{"syllable": " ni3 ","number": 9 },
+			{"syllable": " ni5 ","number": 5 },
+			{"syllable": " nia1 ","number": 2 },
+			{"syllable": " nia4 ","number": 1 },
+			{"syllable": " nih2 ","number": 1 },
+			{"syllable": " niu5 ","number": 1 },
+			{"syllable": " nng2 ","number": 3 },
+			{"syllable": " nng3 ","number": 11 },
+			{"syllable": " nngh2 ","number": 1 },
+			{"syllable": " nqe3 ","number": 1 },
+			{"syllable": " nqo1 ","number": 2 },
+			{"syllable": " nqo2 ","number": 1 },
+			{"syllable": " nqo3 ","number": 1 },
+			{"syllable": " nqo4 ","number": 1 },
+			{"syllable": " nua1 ","number": 2 },
+			{"syllable": " nua4 ","number": 2 },
+			{"syllable": " o1 ","number": 11 },
+			{"syllable": " o2 ","number": 19 },
+			{"syllable": " o3 ","number": 21 },
+			{"syllable": " o4 ","number": 1 },
+			{"syllable": " oh1 ","number": 1 },
+			{"syllable": " oh2 ","number": 75 },
+			{"syllable": " oh3 ","number": 47 },
+			{"syllable": " oh5 ","number": 2 },
+			{"syllable": " ong4 ","number": 1 },
+			{"syllable": " ong5 ","number": 3 },
+			{"syllable": " or2 ","number": 2 },
+			{"syllable": " or3 ","number": 2 },
+			{"syllable": " orh1 ","number": 2 },
+			{"syllable": " orh3 ","number": 3 },
+			{"syllable": " pa3 ","number": 1 },
+			{"syllable": " pa4 ","number": 3 },
+			{"syllable": " pai4 ","number": 1 },
+			{"syllable": " painn1 ","number": 7 },
+			{"syllable": " painn4 ","number": 1 },
+			{"syllable": " pang1 ","number": 1 },
+			{"syllable": " pang2 ","number": 1 },
+			{"syllable": " pang5 ","number": 1 },
+			{"syllable": " pau3 ","number": 1 },
+			{"syllable": " pen2 ","number": 4 },
+			{"syllable": " pen4 ","number": 2 },
+			{"syllable": " pi1 ","number": 1 },
+			{"syllable": " pi2 ","number": 1 },
+			{"syllable": " piann1 ","number": 1 },
+			{"syllable": " ping2 ","number": 1 },
+			{"syllable": " po2 ","number": 1 },
+			{"syllable": " por2 ","number": 2 },
+			{"syllable": " por3 ","number": 1 },
+			{"syllable": " puann2 ","number": 1 },
+			{"syllable": " pue1 ","number": 3 },
+			{"syllable": " pue2 ","number": 3 },
+			{"syllable": " pue3 ","number": 1 },
+			{"syllable": " pue4 ","number": 1 },
+			{"syllable": " qau2 ","number": 2 },
+			{"syllable": " qau5 ","number": 3 },
+			{"syllable": " qeh3 ","number": 1 },
+			{"syllable": " qi2 ","number": 1 },
+			{"syllable": " qia2 ","number": 1 },
+			{"syllable": " qia3 ","number": 1 },
+			{"syllable": " qiam2 ","number": 1 },
+			{"syllable": " qiann4 ","number": 1 },
+			{"syllable": " qiap2 ","number": 3 },
+			{"syllable": " qik2 ","number": 2 },
+			{"syllable": " qin1 ","number": 17 },
+			{"syllable": " qip2 ","number": 1 },
+			{"syllable": " qip3 ","number": 1 },
+			{"syllable": " qo2 ","number": 2 },
+			{"syllable": " qo3 ","number": 3 },
+			{"syllable": " qua ","number": 1 },
+			{"syllable": " qua1 ","number": 219 },
+			{"syllable": " qua2 ","number": 4 },
+			{"syllable": " qua3 ","number": 22 },
+			{"syllable": " qua4 ","number": 9 },
+			{"syllable": " quan1 ","number": 3 },
+			{"syllable": " quan2 ","number": 10 },
+			{"syllable": " quan3 ","number": 2 },
+			{"syllable": " quan5 ","number": 1 },
+			{"syllable": " quat3 ","number": 5 },
+			{"syllable": " queh2 ","number": 1 },
+			{"syllable": " qun1 ","number": 21 },
+			{"syllable": " qun4 ","number": 1 },
+			{"syllable": " ren2 ","number": 1 },
+			{"syllable": " ren3 ","number": 1 },
+			{"syllable": " ren5 ","number": 4 },
+			{"syllable": " ri2 ","number": 8 },
+			{"syllable": " ri3 ","number": 5 },
+			{"syllable": " ria1 ","number": 1 },
+			{"syllable": " rim1 ","number": 1 },
+			{"syllable": " rim2 ","number": 1 },
+			{"syllable": " rin3 ","number": 1 },
+			{"syllable": " rin5 ","number": 1 },
+			{"syllable": " rip3 ","number": 1 },
+			{"syllable": " ruah1 ","number": 1 },
+			{"syllable": " ruah2 ","number": 1 },
+			{"syllable": " s3 ","number": 1 },
+			{"syllable": " sai1 ","number": 2 },
+			{"syllable": " sai2 ","number": 3 },
+			{"syllable": " sai3 ","number": 1 },
+			{"syllable": " san3 ","number": 1 },
+			{"syllable": " san4 ","number": 1 },
+			{"syllable": " sang1 ","number": 8 },
+			{"syllable": " sang2 ","number": 2 },
+			{"syllable": " sang3 ","number": 12 },
+			{"syllable": " sang4 ","number": 8 },
+			{"syllable": " sann1 ","number": 7 },
+			{"syllable": " sann2 ","number": 10 },
+			{"syllable": " sannh2 ","number": 6 },
+			{"syllable": " sau4 ","number": 1 },
+			{"syllable": " se1 ","number": 3 },
+			{"syllable": " se3 ","number": 4 },
+			{"syllable": " se4 ","number": 22 },
+			{"syllable": " sen1 ","number": 1 },
+			{"syllable": " sen2 ","number": 13 },
+			{"syllable": " sen5 ","number": 1 },
+			{"syllable": " senn1 ","number": 3 },
+			{"syllable": " senn2 ","number": 8 },
+			{"syllable": " senn3 ","number": 1 },
+			{"syllable": " senn4 ","number": 3 },
+			{"syllable": " senn5 ","number": 1 },
+			{"syllable": " sennh2 ","number": 1 },
+			{"syllable": " set1 ","number": 1 },
+			{"syllable": " si2 ","number": 20 },
+			{"syllable": " si3 ","number": 161 },
+			{"syllable": " si4 ","number": 5 },
+			{"syllable": " si5 ","number": 9 },
+			{"syllable": " sia1 ","number": 10 },
+			{"syllable": " sia2 ","number": 12 },
+			{"syllable": " sia3 ","number": 4 },
+			{"syllable": " sia4 ","number": 6 },
+			{"syllable": " siang2 ","number": 2 },
+			{"syllable": " siang3 ","number": 1 },
+			{"syllable": " siang4 ","number": 1 },
+			{"syllable": " siann1 ","number": 21 },
+			{"syllable": " siann4 ","number": 2 },
+			{"syllable": " siannh2 ","number": 6 },
+			{"syllable": " siau2 ","number": 1 },
+			{"syllable": " siau3 ","number": 1 },
+			{"syllable": " siau4 ","number": 3 },
+			{"syllable": " sik3 ","number": 1 },
+			{"syllable": " sim1 ","number": 17 },
+			{"syllable": " sim2 ","number": 8 },
+			{"syllable": " sim4 ","number": 1 },
+			{"syllable": " sin1 ","number": 3 },
+			{"syllable": " sin2 ","number": 16 },
+			{"syllable": " sing1 ","number": 3 },
+			{"syllable": " sing2 ","number": 24 },
+			{"syllable": " sing3 ","number": 2 },
+			{"syllable": " sing4 ","number": 3 },
+			{"syllable": " sing5 ","number": 1 },
+			{"syllable": " sinn1 ","number": 14 },
+			{"syllable": " sinn2 ","number": 1 },
+			{"syllable": " siok2 ","number": 2 },
+			{"syllable": " siok3 ","number": 4 },
+			{"syllable": " siong1 ","number": 10 },
+			{"syllable": " siong2 ","number": 3 },
+			{"syllable": " siong3 ","number": 9 },
+			{"syllable": " siong4 ","number": 12 },
+			{"syllable": " siong5 ","number": 2 },
+			{"syllable": " sionn3 ","number": 1 },
+			{"syllable": " sior ","number": 1 },
+			{"syllable": " sior1 ","number": 8 },
+			{"syllable": " sior2 ","number": 1 },
+			{"syllable": " sior4 ","number": 1 },
+			{"syllable": " siorh2 ","number": 5 },
+			{"syllable": " sit1 ","number": 6 },
+			{"syllable": " sit2 ","number": 6 },
+			{"syllable": " sit3 ","number": 12 },
+			{"syllable": " siu1 ","number": 7 },
+			{"syllable": " siu2 ","number": 5 },
+			{"syllable": " siu3 ","number": 4 },
+			{"syllable": " siunn2 ","number": 8 },
+			{"syllable": " siunn3 ","number": 39 },
+			{"syllable": " sng1 ","number": 1 },
+			{"syllable": " sng3 ","number": 3 },
+			{"syllable": " sng4 ","number": 2 },
+			{"syllable": " so1 ","number": 8 },
+			{"syllable": " so3 ","number": 1 },
+			{"syllable": " so4 ","number": 12 },
+			{"syllable": " song1 ","number": 1 },
+			{"syllable": " sor4 ","number": 1 },
+			{"syllable": " su1 ","number": 7 },
+			{"syllable": " su2 ","number": 11 },
+			{"syllable": " su3 ","number": 6 },
+			{"syllable": " su4 ","number": 1 },
+			{"syllable": " sua1 ","number": 1 },
+			{"syllable": " sua3 ","number": 1 },
+			{"syllable": " suah1 ","number": 1 },
+			{"syllable": " suan1 ","number": 1 },
+			{"syllable": " suan2 ","number": 1 },
+			{"syllable": " suann1 ","number": 1 },
+			{"syllable": " suann3 ","number": 1 },
+			{"syllable": " sue4 ","number": 1 },
+			{"syllable": " sui1 ","number": 1 },
+			{"syllable": " sui2 ","number": 5 },
+			{"syllable": " sui4 ","number": 8 },
+			{"syllable": " sui5 ","number": 1 },
+			{"syllable": " sun3 ","number": 11 },
+			{"syllable": " sut1 ","number": 2 },
+			{"syllable": " ta1 ","number": 1 },
+			{"syllable": " tai4 ","number": 1 },
+			{"syllable": " tak3 ","number": 27 },
+			{"syllable": " tam4 ","number": 1 },
+			{"syllable": " tan3 ","number": 1 },
+			{"syllable": " tan4 ","number": 5 },
+			{"syllable": " tang2 ","number": 5 },
+			{"syllable": " tau2 ","number": 14 },
+			{"syllable": " tau4 ","number": 1 },
+			{"syllable": " tau5 ","number": 8 },
+			{"syllable": " te1 ","number": 2 },
+			{"syllable": " te2 ","number": 2 },
+			{"syllable": " te3 ","number": 10 },
+			{"syllable": " te4 ","number": 14 },
+			{"syllable": " tiam2 ","number": 9 },
+			{"syllable": " tiam4 ","number": 1 },
+			{"syllable": " tiann1 ","number": 5 },
+			{"syllable": " tiann2 ","number": 14 },
+			{"syllable": " tiann3 ","number": 6 },
+			{"syllable": " tiann4 ","number": 2 },
+			{"syllable": " tiau2 ","number": 4 },
+			{"syllable": " ting2 ","number": 1 },
+			{"syllable": " tinn1 ","number": 1 },
+			{"syllable": " tng1 ","number": 1 },
+			{"syllable": " tng5 ","number": 1 },
+			{"syllable": " tok1 ","number": 1 },
+			{"syllable": " tok2 ","number": 2 },
+			{"syllable": " tor4 ","number": 1 },
+			{"syllable": " tua2 ","number": 4 },
+			{"syllable": " tuan5 ","number": 2 },
+			{"syllable": " tun2 ","number": 1 },
+			{"syllable": " u1 ","number": 7 },
+			{"syllable": " u2 ","number": 15 },
+			{"syllable": " u3 ","number": 97 },
+			{"syllable": " uah1 ","number": 2 },
+			{"syllable": " uah2 ","number": 4 },
+			{"syllable": " uan2 ","number": 2 },
+			{"syllable": " uan4 ","number": 2 },
+			{"syllable": " uan5 ","number": 2 },
+			{"syllable": " uann1 ","number": 2 },
+			{"syllable": " uann3 ","number": 3 },
+			{"syllable": " uann4 ","number": 1 },
+			{"syllable": " ue2 ","number": 14 },
+			{"syllable": " ui2 ","number": 4 },
+			{"syllable": " ui3 ","number": 15 },
+			{"syllable": " ui4 ","number": 2 },
+			{"syllable": " un1 ","number": 3 },
+			{"syllable": " un2 ","number": 2 },
+			{"syllable": " va3 ","number": 1 },
+			{"syllable": " vai4 ","number": 10 },
+			{"syllable": " van2 ","number": 3 },
+			{"syllable": " van3 ","number": 4 },
+			{"syllable": " vang2 ","number": 2 },
+			{"syllable": " vang3 ","number": 3 },
+			{"syllable": " vat1 ","number": 2 },
+			{"syllable": " vat2 ","number": 3 },
+			{"syllable": " vat3 ","number": 5 },
+			{"syllable": " ve1 ","number": 2 },
+			{"syllable": " ve2 ","number": 10 },
+			{"syllable": " ve3 ","number": 67 },
+			{"syllable": " ve4 ","number": 2 },
+			{"syllable": " veh1 ","number": 63 },
+			{"syllable": " veh2 ","number": 1 },
+			{"syllable": " ven1 ","number": 15 },
+			{"syllable": " ven4 ","number": 3 },
+			{"syllable": " vi1 ","number": 15 },
+			{"syllable": " vi2 ","number": 1 },
+			{"syllable": " vi3 ","number": 3 },
+			{"syllable": " viau2 ","number": 1 },
+			{"syllable": " vin2 ","number": 7 },
+			{"syllable": " vin3 ","number": 1 },
+			{"syllable": " vin5 ","number": 1 },
+			{"syllable": " ving2 ","number": 3 },
+			{"syllable": " vo1 ","number": 8 },
+			{"syllable": " vo2 ","number": 1 },
+			{"syllable": " vo3 ","number": 5 },
+			{"syllable": " vo4 ","number": 8 },
+			{"syllable": " vok3 ","number": 2 },
+			{"syllable": " vong2 ","number": 2 },
+			{"syllable": " vor1 ","number": 1 },
+			{"syllable": " vor2 ","number": 69 },
+			{"syllable": " vor3 ","number": 51 },
+			{"syllable": " vor5 ","number": 15 },
+			{"syllable": " vu1 ","number": 1 },
+			{"syllable": " vu4 ","number": 95 },
+			{"syllable": " vua5 ","number": 1 },
+			{"syllable": " vuai5 ","number": 7 },
+			{"syllable": " vue1 ","number": 6 },
+			{"syllable": " vue2 ","number": 1 },
+			{"syllable": " vue3 ","number": 7 },
+			{"syllable": " vue4 ","number": 10 },
+			{"syllable": " vun1 ","number": 1 },
+			{"syllable": " vun3 ","number": 1 },
+			{"syllable": " za1 ","number": 5 },
+			{"syllable": " za2 ","number": 16 },
+			{"syllable": " za4 ","number": 8 },
+			{"syllable": " za5 ","number": 2 },
+			{"syllable": " zah1 ","number": 1 },
+			{"syllable": " zai1 ","number": 20 },
+			{"syllable": " zai2 ","number": 24 },
+			{"syllable": " zai3 ","number": 4 },
+			{"syllable": " zai4 ","number": 4 },
+			{"syllable": " zai5 ","number": 1 },
+			{"syllable": " zaih1 ","number": 1 },
+			{"syllable": " zam2 ","number": 1 },
+			{"syllable": " zap3 ","number": 5 },
+			{"syllable": " zat3 ","number": 1 },
+			{"syllable": " zau1 ","number": 1 },
+			{"syllable": " zau2 ","number": 2 },
+			{"syllable": " zau4 ","number": 9 },
+			{"syllable": " zau5 ","number": 5 },
+			{"syllable": " ze1 ","number": 28 },
+			{"syllable": " ze2 ","number": 20 },
+			{"syllable": " ze3 ","number": 9 },
+			{"syllable": " ze4 ","number": 2 },
+			{"syllable": " ze5 ","number": 1 },
+			{"syllable": " zen3 ","number": 1 },
+			{"syllable": " zi1 ","number": 2 },
+			{"syllable": " zi3 ","number": 29 },
+			{"syllable": " zi4 ","number": 24 },
+			{"syllable": " zi5 ","number": 22 },
+			{"syllable": " zia1 ","number": 22 },
+			{"syllable": " zia4 ","number": 1 },
+			{"syllable": " ziah1 ","number": 58 },
+			{"syllable": " ziah2 ","number": 18 },
+			{"syllable": " ziah3 ","number": 21 },
+			{"syllable": " ziam3 ","number": 1 },
+			{"syllable": " ziang3 ","number": 16 },
+			{"syllable": " ziann1 ","number": 1 },
+			{"syllable": " ziann2 ","number": 17 },
+			{"syllable": " ziann3 ","number": 1 },
+			{"syllable": " ziann4 ","number": 12 },
+			{"syllable": " ziap1 ","number": 1 },
+			{"syllable": " ziau4 ","number": 10 },
+			{"syllable": " zik1 ","number": 2 },
+			{"syllable": " zik2 ","number": 5 },
+			{"syllable": " zim2 ","number": 1 },
+			{"syllable": " zim4 ","number": 3 },
+			{"syllable": " zin1 ","number": 16 },
+			{"syllable": " zin2 ","number": 45 },
+			{"syllable": " zin3 ","number": 2 },
+			{"syllable": " zin4 ","number": 2 },
+			{"syllable": " zing1 ","number": 1 },
+			{"syllable": " zing2 ","number": 3 },
+			{"syllable": " zing3 ","number": 17 },
+			{"syllable": " zing4 ","number": 5 },
+			{"syllable": " zing5 ","number": 6 },
+			{"syllable": " zinn5 ","number": 25 },
+			{"syllable": " ziok1 ","number": 36 },
+			{"syllable": " ziong1 ","number": 2 },
+			{"syllable": " ziong2 ","number": 7 },
+			{"syllable": " ziong3 ","number": 3 },
+			{"syllable": " ziong4 ","number": 2 },
+			{"syllable": " zior4 ","number": 3 },
+			{"syllable": " ziorh3 ","number": 1 },
+			{"syllable": " zip1 ","number": 1 },
+			{"syllable": " zit ","number": 2 },
+			{"syllable": " zit1 ","number": 51 },
+			{"syllable": " zit3 ","number": 67 },
+			{"syllable": " ziu1 ","number": 4 },
+			{"syllable": " ziu4 ","number": 2 },
+			{"syllable": " zng1 ","number": 1 },
+			{"syllable": " zo4 ","number": 1 },
+			{"syllable": " zok1 ","number": 9 },
+			{"syllable": " zong1 ","number": 1 },
+			{"syllable": " zong2 ","number": 1 },
+			{"syllable": " zong4 ","number": 2 },
+			{"syllable": " zor3 ","number": 10 },
+			{"syllable": " zor4 ","number": 36 },
+			{"syllable": " zorh2 ","number": 1 },
+			{"syllable": " zu1 ","number": 18 },
+			{"syllable": " zu2 ","number": 1 },
+			{"syllable": " zu3 ","number": 10 },
+			{"syllable": " zu4 ","number": 37 },
+			{"syllable": " zua3 ","number": 1 },
+			{"syllable": " zuai4 ","number": 1 },
+			{"syllable": " zuainn2 ","number": 1 },
+			{"syllable": " zuan2 ","number": 1 },
+			{"syllable": " zuan5 ","number": 1 },
+			{"syllable": " zuann1 ","number": 1 },
+			{"syllable": " zuann4 ","number": 13 },
+			{"syllable": " zuat3 ","number": 2 },
+			{"syllable": " zue2 ","number": 2 },
+			{"syllable": " zue3 ","number": 1 },
+			{"syllable": " zue4 ","number": 3 },
+			{"syllable": " zui1 ","number": 2 },
+			{"syllable": " zui4 ","number": 2 },
+			{"syllable": " zun1 ","number": 1 },
+			{"syllable": " zun2 ","number": 13 },
+			{"syllable": " zun4 ","number": 1 },
+			{"syllable": " 一 ","number": 4 },
+			{"syllable": " 下 ","number": 1 },
+			{"syllable": " 不 ","number": 3 },
+			{"syllable": " 久 ","number": 1 },
+			{"syllable": " 乖 ","number": 2 },
+			{"syllable": " 也 ","number": 3 },
+			{"syllable": " 了 ","number": 4 },
+			{"syllable": " 事 ","number": 3 },
+			{"syllable": " 人 ","number": 1 },
+			{"syllable": " 什 ","number": 1 },
+			{"syllable": " 他 ","number": 1 },
+			{"syllable": " 以 ","number": 1 },
+			{"syllable": " 作 ","number": 1 },
+			{"syllable": " 你 ","number": 7 },
+			{"syllable": " 來 ","number": 2 },
+			{"syllable": " 個 ","number": 3 },
+			{"syllable": " 們 ","number": 4 },
+			{"syllable": " 候 ","number": 2 },
+			{"syllable": " 假 ","number": 1 },
+			{"syllable": " 做 ","number": 1 },
+			{"syllable": " 先 ","number": 1 },
+			{"syllable": " 兩 ","number": 1 },
+			{"syllable": " 六百七十 ","number": 1 },
+			{"syllable": " 別 ","number": 2 },
+			{"syllable": " 包 ","number": 1 },
+			{"syllable": " 北 ","number": 1 },
+			{"syllable": " 去 ","number": 2 },
+			{"syllable": " 受 ","number": 1 },
+			{"syllable": " 口 ","number": 2 },
+			{"syllable": " 只 ","number": 1 },
+			{"syllable": " 可 ","number": 2 },
+			{"syllable": " 台 ","number": 1 },
+			{"syllable": " 吃 ","number": 2 },
+			{"syllable": " 和 ","number": 1 },
+			{"syllable": " 哄 ","number": 1 },
+			{"syllable": " 哭 ","number": 1 },
+			{"syllable": " 啊 ","number": 1 },
+			{"syllable": " 喔 ","number": 1 },
+			{"syllable": " 回 ","number": 2 },
+			{"syllable": " 固 ","number": 1 },
+			{"syllable": " 在 ","number": 3 },
+			{"syllable": " 地 ","number": 1 },
+			{"syllable": " 塊 ","number": 1 },
+			{"syllable": " 多 ","number": 1 },
+			{"syllable": " 夫 ","number": 1 },
+			{"syllable": " 她 ","number": 3 },
+			{"syllable": " 好 ","number": 3 },
+			{"syllable": " 姊 ","number": 3 },
+			{"syllable": " 婚 ","number": 1 },
+			{"syllable": " 子 ","number": 3 },
+			{"syllable": " 字 ","number": 1 },
+			{"syllable": " 孩 ","number": 3 },
+			{"syllable": " 學 ","number": 2 },
+			{"syllable": " 定 ","number": 1 },
+			{"syllable": " 寫 ","number": 1 },
+			{"syllable": " 小 ","number": 1 },
+			{"syllable": " 就 ","number": 4 },
+			{"syllable": " 工 ","number": 2 },
+			{"syllable": " 己 ","number": 3 },
+			{"syllable": " 師 ","number": 1 },
+			{"syllable": " 幫 ","number": 1 },
+			{"syllable": " 年 ","number": 1 },
+			{"syllable": " 幾 ","number": 1 },
+			{"syllable": " 弟 ","number": 10 },
+			{"syllable": " 張 ","number": 1 },
+			{"syllable": " 得 ","number": 1 },
+			{"syllable": " 心 ","number": 1 },
+			{"syllable": " 忙 ","number": 1 },
+			{"syllable": " 意 ","number": 1 },
+			{"syllable": " 我 ","number": 5 },
+			{"syllable": " 才 ","number": 1 },
+			{"syllable": " 把 ","number": 1 },
+			{"syllable": " 搬 ","number": 1 },
+			{"syllable": " 擺 ","number": 1 },
+			{"syllable": " 攤 ","number": 1 },
+			{"syllable": " 放 ","number": 2 },
+			{"syllable": " 教 ","number": 2 },
+			{"syllable": " 整 ","number": 1 },
+			{"syllable": " 方 ","number": 1 },
+			{"syllable": " 明 ","number": 1 },
+			{"syllable": " 是 ","number": 4 },
+			{"syllable": " 時 ","number": 3 },
+			{"syllable": " 會 ","number": 2 },
+			{"syllable": " 有 ","number": 4 },
+			{"syllable": " 林 ","number": 1 },
+			{"syllable": " 桌 ","number": 1 },
+			{"syllable": " 業 ","number": 1 },
+			{"syllable": " 機 ","number": 1 },
+			{"syllable": " 決 ","number": 1 },
+			{"syllable": " 沒 ","number": 2 },
+			{"syllable": " 然 ","number": 2 },
+			{"syllable": " 爸 ","number": 1 },
+			{"syllable": " 生 ","number": 2 },
+			{"syllable": " 白 ","number": 1 },
+			{"syllable": " 的 ","number": 8 },
+			{"syllable": " 相 ","number": 1 },
+			{"syllable": " 看 ","number": 1 },
+			{"syllable": " 真 ","number": 2 },
+			{"syllable": " 等 ","number": 3 },
+			{"syllable": " 給 ","number": 1 },
+			{"syllable": " 罐 ","number": 1 },
+			{"syllable": " 羅 ","number": 1 },
+			{"syllable": " 育 ","number": 1 },
+			{"syllable": " 膽 ","number": 1 },
+			{"syllable": " 自 ","number": 4 },
+			{"syllable": " 藥 ","number": 1 },
+			{"syllable": " 裡 ","number": 1 },
+			{"syllable": " 要 ","number": 4 },
+			{"syllable": " 親 ","number": 1 },
+			{"syllable": " 說 ","number": 1 },
+			{"syllable": " 請 ","number": 1 },
+			{"syllable": " 謝 ","number": 2 },
+			{"syllable": " 讓 ","number": 1 },
+			{"syllable": " 起 ","number": 1 },
+			{"syllable": " 跑 ","number": 1 },
+			{"syllable": " 這 ","number": 4 },
+			{"syllable": " 過 ","number": 1 },
+			{"syllable": " 還 ","number": 1 },
+			{"syllable": " 那 ","number": 3 },
+			{"syllable": " 都 ","number": 4 },
+			{"syllable": " 醫 ","number": 1 },
+			{"syllable": " 重 ","number": 1 },
+			{"syllable": " 錯 ","number": 1 },
+			{"syllable": " 門 ","number": 1 },
+			{"syllable": " 開 ","number": 1 },
+			{"syllable": " 關 ","number": 1 },
+			{"syllable": " 陌 ","number": 1 },
+			{"syllable": " 麼 ","number": 2 },
+];
+	Morris.Bar({
+		  element: 'Bar',
+		  data: data, 
+		  xkey: 'syllable',
+		  ymax: 'auto',
+		  ykeys: ['number'],
+		  labels: ['syllable','number']
+		});
+	});
+</script>
+<body>
+	<div id="Bar"></div>
+	<pre id="code" class="prettyprint linenums">
+	   :  2 
+	 ,  :  265 
+	 /  :  21 
+	 a1  :  76 
+	 a2  :  307 
+	 a3  :  177 
+	 a4  :  49 
+	 a5  :  2 
+	 ah1  :  120 
+	 ah2  :  28 
+	 ah3  :  3 
+	 ai1  :  1 
+	 ai2  :  2 
+	 ai3  :  13 
+	 ai4  :  54 
+	 ai5  :  1 
+	 aih2  :  11 
+	 aih3  :  1 
+	 am3  :  1 
+	 am4  :  3 
+	 an1  :  71 
+	 an2  :  7 
+	 an5  :  1 
+	 ang1  :  3 
+	 ang2  :  2 
+	 ang5  :  1 
+	 ap1  :  2 
+	 au2  :  7 
+	 au3  :  3 
+	 au5  :  2 
+	 ba1  :  2 
+	 ba4  :  1 
+	 ba5  :  2 
+	 bah1  :  1 
+	 bah2  :  38 
+	 bah3  :  1 
+	 bai2  :  3 
+	 bai3  :  3 
+	 bai4  :  4 
+	 bak1  :  5 
+	 bak2  :  5 
+	 ban1  :  2 
+	 ban3  :  5 
+	 bang2  :  3 
+	 bang4  :  4 
+	 bat1  :  1 
+	 bat3  :  6 
+	 bau  :  1 
+	 bau1  :  3 
+	 bau2  :  9 
+	 be2  :  6 
+	 be3  :  2 
+	 be4  :  1 
+	 beh2  :  3 
+	 beh3  :  3 
+	 ben3  :  6 
+	 ben4  :  2 
+	 benn2  :  5 
+	 benn3  :  1 
+	 bi1  :  4 
+	 bi2  :  1 
+	 bi4  :  1 
+	 biah2  :  1 
+	 biau1  :  4 
+	 bik1  :  1 
+	 bik2  :  1 
+	 bin1  :  3 
+	 bing1  :  2 
+	 bing2  :  1 
+	 bing5  :  1 
+	 binn1  :  7 
+	 binn2  :  1 
+	 bit1  :  1 
+	 bit2  :  5 
+	 bit3  :  1 
+	 bng2  :  3 
+	 bng4  :  1 
+	 bo2  :  2 
+	 bo3  :  2 
+	 bor2  :  1 
+	 bor3  :  2 
+	 bor4  :  1 
+	 bor5  :  1 
+	 bu2  :  3 
+	 bua3  :  3 
+	 buann2  :  4 
+	 buat3  :  3 
+	 bun1  :  3 
+	 bun2  :  1 
+	 bun4  :  2 
+	 but1  :  3 
+	 but3  :  1 
+	 ca1  :  6 
+	 ca2  :  3 
+	 ca4  :  1 
+	 cai3  :  3 
+	 cai4  :  1 
+	 cam2  :  1 
+	 can2  :  3 
+	 can5  :  2 
+	 cang2  :  3 
+	 cap2  :  1 
+	 cau2  :  2 
+	 ce2  :  1 
+	 ceh2  :  14 
+	 cen2  :  1 
+	 cenn2  :  3 
+	 ci2  :  4 
+	 ci3  :  2 
+	 ci4  :  1 
+	 cia1  :  2 
+	 cia4  :  6 
+	 ciann1  :  14 
+	 ciann4  :  1 
+	 cim2  :  1 
+	 cin1  :  12 
+	 cin2  :  5 
+	 cing2  :  9 
+	 cing3  :  2 
+	 cinn  :  1 
+	 cinn1  :  1 
+	 cinn2  :  1 
+	 cior3  :  1 
+	 ciorh3  :  1 
+	 cit1  :  1 
+	 cit2  :  2 
+	 ciu1  :  2 
+	 ciu3  :  2 
+	 ciu4  :  2 
+	 ciunn1  :  2 
+	 ciunn2  :  1 
+	 ciunn3  :  2 
+	 cong4  :  2 
+	 cor3  :  1 
+	 cor4  :  4 
+	 cu1  :  2 
+	 cu3  :  8 
+	 cu4  :  15 
+	 cua2  :  1 
+	 cua3  :  9 
+	 cuan2  :  1 
+	 cuan5  :  2 
+	 cue2  :  9 
+	 cue3  :  6 
+	 cui3  :  4 
+	 cun1  :  4 
+	 cun2  :  2 
+	 cut1  :  8 
+	 cut2  :  2 
+	 cut3  :  1 
+	 da2  :  1 
+	 da3  :  1 
+	 da4  :  8 
+	 dai2  :  4 
+	 dai3  :  34 
+	 dak3  :  17 
+	 dam1  :  1 
+	 dam2  :  3 
+	 dam3  :  3 
+	 dan1  :  13 
+	 dan2  :  2 
+	 dan3  :  2 
+	 dan4  :  13 
+	 dan5  :  1 
+	 dang1  :  1 
+	 dang2  :  19 
+	 dang4  :  19 
+	 dann1  :  4 
+	 dann3  :  1 
+	 dann4  :  3 
+	 dat3  :  1 
+	 dau1  :  16 
+	 dau2  :  5 
+	 dau3  :  2 
+	 dau4  :  18 
+	 de1  :  1 
+	 de2  :  2 
+	 de3  :  4 
+	 de4  :  14 
+	 de5  :  5 
+	 deh1  :  4 
+	 di1  :  2 
+	 di2  :  26 
+	 di3  :  27 
+	 di5  :  1 
+	 diam1  :  4 
+	 diam2  :  1 
+	 diam4  :  4 
+	 diann3  :  4 
+	 diau2  :  1 
+	 diau5  :  2 
+	 dih1  :  1 
+	 dik1  :  2 
+	 din2  :  4 
+	 din3  :  1 
+	 ding1  :  4 
+	 ding2  :  2 
+	 ding3  :  13 
+	 ding5  :  1 
+	 dinn1  :  6 
+	 diong1  :  2 
+	 diong3  :  1 
+	 dior3  :  25 
+	 diorh1  :  2 
+	 diorh2  :  27 
+	 diorh3  :  25 
+	 dit1  :  2 
+	 dit2  :  1 
+	 dit3  :  5 
+	 diu2  :  3 
+	 diunn1  :  1 
+	 diunn5  :  2 
+	 dng1  :  9 
+	 dng2  :  6 
+	 dng3  :  4 
+	 dng4  :  25 
+	 dngh2  :  3 
+	 do2  :  2 
+	 do4  :  1 
+	 do5  :  1 
+	 dong1  :  4 
+	 dong2  :  5 
+	 dong3  :  3 
+	 dor1  :  5 
+	 dor2  :  26 
+	 dor3  :  79 
+	 dor4  :  16 
+	 dorh2  :  2 
+	 du1  :  6 
+	 dua2  :  1 
+	 dua3  :  20 
+	 dua4  :  2 
+	 duann1  :  3 
+	 duann3  :  1 
+	 due4  :  1 
+	 dueh2  :  1 
+	 dui2  :  1 
+	 dui4  :  20 
+	 dun3  :  1 
+	 e1  :  36 
+	 e2  :  146 
+	 e3  :  181 
+	 e5  :  9 
+	 eh1  :  2 
+	 eh2  :  23 
+	 eh3  :  5 
+	 eh5  :  1 
+	 en2  :  2 
+	 en3  :  2 
+	 en5  :  3 
+	 ga1  :  1 
+	 ga2  :  26 
+	 ga3  :  45 
+	 ga4  :  6 
+	 ga5  :  8 
+	 gah  :  2 
+	 gah1  :  38 
+	 gai1  :  4 
+	 gai2  :  4 
+	 gai4  :  12 
+	 gak1  :  9 
+	 gak2  :  2 
+	 gam1  :  33 
+	 gam2  :  1 
+	 gam4  :  2 
+	 gan1  :  6 
+	 gan2  :  7 
+	 gang1  :  9 
+	 gang2  :  16 
+	 gang3  :  7 
+	 gang4  :  1 
+	 gang5  :  2 
+	 gann1  :  1 
+	 gau2  :  2 
+	 gau3  :  8 
+	 gau4  :  10 
+	 gaui1  :  1 
+	 ge1  :  16 
+	 ge2  :  13 
+	 ge3  :  19 
+	 ge4  :  10 
+	 gen4  :  2 
+	 get2  :  1 
+	 gi1  :  1 
+	 gi2  :  16 
+	 gi3  :  9 
+	 gi4  :  3 
+	 gia3  :  1 
+	 giam1  :  3 
+	 giann1  :  1 
+	 giann2  :  14 
+	 giann4  :  17 
+	 giann5  :  13 
+	 gik2  :  1 
+	 gin1  :  32 
+	 gin2  :  9 
+	 gin3  :  2 
+	 gin4  :  24 
+	 ging1  :  4 
+	 ging2  :  14 
+	 ging4  :  4 
+	 ging5  :  1 
+	 ginn4  :  1 
+	 giong2  :  1 
+	 giong4  :  1 
+	 gior3  :  1 
+	 gior4  :  16 
+	 gip1  :  1 
+	 gip2  :  2 
+	 giunn1  :  1 
+	 gng1  :  1 
+	 go1  :  1 
+	 go2  :  1 
+	 go3  :  3 
+	 go4  :  8 
+	 go5  :  1 
+	 gok1  :  1 
+	 gong1  :  53 
+	 gong2  :  8 
+	 gong4  :  39 
+	 gong5  :  1 
+	 gor1  :  27 
+	 gor2  :  1 
+	 gor4  :  4 
+	 gorh  :  2 
+	 gorh1  :  92 
+	 gu1  :  1 
+	 gu4  :  9 
+	 gua1  :  2 
+	 gua3  :  3 
+	 gua4  :  2 
+	 guah1  :  1 
+	 guai1  :  22 
+	 guai2  :  7 
+	 guai3  :  1 
+	 guai4  :  3 
+	 guan1  :  4 
+	 guan2  :  6 
+	 guan3  :  6 
+	 guan4  :  2 
+	 guan5  :  3 
+	 guann1  :  7 
+	 guann2  :  1 
+	 guat1  :  1 
+	 gue3  :  6 
+	 gue4  :  1 
+	 gui1  :  7 
+	 gui2  :  5 
+	 gui3  :  2 
+	 gun2  :  1 
+	 gut1  :  3 
+	 ha1  :  3 
+	 ha2  :  1 
+	 ha3  :  4 
+	 hah1  :  3 
+	 hai2  :  3 
+	 hai4  :  3 
+	 haih2  :  1 
+	 hainn4  :  1 
+	 hak3  :  22 
+	 ham3  :  1 
+	 han2  :  23 
+	 han3  :  12 
+	 han4  :  5 
+	 hang2  :  2 
+	 hang3  :  2 
+	 hang5  :  1 
+	 hann1  :  1 
+	 hann5  :  6 
+	 hannh1  :  2 
+	 hannh2  :  15 
+	 hannh5  :  2 
+	 hau2  :  19 
+	 hau3  :  7 
+	 hau4  :  1 
+	 he1  :  25 
+	 he2  :  3 
+	 he4  :  1 
+	 hen2  :  1 
+	 henn2  :  1 
+	 hennh2  :  4 
+	 hennh3  :  1 
+	 hi1  :  3 
+	 hi2  :  4 
+	 hi4  :  8 
+	 hia1  :  7 
+	 hiah1  :  6 
+	 hiai4  :  1 
+	 hiam1  :  1 
+	 hiam4  :  1 
+	 hiang1  :  2 
+	 hiang4  :  2 
+	 hiann1  :  13 
+	 hiau1  :  4 
+	 hiau4  :  2 
+	 him2  :  1 
+	 hing2  :  1 
+	 hing3  :  2 
+	 hing4  :  3 
+	 hing5  :  3 
+	 hioh2  :  3 
+	 hiong1  :  1 
+	 hiong2  :  2 
+	 hiong5  :  1 
+	 hior4  :  1 
+	 hiorh2  :  5 
+	 hit1  :  8 
+	 hmh5  :  1 
+	 hng2  :  2 
+	 ho1  :  1 
+	 ho2  :  13 
+	 ho3  :  35 
+	 ho4  :  2 
+	 ho5  :  1 
+	 hoh2  :  2 
+	 hoh3  :  2 
+	 hok1  :  1 
+	 hok2  :  11 
+	 hong1  :  2 
+	 hong2  :  1 
+	 hong4  :  8 
+	 honnh1  :  1 
+	 honnh2  :  130 
+	 honnh3  :  3 
+	 honnh5  :  1 
+	 hor1  :  37 
+	 hor4  :  141 
+	 hu1  :  1 
+	 hu3  :  1 
+	 hu4  :  1 
+	 hua1  :  1 
+	 hua5  :  3 
+	 huah2  :  5 
+	 huan2  :  10 
+	 huan5  :  5 
+	 huann2  :  11 
+	 huat1  :  8 
+	 huat2  :  8 
+	 huat3  :  1 
+	 hue1  :  4 
+	 hue2  :  5 
+	 hue3  :  8 
+	 hue4  :  2 
+	 hue5  :  2 
+	 hui2  :  17 
+	 hui3  :  3 
+	 hui4  :  1 
+	 hun1  :  1 
+	 hun2  :  6 
+	 hun4  :  2 
+	 i1  :  27 
+	 i2  :  84 
+	 i3  :  8 
+	 i4  :  13 
+	 i5  :  8 
+	 ia3  :  5 
+	 iah1  :  10 
+	 iah3  :  1 
+	 iann1  :  9 
+	 iann2  :  1 
+	 iann4  :  5 
+	 iau1  :  5 
+	 iau3  :  2 
+	 iau4  :  14 
+	 in1  :  4 
+	 in2  :  19 
+	 ing1  :  3 
+	 ing2  :  13 
+	 ing3  :  3 
+	 ing4  :  7 
+	 ing5  :  7 
+	 inn2  :  1 
+	 iok1  :  1 
+	 iong1  :  11 
+	 iong2  :  5 
+	 iong3  :  5 
+	 ior1  :  1 
+	 ior2  :  2 
+	 ior3  :  2 
+	 iorh1  :  1 
+	 iorh2  :  5 
+	 iorh3  :  13 
+	 it1  :  19 
+	 iu1  :  2 
+	 iu2  :  3 
+	 iu3  :  1 
+	 iu5  :  3 
+	 ka1  :  1 
+	 ka2  :  4 
+	 ka4  :  18 
+	 kah1  :  38 
+	 kah2  :  1 
+	 kai2  :  3 
+	 kai4  :  13 
+	 kang1  :  1 
+	 kang2  :  6 
+	 kat1  :  1 
+	 kau3  :  8 
+	 kau4  :  3 
+	 ke2  :  1 
+	 ke4  :  1 
+	 keh2  :  1 
+	 ki1  :  78 
+	 ki2  :  1 
+	 ki3  :  63 
+	 ki4  :  3 
+	 kia2  :  1 
+	 kiai3  :  4 
+	 kiai4  :  1 
+	 kiam2  :  1 
+	 kiam4  :  1 
+	 kiau4  :  2 
+	 kin1  :  1 
+	 kin2  :  2 
+	 king  :  1 
+	 king1  :  6 
+	 kit1  :  1 
+	 kit2  :  3 
+	 kit3  :  2 
+	 kng3  :  1 
+	 kng4  :  3 
+	 ko1  :  3 
+	 ko4  :  10 
+	 kong4  :  2 
+	 kor1  :  11 
+	 kor3  :  9 
+	 kor4  :  6 
+	 ku1  :  1 
+	 ku2  :  1 
+	 kuai3  :  1 
+	 kuai4  :  2 
+	 kuainn3  :  1 
+	 kuainn5  :  1 
+	 kuan1  :  2 
+	 kuan4  :  4 
+	 kuann2  :  1 
+	 kuann3  :  13 
+	 kuann4  :  33 
+	 kue3  :  5 
+	 kui1  :  3 
+	 kui2  :  4 
+	 kuinn4  :  1 
+	 kun3  :  1 
+	 kun4  :  1 
+	 la2  :  6 
+	 la3  :  224 
+	 la4  :  1 
+	 lai2  :  66 
+	 lai3  :  32 
+	 lai5  :  52 
+	 laih2  :  2 
+	 lak1  :  2 
+	 lak2  :  1 
+	 lak3  :  2 
+	 lam2  :  1 
+	 lam5  :  1 
+	 lan1  :  37 
+	 lan3  :  1 
+	 lan4  :  1 
+	 lan5  :  1 
+	 lang2  :  20 
+	 lang3  :  5 
+	 lang5  :  24 
+	 lap3  :  2 
+	 lat2  :  2 
+	 lau1  :  3 
+	 lau2  :  7 
+	 lau3  :  7 
+	 lau4  :  1 
+	 lau5  :  1 
+	 le1  :  6 
+	 le2  :  17 
+	 le3  :  14 
+	 le4  :  1 
+	 le5  :  1 
+	 leh1  :  22 
+	 leh2  :  6 
+	 leh3  :  9 
+	 len2  :  5 
+	 len3  :  3 
+	 len5  :  7 
+	 let2  :  2 
+	 li  :  3 
+	 li1  :  286 
+	 li2  :  16 
+	 li3  :  29 
+	 li4  :  31 
+	 lia1  :  3 
+	 lia2  :  1 
+	 lia3  :  7 
+	 liam2  :  4 
+	 liam3  :  1 
+	 liap2  :  4 
+	 liap3  :  2 
+	 liau1  :  15 
+	 liau2  :  1 
+	 liau4  :  11 
+	 liau5  :  1 
+	 lih1  :  1 
+	 lih2  :  1 
+	 lih3  :  1 
+	 lik2  :  2 
+	 lim1  :  4 
+	 lim2  :  2 
+	 lim5  :  2 
+	 lin1  :  43 
+	 lin2  :  7 
+	 lin3  :  3 
+	 lin4  :  3 
+	 ling2  :  1 
+	 ling3  :  2 
+	 liong2  :  3 
+	 liorh2  :  3 
+	 lip2  :  3 
+	 lit1  :  1 
+	 lit2  :  5 
+	 lit3  :  4 
+	 liu1  :  1 
+	 lo2  :  4 
+	 lo3  :  1 
+	 loh3  :  1 
+	 lok2  :  2 
+	 long1  :  49 
+	 long3  :  1 
+	 lor1  :  1 
+	 lor2  :  1 
+	 lor3  :  3 
+	 lor4  :  11 
+	 lorh2  :  1 
+	 lorh3  :  4 
+	 lu1  :  18 
+	 lua3  :  1 
+	 luaih2  :  1 
+	 luan4  :  1 
+	 lueh2  :  1 
+	 lun3  :  1 
+	 lun5  :  1 
+	 m2  :  2 
+	 m3  :  90 
+	 m4  :  4 
+	 m5  :  2 
+	 ma1  :  5 
+	 ma2  :  4 
+	 ma3  :  44 
+	 ma4  :  23 
+	 mah3  :  2 
+	 mai2  :  7 
+	 mai3  :  2 
+	 mai4  :  38 
+	 mau2  :  2 
+	 me1  :  2 
+	 me2  :  7 
+	 me4  :  1 
+	 me5  :  2 
+	 meh2  :  12 
+	 mh1  :  1 
+	 mh2  :  17 
+	 mi3  :  1 
+	 mi4  :  3 
+	 mia2  :  1 
+	 mih1  :  19 
+	 mih2  :  1 
+	 mih3  :  5 
+	 mng2  :  6 
+	 mng3  :  3 
+	 mng5  :  2 
+	 mo2  :  1 
+	 mue5  :  1 
+	 mui  :  1 
+	 mui2  :  31 
+	 mui3  :  4 
+	 na1  :  11 
+	 na2  :  7 
+	 na3  :  34 
+	 na4  :  29 
+	 nai3  :  1 
+	 nai4  :  11 
+	 nau2  :  1 
+	 nau3  :  2 
+	 nau4  :  1 
+	 ne1  :  47 
+	 ne2  :  5 
+	 neh2  :  44 
+	 ng3  :  1 
+	 ngh2  :  1 
+	 ni2  :  3 
+	 ni3  :  9 
+	 ni5  :  5 
+	 nia1  :  2 
+	 nia4  :  1 
+	 nih2  :  1 
+	 niu5  :  1 
+	 nng2  :  3 
+	 nng3  :  11 
+	 nngh2  :  1 
+	 nqe3  :  1 
+	 nqo1  :  2 
+	 nqo2  :  1 
+	 nqo3  :  1 
+	 nqo4  :  1 
+	 nua1  :  2 
+	 nua4  :  2 
+	 o1  :  11 
+	 o2  :  19 
+	 o3  :  21 
+	 o4  :  1 
+	 oh1  :  1 
+	 oh2  :  75 
+	 oh3  :  47 
+	 oh5  :  2 
+	 ong4  :  1 
+	 ong5  :  3 
+	 or2  :  2 
+	 or3  :  2 
+	 orh1  :  2 
+	 orh3  :  3 
+	 pa3  :  1 
+	 pa4  :  3 
+	 pai4  :  1 
+	 painn1  :  7 
+	 painn4  :  1 
+	 pang1  :  1 
+	 pang2  :  1 
+	 pang5  :  1 
+	 pau3  :  1 
+	 pen2  :  4 
+	 pen4  :  2 
+	 pi1  :  1 
+	 pi2  :  1 
+	 piann1  :  1 
+	 ping2  :  1 
+	 po2  :  1 
+	 por2  :  2 
+	 por3  :  1 
+	 puann2  :  1 
+	 pue1  :  3 
+	 pue2  :  3 
+	 pue3  :  1 
+	 pue4  :  1 
+	 qau2  :  2 
+	 qau5  :  3 
+	 qeh3  :  1 
+	 qi2  :  1 
+	 qia2  :  1 
+	 qia3  :  1 
+	 qiam2  :  1 
+	 qiann4  :  1 
+	 qiap2  :  3 
+	 qik2  :  2 
+	 qin1  :  17 
+	 qip2  :  1 
+	 qip3  :  1 
+	 qo2  :  2 
+	 qo3  :  3 
+	 qua  :  1 
+	 qua1  :  219 
+	 qua2  :  4 
+	 qua3  :  22 
+	 qua4  :  9 
+	 quan1  :  3 
+	 quan2  :  10 
+	 quan3  :  2 
+	 quan5  :  1 
+	 quat3  :  5 
+	 queh2  :  1 
+	 qun1  :  21 
+	 qun4  :  1 
+	 ren2  :  1 
+	 ren3  :  1 
+	 ren5  :  4 
+	 ri2  :  8 
+	 ri3  :  5 
+	 ria1  :  1 
+	 rim1  :  1 
+	 rim2  :  1 
+	 rin3  :  1 
+	 rin5  :  1 
+	 rip3  :  1 
+	 ruah1  :  1 
+	 ruah2  :  1 
+	 s3  :  1 
+	 sai1  :  2 
+	 sai2  :  3 
+	 sai3  :  1 
+	 san3  :  1 
+	 san4  :  1 
+	 sang1  :  8 
+	 sang2  :  2 
+	 sang3  :  12 
+	 sang4  :  8 
+	 sann1  :  7 
+	 sann2  :  10 
+	 sannh2  :  6 
+	 sau4  :  1 
+	 se1  :  3 
+	 se3  :  4 
+	 se4  :  22 
+	 sen1  :  1 
+	 sen2  :  13 
+	 sen5  :  1 
+	 senn1  :  3 
+	 senn2  :  8 
+	 senn3  :  1 
+	 senn4  :  3 
+	 senn5  :  1 
+	 sennh2  :  1 
+	 set1  :  1 
+	 si2  :  20 
+	 si3  :  161 
+	 si4  :  5 
+	 si5  :  9 
+	 sia1  :  10 
+	 sia2  :  12 
+	 sia3  :  4 
+	 sia4  :  6 
+	 siang2  :  2 
+	 siang3  :  1 
+	 siang4  :  1 
+	 siann1  :  21 
+	 siann4  :  2 
+	 siannh2  :  6 
+	 siau2  :  1 
+	 siau3  :  1 
+	 siau4  :  3 
+	 sik3  :  1 
+	 sim1  :  17 
+	 sim2  :  8 
+	 sim4  :  1 
+	 sin1  :  3 
+	 sin2  :  16 
+	 sing1  :  3 
+	 sing2  :  24 
+	 sing3  :  2 
+	 sing4  :  3 
+	 sing5  :  1 
+	 sinn1  :  14 
+	 sinn2  :  1 
+	 siok2  :  2 
+	 siok3  :  4 
+	 siong1  :  10 
+	 siong2  :  3 
+	 siong3  :  9 
+	 siong4  :  12 
+	 siong5  :  2 
+	 sionn3  :  1 
+	 sior  :  1 
+	 sior1  :  8 
+	 sior2  :  1 
+	 sior4  :  1 
+	 siorh2  :  5 
+	 sit1  :  6 
+	 sit2  :  6 
+	 sit3  :  12 
+	 siu1  :  7 
+	 siu2  :  5 
+	 siu3  :  4 
+	 siunn2  :  8 
+	 siunn3  :  39 
+	 sng1  :  1 
+	 sng3  :  3 
+	 sng4  :  2 
+	 so1  :  8 
+	 so3  :  1 
+	 so4  :  12 
+	 song1  :  1 
+	 sor4  :  1 
+	 su1  :  7 
+	 su2  :  11 
+	 su3  :  6 
+	 su4  :  1 
+	 sua1  :  1 
+	 sua3  :  1 
+	 suah1  :  1 
+	 suan1  :  1 
+	 suan2  :  1 
+	 suann1  :  1 
+	 suann3  :  1 
+	 sue4  :  1 
+	 sui1  :  1 
+	 sui2  :  5 
+	 sui4  :  8 
+	 sui5  :  1 
+	 sun3  :  11 
+	 sut1  :  2 
+	 ta1  :  1 
+	 tai4  :  1 
+	 tak3  :  27 
+	 tam4  :  1 
+	 tan3  :  1 
+	 tan4  :  5 
+	 tang2  :  5 
+	 tau2  :  14 
+	 tau4  :  1 
+	 tau5  :  8 
+	 te1  :  2 
+	 te2  :  2 
+	 te3  :  10 
+	 te4  :  14 
+	 tiam2  :  9 
+	 tiam4  :  1 
+	 tiann1  :  5 
+	 tiann2  :  14 
+	 tiann3  :  6 
+	 tiann4  :  2 
+	 tiau2  :  4 
+	 ting2  :  1 
+	 tinn1  :  1 
+	 tng1  :  1 
+	 tng5  :  1 
+	 tok1  :  1 
+	 tok2  :  2 
+	 tor4  :  1 
+	 tua2  :  4 
+	 tuan5  :  2 
+	 tun2  :  1 
+	 u1  :  7 
+	 u2  :  15 
+	 u3  :  97 
+	 uah1  :  2 
+	 uah2  :  4 
+	 uan2  :  2 
+	 uan4  :  2 
+	 uan5  :  2 
+	 uann1  :  2 
+	 uann3  :  3 
+	 uann4  :  1 
+	 ue2  :  14 
+	 ui2  :  4 
+	 ui3  :  15 
+	 ui4  :  2 
+	 un1  :  3 
+	 un2  :  2 
+	 va3  :  1 
+	 vai4  :  10 
+	 van2  :  3 
+	 van3  :  4 
+	 vang2  :  2 
+	 vang3  :  3 
+	 vat1  :  2 
+	 vat2  :  3 
+	 vat3  :  5 
+	 ve1  :  2 
+	 ve2  :  10 
+	 ve3  :  67 
+	 ve4  :  2 
+	 veh1  :  63 
+	 veh2  :  1 
+	 ven1  :  15 
+	 ven4  :  3 
+	 vi1  :  15 
+	 vi2  :  1 
+	 vi3  :  3 
+	 viau2  :  1 
+	 vin2  :  7 
+	 vin3  :  1 
+	 vin5  :  1 
+	 ving2  :  3 
+	 vo1  :  8 
+	 vo2  :  1 
+	 vo3  :  5 
+	 vo4  :  8 
+	 vok3  :  2 
+	 vong2  :  2 
+	 vor1  :  1 
+	 vor2  :  69 
+	 vor3  :  51 
+	 vor5  :  15 
+	 vu1  :  1 
+	 vu4  :  95 
+	 vua5  :  1 
+	 vuai5  :  7 
+	 vue1  :  6 
+	 vue2  :  1 
+	 vue3  :  7 
+	 vue4  :  10 
+	 vun1  :  1 
+	 vun3  :  1 
+	 za1  :  5 
+	 za2  :  16 
+	 za4  :  8 
+	 za5  :  2 
+	 zah1  :  1 
+	 zai1  :  20 
+	 zai2  :  24 
+	 zai3  :  4 
+	 zai4  :  4 
+	 zai5  :  1 
+	 zaih1  :  1 
+	 zam2  :  1 
+	 zap3  :  5 
+	 zat3  :  1 
+	 zau1  :  1 
+	 zau2  :  2 
+	 zau4  :  9 
+	 zau5  :  5 
+	 ze1  :  28 
+	 ze2  :  20 
+	 ze3  :  9 
+	 ze4  :  2 
+	 ze5  :  1 
+	 zen3  :  1 
+	 zi1  :  2 
+	 zi3  :  29 
+	 zi4  :  24 
+	 zi5  :  22 
+	 zia1  :  22 
+	 zia4  :  1 
+	 ziah1  :  58 
+	 ziah2  :  18 
+	 ziah3  :  21 
+	 ziam3  :  1 
+	 ziang3  :  16 
+	 ziann1  :  1 
+	 ziann2  :  17 
+	 ziann3  :  1 
+	 ziann4  :  12 
+	 ziap1  :  1 
+	 ziau4  :  10 
+	 zik1  :  2 
+	 zik2  :  5 
+	 zim2  :  1 
+	 zim4  :  3 
+	 zin1  :  16 
+	 zin2  :  45 
+	 zin3  :  2 
+	 zin4  :  2 
+	 zing1  :  1 
+	 zing2  :  3 
+	 zing3  :  17 
+	 zing4  :  5 
+	 zing5  :  6 
+	 zinn5  :  25 
+	 ziok1  :  36 
+	 ziong1  :  2 
+	 ziong2  :  7 
+	 ziong3  :  3 
+	 ziong4  :  2 
+	 zior4  :  3 
+	 ziorh3  :  1 
+	 zip1  :  1 
+	 zit  :  2 
+	 zit1  :  51 
+	 zit3  :  67 
+	 ziu1  :  4 
+	 ziu4  :  2 
+	 zng1  :  1 
+	 zo4  :  1 
+	 zok1  :  9 
+	 zong1  :  1 
+	 zong2  :  1 
+	 zong4  :  2 
+	 zor3  :  10 
+	 zor4  :  36 
+	 zorh2  :  1 
+	 zu1  :  18 
+	 zu2  :  1 
+	 zu3  :  10 
+	 zu4  :  37 
+	 zua3  :  1 
+	 zuai4  :  1 
+	 zuainn2  :  1 
+	 zuan2  :  1 
+	 zuan5  :  1 
+	 zuann1  :  1 
+	 zuann4  :  13 
+	 zuat3  :  2 
+	 zue2  :  2 
+	 zue3  :  1 
+	 zue4  :  3 
+	 zui1  :  2 
+	 zui4  :  2 
+	 zun1  :  1 
+	 zun2  :  13 
+	 zun4  :  1 
+	 一  :  4 
+	 下  :  1 
+	 不  :  3 
+	 久  :  1 
+	 乖  :  2 
+	 也  :  3 
+	 了  :  4 
+	 事  :  3 
+	 人  :  1 
+	 什  :  1 
+	 他  :  1 
+	 以  :  1 
+	 作  :  1 
+	 你  :  7 
+	 來  :  2 
+	 個  :  3 
+	 們  :  4 
+	 候  :  2 
+	 假  :  1 
+	 做  :  1 
+	 先  :  1 
+	 兩  :  1 
+	 六百七十  :  1 
+	 別  :  2 
+	 包  :  1 
+	 北  :  1 
+	 去  :  2 
+	 受  :  1 
+	 口  :  2 
+	 只  :  1 
+	 可  :  2 
+	 台  :  1 
+	 吃  :  2 
+	 和  :  1 
+	 哄  :  1 
+	 哭  :  1 
+	 啊  :  1 
+	 喔  :  1 
+	 回  :  2 
+	 固  :  1 
+	 在  :  3 
+	 地  :  1 
+	 塊  :  1 
+	 多  :  1 
+	 夫  :  1 
+	 她  :  3 
+	 好  :  3 
+	 姊  :  3 
+	 婚  :  1 
+	 子  :  3 
+	 字  :  1 
+	 孩  :  3 
+	 學  :  2 
+	 定  :  1 
+	 寫  :  1 
+	 小  :  1 
+	 就  :  4 
+	 工  :  2 
+	 己  :  3 
+	 師  :  1 
+	 幫  :  1 
+	 年  :  1 
+	 幾  :  1 
+	 弟  :  10 
+	 張  :  1 
+	 得  :  1 
+	 心  :  1 
+	 忙  :  1 
+	 意  :  1 
+	 我  :  5 
+	 才  :  1 
+	 把  :  1 
+	 搬  :  1 
+	 擺  :  1 
+	 攤  :  1 
+	 放  :  2 
+	 教  :  2 
+	 整  :  1 
+	 方  :  1 
+	 明  :  1 
+	 是  :  4 
+	 時  :  3 
+	 會  :  2 
+	 有  :  4 
+	 林  :  1 
+	 桌  :  1 
+	 業  :  1 
+	 機  :  1 
+	 決  :  1 
+	 沒  :  2 
+	 然  :  2 
+	 爸  :  1 
+	 生  :  2 
+	 白  :  1 
+	 的  :  8 
+	 相  :  1 
+	 看  :  1 
+	 真  :  2 
+	 等  :  3 
+	 給  :  1 
+	 罐  :  1 
+	 羅  :  1 
+	 育  :  1 
+	 膽  :  1 
+	 自  :  4 
+	 藥  :  1 
+	 裡  :  1 
+	 要  :  4 
+	 親  :  1 
+	 說  :  1 
+	 請  :  1 
+	 謝  :  2 
+	 讓  :  1 
+	 起  :  1 
+	 跑  :  1 
+	 這  :  4 
+	 過  :  1 
+	 還  :  1 
+	 那  :  3 
+	 都  :  4 
+	 醫  :  1 
+	 重  :  1 
+	 錯  :  1 
+	 門  :  1 
+	 開  :  1 
+	 關  :  1 
+	 陌  :  1 
+	 麼  :  2 
+</pre>
+</body>

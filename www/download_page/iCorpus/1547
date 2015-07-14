@@ -1,0 +1,111 @@
+<article>
+	<id>1547</id>
+	<title>朱立倫 疑涉弊 蔡英文 呼籲說清楚</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>中國國民黨 新北市長 參選人 朱立倫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok-kok-bin5-tong2 Sin-pak-chhi7-tiunn2 chham-soan2-jin5 Chu-lip8-lun5，</JiaoLuo>
+			<TongYong>Diong1-Gok7*-Gok7-Vin5-Dong4* Sin1-Bak7-ci2-diunn4* cam1-suan4-rin5* Zu1-Lip6-Lun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>被週刊 踢爆 疑似 涉及弊案，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7 chiu-khan that-phok8 gi5-su7 bak-tioh8 pe3-an3，</JiaoLuo>
+			<TongYong>ho2-ziu1-kan1* bok6-liau2* qi5-su2 kan1-siap6-diorh6-be3-an3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>朱立倫 在 桃園縣長 任內 的 老學校 重建工程，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu-lip8-lun5 ti7 Tho5-hng5-koan7-tiunn2 jim7-lai7-e5 ku7-hak8-hau7 tiong5-kian3-kang-teng5，</JiaoLuo>
+			<TongYong>Zu1-Lip6-Lun5* di2 Tor5-Hng5-guan2-diunn4* rim2-lai2* e5 lau2-hak6-hau2* diong5-gen3*-gang1-ding5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>被懷疑 有 圖利廠商的 嫌疑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-hoai5-gi5 u7 tou5-li7-chhiunn2-siong e5 hiam5-gi5，</JiaoLuo>
+			<TongYong>hong5*-huai5-qi5 u2 do5-li2-ciunn4-siong1*-e5 hiam5-qi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>十三日 朱立倫的 對手 蔡英文，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-sann-ho7 Chu-lip8-lun5 e5 tui3-chhiu2 Chhoa3-eng-bun5，</JiaoLuo>
+			<TongYong>zap6-sann1-hor2* Zu1-Lip6-Lun5*-e5 dui3-ciu4* Cua3-Ing1-Vun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>要朱立倫 自己 把話講清楚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ai3 Chu-lip8-lun5 ka-ki7 ka7-oe7-kong2-chheng-chho2，</JiaoLuo>
+			<TongYong>ai3-Zu1-Lip6-Lun5* ga1-di2* ga2-ue2*-gong4-cing1-cor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>也強調 這 不是 民進黨的 烏賊戰，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-kiong5-tiau7 chit-m7-si7 Bin5-chin3-tong2 e5 bak8-chat8-chian3，</JiaoLuo>
+			<TongYong>ma2-giong5-diau2* ze1* m2-si2 Vin5-Zin3-Dong4*-e5 vak6-zat6-a4-zen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>而且 這 是 一個 公眾議題。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiann2 chit-si7 chit8-e5 kong-chiong3-gi7-toe5。</JiaoLuo>
+			<TongYong>ri5-ciann4 ze1* si2 zit6-e5* gong1-ziong3*-qi2-de5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>民進黨 新北市長 參選人 蔡英文 母雞 帶小雞，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 Sin-pak-chhi7-tiunn2 chham-soan2-jin5 Chhoa3-eng-bun5 koe-bu2-chhoa7-koe-a2-kiann2，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* Sin1-Bak7-ci2-diunn4* cam1-suan4-rin5* Cua3-Ing1-Vun5* ge1-vor4* cua2-ge1-a4-giann4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>親自 替 黨內 市議員 參選人 戴上揹帶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhin-chu7 the3 tong2-lai7 chhi7-gi7-oan5 chham-soan2-jin5 koa3-tioh8 phainn7-toa3，</JiaoLuo>
+			<TongYong>cin1-zu2 te3 dong4-lai2* ci2-qi2-uan5* cam1-suan4-rin5* gua3-painn2-dua3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>要搶攻 新北市 人口最多的 大票倉 板橋。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh chhiunn2-kong Sin-pak-chhi7 jin5-khau2 siang7-che7-e5 toa7-phio3-chhng Pang-kio5。</JiaoLuo>
+			<TongYong>veh7-ciunn4-gong1 Sin1-Bak7-Ci2* rin5-kau4*-siong2-ze2*-e5 dua2-pior3-cng1* Bang1-Gior5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>蔡英文 也想要 問朱立倫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chhoa3-eng-bun5 oan5-a7-beh-ai3-mng7 Chu-lip8-lun5，</JiaoLuo>
+			<TongYong>Cua3-Ing1-Vun5* ma2-siunn2-veh7 mng2-Zu1-Lip6-Lun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>已經完工的 捷運蘆洲線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng oan5-kang-e5 chiat8-un7 Lou5-chiu-soann3，</JiaoLuo>
+			<TongYong>i4-ging1-uan5-gang1*-e5 zet6-un2*-Lo5-Ziu1-Suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>為什麼 遲遲 無法通車。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-siann2-mih8 ti5-ti5 bo5-hoat-thong-chhia。</JiaoLuo>
+			<TongYong>ui2-siann4-mih7* it7-dit6 vor5-huat7-do2*-tong1-cia1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

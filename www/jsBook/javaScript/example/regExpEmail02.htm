@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：電子郵件格式驗證（可以避開含有空白的電子郵件帳號）</h2>
+<hr>
+
+<script>
+function checkEmail(string) {
+	re = /^[^\s]+@[^\s]+\.[^\s]{2,3}$/;
+	if (re.test(string))
+		alert("成功！符合「" + re + "」的格式！");
+	else
+		alert("失敗！不符合「" + re + "」的格式！");
+}
+</script>
+電子郵件：<input id=email value="jang@cs.n thu.edu.tw">
+<input type=button value="驗證" onClick="checkEmail(email.value)">
+
+<hr>
+</body>
+</html>

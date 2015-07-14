@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>新增帳號</title>
+		<meta charset="utf-8">
+		<link href="./css/management.css" rel="stylesheet" type="text/css">
+		<script>
+			function CheckAndGo(){
+				if(document.getElementById("acc").value==""){
+					alert("必須填寫帳號");
+				}
+				else if(document.getElementById("pass").value==""){
+					alert("必須填寫密碼");
+				}
+				else if(document.getElementById("name").value==""){
+					alert("必須填寫姓名");
+				}
+				else if(document.getElementById("email").value==""){
+					alert("必須填寫e-mail");
+				}
+				else if(document.getElementById("pass").value==document.getElementById("rpass").value){
+					document.getElementById("rig").submit();
+				}
+				else{
+					alert("密碼不一致");
+					document.getElementById("pass").value="";
+					document.getElementById("rpass").value="";
+				}
+			}
+			function start(){
+				var button = document.getElementById("reload_img");
+				button.addEventListener("click",rollDice,false);
+				dieImage = document.getElementById("rand_img");
+			}
+			function rollDice(){
+				setImage(dieImage);
+			}
+			function setImage(dieImg){
+				dieImg.setAttribute("src","./msgboard_showpic.php");
+				//dieImg.setAttribute("src","./tes.jpg");
+			}
+
+			window.addEventListener("load",start,false);
+		</script>
+	</head>
+	<body>
+		<div id="header-wrapper">
+			<div style="float:right; text-align:right; color:red;">歡迎~&nbsp &nbsp &nbsp </div>
+			<div id="header" class="container">
+			<div id="logo"><span><a href="./index.php"><img src="./images/sinicalogo.gif" height=150 width=150 ></a></span>	
+			</div><div id="menu"><ul>
+			<li class="active"><a href="./register.html">註冊</a></li>
+			<li><a href="./index.php">回首頁</a></li>
+			</ul></div></div></div><br><center>
+		<form method="post" action="register.php" id="rig">
+		<table>
+			<tr><td>帳號:(必填)</td><td><input type="text" name="R_Account" id="acc" maxlength="10"  required></td></tr>
+			<tr><td>密碼:(必填)</td><td><input type="password" name="R_Password" id="pass" maxlength="10" required></td></tr>
+			<tr><td>確認密碼:(必填)</td><td><input type="password" name="R_rePassword" id="rpass" maxlength="10" required></td></tr>
+			<tr><td>姓名:(必填)</td><td><input type="text" name="R_Name" id="name" maxlength="10" required></td></tr>
+			<tr><td>e-mail:(必填)</td><td><input type="email" name="R_Email" id="email" maxlength="50" required></td></tr>
+			<tr><td>電話:</td><td><input type="text" name="R_Phone" id="phone" maxlength="20" ></td></tr>
+			<tr><td>身分:</td><td><select name="R_Idenity">
+					<option value="學生">學生</option>
+					<option value="教師">教師</option>
+					<option value="研究人員">研究人員</option>
+					<option value="其它">其它</option>
+				</select>
+			<tr><td>為什麼想使用這個網站:</td><td><textarea name="R_Reason" id="reason" maxlength="100"></textarea></td></tr>
+			</table>
+			<p>驗證碼:<input type="text" name="anscheck" size="10" maxlength="10" />
+				<img src= "./msgboard_showpic.php" id="rand_img">
+				<input type="button" id="reload_img" value="換一組驗證碼" />
+				</p>				
+				<br>
+			<br><input type="button" onclick="CheckAndGo()" value="確定">
+			<input type="button" onClick="location.href='index.php'" value='取消'>
+			</center>
+		</form>
+	</body>
+</html>

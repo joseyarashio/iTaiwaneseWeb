@@ -1,0 +1,244 @@
+<article>
+	<id>20</id>
+	<title>美國國會 宣佈 歐巴馬 當選 美國 第四十四位 總統</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 報導</segmentation>
+			<TaiLuo>Chu7-Iu5-Si5-Po3 po3-to7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>美國國會 今天 正式確認</segmentation>
+			<TaiLuo>Bi2-kok kok-hoe7 kin-a2-jit8 cheng3-sek khak-jim7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vi4-gok7*-gok7-hue2* gin1-a4-rit6* zing3-sik7-kak7-rin2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>二OO八年 十一月四日 總統大選 選舉結果，</segmentation>
+			<TaiLuo>nng7-chheng-khong3-peh-ni5 chap8-it-geh8-si3-ho7 chong2-thong2 tai7-soan2 soan2-ki2 kiat-ko2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>nng2-cing1*-kong3-beh7-ni5* zap6-it7-queh6-si3-hor2* zong4-tong4-dai2-suan4* suan4-gi4-get7-gor4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>宣佈 歐巴馬（Barack Obama） 當選</segmentation>
+			<TaiLuo>soan-pou3 Obama tong3-soan2 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>suan1-bo3 Obama dong3-suan4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>美國 第四十四屆 暨 第五十六任 美國總統。</segmentation>
+			<TaiLuo>Bi2-kok te7-si3-chap8-si3 kai3 kap te7-gou7-chap8-lak8 jim7 chong2-thong2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>vi4-gok7* de2-si3-zap6-si3-gai3* gah7 de2-qo2-zap6-lak6-rim2* vi4-gok7*-zong4-tong4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>根據 美國法律 規定，</segmentation>
+			<TaiLuo>kun-ki3 Bi2-kok hoat-lut8 kui-teng7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Gin1-gi3 vi4-gok7*-huat7-lut6* gui1-ding2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>國會 必須 正式計算 五十州</segmentation>
+			<TaiLuo>kok-hoe7 pit-su cheng3-sek ke3-sng3 9、gou7-chap8-chiu</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gok7-hue2* bit7-su1 zing3-sik7-ge3-sng3 qo2-zap6-ziu1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>及 哥倫比亞Columbia 特區 選舉人票，</segmentation>
+			<TaiLuo>kap Columbia tek8-khu soan2-ki2-jin5-phio3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gah7 Columbia dik6-ku1* suan4-gi4-lang5-pior3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>並 宣佈 選舉結果。</segmentation>
+			<TaiLuo>peng7-soan-pou3 soan2-ki2 kiat-ko2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>bing2-ciann4 suan1-bo3 suan4-gi4-get7-gor4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>美國 第一百一十一屆 國會 於六日 開議，</segmentation>
+			<TaiLuo>Bi2-kok te7 chit8-pah-chap8-it kai3 kok-hoe7 ti7 lak8-ho7 khui-gi7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vi4-gok de2-zit6-bah7-zap6-it7-gai3* gok7-hue2* di2-lak6-hor2* kui1-qi2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>參議院 和 眾議院 今天 舉行 聯席會議，</segmentation>
+			<TaiLuo>Chham-gi7-iN7 kap Chiong3-gi7-iN7 kin-a2-jit8 ki2-heng5 lian5-sek8 hoe7-gi7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>cam1-qi2-inn2 gah7 ziong3-qi2-inn2* gin1-a4-rit6* gi4-hing5 len5-sik6-hue2-qi2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>由 即將卸任 的 副總統 錢尼（Dick Cheney）</segmentation>
+			<TaiLuo>iu5-tit-beh sia3-jim7 e5 hu3-chong2-thong2 Cheney</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>iu5* dih7-veh7-sia3-rim2* e5 hu3-zong4-tong4* Cheney</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>以 參院議長 身份，</segmentation>
+			<TaiLuo>iong7 Chham-iN7 gi7-tiuN2 sin-hun7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>i4 cam1-inn2*-qi2-diun4* sin1-hun2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>與 眾院議長 裴洛西（Nancy Pelosi）</segmentation>
+			<TaiLuo>kap Cheng3-iN7 gi7-tiuN2 Pelosi</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gah* ziong3-inn2*-qi2-diun4* Pelosi</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>共同 主持會議。</segmentation>
+			<TaiLuo>kiong7-tong5 chu2-chhi5 hoe7-gi7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>giong2-dong5* zu4-ci5-hue2-qi2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>四位 事先選好的 國會議員</segmentation>
+			<TaiLuo>si3-ui7 su7-sian soan2-ho2 kok-hoe7 gi7-oan5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Si3-ui2 su2-sen1-suan4-hor4*-e5 gok7-hue2-qi2-uan5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>上台宣讀 各州的 投票結果。</segmentation>
+			<TaiLuo>chiuN7-tai5 soan-thok8 kok-chiu e5 tau5-phio3 kiat-ko2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ziun2-dai5*-suan1-tok6 gok7-ziu1-e5 dau5-pior3*-get7-gor4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>錢尼 最後 正式宣佈，</segmentation>
+			<TaiLuo>Cheney choe3-au7 cheng3-sek soan-pou3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Cheney zue3-au2* zing3-sik7*-suan1-bo3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>全國 五十州 及 哥倫比亞特區</segmentation>
+			<TaiLuo>choan5-kok gou7-chap8-chiu kap Columbia tek8-khu</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zuan5-gok7* qo2-zap6-ziu1* gah7 Columbia dik6-ku1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>共有 五百三十八張 選舉人票，</segmentation>
+			<TaiLuo>long2-chong2 gou7-pah-saN-chap8-peh tiuN soan2-ki2-jin5-phio3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>long4-zong4* u2 qo2-bah7-sann1-zap6-beh7-diunn1 suan4-gi4-lang5-pior3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>由 贏 超過</segmentation>
+			<TaiLuo>iu5-iaN5 chhiau-koe3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>iu5 teh6 ciau1-gue3</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>二百七十張 選舉人票 的 候選人 當選總統。</segmentation>
+			<TaiLuo>nng7-pah-chhit-chap8-tiuN soan2-ki2-jin5-phio3 e5 hau7-soan2-jin5 tong3-soan2 chong2-thong2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>nng2-bah7-cit7-zap6-diunn1 suan4-gi4-lang5-pior3* e5 hau2-suan4-rin5* dong3-suan4-zong4-tong4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>選舉結果，</segmentation>
+			<TaiLuo>soan2-ki2 kiat-ko2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Suan4-gi4-get7-gor4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>伊利諾Illinois州 聯邦參議員</segmentation>
+			<TaiLuo>llinois chiu lian5-pang chham-gi7-oan5 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Illinois ziu1* len5-bang1*-cam1-qi2-quan5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>歐巴馬 贏得 三百六十五張，</segmentation>
+			<TaiLuo>Obama iaN5-tioh8 saN-pah-lak8-chap8-gou7 tiuN</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Obama teh6-diorh6 sann1-bah7-lak6-zap6-qo2-diunn1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>亞利桑那州Arizona 聯邦參議員</segmentation>
+			<TaiLuo>Arizona chiu lian5-pang chham-gi7-oan5 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Arizona ziu1* len5-bang1*-cam1-qi2-quan5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>馬侃（John McCain） 贏得 一百七十三張。</segmentation>
+			<TaiLuo>McCain iaN5-tioh8 chit8-pah-chhit-chap8-saN tiuN</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>McCain teh6-diorh6 zit6-bah7-cit7-zap6-sann1-diunn1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>歐巴馬 和 競選搭檔 拜登（Joe Biden）</segmentation>
+			<TaiLuo>Obama kap keng7-soan2 sio-tau3-e5 Biden</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Obama gah7 ging2-suan4*-hu3-ciu4 Biden</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>分別 當選 總統 和 副總統。</segmentation>
+			<TaiLuo>hun-piat8 tong3-soan2 chong2-thong2 kap hu3-chong2-thong2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>hun1-bet6 dong3-suan4 zong4-tong4* gap7 hu3-zong4-tong4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>錢尼 宣佈後，</segmentation>
+			<TaiLuo>Cheney soan-pou3-au7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Cheney suan1-bo3*-au2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>全體 參眾議員 起立鼓掌 致敬。</segmentation>
+			<TaiLuo>choan5-the2 Chham-Cheng3-gi7-oan5 khia7-khi2-lai5 phah-phok8-a2 ti3-keng3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zuan5-te4* cam1-ziong3*-qi2-quan5* kia2-ki4-lai5 pah7-pok6-a4* di3-ging3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>由錢尼 正式宣佈 的 選舉結果文件，</segmentation>
+			<TaiLuo>iu5 Cheney cheng3-sek soan-pou3 e5 soan2-ki2 kiat-ko2 bun5-kiaN7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>iu5-Cheney zing3-sik7*-suan1-bo3* e5 suan4-gi4-get7-gor4*-vun5-giann2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>將 送到 美國 國家檔案局（National Archives） 保存，</segmentation>
+			<TaiLuo>boeh sang3-kau3 Bi2-kok kok-ka tong3-an3-kiok8 po2-chun5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>e2 sang3-gau3 vi4-gok7* gok7-ga1*-dong4-an3-giok6* bor4-zun5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>並 由 國會 官方出版品 刊登。 </segmentation>
+			<TaiLuo>peng7-iu5 kok-hoe7 koaN-hong chhut-pan2-phin2 khan-teng</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>bing2-ciann4 iu5 gok7-hue2* guan1-hong1-cut7-ban4-pin4* kan1-ding1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

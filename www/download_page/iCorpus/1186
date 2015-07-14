@@ -1,0 +1,97 @@
+<article>
+	<id>1186</id>
+	<title>天公生 搭狀元庭 街友 討紅包 搶破頭</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>大年初九 是 天公生的 日子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ni5-tau chhoe-kau2 si7 thinn-kong-senn e5 jit8-a2，</JiaoLuo>
+			<TongYong>Ziann1-queh6-ce1-gau4* si2 tinn1-gong1-senn1*-e5 rit6-zi4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在這一天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-chit-kang，</JiaoLuo>
+			<TongYong>di2-zit7-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>高雄市的 玉皇宮</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7-e5 Giok8-hong5-kiong，</JiaoLuo>
+			<TongYong>Gor1-Hiong5-Ci2*-e5 Qiok6-Hong5-Ging1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>廟方 搭起一個 狀元庭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bio7-hong tah-khi2 chit8-e5 Chiong7-goan5-teng5，</JiaoLuo>
+			<TongYong>vior2-hong1* dah7-ki4-zit6-e5* ziong2-quan5-ding5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>讓 遊民 或 待業的民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 iu5-bin5 ah thai7-giap8-e5 bin5-chiong3，</JiaoLuo>
+			<TongYong>ho2 iu5-vin5* ia2-si2 tai2-qiap6*-e5-vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>能夠 來到這裡 接受 善心人士 捐助，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-sai2 lai5-kau3-chia chiap-siu7 sian7-sim-jin5-su7 koan-chou7，</JiaoLuo>
+			<TongYong>e2-dang3 lai5-gau3-zia1* ziap7-siu2 sen2-sim1-rin5-su2*-e guan1-zo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>不過 今年 限量 五十個 名額，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh kin-ni5 han7-liang7 gou7-chap8-e5 mia5-giah8，</JiaoLuo>
+			<TongYong>m2-gorh7 gin1-ni5* han2-liang2 qo2-zap6-e5* mia5-qiah6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>許多街友 前一天 就來 排隊 搶紅包，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiann5-che7 koe-iu2 cheng5-chit8-kang to-lai5 pai5-tui7 chhiunn2 ang5-pau，</JiaoLuo>
+			<TongYong>ziann5-ze2-ge1-iu4* zing5-zit6-gang1* diorh6-lai5 bai5-dui2* ciunn4-ang5-bau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>這些街友 抱怨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chia-e5 koe-iu2 oan3-than3，</JiaoLuo>
+			<TongYong>zia3-e5-ge1-iu4* uan3-gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>絲毫 感受不到 景氣回溫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tam7-poh8 kam2-siu7-be7-tioh8 keng2-khi3-hoe5-un，</JiaoLuo>
+			<TongYong>zit6-diam4-a4* dorh6 gam4-siu2-ve2-diorh6 ging4-ki3*-hue5-un1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>反而覺得 工作 更不好找，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tian-to3 kam2-kak khang-khoe3 khah-phainn2-chhoe7，</JiaoLuo>
+			<TongYong>den1-dor3-gam4-gah7 kang1-kue3* gorh7-kah7-painn4-cue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>只好 來這邊 接受捐助！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-ho2 lai5-chit-peng5 chiap-siu7 koan-chou7！</JiaoLuo>
+			<TongYong>zi4-hor4 lai5-zia1* ziap7-siu2-guan1-zo2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,104 @@
+<article>
+	<id>970</id>
+	<title>小林災民 北上 找工作 身無分文 淪為 偷車賊</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>八八水災的 受災戶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pat-pat chui2-chai siu7-chai-hou7，</JiaoLuo>
+			<TongYong>Bat7-Bat7*-zui4-zai1*-e5 siu2-zai1-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>馬英九政府 真的 盡到 照顧責任 了 嗎？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ma2-Eng-Kiu2 cheng3-hu2 chin-e5 chin7-kau3 chiau3-kou3 chek-jim7 ah-bou3？</JiaoLuo>
+			<TongYong>Ma4-Ing1-Giu4-zing3-hu4* gam4 zin1-ziann3 zin2-diorh6 ziau3-go3*-e5-zik7-rim2* a2*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一名 家 住在 高雄 小林村 的 劉姓男子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 chhu3 toa3-ti7 Ko-hiong5 Sio2-na5-chhoan e5 Lau5-siN3 lam5-chu2，</JiaoLuo>
+			<TongYong>zit6-e5* cu3* dua3-di2 Gor1-Hiong5* Sior4-Na5-Cuan1* e5 Lau5*-senn3*-lam5-zu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>因為 老家 被沖毀，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 chou2-chhu3 pi7 chhiong-hui2，</JiaoLuo>
+			<TongYong>in1-ui2 zo4-cu3* ho2-zui4*-ciong1*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>這個月初，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-kou3-goeh8-chhoe，</JiaoLuo>
+			<TongYong>zit7-gor3-queh6* queh6-ce1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>獨自一人 搭高鐵 到台北 找朋友，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tok8-chu7 chit8-lang5 che7 Ko-thih kau3 Tai5-pak chhoe7-peng5-iu2，</JiaoLuo>
+			<TongYong>dok6-zu2-zit6-lang5* ze2-gor1-tih7* gau3-Dai5-Bak7* cue2-bing5-iu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>希望 能 找到工作，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi-bong7 e7 chhoe7-tioh8 thau5-lou7，</JiaoLuo>
+			<TongYong>hi1-vang2 e2-dang3 cue2-diorh6-tau5-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>沒想到 弄丟了 皮包，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siuN7-tioh8 long7 phang3-kiN3-liau2 phoe5-pau，</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3 pang3-gen3 pue5-bau1-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>身無分文，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-bo5-hun-bun5，</JiaoLuo>
+			<TongYong>sin1-ku1* vor5-buann3-sen4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>加上 又忘了 朋友住址，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-siong7 koh be7-ki3-khi3 peng5-iu2 te7-chi2，</JiaoLuo>
+			<TongYong>ga1-siong2 gorh7-ve2-gi3-li4 bing5-iu4*-e5-zu2-zi4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>走投無路 下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng5-au7-bo5-lou7-ha7，</JiaoLuo>
+			<TongYong>zau4-dau5*-vor5-lo2* zi1-ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>竟然 偷機車 去找朋友，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng3-jian5 thau ki-chhia khi3 chhoe7-peng5-iu2，</JiaoLuo>
+			<TongYong>ging3-ren5* tau1-gi1-cia1* ki3-cue2-bing5-iu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>還 跑到 人家社區 大吵大鬧。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-chau2-kau3 lang5-e5 sia7-khu toa7-chha2-toa7-la7。</JiaoLuo>
+			<TongYong>gorh7 zau4-gau3 lang5-e5-sia2-ku1* dua2-ca4*-dua2-nau2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

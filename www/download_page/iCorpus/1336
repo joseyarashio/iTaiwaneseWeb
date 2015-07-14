@@ -1,0 +1,104 @@
+<article>
+	<id>1336</id>
+	<title>台語課程 收費貴 南北 腔調不同 誤會大</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>教育部 即將推動 台語認證，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3-iok8-pou7 tit-beh thui-tong7 tai5-gi2-jim7-cheng3，</JiaoLuo>
+			<TongYong>Gau3-Iok6-Bo2* diorh6-veh7-tui1-dong2 dai5-qi4-rin2-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>有一些 學校 已經 看準商機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-chit8-koa2-a2 hak8-hau7 i2-keng khoann3-chun2 siong-ki，</JiaoLuo>
+			<TongYong>u2-zit6-gua4 hak6-hau2* i4-ging1 kuann3-zun4-siang1-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>推出 台語認證班，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thui-chhut tai5-gi2 jim7-cheng3-pan，</JiaoLuo>
+			<TongYong>tui1-cut7 dai5-qi4-rin2-zing3*-ban1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一堂課 叫價 一千二百元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tng5-kho3 hoah-ke3 chit8-chheng-nng7-pah-kho3，</JiaoLuo>
+			<TongYong>zit6-zet7-kor3* kui1-ge3* zit6-cing1*-nng2-bah7-ko1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>收費太高 引來爭議，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu-hui3 siunn-koan5 in2-lai5 cheng-gi7，</JiaoLuo>
+			<TongYong>siu1-hui3*-siunn1-guan5* in4-lai5-zing1-qi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>但是 台語 要怎麼教，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh tai5-gi2 beh-an2-choann2-ka3，</JiaoLuo>
+			<TongYong>m2-gorh7 dai5-qi4* ai3-an4-zuann4-ga3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>每縣市 不同口音 也是問題，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tak8-koan7-chhi7 khiunn-khau2 bo5-kang5 ma7-si7 bun7-toe5，</JiaoLuo>
+			<TongYong>dak6-guan2-ci2* kiunn1-kau4*-vor5-gang5* ma2-si2-vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>由於 南北 口音不同，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-i5 lam5-pak khiunn-khau2 bo5-kang5，</JiaoLuo>
+			<TongYong>in1-ui2 lam5-bak7* kiunn1-kau4*-vor5-gang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>像是 劉小姐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhin-chhiunn7 Lau5-sio2-chia2，</JiaoLuo>
+			<TongYong>pi3-ru5-gong4 Lau5-sior4-zia4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>北部人 說起來 像「老小姐」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pak-pou7-lang5 kong2-khi2-lai5 chhiunn7 「lau7-sio2-chia2」，</JiaoLuo>
+			<TongYong>bak7-bo2-lang5* gong4*-ki4-lai5 ciunn2「lau2-sior4-zia4*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>吃飯， 宜蘭人的 語調 有點像 「吃餿水」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah8-png7， Gi5-lan5-lang5 e5 gu2-tiau7 u7-tam7-poh8 chhiunn7 「chiah8-phun」，</JiaoLuo>
+			<TongYong>ziah6-buinn2*， Qi5-Lan5-lang5*-e5 qi4-diau2* u2-zit6-diam4-a4-sing5 「ziah6-pun1*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>若不懂 南北差異，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-m7-bat lam5-pak-cheng-chha， </JiaoLuo>
+			<TongYong>na2-m2-vat7 lam5-bak7*-e5-ca1-bet6*， </TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>往往 會造成 笑話跟誤會。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiann7-tiann7 e7-cho7-seng5 chhio3-oe7 kap gou7-hoe7 。</JiaoLuo>
+			<TongYong>ong4-ong4* e2-zor2-sing5 cior3-ue2*-gah7-qo2-hue2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

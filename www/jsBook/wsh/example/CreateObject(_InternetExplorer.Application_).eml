@@ -1,0 +1,130 @@
+Return-Path: <pei@cweb.com.tw>
+Received: from dns.cs.nthu.edu.tw (dns [140.114.87.20])
+	by cs.nthu.edu.tw (8.9.3/8.9.3) with ESMTP id KAA08503
+	for <jang@cs.nthu.edu.tw>; Wed, 14 Aug 2002 10:53:52 +0800 (CST)
+Received: from cwebmail.supermbox.com.tw ([202.39.72.43])
+	by dns.cs.nthu.edu.tw (8.9.3/8.9.3) with ESMTP id KAA06278
+	for <jang@cs.nthu.edu.tw>; Wed, 14 Aug 2002 10:53:52 +0800 (CST)
+Received: from tsinghua2ks09 ([140.114.39.90]) by cwebmail.supermbox.com.tw with Microsoft SMTPSVC(5.0.2195.4453);
+	 Wed, 14 Aug 2002 10:55:49 +0800
+Message-ID: <00c101c2433e$d7f339b0$4801a8c0@tsinghua2ks09>
+From: "pei" <pei@cweb.com.tw>
+To: =?big5?B?sWm0vKxQ?= <jang@cs.nthu.edu.tw>
+Subject: CreateObject("InternetExplorer.Application")
+Date: Wed, 14 Aug 2002 11:01:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00BE_01C24381.E60A44B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-OriginalArrivalTime: 14 Aug 2002 02:55:49.0625 (UTC) FILETIME=[18674690:01C2433E]
+X-UIDL: 06aee392b4ec81270ac6d9e767b1cdb7
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00BE_01C24381.E60A44B0
+Content-Type: text/plain;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+=B1i=A6=D1=AEv,
+
+                =A7A=ADn=AA=BA=C0=B3=B8=D3=ACO=B3o=BC=CB=A4l=A7a ??
+
+-------------------------------------------------------------------------=
+-------
+
+ dim objMyIE
+ dim nErr
+
+ Set objMyIE =3D CreateObject("InternetExplorer.Application")
+
+ objMyIE.Navigate "file://f:/1.txt"
+ objMyIE.visible =3D true
+=20
+ do
+ loop while objMyIE.Busy
+
+ objMyIE.document.parentWindow.Print()=20
+
+'  objMyIE.Quit
+'  Set objMyIE =3D Nothing
+'  Wscript.Quit
+
+
+-------------------------------------------------------------------------=
+-------
+
+
+=B0=D1=A6=D2=BA=F4=A7} :=20
+http://home.att.net/~wshvbs/wshPrinterObjectPage.htm
+http://msdn.microsoft.com/library/default.asp?url=3D/library/en-us/dnserv=
+/html/server033099.asp
+http://msdn.microsoft.com/library/default.asp?url=3D/library/en-us/dnscrp=
+t/html/dhtmlprint.asp
+
+
+
+
+------=_NextPart_000_00BE_01C24381.E60A44B0
+Content-Type: text/html;
+	charset="big5"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dbig5">
+<META content=3D"MSHTML 6.00.2600.0" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2>=B1i=A6=D1=AEv,</FONT></DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT=20
+size=3D2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=20
+=A7A=ADn=AA=BA=C0=B3=B8=D3=ACO=B3o=BC=CB=A4l=A7a ??</FONT></DIV>
+<DIV>
+<HR>
+</DIV>
+<DIV><FONT size=3D2>
+<DIV><FONT size=3D2>&nbsp;dim objMyIE<BR>&nbsp;dim nErr</FONT></DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2>&nbsp;Set objMyIE =3D=20
+CreateObject("InternetExplorer.Application")</FONT></DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2>&nbsp;objMyIE.Navigate "<A=20
+href=3D"file://f:/1.txt">file://f:/1.txt</A>"<BR>&nbsp;objMyIE.visible =
+=3D=20
+true<BR>&nbsp;<BR>&nbsp;do<BR>&nbsp;loop while objMyIE.Busy</FONT></DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2>&nbsp;objMyIE.document.parentWindow.Print() =
+</FONT></DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2>'&nbsp; objMyIE.Quit<BR>'&nbsp; Set objMyIE =3D=20
+Nothing<BR>'&nbsp; Wscript.Quit</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>
+<HR>
+</DIV></FONT></DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2>=B0=D1=A6=D2=BA=F4=A7} : </FONT></DIV>
+<DIV><FONT size=3D2><A=20
+href=3D"http://home.att.net/~wshvbs/wshPrinterObjectPage.htm">http://home=
+.att.net/~wshvbs/wshPrinterObjectPage.htm</A></FONT></DIV>
+<DIV><FONT size=3D2><A=20
+href=3D"http://msdn.microsoft.com/library/default.asp?url=3D/library/en-u=
+s/dnserv/html/server033099.asp">http://msdn.microsoft.com/library/default=
+.asp?url=3D/library/en-us/dnserv/html/server033099.asp</A></FONT></DIV>
+<DIV><FONT size=3D2><A=20
+href=3D"http://msdn.microsoft.com/library/default.asp?url=3D/library/en-u=
+s/dnscrpt/html/dhtmlprint.asp">http://msdn.microsoft.com/library/default.=
+asp?url=3D/library/en-us/dnscrpt/html/dhtmlprint.asp</A></FONT></DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2></FONT>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_000_00BE_01C24381.E60A44B0--
+

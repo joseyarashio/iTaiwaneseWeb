@@ -1,0 +1,104 @@
+<article>
+	<id>1000</id>
+	<title>警車 當作 私家用 報案個資 街頭曝光</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 一名 陳姓員警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 chit8-mia5 seN3-Tan5 oan5-keng2，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* zit6-ui2 senn3-Dan5*-e5-ging4-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>下班之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ha7-pan-liau2-au7，</JiaoLuo>
+			<TongYong>ha2-ban1*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>居然 騎著 警用機車 回家，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh khia5-tioh8 keng2-iong7 ou-tou2-bai2 tng2-khi3，</JiaoLuo>
+			<TongYong>ging3-ren5* kia5-diorh6 ging4-cat7*-ing2*-e5 gi1-cia1* dng4-ki3-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>還 把 查案的資料，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-ka7 chha5-an3-e5 chu-liau7，</JiaoLuo>
+			<TongYong>gorh7 ga2 ca5-an3*-e5-zu1-liau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>大剌剌地 放在 機車的 置物箱上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-su3-ki e5 khng3-ti7 ou-tou2-bai2-e5 chhia-tau2-teng2，</JiaoLuo>
+			<TongYong>vor5-iau3-vor5-gin4*-e5 kng3-di2 o1-do4-vai4* de-mih6-giann2*-e5 so4-zai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>整個 報案人的 個人資料，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-e5 po3-an3-jin5 e5 ko3-jin5 chu-liau7，</JiaoLuo>
+			<TongYong>gui1-e5 bor3-an3-rin5*-e5 gor3-rin5*-zu1-liau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>就這樣 暴露在 街頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-an2-ne po7-lou5-ti7 koe-thau5，</JiaoLuo>
+			<TongYong>diorh6-an4-ne1* hen4-lo2-di2 ge1-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>讓大家 一覽無遺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7-tak8-ke khoaN3-hian7-hian7，</JiaoLuo>
+			<TongYong>ho2-dak6-ge2* kuann3-hen2-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>這種 將警車 當作 私家車 使用，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-khoan2 chiong keng2-chhia tong3-choe3 chu7-ka-iong7 su2-iong7，</JiaoLuo>
+			<TongYong>zit7-ziong4 ga2-ging4-cat7-cia1* dong3-zor3 su1-ga1-cia1* su4-iong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>又 把 報案民眾的 個人資料 亂丟，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-ka7 po3-an3 bin5-chiong3-e5 ko3-jin5 chu-liau7 loan7-tan3，</JiaoLuo>
+			<TongYong>gorh7 ga2 bor3-an3*-vin5-ziong3*-e5 gor3-rin5*-zu1-liau2* luan2-dan3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>如此的 荒唐行為，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an2-ni-e5 li7-keng heng5-ui5，</JiaoLuo>
+			<TongYong>zit7-kuan4 li2-ging1*-e5-hing5-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>縣警察局 得知後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koan7-keng2-chhat-kiok8 chai-iaN2-au7，</JiaoLuo>
+			<TongYong>guan2-ging4-cat7-giok6* zainn1-iann4*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>立刻 對 陳姓員警 作出 行政處分。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lip8-khek tui3 seN3-Tan5 oan5-keng2 cho3-chhut heng5-cheng3 chhu2-hun。</JiaoLuo>
+			<TongYong>ma4-siong2* dui3 senn3-Dan5*-e5-ging4-uan5* zor3-cut7 hing5-zing3-cu4-hun2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

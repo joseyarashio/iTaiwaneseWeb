@@ -1,0 +1,90 @@
+<article>
+	<id>1331</id>
+	<title>蔡英文 下達動員令 力拼 五大都 全贏</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>面對 五大都 選戰，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin7-tui3 gou7-toa7-tou soan2-chian3，</JiaoLuo>
+			<TongYong>Vin2-dui3 qo2-dua2-do1* suan4-zen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>民進黨 可以說是 精銳盡出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 e7-sai2-kong2-si7 cheng-joe7-chin7-chhut，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* e2-dang3-gong4-si2 zing1-ing1*-zin2-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>五虎將 名單 今天 正式出爐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ngou2-hou2-chiong3 mia5-toann kin-a2-jit8 cheng3-sek chhut-lou5，</JiaoLuo>
+			<TongYong>nqo4-ho4-ziang3* mia5-duann1* gin1-a4-rit6* zing3-sik7*-cut7-lo5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>民進黨 黨主席 蔡英文 下達 戰鬥動員令，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 tong2-chu2-sek8 Chhoa3-eng-bun5 ha7-tat8 chian3-tou3 tong7-oan5-leng7，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* dong4-zu4-sik6* Cua3-Ing1-Vun5* ha2-dat6 zen3-dau3*-dong2-uan5-ling2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>更強調 這 是 民進黨 最關鍵的 一場戰役，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khah-kiong5-tiau7 chit-si7 Bin5-chin3-tong2 siang7-koan-kian7-e5 chit8-tiunn5-chian3-iah8，</JiaoLuo>
+			<TongYong>ging2-ga1-giang5-diau2* ze1* si2 Vin5-Zin3-Dong4* siang2-guan1-gen2*-e5 zit6-diunn5-zen3-ik6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>希望大家 全力以赴！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi-bang7 tak8-ke choan5-lek8-i2-hu3！</JiaoLuo>
+			<TongYong>hi1-vang2-dak6-ge1 zuan5-lik6-i4-hu3*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>至於 親自 披掛上陣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi3-i5 chhin-chu7 phi-koa3-chiunn7-tin7，</JiaoLuo>
+			<TongYong>A4-na2 cin1-zu2 pi1-gua3*-ziunn2-din2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>參選 升格後的 新北市，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chham-soan2 seng-keh-au7-e5 Sin-pak-chhi7，</JiaoLuo>
+			<TongYong>cam1-suan4 sing1-geh7*-liau4-au2*-e5 Sin1-Bak7-Ci2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>蔡英文 也 做出承諾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chhoa3-eng-bun5 oan-na2-choe3-chhut seng5-lok8，</JiaoLuo>
+			<TongYong>Cua3-Ing1-Vun5* ma2 zor3-cut7-sing5-lok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>她 說 要讓 新北市 市民，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-kong2 beh-hou7 Sin-pak-chhi7 chhi7-bin5，</JiaoLuo>
+			<TongYong>i1 gong4 veh7-ho2 Sin1-Bak7-Ci2* ci2-vin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>真正 感受到 新北市 升格！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin-chiann3 kam2-siu7-tioh8 Sin-pak-chhi7 seng-keh！</JiaoLuo>
+			<TongYong>zin1-ziann3 gam4-siu2-diorh6 Sin1-Bak7-Ci2* sing1-geh7*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

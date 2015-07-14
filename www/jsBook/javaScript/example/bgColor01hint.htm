@@ -1,0 +1,56 @@
+<script>
+// 列出下拉式選單的選項
+function printOption(){
+	for (i=0; i<254; i=i+16)
+		document.writeln("<option>"+i+"</option>");
+	document.writeln("<option selected>255</option>");
+}
+
+// 10 進位到 16 進位的轉換
+function dec2hex(dec){
+	mapping = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F"];
+	var high = Math.floor(dec/16);
+	var low = dec-high*16;
+	return(mapping[high]+mapping[low]);
+}
+
+// 更改 RGB 字串及背景顏色
+function updateBgColor(theForm){
+	// 1. 抓出 R 的分量
+	// 2. 抓出 G 的分量
+	// 3. 抓出 B 的分量
+	// 4. 合成 RGB 字串並更改文字欄位
+	// 5. 修改背景顏色
+} 
+</script>
+
+<html>
+<body>
+<h2 align=center>背景顏色調整網頁</h2>
+<hr>
+
+<form name="bgColorSelection">
+<table border=1 align=center><tr>
+	<th><font color="#FF0000">RED</font><br>
+	<select name="red" size=10 onChange="updateBgColor(this.form)">
+		<script>printOption();</script>
+	</select>
+
+	<th><font color="#00FF00">GREEN</font><br>
+	<select name="green" size=10 onChange="updateBgColor(this.form)">
+		<script>printOption();</script>
+	</select>
+
+	<th><font color="#0000FF">BLUE</font><br>
+	<select name="blue" size=10 onChange="updateBgColor(this.form)">
+		<script>printOption();</script>
+	</select>
+</table>
+    
+<p align="center">
+<b>RGB字串：</b> <input type="text" size=7 name="rgbString">
+</form>
+
+<script>updateBgColor(document.bgColorSelection)</script>
+</body>
+</html>

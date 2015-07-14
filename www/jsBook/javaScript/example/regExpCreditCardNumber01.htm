@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：簡易信用卡卡號驗證</h2>
+<hr>
+
+<script>
+function checkCreditCard(string) {
+	re = /^\d{4}-\d{4}-\d{4}-\d{4}$/;
+//	re = /^(\d{4}-){3}\d{4}$/;		// 這種寫法也可以！
+	if (re.test(string))
+		alert("成功！符合「" + re + "」的格式！");
+	else
+		alert("失敗！不符合「" + re + "」的格式！");
+}
+</script>
+信用卡號碼：<input id=creditCardNumber value=1234-5678-9012-3456>
+<input type=button value="驗證" onClick="checkCreditCard(creditCardNumber.value)">
+
+<hr>
+</body>
+</html>

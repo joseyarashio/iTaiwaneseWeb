@@ -1,0 +1,97 @@
+<article>
+	<id>1157</id>
+	<title>警方 頂樓垂降 攻堅 製毒集團 人贓俱獲</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 警方 破獲一個 製毒集團，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 keng2-hong pho3-hek8 chit8-e5 che3-tok8 chip8-thoan5，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* ging4-hong1* zin1-pua3-zit6-e5* ze3-dok6-zip6-tuan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>他們 大量購買 感冒藥，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in toa7-liong7 kou3-boe2 kam2-mou7-ioh8，</JiaoLuo>
+			<TongYong>in1 dai2-liong2-go3-ve4 gam4-mo2-iorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>先躲在 大樓的民宅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sian-bih-ti7 toa7-lau5-e5 jin5-ke-chhu3，</JiaoLuo>
+			<TongYong>sing1-vih7-di2 dua2-lau5*-e5 vin5-ge1-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>從感冒藥 提煉 麻黃素 作為 製毒的原料，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 kam2-mou7-ioh8 the5-lian7 moa5-hong5-sou3 chok-ui5 che3-tok8-e5 goan5-liau7 ，</JiaoLuo>
+			<TongYong>zu2-gam4-mo2-iorh6* te5-len2 mua5-hong5-so3* zor3-ui5 ze3-dok6*-e5-quan5-liau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>再 運到郊區 製造 安非他命，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-un7-kau3 kau-khu che3-cho7 an-hui-tha-beng7，</JiaoLuo>
+			<TongYong>ziah7 un2-gau3-gau1-ku1* ze3-zor2 an1-hui1-tann1-ving2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>避免 製毒品 發出的惡臭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-bian2 che3-tok8-phin2 hoat-chhut-e5 au3-chhau3，</JiaoLuo>
+			<TongYong>bi2-ven4 ze3-zor2-dok6-pin4* huat7-cut7*-e5-ok7-cau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>被人發現 報警。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-lang5 hoat-hian7 po3-keng2。</JiaoLuo>
+			<TongYong>ho2-lang5-huat7-hen2* bor3-ging4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>為了 一舉逮捕 六名嫌犯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-tioh8 chit8-khun3 tai7-pou2 lak8-mia5 hiam5-hoan7，</JiaoLuo>
+			<TongYong>Ui2-liau4 zit6-bai4*-dai4-bo4 lak6-mia5-hiam5-huan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>警方 從 大樓頂樓 以 垂降的方式，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong tui3 toa7-lau5 lau5-boe2-chhu3 eng7 tui7-kang3 hong-sek，</JiaoLuo>
+			<TongYong>ging4-hong1* ui3 dua2-lau5*-e5 lau5-vue4-ding4* ing2 sue5-gang3*-e5-hong1-sik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>潛入 他們的 租屋處所，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhang3-jip8 in-e5 soe3-chhu3 sou2-chai7，</JiaoLuo>
+			<TongYong>tau1-tau1-a4 rip6-ki3 in1 sue3-cu3*-e5-so4-zai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>嫌犯 還 搞不清楚 警方 從哪裡 冒出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hiam5-hoan7 iau2 chhong3-bo5-chheng-chho2 keng2-hong tui3 to2-ui7 puh-chhut-lai5，</JiaoLuo>
+			<TongYong>hiam5-huan2* iau4 vu4-ve2-cing1-cor4 ging4-hong1* ui3-dor4-ui2* buh7*-cut7*-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>就在 驚嚇中 被逮捕。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-ti7 heh-kiann-tiong pi7-tai7-pou2。</JiaoLuo>
+			<TongYong>diorh6-di2 diorh6-giann1*-dang1-diong1* ho2-lang5-dai4-bo4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,10 @@
+<?XML version="1.0" ?>
+<!-- Filename: demo.wsf-->
+<package>
+  <job>
+  <?job error="true" debug="true"?>
+    <script type="text/vbscript">
+      WScript.Echo("Hello World!");
+    </script>
+  </job>
+</package>

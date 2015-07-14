@@ -1,0 +1,9 @@
+' Application 物件啟動時該做的事
+Sub Application_OnStart()
+	Application("Counter") = 0
+End Sub
+
+' Application 物件結束時該做的事
+Sub Application_OnEnd()
+	' Nothing to do here
+End Sub

@@ -1,0 +1,164 @@
+[
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "", 
+   "addr": {
+    "": ""
+   }, 
+   "time": "", 
+   "Proposer": "", 
+   "Proposal": ""
+  }, 
+  "flag": "1", 
+  "syllable": "a1"
+ }, 
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "e5", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+133.905+7"
+   ], 
+   "Proposal": "E3"
+  }, 
+  "flag": 0, 
+  "syllable": "e3"
+ }, 
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "GUANN3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+133.905+2"
+   ], 
+   "Proposal": "gann3"
+  }, 
+  "flag": 0, 
+  "syllable": "guann3"
+ },
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "拿", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+133.905+2"
+   ], 
+   "Proposal": "取"
+  }, 
+  "flag": 0, 
+  "syllable": "guann3"
+ }, 
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "先生", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+139.281+1"
+   ], 
+   "Proposal": "桑"
+  }, 
+  "flag": 0, 
+  "syllable": "sang3"
+ }, 
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+143.714+1"
+   ], 
+   "Proposal": "ah4"
+  }, 
+  "flag": 0, 
+  "syllable": "ah1"
+ }, 
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+143.714+1"
+   ], 
+   "Proposal": "IORH3"
+  }, 
+  "flag": 0, 
+  "syllable": "ah1"
+ }, 
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+143.714+2"
+   ], 
+   "Proposal": "null"
+  }, 
+  "flag": 0, 
+  "syllable": "li1"
+ }, 
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+143.714+2"
+   ], 
+   "Proposal": "null"
+  }, 
+  "flag": 0, 
+  "syllable": "li1"
+ }, 
+ {
+  "Result": {
+   "time": "", 
+   "checker": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+143.714+2"
+   ], 
+   "Proposal": "null"
+  }, 
+  "flag": 0, 
+  "syllable": "li1"
+ }
+]

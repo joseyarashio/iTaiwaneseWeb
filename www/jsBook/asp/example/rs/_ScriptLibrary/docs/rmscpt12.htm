@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>RSEnableRemoteScripting 方法</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rsrsenableremotescriptingmethod"></a>RSEnableRemoteScripting 方法</h1>
+<p>
+在客戶端啟動遠端 scripting。</p>
+<p>
+<b>語法</b></p>
+<p>
+RSEnableRemoteScripting(<i>codebase</i>)</p>
+<p>
+<b>參數</b></p>
+<DL>
+<DT><i>codebase</i></DT>
+<DD>遠端 scripting proxy applet (Rsproxy.class) 所在位置的路徑，是一個選擇性的規格。如果您並未指定 <i>codebase</i> 參數，RSEnableRemoteScripting 方法會在目前伺服器或專案的根目錄下之 _ScriptLibrary 資料夾中尋找 Rsproxy.class 程式碼。</DD>
+</DL>
+<p>
+<b>請注意</b></p>
+<p>
+客戶端網頁必須在嘗試進行遠端 scripting 呼叫之前先呼叫此方法，以啟動遠端呼叫能力。在客戶端網頁的生命週期中，此方法只須被呼叫一次。</p>
+<p>
+<b>請參閱</b></p>
+<p>
+<a href="rmscpt2.htm">在客戶端網頁中啟動遠端 Scripting</a></p>
+</BODY>
+</HTML>

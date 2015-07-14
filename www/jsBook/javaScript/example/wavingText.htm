@@ -1,0 +1,108 @@
+<html>
+<head>
+<style type="text/css">
+  .spanstyle {
+  position:absolute;
+  visibility:visible;
+  left:-50px;
+  top:-50px;
+  font-size:15pt;
+  font-family:Verdana;
+  color:#cc0000;
+  }
+  BODY {
+  width:100%;overflow-x:hidden;overflow-y:scroll;
+  }
+</style>
+
+<title>Waving Texts</title>
+
+<script language="JavaScript1.2">
+var message="Roger's Homepage" ;
+message = message.split("");
+var xpos=new Array()
+for (i=0;i<message.length;i++) {
+	xpos[i]=-50
+}
+var ypos=new Array()
+for (i=0;i<message.length;i++) {
+	ypos[i]=-50
+}
+var flag = 1 ;
+var ct1 = 0 ;
+var ct2 = 0 ;
+var c1 = 1 ;
+var c2 = 1 ;
+var left = 20;
+var top = 20;
+var kern=10;
+
+function stroutput() {
+	if(flag==1) {
+		if (document.layers) {
+			left = window.innerWidth + window.pageXOffset - 250;
+                        top = window.innerHeight + window.pageYOffset - 40;
+                //      left = window.Width - 350;
+                //      top = window.scrollHeight - 40;
+                }
+                else if (document.all) {
+			left = document.body.clientWidth + document.body.scrollLeft - 250;
+                        top = document.body.clientHeight + document.body.scrollTop - 40;
+                        //left = window.innerWidth + window.pageXOffset - 250;
+                        //top = window.innerHeight + window.pageYOffset - 40;
+                }
+                ct1 = (ct1+c1) ;
+                ct2 = (ct2+c2)
+
+                if(ct1 >=20) c1 = -1 ;
+                if(ct1 < 0) c1 = 1;
+                if(ct2 >=5) c2 = -1 ;
+                if(ct2 < 0) c2 = 1 ;
+
+                left = left+ct1 ;
+                top = top + ct2 ;
+
+                xpos[0] = left ;
+                ypos[0] = top ;
+                for (i=message.length-1; i>=1; i--) {
+                          xpos[i]=xpos[i-1]+kern
+                          ypos[i]=ypos[i-1]
+                 }
+
+                for (i=0; i<message.length; i++) {
+                          if (document.getElementById)
+                                  var thisspan = document.getElementById("sid"+i).style
+				else
+                                  var thisspan = eval((document.layers)?"document.sid"+i:"sid"+(i)+".style")
+                          if (thisspan.posLeft) {
+                                  thisspan.posLeft=xpos[i]
+                                  thisspan.posTop=ypos[i]
+                           }
+
+                        if (!thisspan.posLeft) {
+                                  thisspan.left=xpos[i]
+                                  thisspan.top=ypos[i]
+                                 //alert(thisspan.Left);
+                          }
+                  }
+        }
+
+        var timer=setTimeout("stroutput()",150);
+}
+window.onload=stroutput;
+</script>
+
+<body>
+<p>
+Main text.
+
+<script language="JavaScript1.2">
+        for (i=0;i<message.length;i++) {
+                  document.write("<span id='sid"+i+"' class='spanstyle'>");
+                  document.write("<a target=_blank  href='http://neural.cs.nthu.edu.tw/jang'>"+message[i]+"</a>");
+                  document.write("</span>");
+        }
+</script>
+
+</body>
+</html>

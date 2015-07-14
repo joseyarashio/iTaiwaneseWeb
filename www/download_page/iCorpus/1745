@@ -1,0 +1,132 @@
+<article>
+	<id>1745</id>
+	<title>國中生 圖書館玩牌 疑似聚賭</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>嘉義縣 一所國中的 三位同學，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ka-gi7-koan7 chit8-sou2 kok-tiong-e5 sann-ui7 tong5-oh8 ，</JiaoLuo>
+			<TongYong>Ga1-Qi2-Guan2* zit6-ging1-gok7-diong1*-e5 sann1-ui2-dong5-orh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>十四日 開學當天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-si3-ho7 khai-hak8 tng-kang ，</JiaoLuo>
+			<TongYong>zap6-si3-hor2* kai1-hak6*-hit7-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>在 嘉義縣 縣立圖書館 大廳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Ka-gi7-koan7 koan7-lip8 tou5-su-koan2 toa7-thiann ，</JiaoLuo>
+			<TongYong>di2 Ga1-Qi2-Guan2* Guan2-Lip6-Do5-Su1-Guan4* dua2-tiann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>出現 「疑似」 公開聚賭的 行為，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhut-hian7 「 gi5-su7 」 kong-khai chu7-tou2-e5 heng5-ui5 ，</JiaoLuo>
+			<TongYong>cut7-hen2 「qi5-su2」 gong1-kai1*-zu2-do4*-e5 hing5-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>由於 當天 圖書館 休館，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-i5 tng-kang tou5-su-koan2 hiu5-koan2 ，</JiaoLuo>
+			<TongYong>in1-ui2* hit7-gang1* do5-su1-guan4* hiu1-guan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>只有 大廳 和 自修室 開放，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kan-na7 toa7-thiann kap chu7-siu-sek khai-hong3 ，</JiaoLuo>
+			<TongYong>gan1-na2 dua2-tiann1* gah7 zu2-siu1-sik7* kai1-hong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>館方 工作人員 不多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koan2-hong kang-chok jin5-oan5 bo5-choe7 ，</JiaoLuo>
+			<TongYong>guan4-hong1* gang1-zok7-rin5-uan5* vor5-ze2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>三位 國中生 被拍下的 鏡頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-ui7 kok-tiong-seng pi7 hip-loh8-e5 kiann3-thau5 ，</JiaoLuo>
+			<TongYong>sann1-ui2 gok7-diong1-sing1* hong5*-hip7*-lorh6-lai5-e5 giann3-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>玩牌的 其中一位 側躺在 沙發上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sng2-pai5-a2 e5 ki5-tiong chit8-ui7 to2-than2-khi-ti7 phong3-i2-teng2 ，</JiaoLuo>
+			<TongYong>sng4-bai5*-a4*-e5 gi5-diong1*-zit6-ui2* tan4-ki1 dor4-di2 pong3-i4-ding4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>桌面上 除了 撲克牌 之外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toh-teng2 ti5-liau2 phok-khek-pai5 chi-goa7 ，</JiaoLuo>
+			<TongYong>dorh7-ding4* du5-liau4 ke1-ri4-vang4* i4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還有 像是 當籌碼的 硬幣。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 chhin-chhiunn7 cho3 pi5-ji2 e5 gin5-kak-a2 。</JiaoLuo>
+			<TongYong>iau4-u2 cin1-ciunn2 zor3-ve4-zi4*-e5 qin5-gak7-a4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>三位同學 是 同一所國中 的 學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-ui7 tong5-oh8 si7 kang7-chit8-sou2 kok-tiong-e5 hak8-seng ，</JiaoLuo>
+			<TongYong>Sann1-ui2-dong5-orh6* si2 gang2-zit6-ging1-gok7-diong1*-e5 hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>他們 承認 在 圖書館裡 打牌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in seng5-jin7 ti7 tou5-su-koan2-lai7 phah-pai5 ，</JiaoLuo>
+			<TongYong>in1 sing5-rin2 di2 do5-su1-guan4*-lai2* pah7-bai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>但是 否認 是賭博，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-kuh hou2-jim7-si7 poah8-kiau2 ，</JiaoLuo>
+			<TongYong>m2-gorh7 m2-sing5-rin2 si2-buah6-giau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>他們 解釋 桌上的硬幣 是 要買飲料的，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in kai2-soeh toh-teng2 e5 gin5-kak-a2 si7 beh-be2 im2-liau7-e5 ，</JiaoLuo>
+			<TongYong>in1 gai4-sueh7* dorh7-ding4*-e5 qin5-gak7-a4* si2 veh7-ve4-in4-liau2*-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>只是 即使是 打牌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-si7 tioh8-sng3-si7 phah-pai5 ，</JiaoLuo>
+			<TongYong>zi4-si2 diorh6-sng3-si2 pah7-bai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>在 圖書館裡 也不適合。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 tou5-su-koan2-lai7 ma7-bo5-sek-hap8 。</JiaoLuo>
+			<TongYong>di2 do5-su1-guan4*-lai2* ma2-vor5-sik7-hap6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

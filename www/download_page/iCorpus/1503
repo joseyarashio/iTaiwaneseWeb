@@ -1,0 +1,118 @@
+<article>
+	<id>1503</id>
+	<title>能量 轉換成電能 地磚會發光</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>我們 每天 走路 或是 騎單車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lan2 tak8-kang kiann5-lou7 ah-si7 khia5-kha-tah8-chhia，</JiaoLuo>
+			<TongYong>Lan4 dak6-gang1* giann5-lo2* ia2-si2 kia5-ka1-da2-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>都產生出 許多能量，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-san2-seng-chhut chiann5-choe7 leng5-liang7，</JiaoLuo>
+			<TongYong>long4-san4-sing1-cut7 ziann5-ze2-ling5-liang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>如果 把 這些能量 轉換為電能，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-chun2 ka7-chia-e5 leng5-liang7 choan2-oann7-cho3 tian7-leng5，</JiaoLuo>
+			<TongYong>na2-si2 ga2 zia3-e5-ling5-liang2* zuan4-uann2-zor3-den2-ling5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>就能夠 節能減碳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-e7-thang chiat-leng5-kiam2-thoann3，</JiaoLuo>
+			<TongYong>diorh6-e2-dang3 zet7-ling5*-giam4-tuann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>工研院 最近 研發出 一種 會發光 地磚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kang-gian2-inn7 choe3-kin7 gian2-hoat-chhut chit8-chiong2 e7-hoat-kng te7-chng，</JiaoLuo>
+			<TongYong>Gang1-Qen5-Inn2* zue3-gin2* qen5-huat7-cut7 zit6-ziong4 e2-huat7-guinn1*-e5 de2-zuinn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>用它 來 鋪在地面上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng7-in-lai5 phou3-ti7 te7-bin7-siang7，</JiaoLuo>
+			<TongYong>iong2-i1 lai5 po1-di2-de2-vin2-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>只要 在上面 跑步 或是 騎車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-iau3 ti7-bin7-teng2 poann3-kiann5-chau2 ah-si7 khia5-chhia，</JiaoLuo>
+			<TongYong>zi4-iau3 di2-ding4-vin2* zau4* ia2-si2 kia5-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>就可以 點亮LED燈。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-e7-tang3 tiam2-toh8 LED-teng。</JiaoLuo>
+			<TongYong>diorh6-e2-dang3 diam4-dorh6 LED ding1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>不管是 人 走在上面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-koan2-si7 lang5 kiann5-ti7-bin7-teng2，  </JiaoLuo>
+			<TongYong>But7-guan4-si2 lang5* giann5-di2-ding4-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>還是 騎單車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-si7 khia5-kha-tah8-chhia，</JiaoLuo>
+			<TongYong>ia2-si2 kia5-ka1-da2-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>這些動能 所產生的 電能，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chia-e5 tong7-leng5 sou2-san2-seng-e5 tian7-leng5，</JiaoLuo>
+			<TongYong>zia3-e5-dong2-ling5* so4-san4-sing1*-e5 den2-ling5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>可以 供LED燈 發光，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-tang3-kiong LED-teng hoat-kng，</JiaoLuo>
+			<TongYong>e2-dang3 ho2 LED ding1* huat7-guinn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>像是 馬路的 指引信號燈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhin-chhiunn7 chhia-lou7-e5 chi2-in2 sin3-ho7-teng，</JiaoLuo>
+			<TongYong>pi3-ru5-gong4 ve-lo2*-e5 zi4-in4*-sin3-hor2-ding1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>或是 安全梯的 指引，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ah-si7 an-choan5-thui e5 chi2-in2，</JiaoLuo>
+			<TongYong>ia2-si2 an1-zuan5-tui1*-e5 zi4-in4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>運用的範圍 很廣。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>un7-iong7-e5 hoan7-ui5-chin-khoah。</JiaoLuo>
+			<TongYong>un2-iong2*-e5-huan2-ui5* zin1-kuah7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

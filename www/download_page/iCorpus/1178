@@ -1,0 +1,111 @@
+<article>
+	<id>1178</id>
+	<title>男子 跳軌道 受傷 板南線列車 停駛 近一小時</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>八日早上 內湖線 才當機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peh-ho7 cha2-khi2 Lai7-ou5-soaN3 chiah-tng3-ki，</JiaoLuo>
+			<TongYong>Beh7-hor2*-zai4-ki4* Lai2-O5-Suann3* ziah7-dong3-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>沒想到</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siunn7-tioh8，</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>下午 三點十分 左右，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e5-pou saN-tiam2-chap8-hun cho2-iu7，</JiaoLuo>
+			<TongYong>e5-bo1* sann1-diam4*-zap6-hun1* zor4-iu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>板南線 列車 也 停駛 一個小時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Pang-lam5-soaN3 liat8-chhia oan-na2-theng5-sai2 chit8-tiam2-cheng，</JiaoLuo>
+			<TongYong>Bang1-Lam5-Suann3* let6-cia1* ma2 ting5-su4 zit6-diam4-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>經過調查 才發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 tiau-cha chiah-hoat-hian7，</JiaoLuo>
+			<TongYong>ging1-gue3-diau1-za1 ziah7-huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>是 在 善導寺站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7-ti7 Sian7-to7-si7-cham7，</JiaoLuo>
+			<TongYong>si2 di2 Sen2-Dor2-Si2-Zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>有 一名男子 突然 侵入軌道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-chit8-mia5 cha-pou tut8-jian5 chhim-jip8 kui2-to7，</JiaoLuo>
+			<TongYong>u2 zit6-mia5-lam5-zu4* tut6-ren5* cim1-rip6-gui4-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>導致 列車 停駛 將近一小時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 liat8-chhia theng5-sai2 beh-oa2 chit8-tiam2-cheng，</JiaoLuo>
+			<TongYong>di3-su4 let6-cia1* ting5-su4 ziong1-gin2 zit6-diam4-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>這名男子的 左手骨折，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-mia5 cha-pou-e5 to3-chhiu2 kut-tng7，</JiaoLuo>
+			<TongYong>zit7-mia5-lam5-zu4*-e5 dor3-ciu4* gut7-tau5*-dng2*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>頭 撕裂受傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5 li3-liah siu7-siong，</JiaoLuo>
+			<TongYong>tau5* bit7-lih6*-siu2-siong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>已經 緊急送醫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng kin2-kip sang3-i ，</JiaoLuo>
+			<TongYong>i4-ging1 gin4-gip7*-sang3-i1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>雖然 這名男子 動機不明，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5 chit-mia5 cha-pou tong7-ki-put-beng5，</JiaoLuo>
+			<TongYong>sui1-ren5* zit7-mia5-lam5-zu4* dong2-gi1*-but7-ving5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>不過 警方確定，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh keng2-hong khak-teng7，</JiaoLuo>
+			<TongYong>m2-gorh7 ging4-hong1*-kak7-ding2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>他 是 自行 跳進鐵軌。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i si7 ka-ki7 thiau3-jip8 thih-ki-a2-lou7。</JiaoLuo>
+			<TongYong>i1 si2 ga1-di2* tiau3-rip6 tih7-gi1-lo2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>"navigator" 的性質列表</h2>
+<hr>
+
+<script>
+function ForInDemo(){
+   // 建立一些變數。
+   var a, key, s = "";
+   // 將物件初始化。
+   a = {"a" : "Athens" , "b" : "Belgrade", "c" : "Cairo"}
+   // 反覆屬性
+   for (key in a)   {
+      s += a[key] + "&ltBR>";
+   }
+   return(s);
+}
+document.write(ForInDemo());
+</script>
+
+<hr>
+</body>
+</html>

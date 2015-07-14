@@ -1,0 +1,83 @@
+<article>
+	<id>914</id>
+	<title>和時間 賽跑 高高屏首長 深夜 坐鎮領軍</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo>Sam3-lip-sin-un5-tai5</TaiLuo>
+			<JiaoLuo>Sàm-lip-sin-bûn-tâi</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>為了 和時間 賽跑，</segmentation>
+			<TaiLuo>ui7-tioh kap si5-kan chau2-pio，</TaiLuo>
+			<JiaoLuo>ūi-tioh kap sî-kan cháu-pio，</JiaoLuo>
+			<TongYong>Ui2-liau4 ham2-si5-gan1* zau4-sior1-rik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>搶救 仍然受困的 災民，</segmentation>
+			<TaiLuo>ui7-tioh kap si5-kan chau2-pio，</TaiLuo>
+			<JiaoLuo>chhiúⁿ-kiù iû-gôan ê  chai-bîn，</JiaoLuo>
+			<TongYong>ciunn4-giu3 iu5-quan5-siu2-kun3*-e5 zai1-vin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>高雄縣縣長 楊秋興，</segmentation>
+			<TaiLuo>Ko-hiong5-koan7 koan7-tiunn2 Iunn5-chhiu-heng，</TaiLuo>
+			<JiaoLuo>Ko-hiông-kōan kōan-tiúⁿ Iûⁿ-chhiu-heng，</JiaoLuo>
+			<TongYong>gor1-hiong5-guan2*-guan2-diunn4* iunn1-ciu1-hing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>屏東縣縣長 曹啟鴻，</segmentation>
+			<TaiLuo>Pin5-tong-koan7 koan7-tiunn2 Cho5-khe2-hong5，</TaiLuo>
+			<JiaoLuo>Pîn-tong-kōan kōan-tiúⁿ Chô-khé-hông，</JiaoLuo>
+			<TongYong>bin5-dong1-guan2*-guan2-diunn4* zor5-ke4-hong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>深夜 仍然 坐鎮 防災指揮中心，</segmentation>
+			<TaiLuo>chhim-ia7 iu5-goan5 tin3-tian7 hong5-chai chi2-hui tiong-sim，</TaiLuo>
+			<JiaoLuo>chhim-iā iû-gôan tìn-tiān hông-chai chí-hui tiong-sim，</JiaoLuo>
+			<TongYong>cim1-ia2* iu5-quan5 ze2-din3 hong5-zai1*-zi4-hui1-diong1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>至於， 高雄市長 陳菊，</segmentation>
+			<TaiLuo>chi3-i5，Ko-hiong5-chhi7-tiunn2 Tan5-kiok，</TaiLuo>
+			<JiaoLuo>chì-î，Ko-hiông-chhī-tiúⁿ Tân-kiok，</JiaoLuo>
+			<TongYong>zi3-i5*， gor1-hiong5-ci2-diunn4* dan5-giok7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>立刻出面 號召 高雄市民，</segmentation>
+			<TaiLuo>sui5 chhut-bin7 ho7-tiau3 Ko-hiong5 chhi7-bin5，</TaiLuo>
+			<JiaoLuo>sûi chhut-bīn hō-tiàu Ko-hiông chhī-bîn，</JiaoLuo>
+			<TongYong>lip6-kik7*-cut7-vin2* hor2-ziau1 gor1-hiong5-ci2-vin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>發揮 人飢己飢的 大愛精神，</segmentation>
+			<TaiLuo>hoat-hui jin5-ki-chu7-ki e5 toa7-ai3-cheng-sin5，</TaiLuo>
+			<JiaoLuo>hoat-hui jîn-ki-chū-ki ê tōa-ài-cheng-sîn，</JiaoLuo>
+			<TongYong>huat7-hui1 rin5-gi1*-zu2-gi1*-e5 dua2-ai3*-zing1-sin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>募集 大量物資，</segmentation>
+			<TaiLuo>bo7-chip tai7-liong7 chu-kim，</TaiLuo>
+			<JiaoLuo>bō-chip tāi-liōng chu-kim，</JiaoLuo>
+			<TongYong>vo2-zip6 dai2-liong2-vut6-zu1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>要送到 其它 災情慘重的 縣市。</segmentation>
+			<TaiLuo>beh sang3-kau3 ki5-thann chai-cheng5 chham2-tiong7 e5 koan7-chhi7。</TaiLuo>
+			<JiaoLuo>beh sàng-kàu kî-thaⁿ chai-chêng chhám-tiōng ê kōan-chhī。</JiaoLuo>
+			<TongYong>veh7-sang3-gau3 gi5-tann1* zai1-zing1*-cam4-diong2*-e5 guan2-ci2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

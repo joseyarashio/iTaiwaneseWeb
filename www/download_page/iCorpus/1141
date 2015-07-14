@@ -1,0 +1,90 @@
+<article>
+	<id>1141</id>
+	<title>只生 一．Ｏ五個 補貼計畫 盼 拉回 生育率</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>不景氣 之下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-keng2-khi3 chi-ha7，</JiaoLuo>
+			<TongYong>Vor5-ging4-ki3*-e5-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>生小孩 容易 養小孩難，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>seng-gin2-a2 iong5-i7 chhi7-gin2-a2-lan5，</JiaoLuo>
+			<TongYong>senn1-qin4-a4* gan4-dan1* ci2-qin4-a4* kun3-lan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>台灣的 生育率 又 創下新低，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5-e5 seng-iok8-lut8 koh-chhong3-ha7 sin-ke7，</JiaoLuo>
+			<TongYong>Dai5-Uan5*-e5 sing1-iok6-lut6* gorh7 cong3-ha2-sin1-ge2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>去年 一整年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ku7-ni5 kui-thau3-ni5，</JiaoLuo>
+			<TongYong>gu2-ni5*-gui1-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>新生兒 只有 十九萬 一千人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-seng-ji5 chi2-u7 chap8-kau2-ban7 chit8-chheng-lang5  ，</JiaoLuo>
+			<TongYong>sin1-sing1-ri5* zi4-u2 zap6-gau4-van2* zit6-cing1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>比前一年 減少 七千多人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi2 teng2-chit8-ni5 kiam2-chio2 chhit-chheng-goa7-lang5，</JiaoLuo>
+			<TongYong>bi4-zing5-zit6-ni5* giam4-zior4 cit7-cing1-qua2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>正值 生育年齡 的 婦女，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiann3-tat8 seng-iok8-ni5-hoe3 hu7-lu2，</JiaoLuo>
+			<TongYong>dng1-di2 sing1-iok6-len5-ling5* hu2-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>平均 一生 只生 一．Ｏ五個 小孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng5-kin-it-seng chi2-senn it-tiam2-khong3-gou7-e5 gin2-a2，</JiaoLuo>
+			<TongYong>bing5-gin1* it7-sing1* zi4-senn1 it7-diam4-kong3-qo2-e5 qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>比起 日本的 一．四 都還少，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi2-khi2 Jit8-pun2-e5 it-tiam2-su3 long2-khah-chio2，</JiaoLuo>
+			<TongYong>bi4-ki4 Rit6-Bun4*-e5 it7-diam4-si3* gorh7-kah7-zior4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>台灣 再度成為 全球 生育率 最低。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5-e5 koh-chai3 chiann5-cho3 choan5-kiu5 seng-iok8-lut8 siong7-ke7，</JiaoLuo>
+			<TongYong>Dai5-Uan5* zai3-do2-ben3-sing5 zuan5-giu5* sing1-iok6-lut6* siang2-ge2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>相關單位的 補貼計畫 盼 拉回 生育率。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong-koan tan-ui7-e5 pou2-thiap-ke3-oe7 ng3-giu2-hoe5 seng-iok8-lut8。</JiaoLuo>
+			<TongYong>siang1-guan1-dan1-ui2*-e5 bo4-tiap7*-ge3-ue2* hi1-vang2 qiu4-hue5 sing1-iok6-lut6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

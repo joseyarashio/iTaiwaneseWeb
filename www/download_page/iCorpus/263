@@ -1,0 +1,167 @@
+<article>
+	<id>263</id>
+	<title>專機 儀表板 冒煙 迫降 加州州長 空中受驚</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>專機 儀表板 冒煙 迫降，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan-ki gi5-piau2-pan2 chheng3-ian piak-kang3 ，</JiaoLuo>
+			<TongYong>Zuan1-gi1* qi5-bior4-ban4* cing3-en1* pik7-gang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>美國 加州州長 Arnold，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bi2-kok Ka-chiu chiu-tiunn2 Arnold，</JiaoLuo>
+			<TongYong>vi4-gok7* ga1-ziu1*-ziu1-diunn4* Arnold，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>過去 常常 在 大銀幕 演出 中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kue3-khi3 tiann7-tiann7-ti7 tua7-gin5-bo7 ian2-chhut-tiong ，</JiaoLuo>
+			<TongYong>gue3-ki3* diann2-diann2 di2 dua2-qin5-vo2* en4-cut7* diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>出生入死，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhut-sinn-jip-si2 ，</JiaoLuo>
+			<TongYong>cut7-sing1*-rip6-si4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>不過 今天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 kin-a2-jit ，</JiaoLuo>
+			<TongYong>m2-gorh7 gin1-a4-rit6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>他 真的 歷經了 一場 空中驚魂！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i chin-e5 king-lik-liau2 chit-tiunn5 khong-tiong-kiann-hun5 ！</JiaoLuo>
+			<TongYong>i1 zin1-ziann3 ginq1-lik6-liau4 zit7-diunn5 kong1-diong1*-ging1-hun5*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>他搭乘的 專機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i che7-e5 choan-ki ，</JiaoLuo>
+			<TongYong>I1-ze2*-e5-zuan1-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>在 飛往 洛杉磯 途中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 pue-ong2 Lok-sam-ki to5-tiong ，</JiaoLuo>
+			<TongYong>di2 bue1-ong4 lok6-sam1-gi1* do5-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>因為 駕駛艙 突然冒煙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 ka3-su2-chhng tut-jian5 chheng3-ian ，</JiaoLuo>
+			<TongYong>in1-ui2 ga3-su4-cng1* tut6-ren5-cing3-en1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>所以 緊急迫降。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>so2-i2 kin2-kip piak-kang3 。</JiaoLuo>
+			<TongYong>so4-i4 gin4-gip7-pik7-gang3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>Arnold的發言人 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Arnold e5 huat-gian5-jin5 piau2-si7 ，</JiaoLuo>
+			<TongYong>Arnold e5 huat7-qen5-rin5* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>州長的專機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiu-tiunn2 e5 choan-ki ，</JiaoLuo>
+			<TongYong>ziu1-diunn4*-e5-zuan1-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>是 飛往  "Santa Monica" 機場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 pue-ong2  " Santa Monica " ki-tiunn5 ，</JiaoLuo>
+			<TongYong>si2 bue1-ong4 "Santa Monica" gi1-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>距離 目的地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki7-li7 bok-tik-te7 ，</JiaoLuo>
+			<TongYong>gi2-li5 vok6-dik7-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>只剩 十分鐘 的 時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-chhun chap-hun-cheng e5 si5-chun7 ，</JiaoLuo>
+			<TongYong>zi4-cun1 zap6-hun1-zing1* e5 si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>駕駛艙的 儀表板 突然冒煙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka3-su2-chhng e5 gi5-piau2-pan2 tut-jian5 chheng3-ian ，</JiaoLuo>
+			<TongYong>ga3-su4-cng1*-e5 qi5-bior4-ban4* tut6-ren5-cing3-en1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>因此 緊急迫降，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-chhu2 kin2-kip piak-kang3 ，</JiaoLuo>
+			<TongYong>so4-i4 gin4-gip7-pik7-gang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>當時 洛杉磯 消防隊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-si5 Lok-sam-ki siau-hong5-tui7 ，</JiaoLuo>
+			<TongYong>dong1-si5* lok6-sam1-gi1* siau1-hong5-dui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>也 隨即 在 機場跑道 就位待命，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7-toe3-boe2 ti7 ki-tiunn5 phau2-to7 che7-ui7 thai7-bing7 ，</JiaoLuo>
+			<TongYong>ma2 ma4-siong2* di2 gi1-diunn5*-pau4-dor2* ziu2-ui2*-tai2-ving2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>幸好 降落後 飛機 沒有起火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-tsai3 kang3-loh-au7 hui-ki bo5-khi2-hue2 ，</JiaoLuo>
+			<TongYong>ga1-zai3* gang3-lorh6-au2* hui1-gi1* vor5-dorh6-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>也 沒有人 受傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7-bo5-lang5 siu7-siong ，</JiaoLuo>
+			<TongYong>ma2 vor5-lang5-siu2-siong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>結束 這場 加州州長 空中受驚。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-sok chit-tiunn5 Ka-chiu chiu-tiunn2 khong-tiong tioh-chhenn-kiann 。</JiaoLuo>
+			<TongYong>get7-sok7 zit7-diunn5 ga1-ziu1*-ziu1-diunn4* kong1-diong1*-siu2-giann1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,104 @@
+<article>
+	<id>1015</id>
+	<title>老翁 獨自煮菜 暈倒 險引發火警</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台東 在 二十五日 晚間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tang ti7 ji7-chap8-gou7-ho7 am3-si5</JiaoLuo>
+			<TongYong>Dai5-Dang1* di2 ri2-zap6-qo2-hor2* am3-si5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>發生一件 老人家 昏倒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng chit8-chan5 lau7-lang5 hun7-to2，</JiaoLuo>
+			<TongYong>huat7-sing1-zit6-giann2 lau2-dua2-lang5* hun1-dor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>卻 差點 引發火警 的 意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah lim2-lim2-a2 in2-hoat hoe2-sio e5 i3-goa7，</JiaoLuo>
+			<TongYong>suah7 ca1-zit6-diam4-a4* in4-huat7-hue4-ging4* e5 i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一名 九十一歲的 劉姓老翁，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 kau2-chap8-it hoe3 e5 Lau5-seN3 lau7-a-kong，</JiaoLuo>
+			<TongYong>zit6-ui2 gau4-zap6-it7-hue3* senn3-Lau5*-e5 lau2-hue3-a4-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>家人 剛出門，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-lai7-lang5 tu2-chhut-mng5，</JiaoLuo>
+			<TongYong>cu3-lai2-lang5* du4-cut7-mng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>他 準備 自己 煮東西吃，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i chun2-pi7 ka-ki7 chu2-mih8-kiaN7-chiah8，</JiaoLuo>
+			<TongYong>i1 zun4-bi2 ga1-di2* zi4-mih6-giann2*-ziah6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>卻 忽然暈倒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-tut8-jian5 hun7-to2 ，</JiaoLuo>
+			<TongYong>suah7 tut6-ren5*-hun1-dor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>直到 廚房 傳出 陣陣濃煙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tit8-kau3 chau3-kha thoan5-chhut chun7-chun7 long5-ian，</JiaoLuo>
+			<TongYong>it7-dit6-gau3 zau3-ka1* tuan5-cut7 zun2-zun2-long5-en1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>才引起 鄰居注意 報警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-in2-khi2 chhu3-piN chu3-i3 po3-keng2，</JiaoLuo>
+			<TongYong>ziah7-in4-ki4 cu3-binn1*-zu3-i3* bor3-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>警方 趕到現場 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong koaN2-kau3 hian7-tiuN5 si5，</JiaoLuo>
+			<TongYong>ging4-hong1* guann4-gau3-hen2-diunn5* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>劉姓老翁 一度 沒有 呼吸、心跳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lau5-seN3 lau7-a-kong it-tou7 bo5-hou-khip sim-thiau3，</JiaoLuo>
+			<TongYong>senn3-Lau5-e5 lau2-hue3-a4-lang5* u2 zit6-duann2-si5-gan1* vor5 ho1-kip7*、sim1-tiau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>幸好 送醫治療 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 sang3-i ti7-liau5-liau2-au7，</JiaoLuo>
+			<TongYong>hor4-ga1-zai3* sang3-i1*-di2-liau5* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>已經 沒有大礙。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng bo5-iau3-kin2。</JiaoLuo>
+			<TongYong>i4-ging1 vor5-iau3-gin4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,28 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>異常處理</h2>
+<hr>
+
+<script>
+try {
+//	throw new Error("Whoops!");
+	throw new Date();
+} catch(err) {
+	document.write("本網頁發生錯誤！<br>");
+	document.write("錯誤名稱："+err.name+"<br>");
+	document.write("錯誤訊息："+err.message+"<br>");
+	document.write("錯誤訊息："+err.toLocaleString()+"<br>");
+	document.write("錯誤代碼："+(err.number & 0xFFFF)+"<br>");
+	
+	for (prop in err)
+		document.write("<br>err." + prop + " = " + err[prop]);
+}
+</script>
+
+<hr>
+</body>
+</html>

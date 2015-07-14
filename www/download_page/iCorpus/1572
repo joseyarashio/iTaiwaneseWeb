@@ -1,0 +1,125 @@
+<article>
+	<id>1572</id>
+	<title>台北捷運 蘆洲線 三民路坑洞 越破越大</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北的 捷運蘆洲線 在 十一月三日 就要通車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-e5 chiat8-un7 Lou5-chiu-soann3 ti7 chap8-it-goeh8 sann-ho7 to-beh thong-chhia，</JiaoLuo>
+			<TongYong>Dai5-Bak7*-e5 zet6-un2*-Lo5-Ziu1-Suann3* di2 zap6-it7-queh6-sann1-hor2* diorh6-veh7-tong1-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>民視 昨天的 獨家新聞 報導，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7 chah8-jit8-e5 tok8-ka-sin-bun5 po3-to7，</JiaoLuo>
+			<TongYong>Vin5-Si2* za1-huinn1*-e5 dok6-ga1-sin1-vun5* bor3-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>蘆洲線捷運 必經的 三民路 上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lou5-chiu-soann3 chiat8-un7 pit-keng-e5 Sam-bin5-lou7 teng2，</JiaoLuo>
+			<TongYong>Lo5-Ziu1-Suann3*-zet6-un2* e2-ging1-gue3*-e5 Sam1-Vin5-Lo2* ding4-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>出現 一個 大坑洞，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhut-hian7 chit8-e5 toa7-khut-a2，</JiaoLuo>
+			<TongYong>cut7-hen2 zit6-e5* dua2-kut7-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>原本 坑洞 只有 三公尺寬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 khut-a2 chi2-u7 sann-kong-chhioh khoah，</JiaoLuo>
+			<TongYong>quan5-bun4* kut7-a4* gan1-na2* sann1-gong1-ciorh7-kuah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>昨天 緊急的填補 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choh8-jit8 kin2-kip-e5 pou2-that liau2-au7，</JiaoLuo>
+			<TongYong>za1-huinn1* gin4-gip7*-tun2-bo4* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>今天 卻出現 坑洞 越破越大洞 情形，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit8 soah-chhut-hian7 khut-a2 lu2-phoa3-lu2-toa7-khang cheng5-heng5，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* suah7-cut7-hen2 kut7-a4* lu4-pua3*-lu4-dua2-kang1* e5 zing5-hing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>寬到 幾乎 占了 兩線車道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoah-kau3 kiong5-beh chiam3-liau2 nng7-soann3-chhia-lou7，</JiaoLuo>
+			<TongYong>kuah7-gau3 giang5-veh7 ziam3-liau4 nng2-suann3-cia1-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>住在周邊的 居民 擔心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa3-ti7 chiu-pinn-e5 ki-bin5 tam-sim，</JiaoLuo>
+			<TongYong>dua3-di2-ziu1-binn1*-e5 gi1-vin5* huan5-lor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>捷運蘆洲線 的 安全 令人擔憂，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiat8-un7-Lou5-chiu-soann3 e5 an-choan5 hou7-lang5 tam-iu，</JiaoLuo>
+			<TongYong>zet6-un2*-Lo5-Ziu1-Suann3* e5 an1-zuan5* su4-lang5-dam1-iu1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>房屋的結構 會 受到影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-theh8-e5 kiat-kou3 e7-siu7-tioh8 eng2-hiang2，</JiaoLuo>
+			<TongYong>cu3*-e5-get7-go3* e2-siu2-diorh6-ing4-hiang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>未來 恐怕 會出問題。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bi7-lai5 khiong2-kiann e7-chhut-bun7-toe5。</JiaoLuo>
+			<TongYong>vi2-lai5* kiong4-giann1 e2-cut7-vun2-de5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>雖然 三民路 路面 已經填平，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5 Sam-bin5-lou7 lou7-bin7 i2-keng thun7-pinn5，</JiaoLuo>
+			<TongYong>Sui1-ren5* Sam1-Vin5-Lo2* lo2-vin2* i4-ging1-tun2-benn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>經過的車輛 還是很小心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3-e5 chhia-liong2 iau2-si7 chiok-se3-ji7，</JiaoLuo>
+			<TongYong>ging1-gue3*-e5-cia1-liang2* iau4-si2-zin1-sior4-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>整條路的 車輛 都堵在一塊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-tiau5-lou7 e5 chhia-liong2 long2-that-cho3-hoe2，</JiaoLuo>
+			<TongYong>gui1-diau5-lo2*-e5 cia1-liang2* long4-tat7-zor3-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>路旁邊 明顯的下陷 還有 很多裂痕。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lou7-pinn-a2 beng5-hian2-e5 loh8-lap iau2-u7 chiok-choe7 pit-sun5。</JiaoLuo>
+			<TongYong>lo2*-binn1*-a1* ving5-hen4*-e5 lap7*-lorh6-ki3* gorh7-u2 zin1-ze2-bit7-sun5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

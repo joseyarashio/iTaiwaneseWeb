@@ -1,0 +1,18 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用 JavaScript 來隱藏電子郵件：使用 shiftEncode()、xorEncode 及 escape() </h2>
+<hr>
+<script src="encode.js"></script>
+<p>
+使用 shiftEncode() 和 escape()：張老師的 Email 是 
+<script>document.write(shiftEncode("=b!isfg>nbjmup;kbohAdt/ouiv/fev/ux?kbohAdt/ouiv/fev/ux=0b?", -1));</script>
+<p>
+使用 xorEncode() 和 escape()：張老師的 Email 是 
+<script>document.write(xorEncode(unescape("%5D%03C%09%10%06%07_%0E%00%0B%0F%15%0DY%0B%03%0D%06%22%00%12L%0D%15%0A%16O%07%07%14L%17%16%5C%09%00%0C%04%21%01%10O%0C%17%09%17M%04%06%16O%16%14%5DM%02_"), "abc"));</script>
+<hr>
+</body>
+</html>

@@ -1,0 +1,104 @@
+<article>
+	<id>1193</id>
+	<title>婆婆 趴車頭 罵媳婦 連人帶車 滑行 一公里多</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台中縣 一名 離婚的 曾姓婦人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-koan7 chit8-mia5 li7-hun-e5 senn3-Chan hu7-jin5，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Guan2* zit6-e5* li2-hun1* senn3-Zan1*-e5 hu2-rin5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在 過年期間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 ke3-ni5-ki5-kan，</JiaoLuo>
+			<TongYong>di2 gue3-ni5*-gi5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>因為 太晚 送小孩 回 前夫的家，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 siunn-am3 sang3 gin2-a2 tng2 cheng5-ang e5 chhu3，</JiaoLuo>
+			<TongYong>in1-ui2 siunn1-uann3 sang3-qin4-a4* duinn4-ki3 zing5-ang1*-e5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>跟前婆婆 發生爭執，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kah cheng5-ta-ke hoat-seng sio-chenn3，</JiaoLuo>
+			<TongYong>gah7 i4-zing5*-e5-da1-ge1* ki4-uan1-ge1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>這位婦人 急著 開車離開，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ui7 hu7-jin5 kin2-leh khui-chhia li7-khui，</JiaoLuo>
+			<TongYong>zit7-e2-hu2-rin5-lang5* gip7-veh7 sai4-cia1*-li2-kui1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>沒想到 老婆婆 竟然 趴在 引擎蓋上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siunn7-tioh8 lau7-ta-ke keng2-jian5 phak-ti7 ian-jin2-koa3-teng2，</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3 lau2-a1-bor5* ging4-ren5* pak7-di2 en5-rin4-gua3* ding4-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>就這樣 連人帶車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-an2-ne lian5-lang5-tai3-chhia，</JiaoLuo>
+			<TongYong>diorh6-an4-ne1* len5-lang5*-dai3-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>在街頭 跑了 一公里多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-koe-thau5 chau2-liau2 chit8-kong-li2-goa7，</JiaoLuo>
+			<TongYong>di2-ge1-a4-tau5* zau4-liau4 zit6-gong1-li4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>路人 越看 越不對勁，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe3-lou7-lang5 lu2-khoann3-lu2-m7-tioh8，</JiaoLuo>
+			<TongYong>gue3-lo2-lang5* lu4-kuann3* lu4-m2-diorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>趕緊 報警處理，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-kin2 po3-keng2 chhu2-li2，</JiaoLuo>
+			<TongYong>guann4-gin4 bor3-ging4*-cu4-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>最後 撞上 另外一輛 小客車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong7-be2 long3-tioh8 leng7-goa7 chit8-tai5 sio2-kheh-chhia，</JiaoLuo>
+			<TongYong>zue3-au2* long3-diorh6 ling2-qua2-zit6-dai5 sior4-keh7-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>老婆婆 跌在地上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lau7-ta-ke poah8-ti7 thou5-kha，</JiaoLuo>
+			<TongYong>lau2-a1-bor5* buah6-di2-to5-ka1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>還好 沒有受傷。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-kai-chai3 bo5-tioh8-siong。</JiaoLuo>
+			<TongYong>hor4-gai1-zai3* vor5-diorh6-siong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

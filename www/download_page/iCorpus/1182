@@ -1,0 +1,69 @@
+<article>
+	<id>1182</id>
+	<title>女童尋父母 帶表弟離家 流浪街頭 三天</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台東 一位 十三歲 小女孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tang chit8-ui7 chap8-sann-hoe3 cha-bou2-gin2-a2，</JiaoLuo>
+			<TongYong>Dai5-Dang1* zit6-e5* zap6-sann1-hue3*-e5 za1-vo4-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>星期一 帶著 兩個表弟，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>le2-pai3-it chhoa7-tioh8 nng7-e5 piau2-sio2-ti7，</JiaoLuo>
+			<TongYong>bai3-it7* cua2-diorh6 nng2-e5* biau4-sior4-di2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>要 到台中縣 找爸媽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh-kau3 Tai5-tiong-koan7 chhoe7-pe7-bo2，</JiaoLuo>
+			<TongYong>veh7 gau3-Dai5-Diong1-Guan2* cue2 ba1-ba1*-ma1-ma1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>結果 迷路 回不去，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 kiann5-bo5-lou7 tng2-be7-khi3，</JiaoLuo>
+			<TongYong>get7-gor4 ve5-lo2* vor5-huat7-do2 duinn4*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>三個小孩 在 鹿野 火車站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-e5 gin2-a2 ti7 Lok8-ia2-hoe2-chhia-thau5，</JiaoLuo>
+			<TongYong>sann1-e5-qin4-a4* di2 Lok6-Ia4* hue4-cia1-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>流浪三天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>liu5-long7 sann-kang，</JiaoLuo>
+			<TongYong>liu5-long2-sann1-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>幸好 警方 巡邏發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 keng2-hong sun5-lo5 hoat-hian7，</JiaoLuo>
+			<TongYong>ga1-zai3* ging4-hong1* sun5-lor5*-huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>把他們 平安 送回去 阿嬤家。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka7 in peng5-an sang3-tng2-khi3 a-ma2-tau。</JiaoLuo>
+			<TongYong>ga2-in2* bing5-an1* sang3-duinn4-ki3 a1-ma4*-in1-dau1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

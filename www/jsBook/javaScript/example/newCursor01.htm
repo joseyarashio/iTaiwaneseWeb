@@ -1,0 +1,18 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body onmousemove="newCursor()">
+<h2 align=center>鍵盤事件：黏住游標的方塊</h2>
+
+<script>
+function newCursor() {
+	redSquare.style.posLeft=event.clientX-10;
+	redSquare.style.posTop=event.clientY-10;
+}
+</script>
+<div id=redSquare style="position:absolute; top:10; left:10; height:20; width:20; background-color:red"></div>
+
+</body>
+</html>

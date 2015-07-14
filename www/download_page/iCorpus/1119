@@ -1,0 +1,90 @@
+<article>
+	<id>1119</id>
+	<title>街頭槍擊！ 先毆打 再開槍　一人 中彈送醫</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>三十日 晚間 七點多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-chap8-ho7 am3-si5 chhit-tiam2-goa7，</JiaoLuo>
+			<TongYong>Sann1-zap6-hor2* am3-si5* cit7-diam4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台北縣 樹林鎮 文化街上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 Chhiu7-na5-tin3 Bun5-hoa3-ke-siong7，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* Ciu2-Na5-Din3* Vun5-Hua3-Ge1* ding4-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>發生一件 槍擊案！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng chit8-kiann7 chheng3-kek-an3！</JiaoLuo>
+			<TongYong>huat7-sing1-zit6-giann2 cing3-gik7-an3*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一名 楊姓男子 原本 在餐廳 用餐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 senn3-Iunn5 cha-pou goan5-pun2-ti7 chhan-thiann iong7-chhan，</JiaoLuo>
+			<TongYong>Zit6-e5 senn3-Iunn5*-e5 za1-bo1-lang5* quan5-bun4* di2-can1-tiann1* ing2-can1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>在 接到電話 後 走出餐廳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chiap-tioh8 tian7-oe7 au7 kiann5-chhut chhan-thiann，</JiaoLuo>
+			<TongYong>di2 ziap7-diorh6-den2-ue2* liau4-au2* giann5-cut7-can1-tiann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>就在路邊 遭到 三名男子 毆傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-ti7 lou7-pinn tu2-tioh8 sann-mia5 cha-pou phah-tioh8-siong，</JiaoLuo>
+			<TongYong>diorh6-di2-lo2-binn1* ho2 sann1-e5 za1-bo1-lang5* pah7-diorh6-siong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>還 被開槍 擊中左腳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-pi7 khui-chheng3 phah-tioh8 to3-kha，</JiaoLuo>
+			<TongYong>gorh7  hong5*-kui1-cing3* pah7-diorh6-dor3-ka1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>楊姓男子 送醫急救 後 沒有 生命危險，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>senn3-Iunn5 cha-pou sang3-i kip-kiu3-au7 bo5-senn3-mia7 hui5-hiam2，</JiaoLuo>
+			<TongYong>senn3-Iunn5*-e5 za1-bo1-lang5* sang3-i1*-gip7-giu3* liau4-au2* vor5 senn3-mia2-hui5-hiam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>初步研判 歹徒使用的 是空氣槍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhou-pou7 gian2-phoann3 phainn2-tou5 su2-iong7-e5-si7 khong-khi3-chheng3，</JiaoLuo>
+			<TongYong>co1-bo2-qen5-puann3* painn4-do5*-su4-ing2*-e5 si2-kong1-ki3-cing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>警方 還要 深入釐清，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong iau2-beh chhim-jip8 li5-chheng，</JiaoLuo>
+			<TongYong>ging4-hong1* gorh7-ai3 cim1-rip6-li5-cing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>槍擊案 背後 是否牽扯 其它糾紛！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chheng3-kek-an3 poe3-au7 si7-m7-si7 khan-thoa ki5-thann kiu3-hun！</JiaoLuo>
+			<TongYong>cing3-gik7-an3* bue3-au2* si2-m2-si2 kan1-siap6-diorh6 gi5-tann1*-e5-giu3-hun1*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

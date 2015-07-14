@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：對調兩個英文字</h2>
+<hr>
+
+<script>
+function exchangeWord(id) {
+	var regexp = /(\w+)\s+(\w+)/;
+	var newString = id.innerHTML.replace(regexp, "$2 $1");
+	alert("First matched word = " + RegExp.$1);
+	alert("Second matched word = " + RegExp.$2);
+	id.innerHTML = newString;
+}
+</script>
+請點選下列文字以對調前兩個英文字：<p>
+<div onClick='exchangeWord(this)'>we are the world!</div>
+
+<hr>
+</body>
+</html>

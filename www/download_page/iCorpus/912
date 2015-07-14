@@ -1,0 +1,104 @@
+<article>
+	<id>912</id>
+	<title>梓官 加班 搶收蔬菜 民眾搶購 葉菜類 漲一倍</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo>Sam-lip8-sin-bun5-tai5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>莫拉克 颱風 帶來 強風豪雨，</segmentation>
+			<TaiLuo>Morakot hong-thai toa3-lai5 kiong5-hong toa7-chui2-hou7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vok6-la1-kik7* hong1-tai1* dua3-lai5 giong5-hong1*-dua2-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>直接影響 蔬菜收成，</segmentation>
+			<TaiLuo>tit8-chiap chheN-chhai3 eng2-hiong2 siu-seng5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>dit6-ziap7*-ing4-hiang4 so1-cai3*-siu1-sing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>高雄縣 梓官鄉 怕 蔬菜 受損短缺，</segmentation>
+			<TaiLuo>Ko-hiong5-koan7 Chu2-koaN-hiong kiaN chheN-chhai3 siu7-sun2 toan2-khoat，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gor1-hiong5-guan2* zu4-guann1-hiang1* giann1 so1-cai3* siu2-sun4*-de4-kiam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>早就 通知菜農 趕快採收，</segmentation>
+			<TaiLuo>cha2-to thong-ti chhai3-long5 koaN2-kin2 chhai3-siu，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>za4*-diorh6 tong1-di1-cai3-long5* guann4-gin4-cai3-siu1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>送到市場 裝箱，</segmentation>
+			<TaiLuo>sang3-kau3 chhi7-tiuN5 chng-siuN，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>sang3-gau3-ci2-diunn5* zng1-siunn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>到貨量 比平日，</segmentation>
+			<TaiLuo>kau3-hoe3-liong7 pi2 phou2-thong-jit8，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gau3-hue3-liong2* bi4-bing5-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>還 多出 一倍多 達十噸，</segmentation>
+			<TaiLuo>iau2-u7 tiong3-chhut chit8-poe7 ke-tat8 chap8-tong3，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gorh7 ge1-cut7 zit6-bue2-qua2* dat6-gau3-zap6-dong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>市場 工作人員，</segmentation>
+			<TaiLuo>chhi7-tiuN5 kang-chok jin5-oan5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ci2-diunn5* gang1-zok7-rin5-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>從昨天 就 開始加班 包裝出貨，</segmentation>
+			<TaiLuo>tui3 choh8-jit8 to-khai-si2 ka-pan pau-chong chhut-hoe3，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ui3-za1-hng1* diorh6 kai1-si4-ga1-ban1* bau1-zong1*-cut7-hue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>不過 因為 民眾搶購，</segmentation>
+			<TaiLuo>put-ko3 in-ui7 bin5-chiong3 chhiuN2-be2，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>m2-gorh7 in1-ui2 vin5-ziong3* sior1-zenn1-ve4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>菜價 還是 應聲大漲，</segmentation>
+			<TaiLuo>chhai3-ke3 iau2-si7 in3-siaN toa7-khi2，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>cai3-ge3* iau4-si2 ing3-siann1*-dua2-ki4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>尤其 葉菜類，</segmentation>
+			<TaiLuo>iu5-ki5 hioh8-chhai3-lui7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>iu5-gi5 hiorh6-cai3-lui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>價格 已經 漲一倍。</segmentation>
+			<TaiLuo>ke3-siau3 i2-keng khi2-chit8-poe7。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ge3-siau3* i4-ging1 ki4-zit6-bue2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

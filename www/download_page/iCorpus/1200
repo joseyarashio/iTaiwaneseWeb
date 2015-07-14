@@ -1,0 +1,118 @@
+<article>
+	<id>1200</id>
+	<title>公寓大火 女子 三樓跳下 逃生</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 相當熱鬧的 南雅夜市，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 siang-tong lau7-jiat8-e5 Lam5-nga2-ia7-chhi7-a2，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* hui1-siang5*-lau2-ret6*-e5 Lam5-Nga4-Ia2-Ci2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>傍晚 忽然 發生大火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>am3-thau5-a2 hut-jian5-hoat-seng toa7-hoe2，</JiaoLuo>
+			<TongYong>vue4-am3-a4* hut7-ren5* huat7-sing1-dua2-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一棟 五層樓的 公寓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tong3 gou7-chan5-lau5-koan5-e5 kong-u2，</JiaoLuo>
+			<TongYong>zit6-dong3 qo2-zan3-lau5*-e5 gong1-u4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一樓的 電子遊藝場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-lau5-e5 Tian7-chu2-iu5-ge7-tiunn5，</JiaoLuo>
+			<TongYong>it7-lau5*-e5 den2-zu4-iu5-qe2-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>疑似 電線走火 開始燃燒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 tian7-soann3 chau2-hoe2 khai-si2 hiann5-sio，</JiaoLuo>
+			<TongYong>qi5-su2 den2-suann3*-zau4-hue4* kai1-si4 ki4-hue4-sior1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>整棟公寓 陷入濃煙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-tong3 kong-u2 ham7-loh8 long5-ian，</JiaoLuo>
+			<TongYong>gui1-dong3-gong1-u4* ham2-rip6-long5-en1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>一名 住在三樓的 女性住戶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 toa3-ti7 sann-lau5-e5 lu2-seng3 khia7-hou7，</JiaoLuo>
+			<TongYong>zit6-e5* dua3-di2-sann1-lau5*-e5 li4-sing3*-zu2-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>從陽台 跳樓逃生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-iang5-tai5 thiau3-lau5-to5-sinn，</JiaoLuo>
+			<TongYong>ui3-iang5-dai5* tiau3-lau5*-dor5-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>幸好 只有輕傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-kai-chai3 chi2-u7 khin-siong，</JiaoLuo>
+			<TongYong>hor4-gai1-zai3* gan1-na2*-kin1-siang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>同一個 時間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kang5-chit8-e5 si5-kan，</JiaoLuo>
+			<TongYong>gang2-zit6-e5* si5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>烏來山區 一棟 木造房屋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>U-lai5 soann-khu chit8-tong3 bok8-cho7-chhu3-theh8，</JiaoLuo>
+			<TongYong>U1-Lai1*-suann1-ku1* zit6-dong3 vok6-zor2*-cu3-teh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>也 發生火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan-na2-hoat-seng hoe2-sio，</JiaoLuo>
+			<TongYong>ma2 huat7-sing1-hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>屋主的 四十八歲 姪女 葬身火窟，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-chu2-e5 si3-chap8-peh-hoe3 tit8-lu2 chong3-sin-hoe2-khut，</JiaoLuo>
+			<TongYong>cu3-zu4* si3-zap6-beh7-hue3*-e5 za1-vo4-sun1-a4* zong3-sin1-hue4-kut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>一連 兩場大火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sio-lian5-soa3 nng7-tiunn5 toa7-hoe2，</JiaoLuo>
+			<TongYong>len5-sua3*-e5 nng2-diunn5-dua2-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>台北縣 夜晚 很不平靜。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 am3-thau5 chin-bo5-peng5-cheng7。</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* am3-me5* zin1-vor5-bing5-zing2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

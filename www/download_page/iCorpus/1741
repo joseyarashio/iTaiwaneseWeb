@@ -1,0 +1,146 @@
+<article>
+	<id>1741</id>
+	<title>新社 山坡地濫墾 邊坡 土石裸露</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台中市議員 王岳彬 探勘 新社纜車 路線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-chhi7-gi7-oan5 Ong5-gak8-pin tham3-kham3 Sin-sia7 lam2-chhia lou7-soann3 ，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Ci2-qi2-uan5* Ong5-Qak6-Bin1* tam3-kam1 Sin1-Sia2*-lam4-cia1* lo2-suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>意外發現 新社 頭嵙山 產業道路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i3-goa7 hoat-hian7 Sin-sia7 Thau5-kho-soann san2-giap8-to7-lou7 ，</JiaoLuo>
+			<TongYong>i3-qua2*-huat7-hen2 Sin1-Sia2* Tau5-Kor1-Suann1* san4-qiap6-dor2-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>遭到軍方 以 方便出入 為理由，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu2-tioh8 kun-hong eng7 hong-pian7 chhut-jip8 cho3-li2-iu5 ，</JiaoLuo>
+			<TongYong>ho2-gun1-hong1* iong2 hong1-ben2-cut7-rip6* zor3-li4-iu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>濫砍濫伐 兩旁的 山坡地 導致 土石裸露，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lam7-khun2-lam7-hoat8 nng7-peng5-e5 soann-pho-te7 ti3-su2 thou5-chioh8 lo7-lou7 ，</JiaoLuo>
+			<TongYong>luan2-su4-cor3 nng2-bing5*-e5 suann1-por1-de2* di3-su4 to5-ziorh6*-hen4-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>疏洪溝渠 全被填平，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou-hong5 am5-kau long2 pi7-thun7-penn5 ，</JiaoLuo>
+			<TongYong>so1-hong5*-e5-zui4-gau1* long4 ho2-lang5-tun2-benn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>萬一 雨季來臨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ban7-it hou7-kui3 lai5-lim5 ，</JiaoLuo>
+			<TongYong>van2-it7 ho2-gui3*-lai5-lim5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>恐怕 引爆 土石流 危及 下游民眾。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khiong2-kiann in2-pok8 thou5-chhoah-lau5 gui5-kip8 ha7-iu5 bin5-chiong3 。</JiaoLuo>
+			<TongYong>kiong4-giann1 in4-bok6 to5-ziorh6-liu5* ui5-gip6 ha2-iu5*-e5-vin5-ziong3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>這一條 產業道路 兩旁的邊坡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-tiau5 san2-giap8-to7-lou7 nng7-peng5-e5 pinn-a2-kia7 ，</JiaoLuo>
+			<TongYong>Zit7-diau5 san4-qiap6-dor2-lo2* nng2-bing5*-e5-ben1-por1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>林木 完全 被剷除，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lim5-bok8 oan5-choan5 pi7-san2-ti5 ，</JiaoLuo>
+			<TongYong>lim5-vok6* uan5-zuan5* hong5*-san4-di5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>鵝卵石 嚴重裸露，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gia5-nng7-chioh8 giam5-tiong7 lo7-lou7 ，</JiaoLuo>
+			<TongYong>qor5-nui2-ziorh6* qiam5-diong2-hen4-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>原有的 疏洪溝渠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-iu2-e5 sou-hong5 am5-kau ，</JiaoLuo>
+			<TongYong>quan5-bun4* so1-hong5*-e5-zui4-gau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>完全 被土石 掩埋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-choan5 pi7 thou5-chioh8 iam2-tai5 ，</JiaoLuo>
+			<TongYong>uan5-zuan5* ho2-to5-ziorh6* dai5*-diorh6，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>順著 開挖的邊坡 綿延 三公里，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sun7-leh khui-ou2-e5 pinn-a2-kia7 mi5-ian5 sann-kong-li2 ，</JiaoLuo>
+			<TongYong>sun2-diorh6 kui1-o4*-e5-ben1-por1* ven5-en5 sann1-gong1-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>抵達了 十軍團 七四資電群 的 頭嵙山 電台，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3-ui7-liau2 chap8-kun-thoan5 chhit-su3 chu-tian7-kun5 e5 Thau5-kho-soann tian7-tai5 ，</JiaoLuo>
+			<TongYong>gau3-liau4 zap6-gun1-tuan5* Cit7-Su3*-Zu1-Den2-Gun5* e5 Tau5-Kor1-Suann1* den2-dai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>證實 山坡地 濫墾 是 國軍所為。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng3-sit8 soann-pho-te7 lam7-khun2 si7 kok-kun sou2-ui5 。</JiaoLuo>
+			<TongYong>zing3-sit6 suann1-por1-de2* lam2-kun4* si2 gok7-gun1*-so4-zor3*-e5。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>區公所、 水保局、 農業局，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khu-kong-sou2 、 Chui2-po2-kiok8 、 Long5-giap8-kiok8 ，</JiaoLuo>
+			<TongYong>Ku1-gong1-so4*、 Zui4-Bor4-Giok6*、 Long5-Qiap6-Giok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>全部 沒收到 申請公文，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-pou7 bo5-siu-tioh8 sin-chheng2 kong-bun5 ，</JiaoLuo>
+			<TongYong>zuan5-bo2* vor5-siu1-diorh6 sin1-cing4*-e5-gong1-vun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>市政府 將 先開罰單，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-cheng3-hu2 beh-seng khui-hoat8-toann ，</JiaoLuo>
+			<TongYong>ci2-zing3-hu4* veh7 sing1-kui1-huat6-duann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>要求 限期改善 否則 連續開罰。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau-kiu5 han7-ki5 kai2-sian7 na7-bo5 lian5-soa3 khui-hoat8 。</JiaoLuo>
+			<TongYong>iau1-giu5 han2-gi5*-gai4-sen2* na2-vor5* len5-sua3*-kui1-huat6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

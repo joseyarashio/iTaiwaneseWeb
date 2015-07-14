@@ -1,0 +1,132 @@
+<article>
+	<id>1615</id>
+	<title>豬舍更環保 降低 環境污染</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>畜產 廢棄物處理 和 污染防治，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thiok-san2 hoe3-khi3-but8 chhu2-li2 kap u3-jiam2 hong5-ti7， </JiaoLuo>
+			<TongYong>Tiok7-san4* hui3-ki3-vut6*-cu4-li4* gah7 u1-riam4*-hong5-di2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>成為 台灣畜產業 面臨的 重要問題，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiann5-cho3 Tai5-oan5-thiok-san2-giap8 bin7-lim5-e5 tiong7-iau3 bun7-te5，</JiaoLuo>
+			<TongYong>ben3-zor3 Tai5-uan5-tiok7-san4-qiap6* ven2-lim5*-e5 diong2-iau3-vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>農委會 頒發的 全國 農業 優秀人員 當中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Long2-ui2-hoe7 pan-hoat-e5 choan5-kok-long5-giap8 iu-siu3-jin5-oan5 tong-tiong，</JiaoLuo>
+			<TongYong>Long4-Ui4-Hue2* ban1-huat7*-e5 zuan5-gok7* long5-qiap6* iu1-siu3-rin5-uan5* dang1-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>農業 畜產試驗所 的 郭猛德，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Long5-giap8 thiok-san2-chhi3-giam7-sou2 e5 Koeh-beng2-tek，</JiaoLuo>
+			<TongYong>Long5-Qiap6* Tiok7-San4*-Ci3-Qiam2-So4* e5 Gueh7-Ving4-Dik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>就是 針對 糞便處理 如何 更環保，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tioh8-si7 chiam-tui3 sai2-jio7 chhu2-li2 an3-choann2 khah-khoan5-po2，</JiaoLuo>
+			<TongYong>diorh6-si2 ziam1-dui3 hun3-ben2*-e5-cu4-li4* an4-zuann4 gorh7-kah7-huan5-bor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>研發了 豬舍糞便 三段式的 處理系統，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gian2-hoat-liau2 ti-tiau5 sai2-jio7 sann-toann7-sek e5 chhu2-li2-he7-thong2，</JiaoLuo>
+			<TongYong>qen5-huat7-liau4 di1-diau5*-hun3-ben2* sann1-duann2-sik7*-e5 cu4-li4*-he2-tong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>也因此 獲得了肯定。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-in-chhu2 hek8-tit-liau2 kheng2-teng7。</JiaoLuo>
+			<TongYong>ma2 in1-ui2-an4-ne1* dit7-diorh6-liau4-king4-ding2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>過去 只要 經過 豬舍的附近，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe3-khi3 kinn3-na7 keng-koe3 ti-tiau5-e5 hu7-kin7，</JiaoLuo>
+			<TongYong>Gue3-ki3* zi4-iau3ginn3-na2 ging1-gue3 di1-diau5*-e5-hu2-gin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>常常 會聞到 臭氣沖天的 糞便，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiann7-tiann7-e7 phinn7-tioh8 chhau3-mou-mou e5 sai2-jio7，</JiaoLuo>
+			<TongYong>diann2-diann2 e2-pinn2-diorh6 cau3-mo1-mo1*-e5 hun3-ben2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>甚至 因為 禽糞 處理不當，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3 in-ui7 sai2-jio7 chhu2-li2-put-tong3，</JiaoLuo>
+			<TongYong>sim2-zi3 in1-ui2 ziau4-kim5-hun3* cu4-li4-vor5-hor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>造成 豬舍附近 環境的污染，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 ti-tiau5 hu3-kin7 khoan5-keng2-e5 u3-jiam2，</JiaoLuo>
+			<TongYong>zor2-sing5 di1-diau5*-hu2-gin2* huan5-ging4*-e5-u1-riam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>在 畜產試驗所 服務 的 郭猛德，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 thiok-san2-chhi3-giam7-sou2 hok8-bu7-e5 Koeh-beng2-tek，</JiaoLuo>
+			<TongYong>di2 Tiok7-San4*-Ci3-Qiam2-So4* hok6-vu2* e5 Gueh7-Ving4-Dik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>研發出 三段式的 豬舍糞便 處理系統，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gian2-hoat-chhut sann-toann7-sek e5 ti-tiau5 sai2-jio7 chhu2-li2-he7-thong2，</JiaoLuo>
+			<TongYong>qen5-huat7-cut7 sann1-duann2-sik7*-e5 di1-diau5*-hun3-ben2* cu4-li4*-he2-tong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>改善了 污染問題 以後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kai2-sian7-liau2 u3-jiam2-bun7-te5 i2-au7 ，</JiaoLuo>
+			<TongYong>gai4-sen2-liau4 u1-riam4*-e5-vun2-de5* i4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>豬隻糞便 可以 廢物再利用，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti-a2 sai2-jio7 e7-sai2 hoe3-but8 koh-li7-iong7，</JiaoLuo>
+			<TongYong>di1-a4*-e5-hun3-ben2* e2-sai4 hui3-vut6*-gorh7-li2-iong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>郭猛德 獲得 全國 優秀 農業人員 獎勵，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Koeh-beng2-tek hek8-tit choan5-kok iu-siu3 long5-giap8-jin5-oan5 chiong2-le7，</JiaoLuo>
+			<TongYong>Gueh7-Ving4-Dik7* dit7-diorh6 zuan5-gok7* iu1-siu3* long5-qiap6-rin5-uan5 ziang4-le2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>也讓 畜產業 可以 安全的 永續發展。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-hou7 thiok-san2-giap8 e7-sai2 an-choan5-e5 eng2-siok8-hoat-tian2。</JiaoLuo>
+			<TongYong>uan5-a2-ho2 tiok7-san4-qiap6 e2-sai4 an1-zuan5-e5 ing4-siok6-huat7-den4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

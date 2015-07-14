@@ -1,0 +1,90 @@
+<article>
+	<id>1324</id>
+	<title>豪雨 溪裡撿石頭 民眾 受困沙洲</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>受到 豪雨的影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu7-tioh8 toa7-chui2-hou7-e5 eng2-hiong2，</JiaoLuo>
+			<TongYong>Siu2-diorh6 dua2-ho2*-e5-ing4-hiang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>造成 南投縣 部分烏溪 溪水暴漲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 Lam5-tau5-koan7 pou7-hun7 Ou-khoe khoe-chui2 po7-tiong3，</JiaoLuo>
+			<TongYong>zor2-sing5 Lam5-Dau5-Guan2* bo2-hun2-O1-Ke1* ke1-zui4* diunn3*-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>下午 兩名男子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e5-pou nng7-mia5 cha-pou，</JiaoLuo>
+			<TongYong>e2-bo1* nng2-mia5-lam5-zu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>前往 烏溪 雙冬段 河床 撿石頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chian5-ong2 Ou-khoe Siang-tang-toann7 ho5-chhng5 khioh-chioh8-thau5，</JiaoLuo>
+			<TongYong>zen5-ong4 O1-Ke1* Siang1-Dang1-duann2* ke1-cng5* kiorh7-ziorh6-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>結果 因為 大雨 來得 急又快，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 in-ui7 toa7-hou7 lai5-tit kip-koh-kin2，</JiaoLuo>
+			<TongYong>get7-gor4 in1-ui2 dua2-ho2* lai5-liau4 gip7*-gorh7-gin4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>兩名男子 看見 湍急的溪水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-mia5 cha-pou khoann3-kinn3 chhoah-lau5-e5 khoe-chui2，</JiaoLuo>
+			<TongYong>nng2-mia5-lam5-zu4* kuann3-ginn3 cuah7-lau5*-e5-ke1-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>已經 來不及 回到岸邊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng boe7-tit-hu3 tng2-kau3 hoann7-pinn，</JiaoLuo>
+			<TongYong>i4-ging1-ve2-hu3 duinn4-gau3-huann2-binn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>因此 受困沙洲。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-chhu2 siu7-khun3 phu5-lun3。</JiaoLuo>
+			<TongYong>so4-i4 siu2-kun3-di2 sua1-ziu1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>消防單位 接獲報案 前往救援，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-tan-ui7 chiap-hek8 po3-an3 chian5-ong2 kiu3-oan7，</JiaoLuo>
+			<TongYong>Siau1-hong5-dan1-ui2* ziap7-diorh6-bor3-an3* zen5-ong4-giu3-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>總共 花了 四個多小時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chong2 khai-liau2 si3-tiam2-goa7-cheng，</JiaoLuo>
+			<TongYong>zong4-giong2* kai1-liau4 si3-diam4-qua2-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>才 將兩人 平安 救上岸。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-chiang nng7-lang5 peng5-an kiu3-chiunn7-hoann7。</JiaoLuo>
+			<TongYong>ziah7 ga2-nng2-e5-lang5* bing5-an1* giu3-ziunn2-huann2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,405 @@
+<article>
+	<id>111</id>
+	<title>高雄市 大眾運輸 運量 明年 目標 三十萬人次</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 高雄市報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-iu5-si5-po3  Ko-hiong5-chhi7 po3-to7</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* gor1-hiong5-ci2*-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>高雄捷運 運量偏低，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chiat8-un7 un7-liong7 phian-ke7 ，</JiaoLuo>
+			<TongYong>Gor1-hiong5-zet6-un2* un2-liong2*-pen1-ge2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>高雄市政府 交通局長 王國材 今天表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7-cheng3-hu2 kau-thong kiok8-tiunn2 Ong5-kok-chai5 kin-a2-jit piau2-si7 ，</JiaoLuo>
+			<TongYong>gor1-hiong5-ci2-zing3-hu4* gau1-tong1-giok6-diunn4* ong5-gok7-zai5* gin1-a4-rit6* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>市府 明年 設定 大眾運輸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-hu2 siat-teng7 me5-ni5 siat-teng7 tai7-chiong3-un7-su ，</JiaoLuo>
+			<TongYong>ci2-hu4* me5-ni5* set7-ding2 dai2-ziong3*-un2-su1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>每日運量 三十萬人次 的 目標 努力。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>moe2-jit8 un7-liong7 sann-chap8-ban7 jin5-chhu3 e5 bok8-phiau lou2-lek8 。</JiaoLuo>
+			<TongYong>mui4-rit6-un2-liong2* sann1-zap6-van2-rin5-cu3* e5 vok6-piau1* no4-lik6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>不過 高捷公司 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh Ko-chiat8-kong-si piau2-si7 ，</JiaoLuo>
+			<TongYong>M2-gorh7* gor1-zet6-gong1-si1* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>假如 每日運量 三十萬人次，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-si7 moe2-jit8 un7-liong7 sann-chap8-ban7 jin5-chhu3 ，</JiaoLuo>
+			<TongYong>na2-si2 mui4-rit6-un2-liong2* sann1-zap6-van2-rin5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>高捷 仍然 一年 虧損 新台幣 十億元。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-chiat8 iau3-koh chit8-ni5 khui-sun2 sin-tai5-phio3 chap8-ek 。</JiaoLuo>
+			<TongYong>gor1-zet6* iu5-quan* zit6-ni5* kui1-sun4 sin1-dai5-pior3* zap6-ik7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>高雄捷運的 紅線、橘線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chiat8-un7 e5 Ang5-soann3 、 Kam-a2-soann3 ，</JiaoLuo>
+			<TongYong>Gor1-hiong5-zet6-un2*-e5 ang5-suann3*、giok6-suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>三月以後 陸續通車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-goeh8 i2-au7 liok8-siok8 thong-chhia ，</JiaoLuo>
+			<TongYong>sann1-queh6*-i4-au2* liok6-siok6-tong1-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>高捷公司 統計，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-chiat8-kong-si thong2-ke3 ， </JiaoLuo>
+			<TongYong>gor1-zet6-gong1-si1* tong4-ge3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>目前 平均 每日運量 是 十二萬人次，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok8-cheng5 peng5-kin moe2-jit8 un7-liong7 si7 chap8-ji7-ban7 jin5-chhu3 ，</JiaoLuo>
+			<TongYong>vok6-zing5* bing5-gin1* mui4-rit6-un2-liong2* si2 zap6-ri2-van2-rin5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>高捷 公共事務 處長 黃一中 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-chiat8 kong-kiong7-su7-bu7 chhu3-tiunn2 Ng5-it-tiong piau2-si7 ，</JiaoLuo>
+			<TongYong>gor1-zet6* gong1-giong2-su2-vu2* cu3-diunn4* ng5-it7-diong1* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>高捷公司 估算，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-chiat8-kong-si kou2-sng3 ，</JiaoLuo>
+			<TongYong>gor1-zet6-gong1-si1* go1-sng3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>日運量 要 四十萬人次，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jit8-un7-liong7 ai3 si3-chap8-ban7 jin5-chhu3 ，</JiaoLuo>
+			<TongYong>rit6-un2-liong2* ai3 si3-zap6-van2-rin5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>才會 符合 高捷 營運成本，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-e7 hu5-hap8 Ko-chiat8 eng5-un7 seng5-pun2 ，</JiaoLuo>
+			<TongYong>ziah7-e2 hu5-hap6 gor1-zet6* ing5-un2-sing5-bun4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>一年 四十七億元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-ni5 si3-chap8-chhit-ek ，</JiaoLuo>
+			<TongYong>zit6-ni5* si3-zap6-cit7-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>含 利息、折舊 支出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham5 li7-sek 、 chiat-ku7 chi-chhut ，</JiaoLuo>
+			<TongYong>ham5 li2-sit7*、zet7-gu2* zi1-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>如果 每日運量 三十萬人次，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-chun2 moe2-jit8 un7-liong7 sann-chap8-ban7 jin5-chhu3 ，</JiaoLuo>
+			<TongYong>ru5-gor4 mui4-rit6-un2-liong2* sann1-zap6-van2-rin5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>只是 達到 帳面 損益平衡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-si7 tat8-kau3 siau3-bian7 sng2-ek-penn5-heng5 ，</JiaoLuo>
+			<TongYong>zi4-si2 dat6-gau3 siau3-vin2* sun4-ik7*-bing5-hing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>沒辦法 支應利息，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-hoat-tou7 chi-eng3 li7-sek ，</JiaoLuo>
+			<TongYong>vor5-huat7-do2 zi1-ing3-li2-sit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>及 汰換 捷運 電聯車 的 支出。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kah thai3-oann7 chiat8-un7 tian7-lian5-chhia chi-chhut 。</JiaoLuo>
+			<TongYong>gah7 tai3-uann2 zet6-un2* den2-len5-cia1* e5 zi1-cut7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>王國材 說 捷運 還沒通車 前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ong5-kok-chai5 kong2 chiat8-un7 iau3-be7 thong-chhia-cheng5 ，</JiaoLuo>
+			<TongYong>Ong5-gok7-zai5* gong4 zet6-un2* iah7-vue2-tong1-cia1* zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>高雄市 民眾 使用 大眾運輸 的 比例，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7 bin5-chiong3 su2-iong7 tai7-chiong3-un7-su e5 pi-le7 ，</JiaoLuo>
+			<TongYong>gor1-hiong5-ci2* vin5-ziong3* su4-iong2 dai2-ziong3*-un2-su1* e5 bi4-le2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>是 百分之 四點三，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 pah-hun-chi si3-tiam2-sann ，</JiaoLuo>
+			<TongYong>si2 bah7-hun1-zi1 si3-diam4-sann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>也就是 每日 大約 八萬六千 人次，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-tioh8-si7 moe2-jit8 tai7-iok peh-ban7 lak8-chheng jin5-chhu3 ，</JiaoLuo>
+			<TongYong>ia2-diorh6-si2 mui4-gang1* dai2-iok7* beh7-van2-lak6-cing1 rin5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>今年三月 捷運通車 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ni5 sann-goeh8 chiat8-un7 thong-chhia-au7 ，</JiaoLuo>
+			<TongYong>gin1-ni5*-sann1-queh6* zet6-un2*-tong1-cia1* au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>大眾運輸的 使用率，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tai7-chiong3-un7-su e5 su2-iong7-lut8 ，</JiaoLuo>
+			<TongYong>dai2-ziong3*-un2-su1*-e5 su4-iong2-lut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>已經 提升到 目前的 百分之 十點二，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng the5-seng-kau3 bok8-cheng5-e5 pah-hun-chi chap8-tiam2-ji7 ，</JiaoLuo>
+			<TongYong>i4-ging1 te5-sing1-gau3 vok6-zing5*-e5 bah7-hun1-zi1 zap6-diam4-ri2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>也就是 每日運量 大約 二十一萬 人次，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-tioh8-si7 moe2-jit8 un7-liong7 tai7-iok ji7-chap8-it-ban7 jin5-chhu3 ，</JiaoLuo>
+			<TongYong>ia2-diorh6-si2 mui4-rit6-un2-liong2* dai2-iok7* ri2-zap6-it7-van2 rin5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>其中 捷運 十二萬人次、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong chiat8-un7 chap8-ji7-ban7 jin5-chhu3 ，</JiaoLuo>
+			<TongYong>gi5-diong1* zet6-un2 zap6-ri2-van2 rin5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>公車 九萬人次。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kong-chhia kau2-ban7 jin5-chhu3 ，</JiaoLuo>
+			<TongYong>gong1-cia1* gau4-van2-rin5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>王國材 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ong5-kok-chai5 piau2-si7 ，</JiaoLuo>
+			<TongYong>Ong5-gok7-zai5* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>市府 盼望 明年 密集加強 公車的接駁，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-hu2 ng3-bang7 me5-ni5 bit8-chip8 ka-kiong5 kong-chhia-e5 chiap-lau5 ，</JiaoLuo>
+			<TongYong>ci2-hu4* ng3-vang2 me5-ni5* vit6-zip6-ga1-giong5 gong1-cia1*-e5-ziap7-un2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>提升 大眾運輸 使用比例 為 百分之十五，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>the5-seng tai7-chiong3-un7-su su2-iong7 pi-le7 ui5 pah-hun-chi chap8-gou7 ，</JiaoLuo>
+			<TongYong>te5-sing1 dai2-ziong3*-un2-su1* su4-iong2-bi4-le2* ui5 bah7-hun1-zi1-zap6-qo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>每天 大約 三十萬人次。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tak8-kang tai7-iok sann-chap8-ban7 jin5-chhu3 。</JiaoLuo>
+			<TongYong>mui4-gang1* dai2-iok7* sann1-zap6-van2-rin5-cu3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>為了 協助 提振高捷 增加運量，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-tioh8 hiap8-chou7 the5-chin2 Ko-chiat8 cheng-ka un7-liong7 ，</JiaoLuo>
+			<TongYong>Ui2-liau4 hiap6-zo2 te5-zin3-gor1-zet6* zing1-ga1-un2-liong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>市府 於明年度 編列</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-hu2 ti7 me5-ni5-tou7 phian-liat8 ，</JiaoLuo>
+			<TongYong>ci2-hu4* di2-me5-ni5-do2* ben1-let6</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>一點四億元 捷運接駁公車 專款，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tiam2-si3-ek chiat8-un7 chiap-lau5 kong-chhia choan-khoan2 ，</JiaoLuo>
+			<TongYong>it7-diam4-si3-ik7* zet6-un2*-ziap7-un2-gong1-cia1* zuan1-kuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>計畫 在 爭取 高捷公司</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke3-oe7 ti7 cheng-chhu2 Ko-chiat8-kong-si ，</JiaoLuo>
+			<TongYong>ge3-ue2 di2 zing1-cu4 gor1-zet6-gong1-si1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>增援 四千二百萬元 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng-oan7 si3-chheng nng7-pah-ban7 chi-au7 ，</JiaoLuo>
+			<TongYong>zing1-uan5 si3-cing1*-nng2-bah7-van2* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>密集加強 捷運公車的 接駁，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bit8-chip8 ka-kiong5 chiat8-un7 kong-chhia-e5 chiap-lau5 ，</JiaoLuo>
+			<TongYong>vit6-zip6-ga1-giong5 zet6-un2-gong1-cia1*-e5 ziap7-un2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>從 目前的 二十分鐘 一班，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 bok8-cheng5-e5 ji7-chap8-hun-cheng chit8-pan ，</JiaoLuo>
+			<TongYong>ui3 vok6-zing5*-e5 ri2-zap6-hun1-zing1* zit6-bang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>縮短為 十分鐘 一班。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sok-te2-cho3 chap8-hun-cheng chit8-pan 。</JiaoLuo>
+			<TongYong>sok7-de4-ui5 zap6-hun1-zing1* zit6-bang1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>王國材 希望，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ong5-kok-chai5 hi-bong7 ，</JiaoLuo>
+			<TongYong>Ong5-gok7-zai5* hi1-vang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>從 增加 捷運接駁公車 的 班次，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 cheng-ka chiat8-un7 chiap-lau5 kong-chhia-e5 pan-chhu3 ，</JiaoLuo>
+			<TongYong>ui3 zing1-ga1 zet6-un2*-ziap7-un2-gong1-cia1* e5 ban1-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>幫助高捷 刺激運量。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pang-chou7 Ko-chiat8 chhi3-kek un7-liong7 。</JiaoLuo>
+			<TongYong>bang1-zo2-gor1-zet6* ci3-gik7-un2-liong2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=47>
+			<segmentation>他說， 市府 仍然 在爭取</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-kong2 ， chhi7-hu2 iau2-koh-ti7 cheng-chhu2 ，</JiaoLuo>
+			<TongYong>I1-gong4， ci2-hu4* iau4-gorh7 deh7-zing1-cu4</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=48>
+			<segmentation>環保署 空氣污染防治基金</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Khoan5-po2-su2 khong-khi3 u3-jiam2 hong5-ti7 ki-kim ，</JiaoLuo>
+			<TongYong>huan5-bor4-su4* kong1-ki3*-u1-riam4*-hong5-di2-gi1-gim1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=49>
+			<segmentation>七千萬元 增援，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhit-chheng-ban7 cheng-oan5，</JiaoLuo>
+			<TongYong>cit7-cing1-van2* zing1-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=50>
+			<segmentation>如果 市府 同時編列，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-chun2 chhi7-hu2 tong5-si5 phian-liat8 ，</JiaoLuo>
+			<TongYong>ru5-gor4 ci2-hu4* dong5-si5*-ben1-let6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=51>
+			<segmentation>及 高捷提撥的 接駁公車專款，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kah Ko-chiat8 the5-poah-e5 chiap-lau5 kong-chhia choan-khoan2 ，</JiaoLuo>
+			<TongYong>gah7 gor1-zet6*-te5-buah7*-e5 ziap7-un2-gong1-cia1*-zuan1-kuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=52>
+			<segmentation>湊足 二點五億元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tau3-chiok nng7-tiam2-gou7-ek ，</JiaoLuo>
+			<TongYong>dau3-ziok7 ri2-diam4-qo2-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=53>
+			<segmentation>就能夠 讓 捷運接駁公車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tioh8-e7-tang3 hou7 chiat8-un7 chiap-lau5 kong-chhia ，</JiaoLuo>
+			<TongYong>diorh6-e2-dang3 ho2 zet6-un2*-ziap7-un2-gong1-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=54>
+			<segmentation>每六分鐘 行駛一班，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mui2 lak8-hun-cheng sai2 chit8-pan ，</JiaoLuo>
+			<TongYong>mui4-lak6-hun1-zing1* hing5-su4-zit6-bang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=55>
+			<segmentation>與 捷運 尖峰時間 同步發車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham chiat8-un7 chiam-hong-si5-kan tang5-che5 khui-chhia ，</JiaoLuo>
+			<TongYong>ham2 zet6-un2* ziam1-hong1-si5-gan1* dang5-ze5-huat7-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=56>
+			<segmentation>對 增加 捷運的運量 會有幫助。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 cheng-ka chiat8-un7 e5 un7-liong7 e7-u7 pang-chou7 。</JiaoLuo>
+			<TongYong>dui3 zing1-ga1 zet6-un2*-e5-un2-liong2* e2-u2-bang1-zo2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

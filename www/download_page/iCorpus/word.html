@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>樹狀選單</title>
+ <style type="text/css">
+<!--
+A:hover{background-color:#FFFF80}
+A.MainMenu{text-decoration:none;font:30pt;}
+A.SubMenu{text-decoration:none;font-weight:normal;font:30pt;} 
+DIV.SubMenu{margin-left:20pt}
+.cdh{color:#1F1F1F;font:50pt}
+-->
+</style>
+<script language="JavaScript">
+<!--
+var currentMenu = 1;
+function ShowSubMenu(id) {
+  if (document.all["SubMenu" + id].style.display == "")
+  {
+     document.all["SubMenu" + id].style.display = "none";
+     currentMenu = 0;
+  }
+  else
+  {
+     if (currentMenu != 0) {document.all["SubMenu" + currentMenu].style.display = "none";}  
+     document.all["SubMenu" + id].style.display = "";
+     currentMenu = id;
+  }
+}
+-->
+</script>
+</head>
+
+<body>

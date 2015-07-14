@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用 escape() 與 unescape() 來編碼與解碼</h2>
+<hr>
+
+<p>編碼前字串：<textarea rows=3 cols=60 id=text1>
+function square(x){
+	return(x*x);
+}
+</textarea>
+<p><input type=button value="使用 escape() 進行編碼" onClick="text2.value=escape(text1.value)">
+<br>編碼後字串：<textarea rows=3 cols=60 id=text2></textarea>
+<p><input type=button value="使用 unescape() 進行解碼" onClick="text3.value=unescape(text2.value)">
+<br>解碼後字串：<textarea rows=3 cols=60 id=text3></textarea>
+
+<hr>
+</body>
+</html>

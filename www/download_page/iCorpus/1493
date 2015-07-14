@@ -1,0 +1,125 @@
+<article>
+	<id>1493</id>
+	<title>倫敦地鐵 要裁員 員工 憤而罷工</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>英國的 倫敦地鐵，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Eng-kok-e5 Lun5-tun-te7-thih，</JiaoLuo>
+			<TongYong>Ing1-Gok7*-e5 Lun5-Dun1*-de2-ha2-tih7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>因為 要 大刀闊斧 裁員八百人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7-beh toa7-bu2-la7 chhai5-goan5 peh-pah-lang5，</JiaoLuo>
+			<TongYong>in1-ui2 veh7 dua2-dor1*-put7*-lorh6 cai5-uan5-beh7-bah7-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>員工 憤而 群起罷工，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-kang gin5-sim-te3-tin7 pa7-kang，</JiaoLuo>
+			<TongYong>uan5-gang1* ki3-gah7 zor3-hue4-ba2-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>多條 地下鐵 不是停開，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choe7-tiau5 te7-ha7-thih m7-si7-theng5-khui，</JiaoLuo>
+			<TongYong>gui4*-a2-diau5 de2-ha2-tih7* m2-si2-ting5-kui1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>就是 嚴重的誤點，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tioh8-si7 giam7-tiong7-e5 ban7-hun，</JiaoLuo>
+			<TongYong>diorh6-si2 qiam2-diong2*-e5-van2-hun1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>害得 許多 仰賴地下鐵 的 民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hai7-kah8 chin-choe7 oa2-kho3 te7-ha7-thih-e5 bin5-chiong3，</JiaoLuo>
+			<TongYong>hai2-diorh6 ziann5-ze2 su1-iau3 ze2-de2-ha2-tih7* e5 vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>都不知道 要怎麼 去上班，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-m7-chai-iann2 beh-an-choann2 khi3-siang7-pan，</JiaoLuo>
+			<TongYong>long4-m2-zainn1-iann4 veh7-an4-zuann4 ki3-siong2-ban1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>有些 不死心的 民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-koa2 be7-si2-sim-e5 bin5-chiong3，</JiaoLuo>
+			<TongYong>u2-zit6-gua4 vor5-si4-sim1*-e5 vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>繼續等待 下一班車 進站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke3-siok8 tan2-thai7 e7-chit8-pan-chhia chin3-cham7 ，</JiaoLuo>
+			<TongYong>ge3-siok6-dan4-tai2 au2-zit6-bang1-cia1* zin3-zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>但是 更多民眾 改乘公車、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh khah-choe7 bin5-chiong3 kai-che7-kong-chhia、</JiaoLuo>
+			<TongYong>m2-gorh7 kah7-ze2-vin5-ziong3* gai1-ze2-gong1-cia1*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>有的人 騎腳踏車、 搭渡輪，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-e5-lang5 khia5-kha-tah8-chhia 、 che7 tou7-lun5，</JiaoLuo>
+			<TongYong>u2-e5-lang5* kia5-ka1-da2-cia1*、 ze2-do2-zun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>甚至是 走路去上班，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3-si7 kiann5-lou7 khi3-siang7-pan ，</JiaoLuo>
+			<TongYong>sim2-zi3-si2 giann5-lo2*-ki3-siong2-ban1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>使得 倫敦市區的 交通 大亂。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7-tit Lun5-tun chhi7-khu-e5 kau-thong-tai7-loan7。</JiaoLuo>
+			<TongYong>ho2 Lun5-Dun1-ci2-ku1*-e5 gau1-tong1* dua2-luan2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>根據估計， 倫敦地下鐵 每停駛一天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kun-ku3 kou2-ke3， Lun5-tun te7-ha7-thih mui2-theng5-sai2-chit8-kang，</JiaoLuo>
+			<TongYong>Gin1-gi3-go4-ge3*， Lun5-Dun1*-de2-ha2-tih7* mui4-ting5-su4-zit6-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>整個 倫敦市 市政府，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-e5 Lun5-tun-chhi7 chhi7-cheng3-hu2 ，</JiaoLuo>
+			<TongYong>gui1-e5 Lun5-Dun1-Ci2* ci2-zing3-hu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>就會減少 新台幣 二十三億 的 收入。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-e7 kiam2-chio2 Sin-tai5-phio3 ji7-chap8-sann-ek e5 siu-jip8。</JiaoLuo>
+			<TongYong>diorh6-e2-giam4-zior4 sin1-dai5-pior3* qi2-zap6-sann1-ik7* e5 siu1-rip6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

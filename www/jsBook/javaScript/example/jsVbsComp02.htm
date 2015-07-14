@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>顯示 JavaScript/VBScript 使用註解列、分列敘述及分號的差異</title>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>顯示 JavaScript/VBScript 使用註解列、分列敘述及分號的差異</h2>
+<hr>
+
+<script>
+// 這是 JavaScript 的範例
+x = 1 * 2 * 3 *
+	4*5;
+document.write("<p>JavaScript:<br>")
+document.write("x 的值是"); document.write(x)
+</script>
+
+<script language=vbscript>
+' 這是 VBScript 的範例
+x = 1 * 2 * 3 * _
+	4*5
+document.write("<p>VBScript:<br>")
+document.write("x 的值是"): document.write(x)
+</script>
+
+</body>
+</html>

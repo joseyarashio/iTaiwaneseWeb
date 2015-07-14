@@ -1,0 +1,328 @@
+<article>
+	<id>166</id>
+	<title>南投火警 疑似 水晶球 聚光 引燃地毯</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-iu5-si5-po3-po3-to7</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>水晶球 聚光後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chui2-chinn-kiu5 chu7-kng-au7 ，</JiaoLuo>
+			<TongYong>Zui4-zinn1-giu5* zu2-gng1*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>極可能 引發火警！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiok-kho2-leng5 in2-hoat hoe2-sio ！</JiaoLuo>
+			<TongYong>zin1-u2-kor4-ling5 in4-huat7-hue4-ging4*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>南投縣 鹿谷鄉 三月初，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-tau5-koan7 Lok8-kok-hiong sann-goeh8-chhoe ，</JiaoLuo>
+			<TongYong>Lam5-dau5-guan2* lok6-gok7-hiang1* sann1-queh6-ce1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>發生 一件火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng chit8-kiann7 hoe2-sio ，</JiaoLuo>
+			<TongYong>huat7-sing1 zit6-giann2-hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>經過 消防單位 反覆測試，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 siau-hong5-tan-ui7 hoan-hok chhek-chhi3 ，</JiaoLuo>
+			<TongYong>ging1-gue3 siau1-hong5-dan1-ui2* it7-zai3*-cik7-ci3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>研判 是因為 太陽光</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gian2-phoann3 si7 in-ui7 lit8-thau5-kng ，</JiaoLuo>
+			<TongYong>qen5-puann3* si2-in1-ui2 rit6-tau5-gng1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>經過 水晶球 聚焦 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 chui2-chinn-kiu5 chu7-chiau-au7，</JiaoLuo>
+			<TongYong>ging1-gue3 zui4-zinn1-giu5* zu2-ziau1* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>引燃地毯 釀成火災。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in2-jian5 toe7-than2 liong7-seng5 hoe2-chai 。</JiaoLuo>
+			<TongYong>in4-dorh6-de2-tan4* liang2-sing5-hue4-zai1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>南投縣 消防局 第三大隊 今天指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-tau5-koan7 siau-hong5-kiok8 te7-sann-toa7-tui7 kin-a2-jit chi2-chhut ，</JiaoLuo>
+			<TongYong>Lam5-dau5-guan2* siau1-hong5-giok6* de2-sann1-dua2-dui2* gin1-a4-rit6* zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>這起 發生於 三月一日 </segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-khi2 hoat-seng-ti7 sann-goeh8 it-ho7 ，</JiaoLuo>
+			<TongYong>zit7-giann2* huat7-sing1-di2 sann1-queh6-ce1-it7*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>下午二時 左右 的 火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-pou nng7-tiam2 cho2-iu7-e5 hoe2-sio ，</JiaoLuo>
+			<TongYong>e2-bo1*-nng2-diam4* zor4-iu2* e5 hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>鹿谷 消防分隊 接獲報案，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lok8-kok siau-hong5-hun-tui7 chiap-hek8 po3-an3 ，</JiaoLuo>
+			<TongYong>lok6-gok7* siau1-hong5-hun1-dui2* ziap7-diorh6-bor3-an3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>趕抵現場 搶救 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-te2 hian7-tiunn5 chhiunn2-kiu3-si5 ，</JiaoLuo>
+			<TongYong>guann4-gau3-hen2-diunn5* ciunn4-giu3* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>住宅 大門外 北邊 正在燃燒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khia7-ke toa7-mng5-goa7 pak-peng5 tu2-ti7-le jian5-sio ，</JiaoLuo>
+			<TongYong>kia2-ge1* dua2-mng5-qua2* bak7-bing5* dng1-deh7-hue4-sior1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>火勢 很快 就被撲滅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe2-si3 chin-kin2 chiu7-pi7 phok-biat8 ，</JiaoLuo>
+			<TongYong>hue4-se3* zin1-gin4* diorh6-hong5*-pah7-hua1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>燃燒面積 僅僅 大約 十平方公尺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jian5-sio bin7-chek kan-ta tai7-iok chap8-peng5-hong-kong-chhioh ，</JiaoLuo>
+			<TongYong>hue4-sior1-vin2-zik7* gan1-na2* dai2-iok7* zap6-bing5-hong1-gong1-ciorh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>被燒的 是 鋪在地面的 地毯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-sio-e5 si7 phou-ti7 te7-bin7-e5 toe7-than2 ，</JiaoLuo>
+			<TongYong>ki3-sior1*-diorh6-e5 si2 po1-di2-de2-vin2*-e5 de2-tan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>以及 堆放的 三十箱 燭杯、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-kip8 tui-khng3 e5 sann-chap8-siunn chek-poe 、</JiaoLuo>
+			<TongYong>i4-gip6 kng3-gui1-dui1*-e5 sann1-zap6-siunn1 zik7-bue1*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>八罐酥油。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peh-koan3 sou-iu5 。</JiaoLuo>
+			<TongYong>beh7-guan3-so1-iu5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>第三大隊 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>te7-sann-toa7-tui7 piau2-si7 ，</JiaoLuo>
+			<TongYong>De2-sann1-dua2-dui2* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>經 火災鑑識 人員</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng hoe2-chai kam3-sek-jin5-oan5，</JiaoLuo>
+			<TongYong>ging1-gue3 hue4-zai1-gam3-sik7* rin5-uan5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>三月二日 下午二時 現場勘查，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-goeh8 ji7-ho7 e7-pou nng7-tiam2 hian7-tiunn5 kham3-cha ，</JiaoLuo>
+			<TongYong>sann1-queh6-ce1-qi2* e2-bo1*-nng2-diam4* hen2-diunn5*-kam3-za1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>排除 縱火、 電力、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pai5-tu5 pang2-he2-sio 、 tian7-lek8 、</JiaoLuo>
+			<TongYong>bai5-du5 bang4-hue4*、 den2-lik6*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>使用火器、 遺留火種 等 因素，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>su2-iong7 he2-khi3 、 ui5-liu5 he2-cheng2 teng2 in-sou3，</JiaoLuo>
+			<TongYong>su4-iong2-hue4-ki3*、 ui5-liu5-hue4-zing4* ding4 in1-so3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>但是 燃燒範圍的 地面上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 jian5-sio hoan7-ui5 e5 te7-bin7-siong7 ，</JiaoLuo>
+			<TongYong>dan2-si2 hue4-sior1-huan2-ui5*-e5 de2-vin2-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>有一顆 直徑 三十六公分 的 水晶球，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 chit8-liap8 tui3-tit8 sann-chap8-lak8-kong-hun e5 chui2-chinn-kiu5 ，</JiaoLuo>
+			<TongYong>u2-zit6-liap6 dit6-ging3* sann1-zap6-lak6-gong1-hun1* e5 zui4-zinn1-giu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>因此 鑑識人員 懷疑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-chhu2 kam3-sek-jin5-oan5 hoai5-gi5 ，</JiaoLuo>
+			<TongYong>so4-i4 gam3-sik7*-rin5-uan5* huai5-qi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>可能 水晶球 因為 集聚 太陽光 起火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5 chui2-chinn-kiu5 in-ui7 chip8-chu7 lit8-thau5-kng khi2-he2 ，</JiaoLuo>
+			<TongYong>kor4-ling5* zui4-zinn1-giu5* in1-ui2 zip6-zu2 rit6-tau5-gng1* dorh6-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>但是 因為 當天 太陽 被烏雲 遮蔽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 in-ui7 tng-kang lit8-thau5 pi7 ou-hun5 jia-chah8 ，</JiaoLuo>
+			<TongYong>dan2-si2 in1-ui2 hit7-gang1* rit6-tau5* ho2-o1-hun5* zah6*-diorh6，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>無法觀察</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-hoat koan-chhat ，</JiaoLuo>
+			<TongYong>vor5-huat7-do2 guan1-cat7</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>太陽光 照射到 水晶球 後 的 變化。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lit8-thau5-kng chio3-sia7-tioh8 chui2-chinn-kiu5 au7 e5 pian3-hoa3 。</JiaoLuo>
+			<TongYong>rit6-tau5-gng1* zior3-sia2-diorh6 zui4-zinn1-giu5* liau4-au2* e5 ben3-hua3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>鑑識人員 四日，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kam3-sek-jin5-oan5 si3-ho7 ，</JiaoLuo>
+			<TongYong>Gam3-sik7*-rin5-uan5* si3-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>同時間 再次 現場勘查，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kang5-si5-kan chai3-chhu3 hian7-tiunn5 kham3-cha ，</JiaoLuo>
+			<TongYong>gang5-si5-gan1* zai3-cu3* hen2-diunn5*-kam3-za1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>發現 太陽光 照射 水晶球 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 lit8-thau5-kng chio3-sia7 chui2-chinn-kiu5 au7 ，</JiaoLuo>
+			<TongYong>huat7-hen2 rit6-tau5-gng1* zior3-sia2 zui4-zinn1-giu5* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>往後方 聚光，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ong2 hou7-hong chu7-kng ，</JiaoLuo>
+			<TongYong>hiong3-au2-biah7* zu2-gng1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>聚焦點 距離球體 約十公分、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu7-chiau-tiam2 ku7-li7 kiu5-the2 iok chap8-kong-hun 、</JiaoLuo>
+			<TongYong>zu2-ziau1-diam4* gi2-li5-giu5-te4* dai2-iok7* zap6-gong1-hun1*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>離地面 約五公分，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>li7-te7-bin7 iok gou7-kong-hun ，</JiaoLuo>
+			<TongYong>li2-de2-vin2* dai2-iok7* qo2-gong1-hun1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>經 拿金紙 靠近 聚焦點 測試，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng theh8 kim-choa2 kho3-kin7 chu7-chiau-tiam2 chhek-chhi3 ，</JiaoLuo>
+			<TongYong>ging1-gue3 teh6-gim1-zua4* ua4-gin2 zu2-ziau1-diam4* cik7-ci3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>金紙 於 一分鐘內 隨即 起火燃燒。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kim-choa2 ti7 chit8-hun-cheng-lai7 toe3-boe2 khi2-he2 jian5-sio 。</JiaoLuo>
+			<TongYong>gim1-zua4* di2 zit6-hun1-zing1-lai2* due3-vue4 dorh6-hue4* sior1*-ki4-lai5。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>消防局 因此研判，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-kiok8 in-chhu2 gian2-phoann3 ，</JiaoLuo>
+			<TongYong>Siau1-hong5-giok6* in1-cu4*-qen5-puann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>這起火警的 起火原因，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-khi2 hoe2-sio-e5 khi2-he2 goan5-in ，</JiaoLuo>
+			<TongYong>zit7-giann2-hue4-ging4*-e5 dorh6-hue4*-quan5-in1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>應該是 太陽光 照射 水晶球 後 聚光，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng3-kai-si7 lit8-thau5-kng chio3-sia7 chui2-chinn-kiu5 au7 chu7-kng ，</JiaoLuo>
+			<TongYong>ing3-gai1-si2 rit6-tau5-gng1* zior3-sia2 zui4-zinn1-giu5* liau4-au2* zu2-gng1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>聚集光熱，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu7-chip8 kng-jiat8 ，</JiaoLuo>
+			<TongYong>zu2-zip6-gng1-ret6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>再 引燃 地面的地毯 釀成火災，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh in2-jian5 te7-bin7-e5 toe7-than2 liong7-seng5 hoe2-chai ，</JiaoLuo>
+			<TongYong>ziah7 in4-dorh6 de2-vin2*-e5-de2-tan4* liang2-sing5-hue4-zai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>是 極為罕見的 案例。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 kek8-ui5 han2-kian3-e5 an3-le7 。</JiaoLuo>
+			<TongYong>si2 zin1-han4-gen3*-e5 an3-le2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,125 @@
+<article>
+	<id>1706</id>
+	<title>創下 全國首例 喝酒開船 被起訴</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>新北市瑞芳 一名 張姓船長，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-pak-chhi7 Sui7-hong chit8-mia5 senn3-Tiunn chun5-tiunn2 ，</JiaoLuo>
+			<TongYong>Sin1-Bak7-Ci2*-Sui2-Hong1* zit6-e5* senn3-Diunn1*-e5-zun5-diunn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>去年 出海作業前 渾身酒味，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ku7-ni5 chhut-hai2 chok-giap8-cheng5 kui-sin-khu chiu2-bi7 ，</JiaoLuo>
+			<TongYong>gu2-ni5* cut7-hai4*-zok7-qiap6* zin3-zing5* gui1-sin1-ku1-ziu4-vi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>岸巡 安檢人員 聞到 禁止他出海，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoann7-sun5 an-kiam2-jin5-oan5 phinn7-tioh8 kim3-chi2 i chhut-hai2 ，</JiaoLuo>
+			<TongYong>huann2-sun5* an1-giam4*-rin5-uan5* pinn2*-diorh6 gim3-zi4-i1-cut7-hai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>去年九月 張姓船長 喝了 五十八度的 高粱酒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ku7-ni5 kau2-goeh8 senn3-Tiunn chun5-tiunn2 lim-liau2 gou7-chap8-peh-tou7 e5 ko-liang5-chiu2 ，</JiaoLuo>
+			<TongYong>gu2-ni5*-gau4*-queh6 senn3-Diunn1*-e5-zun5-diunn4* lim1-liau4 qo2-zap6-beh7-do2*-e5 gor1-liang5-ziu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>向 鼻頭漁港 安檢所 報關，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hiang3 Phinn7-thau5-hi5-kang2 an-kiam2-sou2 po3-koan ，</JiaoLuo>
+			<TongYong>hiong3 Pinn2-Tau5-Hi5-Gang4* an1-giam4-so4* bor3-guan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>遭到 安檢人員 以喝酒 為理由 攔阻，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu2-tioh8 an-kiam2-jin5-oan5 eng7 lim-chiu2 cho3-li2-iu5 noa5-chou2 ，</JiaoLuo>
+			<TongYong>ho2 an1-giam4*-rin5-uan5* i4-lim1-ziu4* zor3-li4-iu5* zah6*-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>不耐煩之下 開船 載著 安檢人員 出港，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim-hoan5-chi-ha7 sai2-chun5 chai3-tioh8 an-kiam2-jin5-oan5 chhut-kang2 ，</JiaoLuo>
+			<TongYong>vor5-nai2-huan5*-zi1-ha2* sai4-zun5* zai3-diorh6 an1-giam4*-rin5-uan5* cut7-gang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>快要一小時 才 回到漁港，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tih-beh chit8-tiam2-siann chiah-tng2-kau3 hi5-kang2 ，</JiaoLuo>
+			<TongYong>dih7-veh7-zit6-diam4-zing1* ziah7 duinn4-gau3-hi5-gang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>安檢人員 通知警方 前來酒測，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an-kiam2-jin5-oan5 thong-ti keng2-hong chian5-lai5 chiu2-chhek ，</JiaoLuo>
+			<TongYong>an1-giam4*-rin5-uan5* tong1-di1-ging4-hong1* lai5-ziu4-cik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>酒測值 仍 高達 零點六四，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiu2-chhek-tat8 iau2 koan5-kau3 leng5-tiam2-liok8-su3 ，</JiaoLuo>
+			<TongYong>ziu4-cik7-dit6* iau4 guan5-gau3 ling5-diam4-liok6-su3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>這名 張姓船長 違反 公共危險罪，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-mia5 senn3-Tiunn chun5-tiunn2 ui5-hoan2 Kong-kiong7-hui5-hiam2-choe7 ，</JiaoLuo>
+			<TongYong>zit7-e5 senn3-Diunn1*-e5-zun5-diunn4* ui5-huan4 gong1-giong2-hui5-hiam4-zue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>創下了 喝酒開船 被起訴 的 首例。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhong3-ha7-liau2 lim-chiu2 sai2-chun5 pi7-khi2-sou3 e5 thau5-le7 。</JiaoLuo>
+			<TongYong>cong3-ha2-liau4 lim1-ziu4*-sai4-zun5* hong5*-ki4-so3* e5 siu4-le2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>冬天 出海作業，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann5-thinn chhut-hai2 chok-giap8 ，</JiaoLuo>
+			<TongYong>Guann5-tinn1* cut7-hai4*-zok7-qiap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>漁民 通常 會喝兩杯 藉此防寒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tho2-hai2-lang5 thong-siong5 e7 lim-nng7-poe chia3-chit hong5-han5 ，</JiaoLuo>
+			<TongYong>hi5-vin5* tong1-siang5* e2 lim1*-nng2-bue1 lai5-dong3-guann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>但是 酒後 不管 駕駛 任何 交通工具 都違法，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh chiu2-au7 put-koan2 ka3-su2 jim7-ho5 kau-thong-kang-khu7 long2-ui5-hoat ，</JiaoLuo>
+			<TongYong>m2-gorh7 ziu4-au2* but7-guan4 ga3-su4 rin2-hor5 gau1-tong1-gang1-gu2* long4-ui5-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>提醒漁民 出海捕魚時 最好 別喝酒。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>the5-chhenn2 tho2-hai2-lang5 chhut-hai2 liah8-hi5-si5 siang7-ho2 mai3-lim-chiu2 。</JiaoLuo>
+			<TongYong>te5-cenn4-hi5-vin5* cut7-hai4*-liah6-hi5*-si5* siang2-hor4* mai3-lim1-ziu4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,598 @@
+[
+ {
+  "syllable": "oh3", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "唷", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "唷", 
+   "Original": "喔", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+181.032+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "qun1-ang1", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "我老公", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "我老公", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+3"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "語助詞", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "語助詞", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "vor5", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "沒有", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "沒有", 
+   "Original": "不要", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+381.484+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "vor2-lai2", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "不會啦", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "不會", 
+   "Original": "不會啦", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+182.407+3"
+   ]
+  }
+ }, 
+ {
+  "syllable": "vor2-lai2", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "不會啦", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "不會", 
+   "Original": "不會啦", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+182.407+3"
+   ]
+  }
+ }, 
+ {
+  "syllable": "gin1-ki3", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "快去", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "緊去", 
+   "Original": "快去", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+213.886+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "zin4-sang3", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "陳桑", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "陳桑", 
+   "Original": "陳先生", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+139.281+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "zin4-sang3", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "陳大哥", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "陳大哥", 
+   "Original": "陳桑", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+139.281+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "qun1-ang1", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "我老公", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "老公", 
+   "Original": "我老公", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+3"
+   ]
+  }
+ }, 
+ {
+  "syllable": "liang5", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "涼", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "涼", 
+   "Original": "飲料", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+133.905+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "liang5", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "飲料", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "飲料", 
+   "Original": "涼", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+133.905+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ziah1-hiong5", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "太猛", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "太猛", 
+   "Original": "這麼猛", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+143.714+5"
+   ]
+  }
+ }, 
+ {
+  "syllable": "li1", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "你", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "你們", 
+   "Original": "你", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+143.714+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "zin2", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "非常", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "非常", 
+   "Original": "真", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+227.581+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "zin2", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "真", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "真", 
+   "Original": "非常", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+227.581+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "cun2-vi4", 
+  "flag": 1, 
+  "Result": {
+   "checker": "ziiyu", 
+   "conclusion": "人名", 
+   "time": "20130731"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "人名", 
+    "廖子宇", 
+    "20130731"
+   ], 
+   "Original": "春美", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+133.046+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "liang5", 
+  "flag": 1, 
+  "Result": {
+   "checker": "ziiyu", 
+   "conclusion": "飲料", 
+   "time": "20130801"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "飲料", 
+    "廖子宇", 
+    "20130801"
+   ], 
+   "Original": "涼", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+133.905+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "liang5", 
+  "flag": 1, 
+  "Result": {
+   "checker": "ziiyuliao", 
+   "conclusion": "涼", 
+   "time": "20130801"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "涼", 
+    "ziiyu", 
+    "20130801"
+   ], 
+   "Original": "飲料", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+133.905+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "liang5", 
+  "flag": 1, 
+  "Result": {
+   "checker": "zy", 
+   "conclusion": "飲料", 
+   "time": "20130801"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "飲料", 
+    "liao", 
+    "20130801"
+   ], 
+   "Original": "涼", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+133.905+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "zin4-sang3", 
+  "flag": 1, 
+  "Result": {
+   "checker": "ziiyu", 
+   "conclusion": "陳桑", 
+   "time": "20130801"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "陳桑", 
+    "liao", 
+    "20130801"
+   ], 
+   "Original": "陳先生", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+139.281+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "o3", 
+  "flag": 1, 
+  "Result": {
+   "checker": "廖子宇", 
+   "conclusion": "喔", 
+   "time": "20130802"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "喔", 
+    "liao", 
+    "20130802"
+   ], 
+   "Original": "語助詞", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs40-20130415-20130512-0520.trs+212.516+4"
+   ]
+  }
+ }, 
+ {
+  "syllable": "si3-zun2", 
+  "flag": 1, 
+  "Result": {
+   "checker": "ziiyu", 
+   "conclusion": "時陣", 
+   "time": "20130802"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "時陣", 
+    "廖子宇", 
+    "20130802"
+   ], 
+   "Original": "時候", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs40-20130415-20130512-0520.trs+212.516+3"
+   ]
+  }
+ }, 
+ {
+  "syllable": "zit3-me5", 
+  "flag": 1, 
+  "Result": {
+   "checker": "", 
+   "conclusion": "一晚", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "一眠", 
+    "liao", 
+    "20130802"
+   ], 
+   "Original": "一晚", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs40-20130415-20130512-0520.trs+233.788+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "kah1-za4", 
+  "flag": 1, 
+  "Result": {
+   "checker": "C", 
+   "conclusion": "以早", 
+   "time": "20130802"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "以早", 
+    "B", 
+    "20130802"
+   ], 
+   "Original": "以前", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs40-20130415-20130512-0520.trs+192.903+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "vor2-ai4", 
+  "flag": 1, 
+  "Result": {
+   "checker": "C", 
+   "conclusion": "不要", 
+   "time": "20130802"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "不要", 
+    "B", 
+    "20130802"
+   ], 
+   "Original": "不願意", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs40-20130415-20130512-0520.trs+192.903+3"
+   ]
+  }
+ }, 
+ {
+  "syllable": "gong1", 
+  "flag": 1, 
+  "Result": {
+   "checker": "C", 
+   "conclusion": "講話", 
+   "time": "20130806"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "講話", 
+    "B", 
+    "20130806"
+   ], 
+   "Original": "說話", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs40-20130415-20130512-0520.trs+196.313+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "kah1-za4", 
+  "flag": 1, 
+  "Result": {
+   "checker": "Zii", 
+   "time": 1376037495, 
+   "conclusion": "以前"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "以前", 
+    "廖", 
+    "20130808"
+   ], 
+   "Original": "以早", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs40-20130415-20130512-0520.trs+192.903+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "a2", 
+  "flag": 1, 
+  "Result": {
+   "checker": "Zii", 
+   "conclusion": "阿", 
+   "time": 1376037495
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "阿", 
+    "LIAO", 
+    1376032743
+   ], 
+   "Original": "語助詞", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs37-20130414-0513-0515.trs+159.815+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "qua3-zue2", 
+  "flag": 1, 
+  "Result": {
+   "checker": "Liao ZY", 
+   "conclusion": "多少", 
+   "time": 1378875785
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "多少", 
+    "Liao", 
+    1378452557
+   ], 
+   "Original": "多少錢", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs25-20130331-0505-0513.trs+131.671+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "guai1-gaui1", 
+  "flag": 1, 
+  "Result": {
+   "checker": "Liao ZY", 
+   "time": 1378875785, 
+   "conclusion": "乖乖"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "乖乖", 
+    "Liao", 
+    1378796342
+   ], 
+   "Original": "乖乖的", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs01-20130301 (20130316)-0416.trs+158.703+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "guai1-gaui1", 
+  "flag": 1, 
+  "Result": {
+   "checker": "LB", 
+   "time": 1378876362, 
+   "conclusion": "乖乖"
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "乖乖", 
+    "LIAO", 
+    1378876312
+   ], 
+   "Original": "乖乖的", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs01-20130301 (20130316)-0416.trs+158.703+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ze1", 
+  "flag": 1, 
+  "Result": {
+   "checker": "Yu", 
+   "conclusion": "這個", 
+   "time": 1378963038
+  }, 
+  "Controversy": {
+   "Proposal": [
+    "這個", 
+    "Zii", 
+    1378960896
+   ], 
+   "Original": "ZE1", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs19-20130324-0429-0513.trs+133.224+4"
+   ]
+  }
+ }
+]

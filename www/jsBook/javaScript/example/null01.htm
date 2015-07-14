@@ -1,0 +1,29 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+<title>null 的範例</title>
+</head>
+
+<body>
+<h2 align=center>null 的範例</h2>
+<hr>
+
+<pre>
+<script>
+x=null;
+//x=Null;
+//x=NULL;
+//上面兩列會讓程式無法繼續執行，JavaScript會自動中斷，故可以證明為錯誤寫法
+document.writeln("x=null");
+document.writeln("正確寫法為 null，非 Null 或 NULL!");
+document.writeln("x 的型態："+typeof(x));
+document.write("null 的真值型態：");		//在if判斷中為false
+(x)?document.writeln("True!"):document.writeln("False!");
+document.write("x==null 是否成立：");		//可以直接使用==
+(x==null)?document.writeln("True!"):document.writeln("False!");
+</script>
+</pre>
+
+<hr>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<article>
+	<id>1234</id>
+	<title>小孩 騎 迷你機車 上路 警方追查 要開罰</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>小朋友 騎 迷你摩托車 上街，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sio2-peng5-iu2 khia5 mi2-nih-ou-tou2-bai2 chiunn7-koe，</JiaoLuo>
+			<TongYong>Sior4-bing5-iu4* kia5 mi5-ni4-o1-do4-vai4* ziunn2-ge1-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>這種畫面 警方 看了 也傻眼，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-khoan2 oe7-bin7 keng2-hong khoann3-liau2 ma7-gong7-khi3，</JiaoLuo>
+			<TongYong>zit7-ziong4-ue2-vin2* ging4-hong1* kuann3-liau4* ma2-qang2*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>這類的 電動車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-lui7-e5 tian7-tong7-chhia，  </JiaoLuo>
+			<TongYong>zit7-lui2*-e5 den2-dong2-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>屬於 動力 休閒器材，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siok8-i5 tong7-lek8 hiu-eng5-khi3-chai5，</JiaoLuo>
+			<TongYong>siok6-i5 dong2-lik6 hiu1-han5*-ki3-zai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>依法 不能 上道路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-hoat be7-iong7 chiunn7-to7-lou7，</JiaoLuo>
+			<TongYong>i1-huat7* ve2-dang3 ziunn2-dor2-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>再加上 孩子 未滿 十四歲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-ka-siang7 gin2-a2 boe7-moa2 chap8-si3-hoe3，</JiaoLuo>
+			<TongYong>gorh7-ga1-siong2 qin4-a4* vi2-vuan4 zap6-si3-hue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>因此 這位媽媽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-chhu2 chit-ui7 ma-ma，</JiaoLuo>
+			<TongYong>so4-i4 zit7-ui2-ma1-ma1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>要 被罰 一千二百 到 三千六百元。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ai3-pi7-hoat8 chit8-chheng nng7-pah kau3 sann-chheng lak8-pah-kho3。</JiaoLuo>
+			<TongYong>ai3 hong5*-huat6 zit6-cing1*-nng2-bah7* gau3 sann1-cing1*-lak6-bah7-ko1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

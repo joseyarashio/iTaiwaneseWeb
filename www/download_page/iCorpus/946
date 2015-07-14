@@ -1,0 +1,335 @@
+<article>
+	<id>946</id>
+	<title>風雨無阻 博士生 幫老人 送餐</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 記者 洪美秀 新竹市 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-Iu5-Si5-Po3-ki3-chia2 Ang5-bi2-siu3 Sin-tek-chhi7 po3-to7</JiaoLuo>
+			<TongYong>Zu2-Iu5-Si5-Bor3* gi3-zia4* Ang5-Vi4-Siu3* Sin1-Dik7-Ci2* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>頂著 攝氏 三十五度 熾熱 高溫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu2-tioh8 liap-si7 saN-chap8-tou7 liat8-phut-phut ko-un，</JiaoLuo>
+			<TongYong>Dann2-diorh6 Celsius sann1-zap6-qo2-do2* sior1-ruah6-gor1-un1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>交通大學 博士生 吳昆儒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kau-thong-tai7-hak8 phok-su7-seng Ngou5-khun-ju5，</JiaoLuo>
+			<TongYong>Gau1-Tong1-Dai2-Hak6* pok7-su2-sing1* Nqo5-Kun1-Ru5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>歡喜 當 送餐志工，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoaN-hi2-cho3 sang3-chhan-chi3-kang，</JiaoLuo>
+			<TongYong>huann1-hi4* zor3 sang3-can1*-e5-zi3-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一年多來 每週三天 送餐</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-ni5-goa7-lai5 mui2-le2-pai3 saN-kang sang3-chhan，</JiaoLuo>
+			<TongYong>zit6-ni5-qua2*-lai5* mui4-le4-bai3* sann1-gang1* sang3-can1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>給 十多名 獨居老人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 chap8-goa7-mia5 tok8-ki-lau7-lang5，</JiaoLuo>
+			<TongYong>ho2 zap6-qua2-e5 dok6-gi1-lau2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>他說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-kong2，</JiaoLuo>
+			<TongYong>i1-gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>看到 老人家 接到便當 時 的 喜悅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoaN3-tioh8 lau7-lang5 chiap-tioh8 pian7-tong e5 hi2-iat8，</JiaoLuo>
+			<TongYong>kuann3-diorh6 lau2-dua2-lang5* teh6-diorh6-ben2-dong1* si5* e5 huann1-hi4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>原本 單純的 助人快樂，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 tan-sun5 e5 chou7-lang5 khoai3-lok8，</JiaoLuo>
+			<TongYong>quan5-bun4* dan1-sun5*-e5 zo2-lang5*-kuai3-lok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>已經變成 一種 責任與使命。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng piN3-chiaN5 chit8-chiong2 chek-jim7 ham su2-beng7。</JiaoLuo>
+			<TongYong>i4-ging1-ben3-sing5 zit6-ziong4 zik7-rim2*-gah7-su4-ving2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>吳昆儒 目前 是學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ngou5-khun-ju5 bok8-cheng5 si7 hak8-seng，</JiaoLuo>
+			<TongYong>Nqo5-Kun1-Ru5* vok6-zing5* si2-hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還在就讀 交大 電信研究所 博士班，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-ti7 chiu7-thok8 Kau-tai7 tian7-sin3-gian2-kiu3-sou2 phok-su7-pan，</JiaoLuo>
+			<TongYong>gorh7-deh7-tak6 Gau1-Dai2* den2-sin3*-qen4-giu3-so4* pok7-su2-ban1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>去年 看到 新竹市 東區 老人文康中心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ku7-ni5 khoaN3-tioh8 tang-khu Sin-tek-chhi7 lau7-lang5-bun5-khong-tiong-sim，</JiaoLuo>
+			<TongYong>gu2-ni5* kuann3-diorh6 Sin1-Dik7-Ci2* dang1-ku1* lau2-lang5*-vun5-kong1-diong1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>徵求 送便當 志工，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teng-kiu5 sang3-pian7-tong chi3-kang，</JiaoLuo>
+			<TongYong>zing1-giu5 sang3-ben2-dong1* zi3-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>心中 想說 可以 騎機車 到處跑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim-lai7-siuN7 e7-sai2 khia5-ki-chhia si3-ke3-chau2，</JiaoLuo>
+			<TongYong>sim1-lai2* siunn2-gong4 e2-dang3 kia5-gi1-cia1* si3-ge3-zau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>又可以 幫助人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh e7-sai2 pang-chou7-lang5，</JiaoLuo>
+			<TongYong>gorh7-e2-dang3 bang1-zo2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>於是 主動 表達意願，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu7-an2-ne chu2-tong7 piau2-tat8 i3-goan7，</JiaoLuo>
+			<TongYong>so4-i4 diorh6 zu4-dong2 biau4-dat6-i3-quan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>一年多來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-ni5-goa7-lai5，</JiaoLuo>
+			<TongYong>zit6-ni5-qua2*-lai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>還拉了 四個 學弟妹 參與，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2 khiu2-liau2 si3-e5 hak8-te7-moe7 chham-u2，</JiaoLuo>
+			<TongYong>gorh7-qiu4-liau4 si3-e5 hak6-de2*-hak6-mue2* cam1-u4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>今年暑假 他 送 週一到週三，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ni5 su2-ka2 i sang3 pai3-it kau3 pai3-saN，</JiaoLuo>
+			<TongYong>gin1-ni5*-su4-ga4* i1 sang3 bai3-it7*-gau3-bai3-sann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>每天 要花 三個小時的 時間 裝飯、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tak8-kang ai3-khai saN-tiam2-cheng e5 si5-kan chng-png7、</JiaoLuo>
+			<TongYong>dak6-gang1* ai3-kai1 sann1-diam4-zing1*-e5 si5-gan1* de4-buinn2*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>騎車、 送餐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khia5-chhia、sang3-chhan，</JiaoLuo>
+			<TongYong>kia5-cia1*、 sang3-can1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>而且 是 在中午 最熱的時段，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiaN2 si7 ti7-tiong-tau3 siong7-joah8-e5 si5-toaN7，</JiaoLuo>
+			<TongYong>ri5-ciann4 si2 di2-diong1-dau3* siang2-ruah6*-e5-si5-duann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>但 他 卻 露出笑容 說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7 i khiok-lou7-chhut8 chhio3-iong5 kong2，</JiaoLuo>
+			<TongYong>dan2-si2 i1 suah7 den4-cut6-cior3-iong5* gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>「我 不愛運動，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goa2 bo5-ai3-un7-tong7，</JiaoLuo>
+			<TongYong>qua4 vor5-ai3-un2-dong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>曬黑些 比較健康。」</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phak8-ou-koa2 pi2-kau3 kian7-khong。」</JiaoLuo>
+			<TongYong>pak6-kah7-o1* zit6-gua4  kah7-gen2-kong1*。」</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>「本來 我 還會 穿外套 防曬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>「pun2-lai5 goa2-iau2-e7 chheng7-goa7-tho3 hong5-phak8，</JiaoLuo>
+			<TongYong>「quan5-bun4* qua4 gorh7-e2 cing2-qua2-tor3* hong5-rit6-tau5*-pak6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>現在 熱到 根本 穿不住！」</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 joah8-kau3 kin-pun2 chheng7-be7-tiau5！」</JiaoLuo>
+			<TongYong>zit7-ma4* ruah6-gah7 gin1-bun4* cing2-ve2-diau5*！」</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>他說， 有一次 下雨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i kong2，u7-chit8-pai2 loh8-hou7，</JiaoLuo>
+			<TongYong>I1-gong4， u2-zit6-bai4* lorh6-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>因為路滑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 lou7-kut8，</JiaoLuo>
+			<TongYong>in1-ui2-lo2*-gut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>機車 就失控，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki-chhia to-sit-khong3，</JiaoLuo>
+			<TongYong>gi1-cia1* diorh6-sit7-kong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>跌落在 地上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>poah8-loh8-ti7 thou5-kha，</JiaoLuo>
+			<TongYong>buah6-di2-to5-ka1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>幸而 只有擦傷。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-chai3 kan-ta-u7 chhe3-siong。</JiaoLuo>
+			<TongYong>ga1-zai3* zi4-u2-ce3-siong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>吳昆儒 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ngou5-khun-ju5 piau2-si7，</JiaoLuo>
+			<TongYong>Nqo5-Kun1-Ru5* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>與 住在 青草湖 附近 的 陳爺爺 較要好，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham toa3-ti7 ChhiN-chhau2-ou5 hu3-kin7-e5 Tan5-lau7-a-peh khah-ho2，</JiaoLuo>
+			<TongYong>ham2 dua3-di2 Cenn1-Cau4-O5* hu2-gin2* e5 Dan5-a1-gong1* kah7-hor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>陳爺爺 嗓門大、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tan5-lau7-a-peh toa7-au5-khang、</JiaoLuo>
+			<TongYong>Dan5-a1-gong1* dua2-na5-au5-kang1*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>小腿上 有 刺青，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kha-e7-thui2 u7 chhiah-hoe，</JiaoLuo>
+			<TongYong>sior4-ka1-tui4* u2-ciah7-ri2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>一開始 怕怕的，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khi2-seng kiaN-kiaN，</JiaoLuo>
+			<TongYong>zit6-kai1-si4* giann1-giann1*-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>後來 才知 陳爺爺 是因為 重聽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>au7-lai5 chiah-chai Tan5-lau7-a-peh si7-in-ui7 hiN7-khang-tang7，</JiaoLuo>
+			<TongYong>au2*-lai5 ziah7-zainn1-iann4 Dan5-a1-gong1* si2-in1-ui2 hinn2-kang1*-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>說話 不自覺 大聲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kong2-oe7 bo5-chu7-kak toa7-siaN，</JiaoLuo>
+			<TongYong>gong4-ue2* vor5-zu2-gak7* dua2-siann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>今年 元宵節，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ni5 goan5-siau-choeh，</JiaoLuo>
+			<TongYong>gin1-ni5* quan5-siau1-zet7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>陳爺爺 煮了湯圓 請他吃，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tan5-lau7-a-peh chu2-liau2 iN5-a2 chhiaN2-i-chiah8，</JiaoLuo>
+			<TongYong>Dan5-a1-gong1* zi4-inn5*-a4* ciann4-i1-ziah6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>讓他 覺得 好溫暖，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 i kam2-kak chin-un-loan2，</JiaoLuo>
+			<TongYong>ho2-i1 gam4-gak7 ziok7-un1-luan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>原來 人與人 之間 的 關心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-lai5 lang5-ham-lang5 chi-kan-e5 koan-sim，</JiaoLuo>
+			<TongYong>quan5-lai5* lang5*-gah7-lang5* zi1-gan1* e5 guan1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>就像是 一股暖流。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-chhin-chhiuN7 chit8-khui3 loan2-liu5。</JiaoLuo>
+			<TongYong>diorh6-cin1-ciunn2 zit6-go4-luan4-liu5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>他 自稱是 交大的 「陽光男」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i chu7-chheng-si7 Kau-tai7-e5「iong5-kong-lam5」，</JiaoLuo>
+			<TongYong>I1 zu2-cing1-si2 Gau1-Dai2*-e5 「iong5-gng1-lam5*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>也期待 有更多人 來當 便當志工。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah8-ki5-thai7 u7 khah-choe7-lang5 lai5 cho3 pian7-tong-chi3-kang。</JiaoLuo>
+			<TongYong>ma2-gi5-tai2 u2-kah7-ze2-lang5* lai5-zor3 ben2-dong1-zi3-gang1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

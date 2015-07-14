@@ -1,0 +1,26 @@
+<html>
+<body>
+
+<table>
+<script>
+step=20;
+for (i=0; i<255; i=i+step){
+	s1=i.toString(16);
+	if (s1.length==1) s1="0"+s1;
+	for (j=0; j<255; j=j+step){
+		s2=j.toString(16);
+		if (s2.length==1) s2="0"+s2;
+		document.write("<tr>");
+		for (k=0; k<255; k=k+step){
+			s3=k.toString(16);
+			if (s3.length==1) s3="0"+s3;
+			color="#"+s1+s2+s3;
+			document.write("<td bgcolor="+color+">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>");
+		}
+	}
+}
+</script>
+<table>
+
+</body>
+</html>

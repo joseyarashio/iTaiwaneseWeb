@@ -1,0 +1,132 @@
+<article>
+	<id>1018</id>
+	<title>忽視 警告標誌 印度火車 追撞 至少 二十二死</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>印度 二十一日的 清晨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>In3-tou7 ji7-chap8-it-ho7 e5 thau3-cha2，</JiaoLuo>
+			<TongYong>In3-Do2* ri2-zap6-it7-hor2*-e5 tau3-za4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>發生 火車追撞的 重大 交通事故，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng hoe2-chhia chau2-sio-long3 e5 tiong7-tai7 kau-thong su7-kou3，</JiaoLuo>
+			<TongYong>huat7-sing1 hue4-cia1*-dui1-long3*-e5 diong2-dai2 gau1-tong1-su2-go3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>截至目前 為止，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiat8-chi3 bok8-cheng5-ui5-chi2，</JiaoLuo>
+			<TongYong>gau3-vok6-zing5* ui5-zi4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>已造成 至少 二十二人 死亡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-cho7-seng5 chi3-chio2 ji7-chap8-ji7-lang5 si2-bong5，</JiaoLuo>
+			<TongYong>i4-ging1-zor2-sing5 zi3-zior4* ri2-zap6-ri2-lang5* si4-vong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>另外 有十多人 受傷。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7 chap8-goa7-lang5 siu7-siong。</JiaoLuo>
+			<TongYong>ling2-qua2* u2-zap6-qua2-lang5* siu2-siong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>根據 當地警方 了解，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kun-ki3 tong-toe7 keng2-hong liau2-kai2，</JiaoLuo>
+			<TongYong>Gin1-gi3 dong1-de2-ging4-hong1* liau4-gai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>兩列火車 當時 都 正 開往首都 新德里，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-liat8 hoe2-chhia tng-si5 long2-tu2 khai-ong2 siu2-tou  " New Delhi "，</JiaoLuo>
+			<TongYong>nng2-let6-hue4-cia1* dong1-si5* long4 dng1-veh7 kui1-ong4-siu4-do1* sin1-dik7-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>但 由於 後方的 火車駕駛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan3-iu5-i5 boe2-au7-e5 hoe2-chhia-ka3-su2，</JiaoLuo>
+			<TongYong>dan2-si2 in1-ui2 au2-biah7*-e5 hue4-cia1-ga3-su4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>可能 沒有發現 警告標誌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5 bo5-hoat-hian7 keng2-ko3 phiau-chi3，</JiaoLuo>
+			<TongYong>kor4-ling5* vor5-huat7-hen2 ging4-gor3*-biau1-zi3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>或是 剎車不及，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ah-si7 tong3-chhia be7-hu3，</JiaoLuo>
+			<TongYong>ia2-si2 ve2-hu3-dong3-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>結果 以高速 衝撞 在前方 停駛的火車。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 i2 ko-sok chhiong-tng7 ti7-thau5-cheng5 theng5-sai2-e5 hoe2-chhia。</JiaoLuo>
+			<TongYong>get7-gor4 i4-gor1-sok7* ciong1-long3 di2-tau5-zing5* ting5*-lorh6-lai5-e5 hue4-cia1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>目擊者 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bak8-kek-chia2 piau2-si7，</JiaoLuo>
+			<TongYong>Vok6-gik7-zia4* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>很多乘客 都 被 拋出車外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin-choe7 che7-chhia-e5-lang5 long2-pi7 phau-chhut chhia-goa7，</JiaoLuo>
+			<TongYong>ziann5-ze2-sing5-keh7* long4 ki3-ho2 hainn3-cut7-cia1-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>因此 而受傷。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-chhu2 iah siu7-siong。</JiaoLuo>
+			<TongYong>in1-cu4* lai5-siu2-siong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>現場 一度 有 超過 五十人 被困，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hian7-tiuN5 it-tou7 u7 chhiau-koe3 gou7-chap8-lang5 pi7-khun3，</JiaoLuo>
+			<TongYong>Hen2-diunn5* vat7-u2 ciau1-gue3 qo2-zap6-lang5* siu2-kun3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>加上 車廂 嚴重 損毀變形，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-siong7 chhia-siuN giam5-tiong7 sng2-hui2 pian3-heng5，</JiaoLuo>
+			<TongYong>ga1-siong2 cia1-siunn1* qiam5-diong2 hui4-sun4*-ben3-hing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>導致 搜救行動 更加緩慢。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 sou-kiu3 heng5-tong7 koh-khah khoaN-ban7。</JiaoLuo>
+			<TongYong>di3-su4 so1-giu3*-hing5-dong2* ging2-ga1-van2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

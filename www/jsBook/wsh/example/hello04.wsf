@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<job id="01">
+
+	<script language="JScript">
+		WScript.Echo("¡uHello world¡v via JScript!");
+	</script>
+</job>
+
+<job id="02">
+	<script language="VBScript">
+		WScript.Echo("¡uHello world¡v via VBScript!")
+	</script>
+</job>

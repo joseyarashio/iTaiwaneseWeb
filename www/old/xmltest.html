@@ -1,0 +1,87 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<html lang="zh-tw"> 
+<head> 
+	<title>read xml</title>
+	<script type="text/javascript" src="js/jquery-1.7.2.js"></script>
+	<link rel="stylesheet" type="text/css" href="js/tree_themes/SimpleTree.css"/>
+	<script type="text/javascript" src="js/SimpleTree.js"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<style> 
+		.lineNum {font-size:18px;color:dimgray}
+		.blueLyric {font-size:20px;font-weight:bold;color:blue;}
+        .normalLyric {font-size:20px;font-weight:bold;color:black;}
+	</style> 
+</head>
+
+<body> 
+	<form name="myform">
+			<table border="0">
+				<tr><td valign="top">
+					<audio id="media" controls> //FF not supported mp3
+						audio not supported
+					</audio><br>
+					播放速度:
+					<div id="media_rate">1.0</div>
+					改變播放速度:
+					<input type="button" value="+0.1" onclick=rate(0.1)>
+					<input type="button" value="-0.1" onclick=rate(-0.1)>
+					<input type="button" value="reset" onclick=rate(1)><br/>
+					<input type="checkbox" name="independent" id="independent">單句播放<br><br>
+					</td><td rowspan=2 valign="top">
+					<div name="S_result" id="S_result" style="width:1000px;height:550px;overflow:auto;"></div><br>
+					</td></tr>
+					<tr><td valign="top">
+						<div class="st_tree" id="st_tree" name="st_tree"  style="width:260px;height:500px; overflow:auto;"></div>
+				
+					</td></tr>
+			</table>
+	</form>
+	<script type="text/javascript"> 
+		/* 讀取xml 開始 ------------------------------------------------------------------------------ */
+		var temp = new Object();;
+		$("#S_result").empty();
+		
+		var i=1,j=1;
+		
+		$.ajax({
+		url:'http://140.109.18.117/GitRepos/finish/DaAi/vvrs07-20130308(0404)-0422.trs',
+		type: 'GET',
+		dataType: 'xml',//資料型態可以不設定，且此型態不可是text或html
+		timeout: 1000,
+		error: function(xml){alert('讀取xml錯誤'+xml);}, //當xml讀取失敗
+		success: function(xml){
+			$(xml).find("Speaker").each(function(){  //取得xml父節點       
+				total=$(xml).find("Speaker").size();//xml的總筆數
+				while(total >= i) 
+				{
+					var spk_name=$(xml).find("Speaker[id='spk"+i+"']").attr("name"); //取得子節點中的adsrc 
+					//$("#S_result").append("<a>id=spk"+i+"_"+spk_name+"</a><br>"); 
+					temp["spk"+i]=spk_name
+					i++;
+				}
+			});
+			$(xml).find("Section").each(function(){
+				timer="0"
+				//total=$(xml).find("Turn").size();
+				//<Event desc="empty" type="noise" extent="instantaneous"/>
+				//var turn=$(this).children("Sync").attr("time"); 
+				//var text=$(this).children("Sync").find("Sync[time="+turn+"']").children(); 
+				//$("#S_result").append("<a>"+turn+"-"+text+"</a><br>"); 
+				//var event=$(this).children("Event").attr("desc"); 
+				total=$(xml).find("Turn").length;
+				while(total >= j){
+					var spkname = $(this).children("Turn[startTime='"+timer+"']").attr("speaker"); 
+					var st = $(this).children("Turn[startTime='"+timer+"']").attr("startTime"); 
+					var et = $(this).children("Turn[startTime='"+timer+"']").attr("endTime"); 
+					timer=et
+					$("#S_result").append("<a>"+temp[spkname]+"-"+st+"-"+et+"</a><br>"); 
+					j++;
+				}
+			});
+		/* 讀取xml結束 ------------------------------------------------------------------------------ */		
+		
+		}
+		});
+	</script>
+</body> 
+</html>

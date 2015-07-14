@@ -1,0 +1,125 @@
+<article>
+	<id>1322</id>
+	<title>單親爸爸 工作 家庭照顧 難周全</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>十一歲的 王姓 小女孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-it-hoe3 e5 senn3-Ong5 cha-bou2-gin2-a2，</JiaoLuo>
+			<TongYong>Zap6-it7-hue3* senn3-Ong5*-e5 za1-vo4-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>十天 沒上學， 關在家裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-kang bo5-chiunn7-oh8 ，koainn -ti7 chhu3-lai7，</JiaoLuo>
+			<TongYong>zap6-gang1* vor5-ki3-siong2-kor3*， guainn1-di2-cu3-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>還 被誤會 遭到虐待，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-pi7-gou7-hoe7 tu2-tioh8 leng5-ti7，</JiaoLuo>
+			<TongYong>gorh7 ho2-lang5-qo2-hue2 siu2-diorh6-qik6-tai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>幸好 是 烏龍一場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3-si7 ou-liong5-chit8-tiunn5，</JiaoLuo>
+			<TongYong>hor4-ga1-zai3* si2 o1-liong5*-zit6-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>警方 調查發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong tiau-cha hoat-hian7，</JiaoLuo>
+			<TongYong>ging4-hong1* diau1-za1*-huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>女孩的爸爸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-bou2-gin2-a2-e5 lau7-pe7，</JiaoLuo>
+			<TongYong>za1-vo4-qin4-a4*-e5 ba1-ba1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>現在 六十幾歲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 lak8-chap8-kui2-hoe3，</JiaoLuo>
+			<TongYong>zit7-ma4* lak6-zap6-gui4-hue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>十多年前 娶了 越南籍 妻子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-goa7-ni5-cheng5 chhoa7-liau2 Oat8-lam5-chek8 khan-chhiu2，</JiaoLuo>
+			<TongYong>zap6-qua2-ni5-zing5* cua2-liau4 Uat6-Lam5-zik6*-e5-vo4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>夫妻 離婚之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ang-bou2 li7-hun-liau2-au7，</JiaoLuo>
+			<TongYong>ang1-a4-vo4* li2-hun1*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>單親爸爸 帶著女兒 生活，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan-chhin-lau7-pe7 toa3-tioh8 cha-bou2-kiann2 seng-oah8，</JiaoLuo>
+			<TongYong>dan1-cin1-ba1-ba1* cua2-diorh6 za1-vo4-giann4* sing1-uah6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>爸爸 對女兒 很溺愛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lau7-pe7 tui3 cha-bou2-kiann2 chin-theng2-seng7，</JiaoLuo>
+			<TongYong>ba1-ba1* dui3-za1-vo4-giann4* zin1-ting4-sing2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>這次 女兒生病 請十天假，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-pai2 cha-bou2-kiann2 phoa3-penn7 chheng2-chap8-kang-ka2，</JiaoLuo>
+			<TongYong>zit7-bai4* za1-vo4-giann4* pua3-benn2* cing4-zap6-gang1-ga4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>卻惹出 這次 烏龍 虐童事件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-jia2-chhut chit-pai2 ou-liong5 giok8-tong5-su7-kiann7，</JiaoLuo>
+			<TongYong>suah7-ria4-cut7 zit7-bai4* o1-liong5*-e5 qik6-dong5*-su2-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>消息曝光 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-sit phok8-kng-liau2-au7，</JiaoLuo>
+			<TongYong>siau1-sit7*-ginn3-gng1* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>女孩的媽媽 很擔心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-bou2-gin2-a2 e5 lau7-bo2 chin-tam-sim，</JiaoLuo>
+			<TongYong>za1-vo4-qin4-a4*-e5 ma1-ma1* zin1-huan5-lor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>趕緊 把女兒 接回身邊 照顧。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-kin2-ka7 cha-bou2-kiann2 chiap-tng2 sin-khu-pinn chiau3-kou3。</JiaoLuo>
+			<TongYong>guann4-gin4 ga2-za1-vo4-giann4* ziap7-dng4-ki3 sin1-ku1-binn1* ziau3-go3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

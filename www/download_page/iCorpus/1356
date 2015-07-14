@@ -1,0 +1,90 @@
+<article>
+	<id>1356</id>
+	<title>豪雨 水位暴漲 沖走兩工人 一獲救 一失蹤</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>苗栗 下午 下起了 間歇性 豪雨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Biau5-lek8 e5-pou loh8-khi2-liau2 kan3-hioh-seng3 toa7-chui2-hou7，</JiaoLuo>
+			<TongYong>Viau5-Lik6* e2-bo1* lorh6-ki4-liau4 zit6-zun2*-zit6-zun2*-e5 dua2-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>造成 當時 正在進行 電信工程 的 兩名工人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 tong-si5 tu2-ti7-chin3-heng5 tian7-sin3 kang-teng5 e5 nng7-mia5 kang-lang5，</JiaoLuo>
+			<TongYong>zor2-sing5 dong1-si5* dng1-deh7-zin3-hing5 den2-sin3-gang1-ding5* e5 nng2-mia5-gang1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>不幸 被 突然暴漲的 排水溝 大水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phainn2-un7-pi7 tut8-jian5 po7-tiong3-e5 sia3-chui2-kau toa7-chui2，</JiaoLuo>
+			<TongYong>but7-hing2* ho2 tut6-ren5* diunn3*-ki4-lai5 e5 bai5-zui4-gau1* dua2-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>沖進 大安溪 裡頭。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiong-chin3 Tai7-an-khe lai7-toe2。</JiaoLuo>
+			<TongYong>ciong1-rip6 Dai2-An1-Ke1* lai2-de2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>其中一名 劉姓工人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong chit8-mia5 senn3-Lau5 kang-lang5，</JiaoLuo>
+			<TongYong>Gi5-diong1*-zit6-e5* senn3-Lau5*-e5-gang1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>在 救難人員 幫助之下 已經 被拉上岸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 kiu3-lan7-jin5-oan5 pang-chou7-chi-ha7 i2-keng pi7-khiu2-chiunn7-hoann7，</JiaoLuo>
+			<TongYong>di2 giu3-lan2-rin5-uan5* bang1-zo2*-zi1-ha2* i4-ging1 ho2-lang5 qiu4-ziunn2-huann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>另外一名 沈姓工人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7 chit8-mia5 senn3-sim2 kang-lang5，</JiaoLuo>
+			<TongYong>ling2-qua2-zit6-e5* senn3-Sim4*-e5-gang1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>卻被 湍急的溪水 沖到下游！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-pi7 hiong5-lau5-e5 khoe-chui2 chhiong-kau3 khoe-boe2！</JiaoLuo>
+			<TongYong>suah7-ho2 cuah7-lau5*-e5-ke1-zui4* ciong1-gau3-ha2-iu5*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>由於 夜色 已經漆黑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-i5 ia7-sek i2-keng am3-ou，</JiaoLuo>
+			<TongYong>In1-ui2 ia2-sik7* i4-ging1-o1-am3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>搜救人員 暫時停止 搜救行動，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou-kiu3-jin5-oan5 chiam7-si5 theng5-chi2 sou-kiu3-heng5-tong7，</JiaoLuo>
+			<TongYong>so1-giu3-rin5-uan5* ziam2-si5*-ting5-zi4 so1-giu3*-hing5-dong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>等 天亮以後 再 持續 進行搜索。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan2-thinn-kng i2-au7 koh-ke3-siok8 chin3-heng5-chhiau-chhoe7。</JiaoLuo>
+			<TongYong>dan4 tinn1*-guinn1*-i4-au2* ziah7 ci5-siok6 zin3-hing5-so1-sor4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

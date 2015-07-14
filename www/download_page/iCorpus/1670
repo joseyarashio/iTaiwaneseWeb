@@ -1,0 +1,132 @@
+<article>
+	<id>1670</id>
+	<title>實彈射擊 偏方向 砲彈 炸爛球場</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>軍方 在 台南 將軍靶場 進行 實彈 射擊訓練 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kun-hong ti7 Tai5-lam5 Chiang-kun pe2-tiunn5 chin3-heng5 sit8-toann5 sia7-kek-hun3-lian7 ，</JiaoLuo>
+			<TongYong>Gun1-hong1* di2 Tai5-Lam5* Ziang1-gun1* Be4-Diunn5* zin3-hing5 sit6-duann5 sia2-gik7-hun3-len2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>沒想到 應該 往正前方 射擊的 砲彈 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siunn7-tioh8 eng-kai ong2-chiann3-chian5-hong sia7-kek-e5 phau3-toann5 ，</JiaoLuo>
+			<TongYong>vor5-siunn2-diorh6 ing1-gai1 ong4-zenn3-zen5-hong1 sia2-gik7-e5 pau3-duann5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>偏了 方向 越過 山頭 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phian-liau2 hong-hiang3 poann5-koe3 soann-thau5 ，</JiaoLuo>
+			<TongYong>pen1-liau4 hong1-hiang3 buann5-gue3 suann1-tau5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>擊中 兩公里以外 的 高爾夫球場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham2-tioh8 nng7-kong-li2 i2-goa7-e5 ko-ni2-hu-kiu5-tiunn5 ，</JiaoLuo>
+			<TongYong>ham4-diorh6 nng2-gong1-li4 i4-qua2-e5 gor1-lu4-hu3*-giu5-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>把 球場的 草坪 炸爛掉 一大片 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka7 kiu5-tiunn5-e5 chhau2-pou cha3-noa7-tiau7 kui-toa7-phiann2 ，</JiaoLuo>
+			<TongYong>ga2 giu5-diunn5-e5 cau4-bo1 za3-nua2-diau2 zit6-dua2-pen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>事後 軍方的 解釋 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>su7-au7 kun-hong-e5 kai2-soeh ，</JiaoLuo>
+			<TongYong>su2-au2* gun1-hong1-e5 gai4-sueh7 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>可能是 彈藥 有問題 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5-si7 tan5-ioh8 u7-bun7-te5 ，</JiaoLuo>
+			<TongYong>kor4-ling5-si2 dan2-iorh6* u2-vun2-de5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>會再做 進一步的 檢查 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-koh-cho3 chin3-chit8-pou7-e5 kiam2-cha ，</JiaoLuo>
+			<TongYong>e2-gorh7-zor3 zin3-zit6-bo2*-e5 giam4-za1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>原本 青翠的 高爾夫球場 草地 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 chhenn-chhui3-e5 ko-ni2-hu-kiu5-tiunn5 chhau2-pou ，</JiaoLuo>
+			<TongYong>quan5-bun4 cenn1-cui3-e5 gor1-lu4-hu3*-giu5-diunn5 cau4-bo1 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>變成 一公尺 寬的 大坑洞 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pian3-seng5 chit8-kong-chhioh khoah-e5 toa7-khut-a2 ，</JiaoLuo>
+			<TongYong>ben3-sing5 zit6-gong1-ciorh7 kuah7-e5 dua2-kut7-a4 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>散布著 破碎 鋁片 和 燒焦物 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>san3-pou3-tioh8 phoa3-chhui3 lu7-phinn3 kap chhau3-ta-mih8 ，</JiaoLuo>
+			<TongYong>san3-bo3-diorh6 pua3-cui3 lu2-pinn3 gap7 cau3-da1-mih6 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>原來 幾天前 軍方 在 台南 將軍 靶場 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-lai5 kui2-kang-chian5 kun-hong ti7 Tai5-lam5 Chiang-kun pe2-tiunn5 ，</JiaoLuo>
+			<TongYong>quan5-lai5 gui4-gang1-zen5 gun1-hong1 di2 Tai5-lam5 Chiang1-gun1 be4-diunn5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>進行 實彈射擊 的 訓練 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin3-heng5 sit8-toann5-sia7-kek e5 hun3-lian7 ，</JiaoLuo>
+			<TongYong>zin3-hing5 sit6-duann2-sia2-gik7 e5 hun3-len2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>砲彈 原本 應該 往前 射擊 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phau3-toann5 goan5-pun2 eng3-kai ong2-chian5 sia7-kek ，</JiaoLuo>
+			<TongYong>pau3-duann5 quan5-bun4 ing3-gai1 ong4-zen5 sia2-gik7 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>卻突然 偏了 方向 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-tut8-jian5 phian-liau2 hong-hiang3 ，</JiaoLuo>
+			<TongYong>suah7-dut6-ren5 pen1-liau4 hong1-hiang3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>飛越過 山頭 到了 兩公里 之外 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>poe-poann5-koe3 soann-thau5 kau3-liau2 nng7-kong-li2 chi-goa7 ，</JiaoLuo>
+			<TongYong>bue1-buann5-gue3 suann1-tau5 gau3-liau4 nng2-gong1-li4 zi1-qua2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>高爾夫球場 像是 被 轟炸過 的 戰場 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ko-ni2-hu-kiu5-tiunn5 chhin-chhiunn7 pi7 hong-cha3-koe3 e5 chian3-tiunn5 。</JiaoLuo>
+			<TongYong>gor1-ni4-hu1-giu5-diunn5 cin1-ciunn2 bi2 hong1-za3-gue3 e5 zen3-diunn5 。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

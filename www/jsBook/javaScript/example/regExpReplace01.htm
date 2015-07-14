@@ -1,0 +1,28 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：搜尋並代換</h2>
+<hr>
+
+<script>
+function regExpReplace(strId, pat1id, pat2id, flagId){
+	var regexp = new RegExp(pat1id.value, flagId.value);
+	var str = strId.value;
+	var newString = str.replace(regexp, pat2id.value);
+	alert(newString);
+}
+</script>
+<center>
+　字串：<input size=40 id=strId value="我愛用通用式，通用式功能強大"><br>
+通用式：<input size=40 id=pat1id value="通.式"><br>
+新字串：<input size=40 id=pat2id value="正規式"><br>
+　選項：<input size=40 id=flagId value=""><br>
+<input type="button" value="顯示代換結果" onClick="regExpReplace(strId, pat1id, pat2id, flagId)">
+</center>
+
+<hr>
+</body>
+</html>

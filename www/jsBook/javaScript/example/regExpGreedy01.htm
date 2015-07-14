@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式的「貪心比對」與「最小比對」</h2>
+<hr>
+
+<script>
+str = "fred batbetbitbotbut barney"
+document.write("str = "+str+"<br>");
+document.write("貪心比對：<br>");
+re = /b.*t/;
+document.write("re = "+re+"<br>");
+document.write("str.match(re) = "+str.match(re)+"<br>");
+document.write("最小比對：<br>");
+re = /b.*?t/;
+document.write("re = "+re+"<br>");
+document.write("str.match(re) = "+str.match(re)+"<br>");
+</script>
+
+<hr>
+</body>
+</html>

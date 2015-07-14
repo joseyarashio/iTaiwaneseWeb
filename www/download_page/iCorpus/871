@@ -1,0 +1,202 @@
+<article>
+	<id>871</id>
+	<title>台東雷雨 百公頃西瓜 全爛</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 po3-to7</JiaoLuo>
+			<TongYong>Vin5-si2*-sin1-vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>受到 熱帶低氣壓 影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu7-tioh jiat-tai3 ke7-khi3-ap eng2-hiang2，</JiaoLuo>
+			<TongYong>Siu2-diorh6 ret6-dai3*-ge2-ki3-ap7* ing4-hiang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台東地區 最近 下起雷雨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tang te7-khu choe3-kin7 loh-khil2ui5-kong-ho7，</JiaoLuo>
+			<TongYong>dai5-dang1-de2-ku1* zue3-gin2* lorh6-ki4-lui5-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>害得 原本 準備 採收西瓜 的 瓜農，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hai7-kah goan5-pun2 chun2-pi7 chhai2-siu si-koe e5 koe-long5，</JiaoLuo>
+			<TongYong>hai2-diorh6 quan5-bun4* zun4-bi2 cai4-siu1-si1-gue1* e5 gue1-long5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>損失慘重，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sun2-sit chham2-tiong7，</JiaoLuo>
+			<TongYong>sun4-sit7*-cam4-diong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>將近 兩百公頃 瓜田，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiang-kin7 nng pah-kong-kheng2 koe chhan5，</JiaoLuo>
+			<TongYong>ziang1-gin2 nng2-bah7-gong1-king4* gue1-hng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>有 一百公頃的 西瓜 爛掉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 chit-pah-kong-kheng2 e5 si-koe noa7-tiau7，</JiaoLuo>
+			<TongYong>u2 zit6-bah7-gong1-king4*-e5 si1-gue1* nua2*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>瓜農們 無奈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe-long5-in bo5-nai7，</JiaoLuo>
+			<TongYong>gue1-long5*-in2* vor5-nai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>只有 把 搶救來的 西瓜 賤價賣出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kan-ta-u7 ka7 chhiunn2-kiu3-lai5 e5 si-koe phainn2-ke3 be7-chhut，</JiaoLuo>
+			<TongYong>zi4-u2 ga2 ciunn4-giu3*-lai5*-e5 si1-gue1* vai4-ge3*-ve2-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>或是 拿來 當肥料。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hek-si7 theh-lai5 cho3 pui5-liau7。</JiaoLuo>
+			<TongYong>ia2-si2 teh6-lai5 zor3-bui5-liau2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>原本 應該 高興採收，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 eng3-kai hoann-hi2 chhai2-siu，</JiaoLuo>
+			<TongYong>Quan5-bun4* ing3-gai1 huann1-hi4*-cai4-siu*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>但是 看到 將近一半的 西瓜，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 khoann3-tioh chiang-kin7 chit-poann3 e5 si-koe，</JiaoLuo>
+			<TongYong>dan2-si2 kuann3-diorh6 ziang1-gin2-zit6-buann3*-e5 si1-gue*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>全部 都爛光了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-po7 long2 noa7-liau2-ah，</JiaoLuo>
+			<TongYong>zuan5-bo2* long4-nua2-liau4*-a3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>瓜農 抱著西瓜，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe-long5 pho7-tioh si-koe，</JiaoLuo>
+			<TongYong>gue1-long5* moh7-diorh6-si1-gue*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>臉色 卻很無奈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin7-chhiunn khiok chin-bu5-nai7，</JiaoLuo>
+			<TongYong>vin2-sik7* suah7-zin1-vor5-nai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>原本 台東天氣 熱得要命，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tang Tai5-tang thinn-khi3 joah-kah boeh-si2，</JiaoLuo>
+			<TongYong>quan5-bun4* dai5-dang1*-tinn1-ki3* ruah6-gah7-veh7-si4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>但是 受到 熱帶低氣壓 影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 siu7-tioh jiat-tai3 ke7-khi3-ap eng2-hiang2，</JiaoLuo>
+			<TongYong>dan2-si2 siu2-diorh6 ret6-dai3*-ge2-ki3-ap7* ing4-hiang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>突然 下起 大雷雨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tut-jian5 loh-khit2oa7-lui5-ho7，</JiaoLuo>
+			<TongYong>tut6-ren5* lorh6-ki4 dua2-lui5-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>西瓜 浸泡在 水裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si-koe chim3-phau3 ti7 chui2-li2 ，</JiaoLuo>
+			<TongYong>si1-gue1* zim3-di2-zui4*-li3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>導致 瓜農 來不及 採收，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 koe-long5 be7-tit-hu3 chhai2-siu，</JiaoLuo>
+			<TongYong>di3-su4 gue1-long5* ve2-hu3-cai4-siu1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>幾乎 都泡湯。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chha-put-to long2 po3-siau。</JiaoLuo>
+			<TongYong>ca1-but7-dor1 long4-bor3-siau1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>原本 一斤 可以 賣十幾塊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 chit-kin e7-sai2 be7 chap-goa7-kho3，</JiaoLuo>
+			<TongYong>Quan5-bun4* zit6-gin1* e2-dang3 ve2-zap6-gui4-ko1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>如今 不是 賤價售出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lu5-kim m-si7 phainn2-ke3 be7-chhut，</JiaoLuo>
+			<TongYong>ru5-gim1* m2-si2 vai4-ge3*-ve2-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>就是 放在田裡 當肥料，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiu7-si7 khg-ti7 chhan5-li2 cho3 pui5-liau7，</JiaoLuo>
+			<TongYong>diorh6-si2 kng3-di2-can5*-li3* zor3-bui5-liau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>瓜農 損失慘重，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe-long5 sun2-sit chham2-tiong7，</JiaoLuo>
+			<TongYong>gue1-long5* sun4-sit7*-cam4-diong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>也 無可奈何，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-bu5-kho2 nai7-ho5，</JiaoLuo>
+			<TongYong>ia2 vu5-kor4-nai2-hor5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>只能 眼睜睜地 看著 西瓜爛光，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-e7 bak-kim-k e5 khoann3-tioh si-koe noa7-liau2，</JiaoLuo>
+			<TongYong>zi4-e2-dang3 vak6-ziu1*-gim1-gim1*-e5 kuann3 si1-gue1*-nua2-liau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>勉強 賣出去 就算不錯 了。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bian2-kiong2 be7-chhut chiu7-sng3 be7 be7-phainn2-ah。</JiaoLuo>
+			<TongYong>ven4-giong4* ve2*-cut7*-ki3* ziu2-sng3-ve2-vai4* a3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

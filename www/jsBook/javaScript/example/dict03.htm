@@ -1,0 +1,29 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用 Keys() 和 Items() 取出字典物件的鍵值和對應值</h2>
+<hr>
+
+<script>
+capitalOf = new ActiveXObject("Scripting.Dictionary");	// 建構一個空的字典物件
+capitalOf.Add("Taiwan", "Taipei");		// 加入第 1 個對應關係
+capitalOf.Add("USA", "Washington");		// 加入第 2 個對應關係
+capitalOf.Add("Korea", "Seoul");		// 加入第 3 個對應關係
+
+document.writeln("<p>使用 Keys() 取出鍵值：<br>");
+allKeys = (new VBArray(capitalOf.Keys())).toArray();   // 取出鍵值
+for (i=0; i<capitalOf.Count; i++)
+	document.writeln(allKeys[i]+"<br>");
+	
+document.writeln("<p>使用 Items() 取出對應值：<br>");	
+allItems = (new VBArray(capitalOf.Items())).toArray();   // 取出對應值
+for (i=0; i<capitalOf.Count; i++)
+	document.writeln(allItems[i]+"<br>");
+</script>
+
+<hr>
+</body>
+</html>

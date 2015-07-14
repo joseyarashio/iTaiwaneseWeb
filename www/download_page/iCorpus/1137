@@ -1,0 +1,104 @@
+<article>
+	<id>1137</id>
+	<title>血小板指數 急降 台大醫師 認為 恐怕 跟疫苗 有關</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 陳先生 接種完 疫苗 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 Tan5-sian-senn cheng3-chu-oan5 ek8-biau5 liau2-au7，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* Dan5-sin1-senn1* zu3-uan5-ik6-viau5* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>發生 血小板 驟降 的 現象，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng hoeh-sio2-pan2 chhenn-kong5-kang3 e5 hian7-siong7，</JiaoLuo>
+			<TongYong>huat7-sing1 hueh7-sior4-ban4* kuai3-sok7*-gang3-ge2*-e5 hen2-siang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>台灣的 血液疾病 權威專家，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5-e5 hiat-ek8 penn7-cheng3 koan5-ui choan-ka，</JiaoLuo>
+			<TongYong>Dai5-Uan5*-e5 hueh7-ik6-zit6-benn2* kuan5-ui1*-zuan1-ga1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>台灣大學 醫學院 名譽教授 沈銘鏡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5-tai7-hak8 i-hak8-inn7 beng5-u7-kau3-siu7 Sim2-beng5-kiann3，</JiaoLuo>
+			<TongYong>Dai5-Uan5-Dai2-Hak6* I1-Hak6-Inn2* ving5-i2-gau3-siu2* Sim4-Ving5-Ging3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>他 認為 血小板 突然減少，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i jim7-ui5 hoeh-sio2-pan2 tut8-jian5 kiam2-chio2，</JiaoLuo>
+			<TongYong>i1 rin2-ui5* hueh7-sior4-ban4* tut6-ren5-giam4-zior4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>跟 施打 新流感 疫苗 的 關聯性 非常的大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kap si-tann2 Sin-liu5-kam2 ek8-biau5-e5 koan-lian5-seng3 hui-siong5-toa7，</JiaoLuo>
+			<TongYong>gah7 zu3 sin1-liu5-gam4* ik6-viau5* e5 guan1-len5-sing3* hui1-siang5*-e5-dua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>他 認為 疾病管制局 不該 在 第一時間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-jim7-ui5 Chit8-penn7-koan2-li2-kiok8 put-kai-ti7 te7-it-si5-kan，</JiaoLuo>
+			<TongYong>i1 rin2-ui5* Zit6-Benn2*-Guan4-Ze3-Giok6* vor5-ing3-gai1 di2 de2-it7-si5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>就否認 跟疫苗 無關，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tioh8-hou2-jim7 ham ek8-biau5 bo5-koan，</JiaoLuo>
+			<TongYong>diorh6-honn4-rin2 ham2-ik6-viau5* vor5-guan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>反而 應該 好好檢討，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tian-to3 eng-kai ho2-ho2-kiam2-tho2，</JiaoLuo>
+			<TongYong>den1-dor3 ing3-gai1 hor4-hor4-a4 giam4-tor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>找出 到底 誰 不能 打疫苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhoe7-chhut tau3-te2-siann2 be7-sai2 chu3-ek8-biau5，</JiaoLuo>
+			<TongYong>cue2-cut7 dau3-de4* siang4* ve2-dang3 zu3-ik6-viau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>但是 對此 疾病管制局 說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh tui3-chit Chit8-penn7-koan2-li2-kiok8 kong2，</JiaoLuo>
+			<TongYong>m2-gorh7 dui3-ze1* Zit6-Benn2*-Guan4-Ze3-Giok6* gong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>他們 沒聽說 陳先生的 案例，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in bo5-thiann-kong2 Tan5-sian-senn e5 an3-le7，</JiaoLuo>
+			<TongYong>in1 vor5-tiann1-gong4 Dan5-sin1-senn1*-e5 an3-le2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>將會 進一步 了解。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiong-e7 chin3-chit8-pou7 liau2-kai2。</JiaoLuo>
+			<TongYong>e2 zin3-zit6-bo2* liau4-gai4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

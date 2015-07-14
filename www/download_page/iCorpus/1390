@@ -1,0 +1,97 @@
+<article>
+	<id>1390</id>
+	<title>全台灣 熱翻像烤爐 民眾大喊 車子 快要 被高溫融化</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>天氣 真的很熱，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thinn-khi3 chin-e5-chin-joah8，</JiaoLuo>
+			<TongYong>Tinn1-ki3* zin1-ziann3-zin3-ruah6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>全台灣 從南到北，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-Tai5-oan5 tui3-lam5-kau3-pak，</JiaoLuo>
+			<TongYong>zuan5-Dai5-Uan5* ui3-lam5*-gau3-bak7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>都出現 熱到不行的 畫面。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chhut-hian7 joah8-kau3-be7-sai2-tit-e5 oe7-bin7。</JiaoLuo>
+			<TongYong>long4-cut7-hen2 ruah6-gah7 dong3-ve2-diau5* e5 ue2-vin2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>像是 冰淇淋 拿在手上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhin-chhiunn7 peng-ko theh8-ti7 chhiu2-teng2，</JiaoLuo>
+			<TongYong>Pi3-ru5-gong4 bing1-gi1-lim5* teh6-di2-ciu4*-li3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>不到 五秒鐘 就溶化，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-kau3 gou7-biau2-cheng to-iunn5-khi3，</JiaoLuo>
+			<TongYong>vor5-gau3 qo2-vior4-zing1* diorh6-iunn5*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>中南部 菜園的蔬菜 被 曬到枯黃，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiong-lam5-pou7 chhai3-hng5-e5 chhenn-chhai3 pi7-phak8-kau3 ta-ng5，</JiaoLuo>
+			<TongYong>diong1-lam5-bo2* cai3-huinn5*-e5-so1-cai3* ki3-ho2 pak6-gah7-da1-uinn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>就連 台灣 東部的海邊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-lian5 Tai5-oan5 tang-pou7-e5 hai2-pinn，</JiaoLuo>
+			<TongYong>diorh6-len5 Dai5-Uan5* dang1-bo2*-e5-hai4-ginn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>也因為 太陽太大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-in-ui7 jit8-thau5-siunn-toa7，</JiaoLuo>
+			<TongYong>ma2-in1-ui2 rit6-tau5*-siunn1-dua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>路上 熱到 完全 沒有行人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lou7-thau5 joah8-kau3 oan5-choan5-bo5 koe3-lou7-lang5，</JiaoLuo>
+			<TongYong>lo2-ding4* ruah6-gau3 long4-vor5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>看不到 有人 敢 在外面行走，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoann3-be7-tioh8 u7-lang5 kann2-ti7 goa7-khau2 kiann5-tang7，</JiaoLuo>
+			<TongYong>kuann3-ve2-diorh6 u2-lang5* gann4 di2-qua2-kau4*-giann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>民眾 大聲喊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 toa7-siann-hoah，</JiaoLuo>
+			<TongYong>vin5-ziong3* dua2-siann1-huah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>車子 快要 被高溫 融化了。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia tih-beh-pi7 ko-un iunn5-khi3-ah。</JiaoLuo>
+			<TongYong>cia1* dih7-veh7 ho2-gor1-un1* iunn5*-ki3*-a3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

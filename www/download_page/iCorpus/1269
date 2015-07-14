@@ -1,0 +1,104 @@
+<article>
+	<id>1269</id>
+	<title>上千 台灣旅客 困在歐洲 睡機場</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>因為 火山爆發，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 hoe2-soann-phok8-hoat，</JiaoLuo>
+			<TongYong>In1-ui2 hue4-suann1*-bok6-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>造成 飛往歐洲的 航班 大亂，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 poe-ong2 Au-chiu hang5-pan toa7-loan7，</JiaoLuo>
+			<TongYong>zor2-sing5 bue1-ong4-Au1-Ziu1*-e5 hang5-ban1* dua2-luan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>台灣 也有 兩千多位 旅客 受到影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5 oan-na2-u7 nng7-chheng-goa7-ui7 li2-kheh siu7-tioh8 eng2-hiong2，</JiaoLuo>
+			<TongYong>Dai5-Uan5* ma2-u2 nng2-cing1-qua2-ui2 li4-keh7* siu2-diorh6-ing4-hiang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>其中 一千多人 目前 還 受困在 歐洲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong chit8-chheng-goa7-lang5 bok8-cheng5 iau2-siu7-khun3-ti7 Au-chiu，  </JiaoLuo>
+			<TongYong>gi5-diong1* zit6-cing1-qua2-lang5* vok6-zing5* gorh7 siu2-kun3-di2 Au1-Ziu1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>無法 到達 目的地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-hoat kau3-te3 bok8-tek-toe7，</JiaoLuo>
+			<TongYong>vor5-huat7-do2 gau3-dat6 vok6-dik7-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>另外 一千多人 是 接下來 無法出團，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7 chit8-chheng-goa7-lang5 si7 soa3-loh8-lai5 bo5-hoat chhut-thoan5，</JiaoLuo>
+			<TongYong>ling2-qua2 zit6-cing1-qua2-lang5* si2 sua3*-lorh6-lai5 vor5-huat7-do2 cut7-tuan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>對此 航空公司 跟 旅行社，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-chit hang5-khong-kong-si kap li2-heng5-sia7，</JiaoLuo>
+			<TongYong>ziam1-dui3 zit6-e5-zong2-kong4* hang5-kong1-gong1-si1* gah7 li4-hing5-sia2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>都在 想辦法 解決，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-ti7 siunn7-pan7-hoat kai2-koat，</JiaoLuo>
+			<TongYong>long4-deh7 siunn2-ban2-huat7* gai4-guat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>像是華航 有 兩百多名 要到英國的 旅客，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhin-chhiunn7 Hoa5-hang5 u7 nng7-pah-goa7-mia5 beh-kau3 Eng-kok-e5 li2-kheh，</JiaoLuo>
+			<TongYong>pi3-ru5-Hua5-Hang5* u2 nng2-bah7-qua2-mia5 veh7-gau3-Ing1-Gok7*-e5 li4-keh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>昨天 還滯留在 德國機場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chah8-jit8 iau2-te3-tiam3-ti7 Tek-kok-ki-tiunn5，</JiaoLuo>
+			<TongYong>za1-huinn1* gorh7-lau5-di2 Dik7-Gok7*-e5-gi1-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>今天 已經 用 搭車的方式，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit8 i2-keng-eng7 che7-chhia-e5 hong-sek，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* i4-ging1 ing2 ze2-cia1*-e5-hong1-sik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>數百人 轉到 英國倫敦，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou3-pah-lang5 choan2-kau3 Eng-kok-Lun5-tun，</JiaoLuo>
+			<TongYong>gui4*-a2-bah7-lang5* zuan4-gau3 Ing1-Gok7*-Lun5-Dun1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>數十萬元的 費用 全部 都由業者 自己吸收。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou3-chap8-ban7-kho3 e5 hui3-iong7 choan5-po7-long2-iu5 giap8-chia2 ka-ki7-khip-siu。</JiaoLuo>
+			<TongYong>gui4-zap6-van2-ko1*-e5 hui3-ing2* zuan5-bo2* long4-iu5-qiap6-zia4* ga1-di2*-kip7-siu1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,21 @@
+<html>
+<head></head>
+<body>
+<script>
+function control(state){
+	if (state==1){
+		window.status="你將開啟的新視窗有狀態列...^^";
+		//把window.open裡的status參數設為1，狀態列就是開著的。
+		window.open('new.htm','win','location=1,width=350,height=300,toolbar=1,status=1,menubar=1');
+	}else{
+		window.status="你將開啟一個沒有狀態列的新視窗...";
+		//如果把window.open的status參數設為0,狀態列就會被關閉了...
+		window.open('new.htm','win2','location=1,width=350,height=300,toolbar=1,status=0,menubar=1');
+	}
+}
+</script>
+
+<input type=button value="開啟沒有狀態列的視窗" onclick="control(0)"></input>
+<input type=button value="開啟有狀態列的視窗" onclick="control(1)"></input>
+</body>
+</html>

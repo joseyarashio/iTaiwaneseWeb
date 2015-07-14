@@ -1,0 +1,41 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>陣列的方法：pop(), push(), shift(), unshift()</h2>
+<hr>
+
+<script>
+myPet = ["鼠", "牛", "虎", "兔"];
+document.writeln("myPet = " + myPet + "<br>");
+//測試 pop()
+cmd = "popped = myPet.pop()";
+eval(cmd);
+document.writeln("<p>After 「" + cmd + "」：<br>");
+document.writeln("myPet = " + myPet + "<br>");
+document.writeln("poped = " + popped + "<br>");
+//測試 push()
+cmd = 'elementCount = myPet.push("龍", "蛇")';
+eval(cmd);
+document.writeln("<p>After 「" + cmd + "」：<br>");
+document.writeln("myPet = " + myPet + "<br>");
+document.writeln("elementCount = " + elementCount + "<br>");
+//測試 shift()
+cmd = "shifted = myPet.shift()";
+eval(cmd);
+document.writeln("<p>After 「" + cmd + "」：<br>");
+document.writeln("myPet = " + myPet + "<br>");
+document.writeln("shifted = " + shifted + "<br>");
+//測試 unshift()
+cmd = 'myPet.unshift("狗", "豬")';
+eval(cmd);
+document.writeln("<p>After 「" + cmd + "」：<br>");
+document.writeln("myPet = " + myPet + "<br>");
+
+</script>
+
+<hr>
+</body>
+</html>

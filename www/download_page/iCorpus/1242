@@ -1,0 +1,69 @@
+<article>
+	<id>1242</id>
+	<title>愛犬上街 遭撞傷 婦人 沿路攔車 遭拒絕</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>新竹 一名婦人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-tek chit8-mia5 hu7-jin5，</JiaoLuo>
+			<TongYong>Sin1-Dik7* zit6-e5* hu2-rin5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>她的愛犬 在街上 被車撞傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-e5 ai3-khian2 ti7-koe-teng2 pi7-chhia-chong7-siong，</JiaoLuo>
+			<TongYong>i1 sim1-ai3*-e5-gau4* di2-ge1-lo2-ding4* ho2-cia1* long3-diorh6-siong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>想要 攔計程車 卻 一直 遭到拒載，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh-ai3 chah8-ke3-teng5-chhia soah-it-tit8 tu2-tioh8 ki7-choat，</JiaoLuo>
+			<TongYong>siunn2-veh7 zah6-ge3-ding5-cia1* suah7 it7-dit6 vor5-cia1*-veh7-zai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>不得已 向一一九 求助，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-tek-i2-hiang3 It-it-kiau2 hoah-kiu3-lang5，</JiaoLuo>
+			<TongYong>but7-dik7-i4* hiong3-It7-It7-Giu4* giu5-zo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>但是 救護車 礙於規定，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 kiu3-hou7-chhia gai7-i5-kui-teng7，</JiaoLuo>
+			<TongYong>dan2-si2 giu3-ho2-cia1* qai2-i5-gui1-ding2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>不能 載運動物，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>be7-eng7 chai3-un7 tong7-but8，</JiaoLuo>
+			<TongYong>ve2-dang3 zai3-un2-dong2-vut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>最後 警方 派出 消防隊 勤務車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-boe2 keng2-hong phai3-chhut siau-hong5-tui7 khin5-bu7-chhia，</JiaoLuo>
+			<TongYong>zue3-au2* ging4-hong1* pai3-cut7 siau1-hong5-dui2* kin5-vu2-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>將狗 送醫急救。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiong kau2 sang3-i-kip-kiu3。</JiaoLuo>
+			<TongYong>ziong1-gau4* sang3-i1*-gip7-giu3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

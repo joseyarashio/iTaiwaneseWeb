@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>沒完沒了的警告視窗</h2>
+<hr>
+
+<script>
+function talk() {
+	alert('你要按一千次才能脫身...');
+	for (i=0; i<1000; i++)
+		alert('第 ' + (i+1) + ' 次！');
+	alert('哈哈！你被我騙了...你還要按100次才能走人...');
+	for (i=0; i<100; i++)
+		alert('第 ' + (i+1) + ' 次！');
+	alert('你真的按完了耶，太崇拜了！（不過你時間也太多了吧？^_^）');
+}
+</script>
+<a href="javascript:talk()">有膽你就給我按看看！</a>
+
+<hr>
+</body>
+</html>

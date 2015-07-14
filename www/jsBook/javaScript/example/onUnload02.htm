@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>打不死的蟑螂</h2>
+<hr>
+<!-- 原作者：u912526@oz.nthu.edu.tw -->
+
+<script>
+function openwin(){
+	//做法一：這是在unload的時候取目前的秒數來當作新視窗的名字
+	//        (因為發現視窗的名字不變的話,就沒辦法一直開新視窗)
+	//        缺點是  如果關的夠快(在同一秒開跟關的話),就破功了^^"     
+	//var today = new Date();
+	//i = today.getSeconds();
+
+	//做法二：用數學物件的亂數來當視窗名稱...所以關一個就會再生一個新的出來
+	//        ，真的打不死...(好像做的太過分了@@...關不掉|||)   
+	i = Math.floor(Math.random()*10000);
+
+	window.open('onUnload01.htm','new'+i,'location=1,toolbar=1,menubar=1,status=1');
+}
+</script>
+
+<body onunload="openwin()">
+<h1>你關不掉我~XD</h1>
+</body>
+</html>

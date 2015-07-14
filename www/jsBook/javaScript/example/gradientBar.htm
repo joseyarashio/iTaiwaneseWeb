@@ -1,0 +1,102 @@
+<html>
+<body>
+
+<script language="JavaScript1.2">
+<!--
+
+/*
+Gradient Bar Script (By Alex Szorkovszky alex@wmresources.com)
+Permission granted to Dynamicdrive.com to feature script in archive
+For full source code and installation instructions to this script, visit http://dynamicdrive.com
+*/
+
+if (document.all){
+one=new Array();
+two=new Array();
+var a=10;var b=11;var c=12;var d=13;var e=14;var f=15;
+
+
+//configure gradient
+
+//width and height of gradient
+var width = 350;
+var height = 20;
+
+//no of pixels between colours
+var gap = 5;
+
+//0 for horizontal, 1 for vertical
+var direction = 0;
+
+//colour number 1 - enter 1st, 3rd and 5th numbers/letters of colour code
+one[0]=f;
+one[1]=f;
+one[2]=0;
+
+//colour number 2 - enter 1st, 3rd and 5th numbers/letters of colour code
+two[0]=0;
+two[1]=c;
+two[2]=0;
+
+
+//end configuration
+
+
+if(direction==0) var num = width / gap;
+if(direction==1) var num = height / gap;
+color2=new Array();
+color1=new Array();
+diff=new Array();
+for(i=0;i<3;i++) {
+diff[i] = two[i] - one[i];
+diff[i] = diff[i] / num;
+}
+for(i=0;i<3;i++){
+color1[i] = Math.round(diff[i] * Math.pow(10, 0));
+if(color1[i] > diff[i])color1[i] = color1[i] - 1;
+color2[i] = diff[i] - color1[i];
+color2[i] = color2[i] * 15;
+color2[i] = Math.round(color2[i] * Math.pow(10, 0));
+}
+x=new Array();
+two[0]=0;
+two[1]=0;
+two[2]=0;
+document.write('<table border="0" cellpadding="0" cellspacing="0" width="'+width+'" height="'+height+'">');
+if(direction==0) document.write('<tr>');
+for(i=0;i<=num;i++) {
+if(direction==1) document.write('<tr>');
+document.write('<td bgcolor="#');
+for(j=0;j<3;j++) {
+if(one[j]==a)document.write("a");
+if(one[j]==b)document.write("b");
+if(one[j]==c)document.write("c");
+if(one[j]==d)document.write("d");
+if(one[j]==e)document.write("e");
+if(one[j]==f)document.write("f");
+if(one[j]<10)document.write(one[j]);
+if(two[j]==a)document.write("a");
+if(two[j]==b)document.write("b");
+if(two[j]==c)document.write("c");
+if(two[j]==d)document.write("d");
+if(two[j]==e)document.write("e");
+if(two[j]==f)document.write("f");
+if(two[j]<10)document.write(two[j]);
+one[j] = one[j] + color1[j];
+two[j] = two[j] + color2[j];
+if(two[j]>15) {
+two[j] = two[j] - 15;
+one[j]++;
+}
+}
+if(direction==0) document.write('" width="'+gap+'" height="'+height+'">&nbsp;</td>');
+if(direction==1) document.write('" width="'+width+'" height="'+gap+'">&nbsp;</td></tr>');
+}
+document.write('</table>');
+}
+//-->
+</script>
+
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<?XML version="1.0" ?>
+<!-- Filename: demo.wsf-->
+<package>
+  <job>
+    <script type="text/vbscript">
+      WScript.Echo "Hello."
+    </script>
+  </job>
+
+  <job id="SayGoodbye">
+    <script type="text/vbscript">
+      WScript.Echo "Good bye."
+    </script>
+  </job>
+</package> 

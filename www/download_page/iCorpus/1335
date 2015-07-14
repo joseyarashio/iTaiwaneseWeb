@@ -1,0 +1,118 @@
+<article>
+	<id>1335</id>
+	<title>熱鬧 台中一中 商圈 驚傳 惡狼 隨機 擄人性侵</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台中市 熱鬧的 一中商圈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-chhi7 lau7-jiat8-e5 It-tiong-siong-khoan，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Ci2* lau2-ret6*-e5 It7-Diong1*-siang1-kuan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>驚傳 光天化日的 性侵案，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiann-thoan5 kng-thau5-peh8-jit8 e5 seng3-chhim-an3，</JiaoLuo>
+			<TongYong>ging1-tuan5 dng1-tau5*-beh6-rit6*-e5 sing3*-cim1-an3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>十八歲的 女學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-peh-hoe3 e5 lu2-hak8-seng，</JiaoLuo>
+			<TongYong>zap6-beh7-hue3*-e5 li4-hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>三月中 獨自 到 一中商圈 逛街，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-goeh-tiong tok8-chu7-kau3 It-tiong-siong-khoan seh8-koe，</JiaoLuo>
+			<TongYong>sann1-queh6-diong1* dok6-zu2 gau3 It7-Diong1*-siang1-kuan1* seh6-ge1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>走到 偏僻暗巷 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiann5-kau3 phian-phiah am3-hang7-a2 liau2-au7，</JiaoLuo>
+			<TongYong>giann5-gau3 pen1-piah7*-e am3-hang2-a4* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>被歹徒 用 黑色 塑膠袋 套住頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-phai2-tou5 eng7 ou-sek sok-ka-te7 tho3-tioh8-thau5，</JiaoLuo>
+			<TongYong>ho2-painn4-do5* ing2 o1-sik7* sok7-ga1-de2-a4* kam3-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>強 拉上車內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiong5-giu2-chiunn7 chhia-lai7，</JiaoLuo>
+			<TongYong>giang5-qiu4-ziunn2-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>再 帶到 附近套房 性侵，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-chhoa7-kau3 hu3-kin7 tho3-pang5 seng3-chhim，</JiaoLuo>
+			<TongYong>gorh7 cua2-gau3 hu2-gin2*-e5-tor3-bang5* sing3*-cim1-hai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>女學生 驚嚇過度，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lu2-hak8-seng chhinn-kiann-koe3-tou7，</JiaoLuo>
+			<TongYong>li4-hak6-sing1* giann1-hiann5*-gue3-do2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>過了 將近 兩個月，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe3-liau2 beh-oa2 nng7-kou3-goeh8，</JiaoLuo>
+			<TongYong>gue3-liau4 ziang1-gin2 nng2-gor3-queh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>才 由家人 陪同報警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-iu5 chhu3-lai7-lang5 poe5-tong5 po3-keng2，</JiaoLuo>
+			<TongYong>ziah7 iu5-cu3-lai2-lang5* bue5-dong5-bor3-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>但是 警方表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 keng2-hong piau2-si7，</JiaoLuo>
+			<TongYong>dan2-si2 ging4-hong1*-biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>路口 監視器 硬碟容量 有限，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lou7-khau2 kam3-si7-khi3 nge7-tiap8 iong5-liong7 iu2-han7，</JiaoLuo>
+			<TongYong>lo2-kau4* gam3-si2-ki3* nqe2-diap6-iong5-liang2* iu4-han2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>畫面 很可能 早已經 被洗掉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oe7-bin7 chin-kho2-leng5 cha2-i2-keng pi7-se2-tiau7，</JiaoLuo>
+			<TongYong>ue2-vin2* zin1-kor4-ling5* za4*-diorh6 i4-ging1-se4-diau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>要追查 不容易。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh-tui-cha bo5-iong5-i7。</JiaoLuo>
+			<TongYong>veh7-dui1-za1* vor5-gan4-dan1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

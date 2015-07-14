@@ -1,0 +1,76 @@
+<article>
+	<id>1299</id>
+	<title>放電影 突然變黑 京站影城 跳電 疏散觀眾</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北市的 國道客運 轉運中心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7 e5 Kok-to7-kheh-un7-choan2-un7-tiong-sim，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2*-e5 gok7-dor2*-keh7-un2* zuan4-un2*-diong1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>晚間 無預警 停電 二十分鐘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>am3-si5 bo5-u7-keng2 theng5-tian7 ji7-chap8-hun-cheng，</JiaoLuo>
+			<TongYong>am3-si5* vor5-i2-ging4* ting5-den2 qi2-zap6-hun1-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>所幸 附設的 賣場 及 客運中心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou2-heng7 hu3-siat-e5 be7-tiunn5 kap kheh-un7-tiong-sim，</JiaoLuo>
+			<TongYong>ga1-zai3* hu3-set7*-e5 ve2-diunn5* gah7 keh7-un2*-diong1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>都沒有 受到波及，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-bo5 siu7-tioh8-pho-kip8，</JiaoLuo>
+			<TongYong>long4-vor5 siu2-diorh6-por1-gip6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>只有 京站的 電影院 被迫 中斷放映，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kan-ta-u7 Kiann-cham7 e5 tian7-iann2-inn7 pi7-pek-tiong-toan7 hong3-iann2，</JiaoLuo>
+			<TongYong>zi4-u2 Giann1-Zam2*-e5 den2-iann4-inn2* bi2-pik7 diong1-duan2-hong3-sang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>進行 緊急的疏散，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin3-heng5 kin2-kip-e5 sou-san3，</JiaoLuo>
+			<TongYong>zin3-hing5 gin4-gip7*-e5-so1-san3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>業者 發給每人 兩張 電影票 兌換券，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>giap8-chia2 hoat-hou7 tak8-lang5 nng7-tiunn tian7-iann2-phio3 tui3-oann7-kng3，</JiaoLuo>
+			<TongYong>qiap6-zia4* huat7-ho2 mui4-zit6-e5-lang5* nng2-diunn1 den2-iann4-pior3* dui2-uann2-guan3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>作為 這次的補償，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chok-ui5 chit-pai2-e5 pou2-siong2，</JiaoLuo>
+			<TongYong>zor3-ui5 zit7-bai4*-e5-bo4-siang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>讓觀眾 抱怨連連 敗興而歸。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 koan-chiong3 khioh-oan3-lian5-lian5 pai7-heng3-ji5-kui。</JiaoLuo>
+			<TongYong>ho2-guan1-ziong3* uan3-siann1*-len5-len5* bai2-hing3*-ri5-gui1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

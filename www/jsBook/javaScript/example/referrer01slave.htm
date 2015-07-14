@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用 document.referrer 以防盜連：被保護的網頁</h2>
+<hr>
+
+<script>
+if (document.referrer.indexOf("referrer01master.htm")==-1){
+	// 限制此頁必須是由"referrer01master.htm"的超連結連過來
+	alert("連結失敗！\ndocument.referrer="+document.referrer);
+	alert("請從主網站進入本頁");
+	document.location = "referrer01master.htm";	// 轉址至主網頁
+} else {
+	alert("連結成功！\ndocument.referrer="+document.referrer);
+}
+</script>
+
+這是被保護網頁的內容。
+
+<hr>
+</body>
+</html>

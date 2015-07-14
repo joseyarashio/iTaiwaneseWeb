@@ -1,0 +1,10 @@
+﻿
+<ul>
+	<li onclick="load_file('english_novel/multiLang101/ryWork/夏川りみ-涙そうそう')">夏川りみ-涙そうそう</li>
+	<li onclick="load_file('english_novel/multiLang101/ryWork/t_001')">t_001</li>
+	<li onclick="load_file('english_novel/multiLang101/ryWork/e_01 Advanced Audio Blog 1 - Will Spi')">e_01 Advanced Audio Blog #1 - Will Spi</li>
+	<li onclick="load_file('english_novel/multiLang101/ryWork/j_01 Audio Blog 1 - Meet Miki - Audio')">j_01 Audio Blog #1 - Meet Miki - Audio</li>
+	<li onclick="load_file('english_novel/multiLang101/ryWork/m_01 Advanced Audio Blog 1 - Memory f')">m_01 Advanced Audio Blog #1 - Memory f</li>
+
+
+</ul>

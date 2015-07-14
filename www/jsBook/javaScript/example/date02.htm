@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>日期物件的方法：使用 eval()</h2>
+<hr>
+
+<script>
+today = new Date();		// 建立Date物件
+// 列出與 Date 物件的一些方法
+method =["getDate", "getDay", "getFullYear", "getHours", "getMilliseconds",
+	"getMinutes", "getMonth", "getSeconds", "getTime", "getTimezoneOffset",
+	"getUTCDate", "getUTCDay", "getUTCFullYear", "getUTCHours", "getUTCMilliseconds",
+	"getUTCMinutes", "getUTCMonth", "getUTCSeconds", "getVarDate", "getYear",
+	"toGMTString", "toLocaleString", "toUTCString", "toString", "valueOf"];
+
+// 列出執行這些方法後得到的結果
+for (i=0; i<method.length; i++)
+	document.writeln("<br> today." + method[i] + "() = " + eval("today."+method[i]+"();"));
+</script>
+
+<hr>
+</body>
+</html>

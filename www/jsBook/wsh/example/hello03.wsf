@@ -1,0 +1,9 @@
+<job>
+
+<script language="JScript" src="hello01.js">
+
+<script language="VBScript">
+	WScript.Echo("¡uHello world¡v via VBScript!")
+</script>
+
+</job>

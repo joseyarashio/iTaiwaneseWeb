@@ -1,0 +1,111 @@
+<article>
+	<id>1009</id>
+	<title>國光客運 危險駕駛 按手機 沒抬頭</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>一邊開車 還 一邊 打 行動電話，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-piN khui-chhia iau2-chit8-piN kha3-heng5-tong7-tian7-oe7，</JiaoLuo>
+			<TongYong>Zit6-vin2-sai4-cia1* gorh7 zit6-vin2 ka3 hing5-dong2-den2-ue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>危險駕駛 真的 很不像話！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hui5-hiam2 ka3-su2 chin-e5 m7-si7-khoan2！</JiaoLuo>
+			<TongYong>hui5-hiam4-ga3-su4* zin1-ziann3 zin1-m2-si2-kuan4*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>國光客運的 司機 被網友 踢爆，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kok-kong kheh-un7 e5 su-ki pi7 bang7-iu2 that-piak，</JiaoLuo>
+			<TongYong>Gok7-Gong1*-Keh7-Un2*-e5 su1-gi1* ho2-vang2-iu4* biak7-kang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>今年 十月中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ni5 goeh8-chap8-tiong，</JiaoLuo>
+			<TongYong>gin1-ni5* zap6-queh6-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>開車 還打電話，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khui-chhia iau2 kha3-tian7-oe7，</JiaoLuo>
+			<TongYong>sai4-cia1* gorh7-ka3-den2-ue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>就這樣 一路 從台北縣 開到台中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-an2-ne chit8-lou7 tui3 Tai5-pak-koan7 khui-kau3 Tai5-tiong，</JiaoLuo>
+			<TongYong>diorh6-an4-ne1* zit6-lo2* ui3-Dai5-Bak7-Guan2* sai4-gau3-Dai5-Diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>過程當中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe3-teng5 tong-tiong，</JiaoLuo>
+			<TongYong>gue3-ding5*-dang1-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>有 整整 十秒鐘 沒有抬頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 kui-chap8-biau2-cheng bo5-giah8-thau5，</JiaoLuo>
+			<TongYong>u2 gui1-zap6-vior4-zing1* vor5-dann1-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>這位駕駛 解釋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ui7 ka3-su2 kai2-sek，</JiaoLuo>
+			<TongYong>zit7-ui2-ga3-su4* gai4-seh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>他 只是 看誰打來 就 立刻按掉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i chi2-si7 khoaN3-siaN2 phah-lai5 to-sui5 chhih8-tiau7，</JiaoLuo>
+			<TongYong>i1 zi4-si2 kuann3-siang4*-ka3*-lai5 diorh6-sui5-rih6-diau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>不是 在打簡訊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-si7 ti7 phah-kan2-sin3，</JiaoLuo>
+			<TongYong>m2-si2 dih7-pah7-gan4-sin3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>不過 國光客運 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 Kok-kong-kheh-un7 piau2-si7，</JiaoLuo>
+			<TongYong>m2-gorh7 Gok7-Gong1*-Keh7-Un2* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>已經調閱 駕駛 通聯紀錄，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng tiau3-oat8 ka3-su2 thong-lian5-ki3-lok8，</JiaoLuo>
+			<TongYong>i4-ging1-diau3-kuann3 ga3-su4*-e5 tong1-len5-gi3-lok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>不排除 記大過 或 直接解僱！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-pai5-tu5 ki3-toa7-ko3 ah tit8-chiap-thai5-thau5！</JiaoLuo>
+			<TongYong>vor5-bai5-di5 gi3-dua2-gor3* ia2-si2 dit6-ziap7*-kai1-di5*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

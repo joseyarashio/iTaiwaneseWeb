@@ -1,0 +1,104 @@
+<article>
+	<id>1112</id>
+	<title>打疫苗猝死 男孩 共 轉診 三家醫院</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>這一起 打疫苗 死亡個案，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-chit8-khi2 chu-ek8-biau5 si2-bong5-ko3-an3，</JiaoLuo>
+			<TongYong>Zit7-giann2 zu1-ik6-viau5*-e5 si4-vong5*-gor3-an3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>引發 社會各界 注意，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in2-hoat sia7-hoe7-kok-kai3 chu3-i3，</JiaoLuo>
+			<TongYong>in4-huat7 sia2-hue2*-gok7-gai3* zu3-i3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>是因為 這名男孩的 父親，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7-in-ui7 chit-mia5 cha-pou-kiann2-a2-e5 pa5-pa5，</JiaoLuo>
+			<TongYong>si2-in1-ui2 zit7-e5 za1-bo1-qin4-a4* e5 ba1-ba1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>本身 就是 一位醫師，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pun2-sin tioh8-si7 chit8-ui7 i-seng，</JiaoLuo>
+			<TongYong>bun4-sin1* diorh6-si2 zit6-ui2-i1-su1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>而且 事發 第一時間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiann2 su7-hoat te7-it-si5-kan，</JiaoLuo>
+			<TongYong>ri5-ciann4 su2-huat7*-e5 de2-it7-si5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>把小孩 送到 自己服務的 醫院，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka7 gin2-a2 sang3-kau3 ka-ki7 hok8-bu7-e5 penn7-inn7，</JiaoLuo>
+			<TongYong>ga2-qin4-a4* sang3-gau3 ga1-di2*-hok6-vu2*-e5 benn2-inn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>這位 小男孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ui7 cha-pou-kiann2-a2，</JiaoLuo>
+			<TongYong>zit7-e5 za1-bo1-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>從 沙鹿的 童綜合醫院，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 Soa-lak8 e5 Tong5-chong-hap8-penn7-inn7，</JiaoLuo>
+			<TongYong>ui3 Sua1-Lak6*-e5 Dong5-Zong1-Hap6-Benn2-Inn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>轉到 中國醫藥大學 附設醫院，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan2-kau3 Tiong-kok-i-hak8-tai7-hak8 hu3-siat-penn7-inn7，</JiaoLuo>
+			<TongYong>zuan4-gau3 Diong1-Gok7*-I1-Iorh6-Dai2-Hak6* Hu3-Set7*-Benn2-Inn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>最後 再轉到 台大醫院，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-boe2 koh-choan2-kau3 Tai5-tai7-penn7-inn7，</JiaoLuo>
+			<TongYong>zue3-au2* gorh7-zuan4-gau3 Dai5-Dai2-Benn2-Inn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>這當中 到底 哪裡 出了問題，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-tong-tiong tau3-te2 toh-ui7 chhut-liau2 bun7-te5，</JiaoLuo>
+			<TongYong>ze1*-dang1-diong1* dau3-de4* dor4-ui2* cut7-liau4-vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>中國醫藥大學 附設醫院 發表 緊急聲明，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok-i-hak8-tai7-hak8-hu3-siat-penn7-inn7 hoat-piau2 kin2-kip-seng-beng5，</JiaoLuo>
+			<TongYong>Diong1-Gok7*-I1-Iorh6-Dai2-Hak6* Hu3-Set7*-Benn2-Inn2* huat7-biau4 gin4-gip7*-sing1-ving5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>強調 已經盡力 沒有疏失。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiong5-tiau7 i2-keng chin7-lek8 bo5-soe-sit。</JiaoLuo>
+			<TongYong>giong5-diau2* i4-ging1-zin2-lik6* vor5-so1-sit7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

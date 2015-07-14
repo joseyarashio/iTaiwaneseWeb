@@ -1,0 +1,10 @@
+<job>
+<script src="utility.js"></script>
+<script>
+	WScript.Echo("列出 "+WScript.ScriptName+" 的內容：");
+	WScript.Echo("");
+	outputArray=file2array(WScript.ScriptName);
+	for (i=0; i<outputArray.length; i++)
+		WScript.Echo(outputArray[i]);
+</script>
+</job>

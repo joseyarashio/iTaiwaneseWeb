@@ -1,0 +1,104 @@
+<article>
+	<id>1227</id>
+	<title>最大沙塵暴 馬祖機場 全天停擺</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5 </JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5* </TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>星期天 全台灣的 民眾 出門，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>le2-pai3-jit8 choan5-Tai5-oan5 e5 bin5-chiong3 chhut-mng5，</JiaoLuo>
+			<TongYong>Le4-bai3-rit6* zuan5-Dai5-Uan5*-e5 vin5-ziong3* cut7-mui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一定 都能 感受到，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-teng7 long2-e7 kam2-siu7-tioh8， </JiaoLuo>
+			<TongYong>it7-ding2 long4-e2-dang3 gam4-siu2-diorh6，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>外面 是 灰濛濛的 一片，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goa7-bin7-si7 eng-phu2-phu2 e5 chit8-phiann2，</JiaoLuo>
+			<TongYong>qua2-kau4* si2 vu2-vu2*-vong5-vong5*-e5 zit6-pen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>氣象局 說 這是因為，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Khi3-siong7-kiok8 kong2 chiah-si7 in-ui7，</JiaoLuo>
+			<TongYong>Ki3-Siang2-Giok6* gong4 ze1*-si2-in1-ui2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>最強的 中國沙塵暴 來襲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-kiong5-e5 Tiong-kok-soa-tin5-po7 lai5-sip8，</JiaoLuo>
+			<TongYong>siang2-giang5*-e5 Diong1-Gok7*-sua1-din5-bok6* lai5-sip6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>懸浮粒子的 濃度，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phu5-koan5 liap8-a2-e5 long5-tou7，</JiaoLuo>
+			<TongYong>hen5-pu5-liap6-zu4*-e5 long5-do2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>超過 平常的 三十四倍！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiau-koe3 peng5-siang5-e5 sann-chap8-si3 poe7！</JiaoLuo>
+			<TongYong>ciau1-gue3 bing5-siang5*-e5 sann1-zap6-si3-bue2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>雖然 台灣的機場 班機 正常起降，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5 Tai5-oan5-e5 ki-tiunn5 pan-ki cheng3-siong5 khi2-kang3，</JiaoLuo>
+			<TongYong>Sui1-ren5* Dai5-Uan5*-e5-gi1-diunn5* ban1-gi1* zing3-siang5*-ki4-gang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>不過 離島馬祖的 機場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 li7-to2 Ma2-chou2 e5 ki-tiunn5，</JiaoLuo>
+			<TongYong>m2-gorh7 li5-dor4*-Ma4-Zo4*-e5 gi1-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>能見度 很差，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng5-kian3-tou7 chin-chha，</JiaoLuo>
+			<TongYong>ling5-gen3-do2* zin1-ca1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>全天關閉。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-kang koainn-khi2-lai5。</JiaoLuo>
+			<TongYong>gui1-gang1* long4-guainn1*-ki4-lai5。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>提醒 要搭班機的 民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>the5-chhenn2 beh-che7 pan-ki-e5 bin5-chiong3，</JiaoLuo>
+			<TongYong>Te5-cenn4 veh7-ze2-ban1-gi1*-e5 vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>特別注意 時間表！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tek8-piat8 chu3-i3 si5-kan-pio2！</JiaoLuo>
+			<TongYong>dik6-bet6-zu3-i3 si5-gan1-bior4*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

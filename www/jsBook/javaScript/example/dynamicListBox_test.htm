@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+<TITLE> ?????菜? </TITLE>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+</HEAD>
+
+<BODY>
+<form name="doublecombo">
+<p>
+<select name="example" size="1" onChange="redirect(this.options.selectedIndex)">
+<option>?外javascript技?网站</option>
+<option>??javascript技?网站</option>
+<option>?外的著名搜索引擎</option>
+</select>
+<select name="stage2" size="1">
+<option value="http://wsabstract.com";>Website Abstraction</option>
+<option value="http://www.dynamicdrive.com";>Dynamicdrive.com</option>
+<option value="http://&#106avascript.internet.com">javascript</option>
+</select>
+<input type="button" name="test" value="Go!"
+onClick="go()">
+</p>
+<script>
+<!--
+/*
+  Double Combo Script Credit
+  By Website Abstraction (www.wsabstract.com)
+  Over 200+ free javascripts here!
+  */
+var groups=document.doublecombo.example.options.length
+  var group=new Array(groups)
+  for (i=0; i<groups; i++)
+  group[i]=new Array()
+group[0][0]=new Option("Website Abstraction","http://wsabstract.com";)
+  group[0][1]=new Option("Dynamicdrive.com","http://www.dynamicdrive.com";)
+  group[0][2]=new Option("javascript","http://&#106avascript.internet.com")
+group[1][0]=new Option("万旭javascript??","http://www.wanxu.com";)
+  group[1][1]=new Option("javascript2000","http://www.&#106avascript2000.com")
+  group[1][2]=new Option("???本","http://www.51js.com";)
+group[2][0]=new Option("Hotbot","http://www.hotbot.com";)
+  group[2][1]=new Option("Infoseek","http://www.infoseek.com";)
+  group[2][2]=new Option("Excite","http://www.excite.com";)
+  group[2][3]=new Option("Lycos","http://www.lycos.com";)
+var temp=document.doublecombo.stage2
+function redirect(x){
+  for (m=temp.options.length-1;m>0;m--)
+  temp.options[m]=null
+  for (i=0;i<group[x].length;i++){
+  temp.options[i]=new Option(group[x][i].text,group[x][i].value)
+  }
+  temp.options[0].selected=true
+  }
+function go(){
+  location=temp.options[temp.selectedIndex].value
+  }
+  //-->
+  </script>
+  </form>
+</BODY>
+</HTML>

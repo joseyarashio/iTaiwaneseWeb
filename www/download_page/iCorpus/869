@@ -1,0 +1,195 @@
+<article>
+	<id>869</id>
+	<title>吊車漏油 害慘 騎機車人士 「犁田」</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 田志興 南投報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 Tian5-chi3-heng Lam5-tau5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-si2*-sin1-vun5* den5-zi3-hing1* lam5-dau5*-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>南投縣 草屯鎮 太平路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-tau5-koan7 Chhau2-tun3-tin3 Thai3-peng5-lo7 ，</JiaoLuo>
+			<TongYong>Lam5-dau5-guan2 cau4-tun-din3* tai3-bing5-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>中午 有多位 騎機車的人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiong-tau3 u7-che7-ui7  khia5-o-to2-bai2-e5-lang5 ，</JiaoLuo>
+			<TongYong>diong1-dau3* u2-gui4*-a4-qe5 kia5-gi1-cia1*-e5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>因為 路面油漬 害他們 摔車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 lo7-bin7 iu5-jiah hai7-in poah-chhia ，</JiaoLuo>
+			<TongYong>in1-ui2 lo2-vin2-iu5-zik7* hai2-in1-siak7-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>警方 調閱 路口監視器，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong tiau3-oat lo7-khau2 kam3-si7-khi3 ，</JiaoLuo>
+			<TongYong>ging4-hong1* diau3-kuann3 lo2-kau4* gam3-si2-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>發現 路上的油漬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 lo7-teng2-e5 iu5-jiah ，</JiaoLuo>
+			<TongYong>huat7-hen2 lo2-siong2*-e5-iu5-zik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>是 從 一輛吊車 滲漏出來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7-tui3 chit-tai5 tiau3-chhia siap-lau7 chhut-lai5 ，</JiaoLuo>
+			<TongYong>si2 ui3 zit6-dai5-diau3-cia1* siam3-lau2*-cut7*-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>而且 一路 從南投 開到 草屯鎮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiann2 chit-lo7-tui3 Lam5-tau5 khui-kau3 Chhau2-tun3-tin3 ，</JiaoLuo>
+			<TongYong>ri5-ciann4 zit6-lo2* ui3-lam5-dau5* kui1-gau3 cau4-tun5-din3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>綿延 將近 十公里。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mi5-ian5 chiang-kin7 chap-kong-li2 。</JiaoLuo>
+			<TongYong>ven5-en5* ziang1-gin2 zap6-gong1-li4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>油漬 沿著 省府路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-jiah ian5-tioh Seng2-hu2-lo7 ，</JiaoLuo>
+			<TongYong>Iu5-zik7* en5-diorh6 sing4-hu4-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>一直 延伸到 草屯鎮公所 前面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tit ian5-sin-kau3 Chhau2-tun3-tin3-kong-so2 thau5-cheng5 ，</JiaoLuo>
+			<TongYong>it7-dit6 en5-sin1-gau3 cau4-tun5*-din3-gong1-so4* tau5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>害 這位 倒楣的 騎車男子 「犁田」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hai7 chit-ui7 soe-boe2 khia5-chhia cha-po 「 le5-chhan5 」 ，</JiaoLuo>
+			<TongYong>hai2 zit7-ui2 sue1-vue4*-e5 kia5-cia1*-lam5-zu4* 「le5-can5*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>摔倒的 還 不只 這位人士，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siak-to2-e5 iau2-put-chi2 chit-ui7 jin5-su7 ，</JiaoLuo>
+			<TongYong>siak7-dor4*-e5 gorh7 but7-zi4 zit7-ui2-rin5-su2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>上林 派出所 前面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Siong7-lim5-phai3-chhut-so2 thau5-cheng5 ，</JiaoLuo>
+			<TongYong>siong2-lim5* pai3-cut7-so4* tau5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>兩輛 摩托車 停在路邊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng-tai5 o-to2-bai2 theng5-ti7 lo7-pinn ，</JiaoLuo>
+			<TongYong>nng2-dai5 o1-do4-vai4* ting5-di2-lo2-binn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>三個 大學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-e5 tai7-hak-seng ，</JiaoLuo>
+			<TongYong>sann1-e5 dai2-hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>也 因為油漬 滑倒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7-in-ui7 iu5-jiah kut-to2 ，</JiaoLuo>
+			<TongYong>ma2 in1-ui2-iu5-zik7* gut6-dor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>摔得 全身是傷。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siak-kah kui-seng-khu-si7-siong 。</JiaoLuo>
+			<TongYong>siak7-gah7 gui1-sin1-ku1* zuan5-siong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>漏油路段 長達 十公里，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lau7-iu5 lo7-toann7 tng-tat chap-kong-li2 ，</JiaoLuo>
+			<TongYong>Lau2-iu5*-lo2-duann2* dng5-dat6 zap6-gong1-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>警方 調閱 路口監視器，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong tiau3-oat lo7-khau2 kam3-si7-khi3 ，</JiaoLuo>
+			<TongYong>ging4-hong1* diau3-kuann3 lo2-kau4*-gam3-si2-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>發現 這輛吊車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 chit-tai5 tiau3-chhia ，</JiaoLuo>
+			<TongYong>huat7-hen2 zit7-dai5-diau3-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>一面走 一面漏。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-bin7-kiann5 chit-bin7-lau7 。</JiaoLuo>
+			<TongYong>zit6-vin2-giann5* zit6-vin2-lau2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>由於 沒有 拍到車牌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-u5 bo5-hip-tioh chhia-pai5 ，</JiaoLuo>
+			<TongYong>In1-ui2 vor5 hip7-diorh6-cia1-bai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>警方 除了 調閱 其它 路口監視器 以外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong ti5-liau2 tiau3-oat ki5-thann lo7-khau2 kam3-si7-khi3 i2-goa7 ，</JiaoLuo>
+			<TongYong>ging4-hong1* di5-liau4 diau3-kuann3 gi5-tann1 lo2-kau4*-gam3-si2-ki3* i4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>也 通報 工務段，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7-thong-po3 kang-bu7-toann7 ，</JiaoLuo>
+			<TongYong>ma2 tong1-bor3 gang1-vu2-duann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>用泥沙 覆蓋路面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng7 tho5-soa kham3 lo7-bin7 ，</JiaoLuo>
+			<TongYong>iong2-to5-sua1* kam3-lo2-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>避免 造成 更多 機車騎士 摔傷。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-bian2 cho7-seng5 khah-che7 lo7-koe3 o-to2-bai2 poah-siong 。</JiaoLuo>
+			<TongYong>bi2-ven4 zor2-sing5 gorh7-kah7-ze2 gi1-cia1*-ki5-su2* siak7-diorh6-siong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

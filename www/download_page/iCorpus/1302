@@ -1,0 +1,83 @@
+<article>
+	<id>1302</id>
+	<title>五層樓高 大直橋 玩跳水 大學生玩命</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>一名 大學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 tai7-hak8-seng，</JiaoLuo>
+			<TongYong>Zit6-e5* dai2-hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>跑到 台北市 大直橋 玩跳河，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chau2-kau3 Tai5-pak-chhi7 Tai7-tit8-kio5 sng2-thiau3-ho5，</JiaoLuo>
+			<TongYong>zau4-gau3 Dai5-Bak7-Ci2* Dua2-Dit6-Gior5* sng4-tiau3-hor5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>從 五層樓高的 橋上 一躍而下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 gou7-chan5-lau5-koan5-e5 kio5-teng2 tio5-loh8-khi3，</JiaoLuo>
+			<TongYong>ui3 qo2-zan3-lau5-guan5*-e5 gior5-ding4* tiau3*-lorh6-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>還 把影片 po上網路 炫燿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-ka7 iann2-phinn3 po chiunn7-bang7-lou7 tian2-hong-sin5，</JiaoLuo>
+			<TongYong>gorh7 ga2-iann4-pinn3* kng3-gau3-vang2-lo2* den4-hong1-sin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>網友 痛批 玩得 太過火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bang7-iu2 thong3-phoe sng2-kah7 siunn-koe3-thau5，</JiaoLuo>
+			<TongYong>vang2-iu4* giong5-let6-pe1-ping5 sng4-gah7 siunn1-gue3-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>在網路 發動了 搜索，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-bang7-lou7 hoat-tong7-liau2 sou-cha，</JiaoLuo>
+			<TongYong>di2-vang2-lo2* huat7-dong2-liau4 so1-sor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>找出 是 實踐大學 服裝系 的 學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhoe7-chhut-si7 Sit8-chian7-tai7-hak8 hok8-chong-he7 e5 hak8-seng，</JiaoLuo>
+			<TongYong>cue2-cut7 si2 Sit6-Zen2-Dai2-Hak6* hok6-zong1-he2* e5 hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>校方 得知之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hau7-hong tit-chai-liau2-au7，</JiaoLuo>
+			<TongYong>hau2-hong1 zainn1-iann4*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>立刻約談 這位 男學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui5-iok-tam5 chit-ui7 cha-pou-hak8-seng，</JiaoLuo>
+			<TongYong>sui5-iok7-dam5 zit7-ui2 za1-bo1-hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>目前 研擬 要 記申誡 處分！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok8-cheng5 gian2-gi2-beh ki3-sin-kai3 chhu2-hun！</JiaoLuo>
+			<TongYong>vok6-zing5* qen5-qi4 veh7 gi3-sin1-gai3* cu4-hun2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

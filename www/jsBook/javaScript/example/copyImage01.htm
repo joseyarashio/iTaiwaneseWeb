@@ -1,0 +1,25 @@
+<HTML>   
+<HEAD>   
+<TITLE>Popup Example</TITLE>   
+</HEAD>
+    
+<script>
+var oPopup = window.createPopup();   
+function ButtonClick(){   
+	var div = document.getElementById('divId');   
+	div.contentEditable = 'true';
+	var controlRange;
+	if (document.body.createControlRange){
+		controlRange = document.body.createControlRange();
+		controlRange.addElement(div);
+		controlRange.execCommand('Copy');
+	}
+	div.contentEditable = 'false';
+}
+</script>
+    
+<BODY>   
+<div id="divId1"><img id="divId" src="zzz.png"></div>
+<BUTTON onclick="ButtonClick()" ID=Button1>Click Me!</BUTTON>   
+</BODY>   
+</HTML>

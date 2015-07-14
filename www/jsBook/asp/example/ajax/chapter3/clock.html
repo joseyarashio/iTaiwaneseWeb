@@ -1,0 +1,21 @@
+<html>
+<head>
+<script type="text/javascript" src="script/prototype.js"></script>
+<script type="text/javascript">
+function displayTime() {
+	var now = new Date();
+	var h = now.getHours();
+	var m = now.getMinutes();
+	var s = now.getSeconds();
+	$('TIME_DISPLAY').innerHTML = h + ':' + m + ':' + s;
+}
+function startTime() {
+	displayTime();
+	var task = new PeriodicalExecuter(displayTime, 1);
+}
+</script>
+</head>
+<body onload="startTime()">
+<h2>現在時間：</h2><div id="TIME_DISPLAY"></div>
+</body>
+</html>

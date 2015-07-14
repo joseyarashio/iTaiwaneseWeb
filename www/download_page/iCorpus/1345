@@ -1,0 +1,97 @@
+<article>
+	<id>1345</id>
+	<title>六月七日 凌晨起 汽油漲七角 柴油漲八角</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>油價 經過 連四次 調降 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-ke3 keng-koe3 lian5-si3-pai2 tiau5-kang3-au7，</JiaoLuo>
+			<TongYong>Iu5-ge3* ging1-gue3 len5-siok6-si3-bai4* diau5-gang3* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>中油 宣布 本週油價，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-iu5 soan-pou3 pun2-chiu iu5-ke3，</JiaoLuo>
+			<TongYong>Diong1-Iu5* suan1-bo3 zit7-le4-bai3*-e5 iu5-ge3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>汽油 將要 調漲七毛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khi3-iu5 tit-beh tiau5-khi2 chhit-kak，</JiaoLuo>
+			<TongYong>ki3-iu5* veh7-ki4-cit7-gak7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>柴油 調漲八毛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chha5-iu5 tiau5-khi2 peh-kak，</JiaoLuo>
+			<TongYong>ca5-iu5* ki4-beh7-gak7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>民眾 心疼 荷包縮水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 sim-thiann3 chinn5-pau-a2 kiu-chui2，</JiaoLuo>
+			<TongYong>vin5-ziong3* m2-gam1 zinn5-bau1*-giu3-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>反問 中油公司，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to3-mng7 Tiong-iu5 kong-si，</JiaoLuo>
+			<TongYong>huan4-mng2 Diong1-Iu5*-gong1-si1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>現在 國際油價 還在跌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 kok-che3 iu5-ke3 iau2-ti7-loh8，</JiaoLuo>
+			<TongYong>zit7-ma4* gok7-ze3-iu5-ge3* iau4-deh7-lak7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>為什麼 國內油價 反而 要漲價，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-siann2-mih8 kok-lai7 iu5-ke3 hoan2-tian-to3 boeh-khi2-ke3，</JiaoLuo>
+			<TongYong>ui2-siann4-mih7 gok7-lai2*-e5-iu5-ge3* den1-dor3 veh7-ki4-ge3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>對此 中油表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-chit Tiong-iu5 piau2-si7，</JiaoLuo>
+			<TongYong>dui3-ze1* Diong1-Iu5*-biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>因為 上星期 國際原油 平均價格，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 teng2-le2-pai3 kok-che3-goan5-iu5 peng5-kun ke3-siau3，</JiaoLuo>
+			<TongYong>in1-ui2 ding4-le4-bai3* gok7-ze3-quan5-iu5* bing5-gin1*-e5-ge3-siau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>比之前 漲了 將近 百分之四，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi2-chin3-cheng5 khi2-liau2 oa2-beh pah-hun-chi-si3，</JiaoLuo>
+			<TongYong>bi4-zin3-zing5 ki4-liau4 ziong1-gin2 bah7-hun1-zi1-si3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>所以 這次 才 反映到 國內油價 上。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou2-i2 chit-pai2 chiah-hoan2-eng3-kau3 kok-lai7 iu5-ke3-siang7。</JiaoLuo>
+			<TongYong>so4-i4 zit7-bai4* ziah7 huan4-ing3-gau3 gok7-lai2*-e5-iu5-ge3* ding4-vin2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

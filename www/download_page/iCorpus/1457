@@ -1,0 +1,97 @@
+<article>
+	<id>1457</id>
+	<title>台語文化營 孩童 領略 語言之美</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>為了 讓小朋友 更加認識 台語之美，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-tioh8-hou7 sio2-peng5-iu2 koh-khah jin7-sek Tai5-gi2-e5-sui2，</JiaoLuo>
+			<TongYong>Ui2-liau4* ho2-sior4-bing5-iu4* ging2-ga1-rin2-sik7 dai5-qi4*-e5-sui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>以及 台語 正確的發音，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-kip8 Tai5-gi2 cheng3-khak-e5 hoat-im，</JiaoLuo>
+			<TongYong>i4-gip6 dai5-qi4* zing3-kak7*-e5-huat7-im1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>周清玉 及 姚嘉文 的 財團法人 關懷 文教基金會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chiu-chheng-giok8 kap Iau5-ka-bun5 e5 chai5-thoan5-hoat-jin5 Koan-hoai5-bun5-kau3-ki-kim-hoe7，</JiaoLuo>
+			<TongYong>Ziu1-Cing1-Qiok6* gah7 Iau5-Ga1-Vun5* e5 Zai5-Tuan5-Huat7-Rin5* Guan1-Huai5* Vun5-Gau3-Gi1-Gim1-Hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>特別 舉辦 「二零一零 關懷 趣味 台語文化營」 的 活動，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tek8-piat8 ku2-pan7 「Ji7-khong3-it-khong3 Koan-hoai5 chhu3-bi7 Tai5-gi2-bun5-hoa3-iann5」 e5 oah8-tong7 ，</JiaoLuo>
+			<TongYong>dik6-bet6-gi4-ban2 「Qi2-Kong3-It7-Kong3* Guan1-Huai5* Cu3-Vi2* Dai5-Qi4-Vun5-Hua3-Iann5*」 e5 uah6-dong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>每個 來參加的 小朋友，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tak8-e5-lai5 chham-ka-e5 sio2-peng5-iu2，</JiaoLuo>
+			<TongYong>mui4-zit6-e5* lai5-cam1-ga1*-e5 sior4-bing5-iu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>都覺得 台語 十分的實用 而且有趣。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-kam2-kak Tai5-gi2 chap8-hun-e5 sit8-iong7 ji5-chhiann2 chhu3-bi7。</JiaoLuo>
+			<TongYong>long4-gam4-gak7 dai5-qi4* zin1-sit6-iong2* ri5-ciann4-cu3-vi2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>一般 布袋戲 只有 在電視上 演，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-poann pou3-te7-hi3 kan-na7-ti7 tian7-si7-chiunn7-ian2，</JiaoLuo>
+			<TongYong>It7-buann1* bo3-de2-hi3* gan1-na2* di2-den2-si2-ding4* en4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>或是 廟會上 才能看見，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ah-si7 bio7-hoe7-teng2 chiah-e7-khoann3-tioh8，</JiaoLuo>
+			<TongYong>ia2-si2 vior2-hue2*-si5* ziah7-kuann3-e2-diorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>來參加 台語文化營 的 小朋友，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lai5-chham-ka Tai5-gi2-bun5-hoa3-iann5 e5 sio2-peng5-iu2，</JiaoLuo>
+			<TongYong>lai5-cam1-ga1 Dai5-Qi4-Vun5-Hua3-Iann5* e5 sior4-bing5-iu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>可以 觀賞布袋戲 以外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-sai2 koan-siong2 pou3-te7-hi3 i2-goa7，</JiaoLuo>
+			<TongYong>e2-dang3 guan1-siong4-bo3-de2-hi3* i4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還可以 親手 操作木偶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-e7-sai2 chhin-chhiu2-chhau-chok chha5-ang-a2，</JiaoLuo>
+			<TongYong>gorh7-e2-dang3 cin1-ciu4* cau1-zok7-ca5-ang1-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>小孩 都覺得 很有趣。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gin2-a2 long2-kam2-kak chin-chhu3-bi7。</JiaoLuo>
+			<TongYong>qin4-a4* long4-gam4-gak7 zin1-cu3-vi2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

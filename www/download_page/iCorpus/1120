@@ -1,0 +1,111 @@
+<article>
+	<id>1120</id>
+	<title>又是 馬爛攤 一二五公斤 炸藥 埋 北市木柵路</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北市 木柵路 五段 一帶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7 Bak8-sa-lou7 gou7-toann7 it-tai3，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2* Vak6-Sa1-Lo2* qo2-duann2* it7-dai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>原本 被規劃 是 大型 都市計畫案 區域，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 pi7-kui-oe7 si7 toa7-heng5 tou-chhi7-ke3-oe7-an3 khu-hek8，</JiaoLuo>
+			<TongYong>quan5-bun4* hong5*-gui1-ue2 si2 dua2-hing5* do1-ci2-ge3-ue2-an3*-e5 ku1-ik6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>當時 馬英九 趕在 二零零六年 市長卸任 前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng-si5 Ma2-Eng-Kiu2 koann2-ti7 ji7-khong3-khong3-liok8-ni5 chhi7-tiunn2 sia3-jim7-cheng5，</JiaoLuo>
+			<TongYong>dong1-si5* Ma4-Ing1-Giu4* guann4-di2  nng2-cing1*-kong3-lak6-ni5* ci2-diunn4*-sia3-rim2* zin3-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>想要完成 都市計畫 變更，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ai3-beh oan5-seng5 tou-chhi7-ke3-oe7 pian3-keng，</JiaoLuo>
+			<TongYong>siunn2-veh7-uan5-sing5* do1-ci2-ge3-ue2* ben3-ging*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>打算 把木柵 整個區域，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an3-sng3-ka7 Bak8-sa kui-e5 khu-hek8，</JiaoLuo>
+			<TongYong>pah7-sng3 ga2-Vak6-Sa1* gui1-e5-ku1-hik6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>變更成為 台北市 南區 休閒商業 用地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pian3-keng chiann5-cho3 Tai5-pak-chhi7 lam5-khu hiu-eng5 siong-giap8-iong7-te7，</JiaoLuo>
+			<TongYong>ben3-ging1-zor3 Dai5-Bak7-Ci2* lam5-ku1* hiu1-han5*-siong1-qiap6* ing2-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>郝龍斌 也準備 進行徵收，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hok-liong5-pin oan-na2-chun2-pi7 chin3-heng5 teng-siu，</JiaoLuo>
+			<TongYong>Hok7-Ling5-Bin1* ma2-zun4-bi2 zin3-hing5-zing1-siu1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>不過， 卻 在去年 發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3，soah-ti7 ku7-ni5 hoat-hian7，</JiaoLuo>
+			<TongYong>m2-gorh7， suah7 di2-gu2-ni5* huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>地下 竟然 埋存 一百二十五 公斤 的 炸藥，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>te7-ha7 keng2-jian5 tai5-chhun5 chit8-pah ji7-chap8-gou7 kong-kin-e5 cha3-ioh8，</JiaoLuo>
+			<TongYong>de2-ha2* ging3-ren5* dai5-zun5 zit6-bah7-ri2-zap6-qo2 gong1-gin1* e5 za3-iorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>還有 五百二十五發 的 雷管，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 gou7-pah ji7-chap8-gou7-hoat e5 lui5-koan2，</JiaoLuo>
+			<TongYong>gorh7-u2 qo2-bah7-ri2-zap6-qo2-huat7* e5 lui5-gong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>民進黨 台北市議員 簡余晏、李慶鋒 炮轟，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 Tai5-pak-chhi7-gi7-oan5  Kan2-i5-oaN3、Li2-kheng3-hong phau3-hong，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* Dai5-Bak7-Ci2-qi2-uan5* Gan4-I5-An3*、Li4-King3-Hong1* pau3-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>馬英九 和 郝龍斌 的 政策 嚴重錯誤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ma2-Eng-Kiu2 ham Hok-liong5-pin e5 cheng3-chhek giam5-tiong7-chho3-gou7，</JiaoLuo>
+			<TongYong>Ma4-Ing1-Giu4* gah7 Hok7-Ling5-Bin1 e5 zing3-cik7* qiam5-diong2-cor3-nqo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>隱瞞 地底 埋炸藥 的 資料，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>moa5-kham3 thou5-kha-te2-tai5 cha3-ioh8-e5 chu-liau7，</JiaoLuo>
+			<TongYong>un4-mua5 to5-ka1-de4* dai5-za3-iorh6* e5 zu1-liau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>根本是 枉顧人命！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-pun2-si7 ong2-kou3-jin5-beng7！</JiaoLuo>
+			<TongYong>gin1-bun4*-si2 ong4-go3-lang5-mia2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

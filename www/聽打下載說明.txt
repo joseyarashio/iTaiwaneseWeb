@@ -1,0 +1,221 @@
+<html>
+<head>
+<title>聽打工作下載位置</title>
+</head>
+<body bgcolor=gray>
+	<center>
+		<h1>聽打工作下載</h1>
+		<h2>可透過 右鍵點選連結 開啟選單 並選擇另存新檔 下載</h2>
+		<hr>
+		<h3>長庚大學多媒體實驗室語料</h3>
+		<table border=1>
+		<td><a href='./GitRepos/finish/TW03/_Liang_Min_Shiung_0.wav'>_Liang Min Shiung_0</a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Su_Nian_0.wav'>_Chen Su Nian_0</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Su_Nian_10.wav'>_Chen Su Nian_10</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Su_Nian_20.wav'>_Chen Su Nian_20</a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_0.wav'>_Chen Tsau_0</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_10.wav'>_Chen Tsau_10</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_20.wav'>_Chen Tsau_20</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_30.wav'>_Chen Tsau_30</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_40.wav'>_Chen Tsau_40</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_50.wav'>_Chen Tsau_50</a></td>	
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_0.wav'>_Tsai Feng An_0</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_10.wav'>_Tsai Feng An_10</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_20.wav'>_Tsai Feng An_20</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_30.wav'>_Tsai Feng An_30</a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<tr>
+		</TABLE>
+		<h3>長庚大學多媒體實驗室語料 壓縮分割載點</h3>
+		<table border=1>
+		<td><a href='./GitRepos/finish/TW03/_Liang_Min_Shiung_0.rar'>_Liang Min Shiung_0</a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Su_Nian_0.part1.rar'>_Chen Su Nian_0-1</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Su_Nian_0.part2.rar'>_Chen Su Nian_0-2</a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Su_Nian_10.part1.rar'>_Chen Su Nian_10-1</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Su_Nian_10.part2.rar'>_Chen Su Nian_10-2</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Su_Nian_10.part3.rar'>_Chen Su Nian_10-3</a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Su_Nian_20.rar'>_Chen Su Nian_20</a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_0.part1.rar'>_Chen Tsau_0-1</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_0.part2.rar'>_Chen Tsau_0-2</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_0.part3.rar'>_Chen Tsau_0-3</a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_10.part1.rar'>_Chen Tsau_10-1</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_10.part2.rar'>_Chen Tsau_10-2</a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_20.part1.rar'>_Chen Tsau_20-1</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_20.part2.rar'>_Chen Tsau_20-2</a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_30.part1.rar'>_Chen Tsau_30-1</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_30.part2.rar'>_Chen Tsau_30-2</a></td>
+		<td><a></a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_40.part1.rar'>_Chen Tsau_40-1</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_40.part2.rar'>_Chen Tsau_40-2</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_40.part3.rar'>_Chen Tsau_40-3</a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_50.part1.rar'>_Chen Tsau_50-1</a></td>	
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_50.part2.rar'>_Chen Tsau_50-2</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Chen_Tsau_50.part3.rar'>_Chen Tsau_50-3</a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_0.part1.rar'>_Tsai Feng An_0-1</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_0.part2.rar'>_Tsai Feng An_0-2</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_0.part3.rar'>_Tsai Feng An_0-3</a></td>
+		<td><a></a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_10.part1.rar'>_Tsai Feng An_10-1</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_10.part2.rar'>_Tsai Feng An_10-2</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_10.part3.rar'>_Tsai Feng An_10-3</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_10.part4.rar'>_Tsai Feng An_10-4</a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_20.part1.rar'>_Tsai Feng An_20-1</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_20.part2.rar'>_Tsai Feng An_20-2</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_20.part3.rar'>_Tsai Feng An_20-3</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_20.part4.rar'>_Tsai Feng An_20-4</a></td>
+		<tr>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_30.part1.rar'>_Tsai Feng An_30-1</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_30.part2.rar'>_Tsai Feng An_30-2</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_30.part3.rar'>_Tsai Feng An_30-3</a></td>
+		<td><a href='./GitRepos/finish/TW03/_Tsai_Feng_An_30.part4.rar'>_Tsai Feng An_30-4</a></td>
+		<tr>
+		</TABLE>
+		<hr>
+		<h3>大愛劇場 陪你看天星</h3>
+		<table border=1>
+		<td><a href='./trs/DaAiTV/blktc01.rar'>陪你看天星01</a></td>
+		<td><a href='./trs/DaAiTV/blktc03.rar'>陪你看天星03</a></td>
+		<tr>                                              
+		<td><a href='./trs/DaAiTV/blktc05.rar'>陪你看天星05</a></td>
+		<td><a href='./trs/DaAiTV/blktc07.rar'>陪你看天星07</a></td>
+		<tr>                                              
+		<td><a href='./trs/DaAiTV/blktc09.rar'>陪你看天星09</a></td>
+		<td><a href='./trs/DaAiTV/blktc11.rar'>陪你看天星11</a></td>
+		<tr>                                              
+		<td><a href='./trs/DaAiTV/blktc13.rar'>陪你看天星13</a></td>
+		<td><a href='./trs/DaAiTV/blktc15.rar'>陪你看天星15</a></td>
+		<tr>                                              
+		<td><a href='./trs/DaAiTV/blktc17.rar'>陪你看天星17</a></td>
+		<td><a href='./trs/DaAiTV/blktc19.rar'>陪你看天星19</a></td>
+		<tr>                                              
+		<td><a href='./trs/DaAiTV/blktc21.rar'>陪你看天星21</a></td>
+		<td><a href='./trs/DaAiTV/blktc23.rar'>陪你看天星23</a></td>
+		<tr>                                              
+		<td><a href='./trs/DaAiTV/blktc25.rar'>陪你看天星25</a></td>
+		<td><a href='./trs/DaAiTV/blktc27.rar'>陪你看天星27</a></td>
+		</TABLE>
+		<hr>
+		<h3>大愛劇場 畫人生</h3>
+		<table border=1>
+		<td><a href='./trs/DaAiTV/urs01.wav'>畫人生01</a></td>
+		<td><a href='./trs/DaAiTV/urs04.wav'>畫人生04</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/urs07.wav'>畫人生07</a></td>
+		<td><a href='./trs/DaAiTV/urs10.wav'>畫人生10</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/urs13.wav'>畫人生13</a></td>
+		<td><a href='./trs/DaAiTV/urs16.wav'>畫人生16</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/urs19.wav'>畫人生19</a></td>
+		<td><a href='./trs/DaAiTV/urs22.wav'>畫人生22</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/urs25.wav'>畫人生25</a></td>
+		<td><a href='./trs/DaAiTV/urs28.wav'>畫人生28</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/urs31.wav'>畫人生31</a></td>
+		<td><a href='./trs/DaAiTV/urs34.wav'>畫人生34</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/urs37.wav'>畫人生37</a></td>
+		<td><a href='./trs/DaAiTV/urs40.wav'>畫人生40</a></td>
+		</TABLE>
+		<hr>
+		<h3>大愛劇場 清秀佳人</h3>
+		<table border=1>
+		<td><a href='./trs/DaAiTV/csgr01.wav'>清秀佳人01</a></td>
+		<td><a href='./trs/DaAiTV/csgr04.wav'>清秀佳人04</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/csgr07.wav'>清秀佳人07</a></td>
+		<td><a href='./trs/DaAiTV/csgr10.wav'>清秀佳人10</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/csgr13.wav'>清秀佳人13</a></td>
+		<td><a href='./trs/DaAiTV/csgr16.wav'>清秀佳人16</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/csgr19.wav'>清秀佳人19</a></td>
+		<td><a href='./trs/DaAiTV/csgr22.wav'>清秀佳人22</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/csgr25.wav'>清秀佳人25</a></td>
+		<td><a href='./trs/DaAiTV/csgr28.wav'>清秀佳人28</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/csgr31.wav'>清秀佳人31</a></td>
+		<td><a href='./trs/DaAiTV/csgr34.wav'>清秀佳人34</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/csgr37.wav'>清秀佳人37</a></td>
+		<td><a href='./trs/DaAiTV/csgr40.wav'>清秀佳人40</a></td>
+		</TABLE>
+		<hr>
+		<h3>大愛劇場 美味人生</h3>
+		<table border=1>
+		<td><a href='./trs/DaAiTV/vvrs01.wav'>美味人生01</a></td>
+		<td><a href='./trs/DaAiTV/vvrs04.wav'>美味人生04</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/vvrs07.wav'>美味人生07</a></td>
+		<td><a href='./trs/DaAiTV/vvrs10.wav'>美味人生10</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/vvrs13.wav'>美味人生13</a></td>
+		<td><a href='./trs/DaAiTV/vvrs16.wav'>美味人生16</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/vvrs19.wav'>美味人生19</a></td>
+		<td><a href='./trs/DaAiTV/vvrs22.wav'>美味人生22</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/vvrs25.wav'>美味人生25</a></td>
+		<td><a href='./trs/DaAiTV/vvrs28.wav'>美味人生28</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/vvrs31.wav'>美味人生31</a></td>
+		<td><a href='./trs/DaAiTV/vvrs34.wav'>美味人生34</a></td>
+		<tr>
+		<td><a href='./trs/DaAiTV/vvrs37.wav'>美味人生37</a></td>
+		<td><a href='./trs/DaAiTV/vvrs40.wav'>美味人生</a></td>
+		</table border=1>
+		<hr>
+	</center>
+
+
+
+
+
+
+
+
+</body>
+</html>

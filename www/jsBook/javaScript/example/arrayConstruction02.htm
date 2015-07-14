@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>定義陣列的另一種方法：由字串來定義索引</h2>
+<hr>
+
+<script>
+countryOf={"Taipei":"Taiwan", "San Francisco":"USA", "Tokyo":"Japan"};	// 建構一個陣列，一次指派完成
+document.writeln("countryOf[\"Taipei\"] = " + countryOf["Taipei"] + "<br>");
+document.writeln("countryOf[\"San Francisco\"] = " + countryOf["San Francisco"] + "<br>");
+document.writeln("countryOf[\"Tokyo\"] = " + countryOf["Tokyo"] + "<br>");
+document.writeln("countryOf.Taipei = " + countryOf.Taipei + "<br>");
+document.writeln("countryOf[\"San Francisco\"] = " + countryOf["San Francisco"] + "<br>");
+document.writeln("countryOf.Tokyo = " + countryOf.Tokyo + "<br>");
+</script>
+
+<hr>
+</body>
+</html>

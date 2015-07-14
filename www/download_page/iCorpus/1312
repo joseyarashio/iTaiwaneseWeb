@@ -1,0 +1,76 @@
+<article>
+	<id>1312</id>
+	<title>員警酒駕 撞死人逃逸 免職 移送法辦</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>新竹 一名警察 林進輝，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-tek chit8-mia5 keng2-chhat Lim5-chin3-hui，</JiaoLuo>
+			<TongYong>Sin1-Dik7* zit6-e5*-ging4-cat7* Lim5-Zin3-Hui1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>昨天 十三日 在 執勤時間 內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choh8-jit8 chap8-sann-ho7 ti7-chip-khin5 si5-kan-lai7，</JiaoLuo>
+			<TongYong>za1-hng1* zap6-sann1-hor2* di2 zip7-kin5*-si5-gan1* lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>偷跑去 喝酒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau-chau2-khi3 lim-chiu2，</JiaoLuo>
+			<TongYong>tau1-zau4-ki3 lim1-ziu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>而且 酒後 還開車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiann2 chiu2-au7 iau2-khui-chhia，</JiaoLuo>
+			<TongYong>ri5-ciann4 ziu4-au2* gorh7-sai4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>撞死 一位 五十六歲 騎機車的人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long3-si2 chit8-ui7 gou7-lak8-hoe3 khia5-ou-tou2-bai2-e5-lang5，</JiaoLuo>
+			<TongYong>long3-si4 zit6-ui2 qo2-zap6-lak6-hue3* kia5-o1-do4-vai4*-e5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>最可惡的 是 他 不但 沒有停車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong7-khok-heng5-e5-si7 i m7-na7 bo5-theng5-chhia，</JiaoLuo>
+			<TongYong>siong2-kor4-onn3*-e5 si2 i1 m2-na2 vor5-ting5-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>還 加速逃逸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-ka-sok liu5-soan，</JiaoLuo>
+			<TongYong>gorh7 ga1-sok7*-dor5-zau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>警察 如此 知法犯法，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-chhat an2-ne ti-hoat-hoan7-hoat，</JiaoLuo>
+			<TongYong>ging4-cat7* an4-ne1* di1-huat7*-huan2-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>死者家屬 表示 難以接受。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si2-chia2 ka-siok8 piau2-si7 lan5-i2-chiap-siu7。</JiaoLuo>
+			<TongYong>si4-zia4*-ga1-siok6* biau4-si2* lan5-i4-ziap7-siu2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

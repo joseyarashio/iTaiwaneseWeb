@@ -1,0 +1,50 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>有快取效果（Cache）的 JavaScript 網頁</h2>
+<hr>
+
+<h3 align=center>
+點選照片以跳到下一張！
+</h3>
+
+<script language="JavaScript">
+imageArray = new Array();	// 產生放影像物件的陣列
+photoNum = 42;			// 照片的數目
+for (i=0; i<photoNum; i++) {
+	imageArray[i] = new Image();	// 每個元素都是 Image 物件，所以有快取的效果
+	if (i < 10)
+		imageArray[i].src = "image/19980425/000"+i+".jpg";
+	if ((10 <= i) && (i < 100))
+		imageArray[i].src = "image/19980425/00"+i+".jpg";
+	if ((100 <= i) && (i < 1000))
+		imageArray[i].src = "image/19980425/0"+i+".jpg";
+}
+
+currentIndex = 0;	// 目前照片的索引值
+
+// 傳回下一張照片的網址
+function nextImage(){
+	currentIndex++;
+	currentIndex=currentIndex % photoNum;	// 求餘數
+	return(imageArray[currentIndex].src);
+}
+	
+</script>
+
+<center>
+<table border=3>
+<tr><td>
+<img name="theImage" border=1 src="image/19980425/0000.jpg"
+onMouseUp="temp=nextImage(); document.images['theImage'].src=temp; document.forms[0].URL.value=temp">
+</table>
+<form>
+照片位置：<input type="text" name="URL" value="image/19980405/0000.jpg" size=60>
+</form>
+</center>
+
+</body>
+</html>

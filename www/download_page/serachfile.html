@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC"-//W3C//DTD HTML 4.0//EN" "http"//www.w3.org/TR/REC-html1140/strict.dtd">
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Search File</title>
+	<script language='javascript' type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js">//引入腳本(預設javascript 支援perl、python、VBScript..)</script>
+	<style> 
+		.ONE {font-size: 10px;color:red;}
+		.blueLyric {font-size:20px;font-weight:bold;color:blue;font-family:Arial;}
+		.normalLyric {font-size:20px;font-weight:bold;color:black;font-family:Arial;}
+	</style> 
+</head>
+<body>
+	<form name="myform">
+		<br>
+		<div name="S_result" id="S_result" style="width:100%;height:100%;border:2px #ccc dashed;padding:10px;overflow:auto;">
+		</div>
+	</form>
+	<script type="text/javascript">
+		var target = window.location.search.substring (1);//url?接檔名
+		var url_list = new Array();
+		var pre_text = new Array();
+		var pre_time = new Array();
+		var time = new Array();
+		var text = new Array();
+		var urlist = new Array();
+		var regex=new RegExp(target,"i")
+                var currentKey = "";
+		function searchsyllable(target){
+			$("#S_result").empty()
+			$.ajax({//開啟文字檔
+				type: "POST",
+				url: "http://140.109.18.117/download_page/filelist",
+				dataType: "text",
+				async:false,
+				error:function(xhr){alert('error:'+"open file failed");},//開啟失敗
+				success: function(msg){
+					url_list = msg.split(/\n/);
+			}
+			});
+			var l=0,m=0, n = 0, o = 0;
+			var media_src ="";
+                        var temp = new Array();
+			while ( l != url_list.length)
+			{       
+                                temp = url_list[l].split(/^http\:\/\/140.109.18.117\/GitRepos\/finish\/|\/.*/)
+				$.ajax({
+						url:url_list[l],
+						type: 'POST',
+						dataType: 'text',//資料型態可以不設定，且此型態不可是text或html
+						timeout: 1000,
+						async:false,
+						error:function(xhr){alert('error:'+"open file failed");}, //當xml讀取失敗
+						success: function(msg){
+							pre_text = msg.split(/<\?.*\?>|<!DOCTYPE.*>|<.*Trans.*>|<.*Speaker.*>|<.*Topic.*>|<.*Section.*>|<.*Turn.*>|<.*Episode.*>|<.*Background.*>|<Sync.*>/);
+							pre_time = msg.split(/<\?.*\?>|<!DOCTYPE.*>|<Trans|<.*Event.*>|<.*Speaker.*>|<.*Topic.*>|<.*Section.*>|<.*Turn.*>|<.*Episode.*>|<.*Background.*>|<Sync |"\/>/);
+							
+							var i=0;
+							
+							while(i != pre_time.length){//處理時間陣列
+								
+								if(/.*audio_filename=.+/.test(pre_time[i])){
+									media_src = temp[1]+"/"+pre_time[i].split(/.*audio_filename="|".*>/)[1];
+								}
+								if(/time=".+/.test(pre_time[i])){//去除文字time="xxx"
+									time[m] = pre_time[i].split(/time="/)[1];
+									urlist[m] = media_src;
+									m++;
+								}
+								
+								i++;
+							}
+							i = 0;
+							while(i != pre_text.length){//處理文字陣列
+								if(/.+/.test(pre_text[i])){//去除空白
+									text[n] = pre_text[i];
+									n++;
+								}
+								i++;
+							}
+							
+							
+						}
+					});
+				l++;
+			}
+                        var i = 0;
+                        while(text.length > i){//將時間+文字顯示
+				if (regex.test(text[i]))
+				{
+					$("#S_result").append("<div id='Sentence"+i+"' class=normalLyric onclick='part_play("+i+")'>"+text[i].replace(target,"-<span style=\"background-color:yellow\">"+target+"</span>")+"</div>"); 
+				currentKey = i;
+				}
+				i++;
+                                }
+		}
+		function part_play(current){//random access
+                        document.getElementById("Sentence"+currentKey+"").className = "normalLyric";
+                        document.getElementById("Sentence"+current+"").className = "blueLyric";
+			window.open("http://140.109.18.117/download_page/wavplay.html?"+urlist[current]+"%10"+time[current]+"%10"+time[current+1],"_blank","width=350,height=120,menubar=no,toolbar=no")
+                        currentKey = current
+		}
+		searchsyllable(target)
+</script>
+</body>
+</html>
+		

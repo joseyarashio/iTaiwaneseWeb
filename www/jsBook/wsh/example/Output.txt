@@ -1,0 +1,6 @@
+ssn	account	name	team	score	
+14	abc	葉佳慧	5	33.33	
+15	ABC	林政源	5	55.65	
+17	jtchen	陳江村	3	48.76	
+18	aBc	高名揚	1	67.88	
+25	new1	new2	0	0	

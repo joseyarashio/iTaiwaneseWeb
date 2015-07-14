@@ -1,0 +1,118 @@
+<article>
+	<id>948</id>
+	<title>台中高工 一班停課 疑似 染新流感</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台中高工 電子科 一年乙班，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-ko-kang tian7-chu2-kho it-ni5-it-pan，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Gor1-Gang1* den2-zu4-kor1* it7-ni5*-it7-ban1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>三十號 下午，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>saN-chap8-ho7 e5-pou，</JiaoLuo>
+			<TongYong>sann1-zap6-hor2* e2-bo1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>又增加 一名 流感病例，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-cheng-ka chit8-mia5 liu5-kam2 peN7-le7，</JiaoLuo>
+			<TongYong>gorh7-zing1-ga1 zit6-mia5 liu5-gam4*-benn2-le2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>班上的同學，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pan-siong7-e5 tang5-oh8，</JiaoLuo>
+			<TongYong>ban1-siong2*-e5-dong5-orh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>總共 有三人 疑似 感染 新流感，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chong2-u7 saN-lang5 gi5-su7 kam2-jiam2 sin-liu5-kam2，</JiaoLuo>
+			<TongYong>long4-zong4* u2-sann1-e5-lang5* qi5-su2 gam4-riam4 sin1-liu5-gam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>校方 宣布 全班停課，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hau7-hong soan-pou3 choan5-theng5-kho3，</JiaoLuo>
+			<TongYong>hau2-hong1* suan1-bo3 zuan5-ban1*-ting5-kor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>加上 電機科，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-siong7 tian7-ki-kho，</JiaoLuo>
+			<TongYong>ga1-siong2 den2-gi1-kor1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>又有 一位新生 染上流感，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-u7 chit8-ui7 sin-seng jiam2-tioh8 liu5-kam2，</JiaoLuo>
+			<TongYong>gorh7-u2 zit6-ui2-sin1-sing1* riam4-diorh6-liu5-gam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>全部 有四個人 了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-pou7-u7 si3-e5-lang5 ah，</JiaoLuo>
+			<TongYong>zuan5-bo2* u2-si3-e5-lang5* a2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>但 目前為止，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7 bok8-chian5 ui5-chi2，</JiaoLuo>
+			<TongYong>dan2-si2 vok6-zing5*-ui5-zi4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還沒達到 停課標準，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-boe7 tat8-kau3 theng5-kho3 phiau-chun2，</JiaoLuo>
+			<TongYong>iau4-vue2-dat6-gau3 ting5-kor3*-biau1-zun4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>有家長 質疑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 ka-tiuN2 chit-gi5，</JiaoLuo>
+			<TongYong>u2-ga1-diunn4* zit7-qi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>停課時間 或許會 宣布太晚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>theng5-kho3 si5-kan kiam2-chhai2-e7 soan-pou3 siuN-ban7，</JiaoLuo>
+			<TongYong>ting5-kor3*-si5-gan1* vor5-dik7-kak7* e2 siunn1-uann3-suan1-bo3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>導致 疫情擴大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 ek8-cheng5 khok-toa7，</JiaoLuo>
+			<TongYong>di3-su4 ik6-zing5*-kok7-dua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>連 附近商店 也很緊張。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5 hu3-kun7 siong-tiam3 iah8 chin-kin2-tiuN。</JiaoLuo>
+			<TongYong>len5 hu3-gin2-siong1-diam3* ma2-zin1-gin4-diunn1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

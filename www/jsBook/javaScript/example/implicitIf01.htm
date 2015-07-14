@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>條件運算子</h2>
+<hr>
+
+<script>
+today = new Date();	// 取得「今天」的物件
+hour = today.getHours();	// 取得時數
+minute = today.getMinutes();	// 取得分數
+second = today.getSeconds();	// 取得秒數
+prepand = (hour>=12)? "下午":"上午";	// 利用條件運算子來決定是「上午」或「下午」
+hour = (hour>=12)? hour-12:hour;	// 利用條件運算子來改成12小時制
+document.write("現在時間是"+prepand+hour+"點"+minute+"分"+second+"秒");
+</script>
+
+<hr>
+</body>
+</html>

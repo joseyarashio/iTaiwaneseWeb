@@ -1,0 +1,90 @@
+<article>
+	<id>1197</id>
+	<title>台灣燈會 煙火「膛炸」 墜落燄火 衝人群 三十三傷</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>今年 台灣燈會 在嘉義市 登場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ni5 Tai5-oan5-teng-hoe7 ti7 Ka-gi7-chhi7 chiunn7-tiunn5，</JiaoLuo>
+			<TongYong>Gin1-ni5* Dai5-Uan5-Ding1-Hue2* di2-Ga1-Qi2-Ci2* ding1-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>卻發生了 二十一年來 的 第一次 意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-hoat-seng-liau2 ji7-chap8-it-ni5-lai5 e5 te7-it-pai2 i3-goa7，</JiaoLuo>
+			<TongYong>suah7-huat7-sing1-liau4 qi2-zap6-it7-ni5*-lai5* e5 de2-it7-bai4 i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>煙火傷人的 慘劇，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ian-hoe2 siong-lang5-e5 chham2-kiok8，</JiaoLuo>
+			<TongYong>en1-hue4*-siong1-lang5*-e5 cam4-giok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>因為 特效煙火 發生膛炸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 tek8-hau7 ian-hoe2 hoat-seng piak-pak，</JiaoLuo>
+			<TongYong>in1-ui2 dik6-hau2-en1-hue4* huat7-sing1 gong4-lai2*-bok6-za3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>導致 煙火墜落 燄火 射向 觀眾群，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 ian-hoe2 tui7-loh8 iam7-hoe2 sia7-hiang3 koan-chiong3-tin7，</JiaoLuo>
+			<TongYong>di3-su4 en1-hue4* lak7*-lorh6-lai5 iam2-hue4* sia2-hiong3-guan1-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>總共 造成 三十三位 民眾 受傷送醫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chong2 cho7-seng5 sann-chap8-sann-ui7 bin5-chiong3 siu7-siong sang3-i，</JiaoLuo>
+			<TongYong>zong4-giong2* zor2-sing5 sann1-zap6-sann1-ui2 vin5-ziong3* siu2-siong1*-sang3-i1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>日前 就有 民俗專家 警告，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teng2-jit8 to-u7 bin5-siok8-choan-ka keng2-ko3，</JiaoLuo>
+			<TongYong>zin3-zing5* diorh6-u2 vin5-siok6-zuan1-ga1* ging4-gor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>今年 主燈 老虎張口的 設計 不當，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ni5 chu2-teng hou2 khui-chhui3-e5 siat-ke3-put-tong3，  </JiaoLuo>
+			<TongYong>gin1-ni5* zu4-ding1* lau2-ho4*-kui1-cui3*-e5 set7-ge3* but7-dong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>沒想到 元宵節 晚上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siunn7-tioh8 chiann-goeh8-poann3 am3-si5，</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3 quan5-siau1-zeh7* am3-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>真的 發生意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin-e5 hoat-seng i3-goa7，</JiaoLuo>
+			<TongYong>zin1-ziann3 huat7-sing1-i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>但是 嘉義市長 黃敏惠 說 純粹 是意外！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 Ka-gi7-chhi7-tiunn2 Ng5-bin2-hui7 kong2 sun5-chhui3-si7 i3-goa7！</JiaoLuo>
+			<TongYong>dan2-si2 Ga1-Qi2-Ci2-diunn4* Ng5-Vin4-Hui2* gong4 uan5-zuan5* si2-i3-qua2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

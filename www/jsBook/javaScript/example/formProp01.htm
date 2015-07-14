@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>表單的性質列表</h2>
+<hr>
+<form name=formName id=formId method=post action=formact.asp target=_blank>
+	貴姓大名：<input type=text name=UserName value="Test Input">
+	<input type=submit> <input type=reset>
+</form>
+<hr>
+
+<script src="listProp.js"></script>
+以下使用 listProp(formId, "formId") 來列出上述表單的所有性質。
+你也可以使用 listProp(document.formName, "document.formName") 來達到同樣的功能喔。
+<p><h3>"document.formName" 的性質列表：</h3>
+<p><script>listProp(formId, "formId")</script>
+
+<hr>
+</body>
+</html>

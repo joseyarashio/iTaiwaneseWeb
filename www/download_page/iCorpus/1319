@@ -1,0 +1,104 @@
+<article>
+	<id>1319</id>
+	<title>女童 十天 沒到學校 上課 雲梯車 破門救出</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>南投縣 埔里鎮 傳出</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-tau5-koan7 Pou-li2-tin3 thoan5-chhut ， </JiaoLuo>
+			<TongYong>Lam5-Dau5-Guan2* Bo1-Li4-Din3* tuan5-cut7 </TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>女孩受虐的 烏龍案，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-bou2-gin2-a2 siu7-giok8-e5 ou-liong5-an3，</JiaoLuo>
+			<TongYong>za1-vo4-qin4-a4* siu2-diorh6-qik6-tai2* e5 o1-liong5-an3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>雲梯車 破門 救出</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hun5-thui-chhia phoa3-mng5-kiu3-chhut，</JiaoLuo>
+			<TongYong>hun5-tui1-cia1* pua3-mng5* giu3-cut7</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一名 十一歲的 女孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 chap8-it-hoe3 e5 cha-bou2-gin2-a2，</JiaoLuo>
+			<TongYong>zit6-e5* zap6-it7-hue3*-e5 za1-vo4-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>十天 沒 到學校 上課，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-kang bo5-kau3 hak8-hau7 siong7-kho3，</JiaoLuo>
+			<TongYong>zap6-gang1* vor5 gau3-hak6-hau2* siong2-kor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>等到 找到人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan2-kau3 chhoe7-tioh8-lang5，</JiaoLuo>
+			<TongYong>dan4-gau3 cue2-diorh6-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>她 已經 在家裡 十天了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i i2-keng-ti7 chhu3-lai7 chap8-kang-ah，</JiaoLuo>
+			<TongYong>i1 i4-ging1 di2-cu3*-li3* zap6-gang1*-a1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>原本 以為是 被爸爸 虐待，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 liah8-chun2-si7 pi7 lau7-pe7 leng5-ti7，</JiaoLuo>
+			<TongYong>quan5-bun4* i4-ui5-si2 ho2-lau2-be2* qik6-tai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>後來 才發現 是 女孩生病，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>au7-lai5 chiah-hoat-hian7-si7 cha-bou2-gin2-a2 phoa3-penn7，</JiaoLuo>
+			<TongYong>au2*-lai5 ziah7-huat7-hen2* si2 za1-vo4-qin4-a4* pua3-benn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>他的爸爸 有煮飯菜，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-e5 lau7-pe7 u7-chu2-png7-chhai3，  </JiaoLuo>
+			<TongYong>i1-e5-lau2-be2* u2-zi4-buinn2-cai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>也 留給她 飯錢 才 上山 做工作，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan-na2-lau5-hou7-i png7-chinn5 chiah-chiunn7-soann cho3-khang-khoe3，</JiaoLuo>
+			<TongYong>ma2 lau5-ho2-i1 buinn2-zinn5* ziah7 ziunn2-suann1* zor3-kang1-kue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>並沒有 虐待女兒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7-bo5 leng5-ti7 cha-bou2-kiann2，</JiaoLuo>
+			<TongYong>bing2-vor5 qik6-tai2 za1-vo4-giann4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>整件事 是 烏龍一場。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-kiann7-su7-si7 ou-liong5-chit8-tiunn5。</JiaoLuo>
+			<TongYong>gui1-e5-dai2-zi3* si2 o1-liong5*-zit6-diunn5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,13 @@
+<?XML version="1.0" ?>
+<!-- Filename: demo.wsf-->
+<package>
+  <job>
+    <resource id="weekday0">Sunday</resource> 
+    <resource id="pi">3.14159265358979</resource>
+
+    <script language="JScript">
+      WScript.Echo(getResource("weekday0"));
+      WScript.Echo(getResource("pi"));
+    </script>
+  </job>
+</package>

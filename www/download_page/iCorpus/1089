@@ -1,0 +1,104 @@
+<article>
+	<id>1089</id>
+	<title>全國首例 疑似 接種 新流感疫苗 後 死亡  </title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>新流感 疫苗 開始施打 以後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-liu5-kam2-ek8-biau5 khai-si2-chu3 i2-au7，</JiaoLuo>
+			<TongYong>Sin1-liu5-gam4* ik6-viau5* kai1-si4-zu3* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>今天上午 出現 第三十三個 死亡案例，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit cha2-khi2 chhut-hian7 te7-saN-chap8-saN-e5 si2-bong5-an3-le7，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* zai4-ki4* cut7-hen2 de2-sann1-zap6-sann1-e5 si4-vong5*-an3-le2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>但是 下午 疾病管制局 又證實，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 e5-pou Chit8-peN7-koan2-li2-kiok8 koh-cheng3-sit8，</JiaoLuo>
+			<TongYong>dan2-si2 e2-bo1* Zit6-Benn2*-Guan4-Ze3-Giok6* gorh7-zing3-sit6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>新竹市 一名 八十二歲 老翁，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-tek-chhi7 chit8-mia5 peh-chap8-ji7-hoe3 lau7-toa7-lang5，</JiaoLuo>
+			<TongYong>Sin1-Dik7-Ci2* zit6-e5 beh7-zap6-ri2-hue3*-e5 lau2-dua2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>本身 有 腎臟病 和 心臟病 的 病史，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pun2-sin-u7 io-chi2-peN7 kap sim-chong7-peN7 e5 peN7-su2，</JiaoLuo>
+			<TongYong>bun4-sin1* u2 ior1-zi4-benn2* gah7 sim1-zong2-benn2* e5 benn2-su4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>在 十二月三日 上午 接種 新流感 疫苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chap8-ji7-goeh8 saN-ho7 cha2-khi2 cheng3-chu sin-liu5-kam2-ek8-biau5，</JiaoLuo>
+			<TongYong>di2 zap6-ri2-queh6-sann1-hor2* zai4-ki4* zu3 sin1-liu5-gam4* ik6-viau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>下午 就出現 噁心和嘔吐 的 症狀，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e5-pou to-chhut-hian7 cho-sim kap thou3-e5 cheng3-chong7，</JiaoLuo>
+			<TongYong>e2-bo1* diorh6-cut7-hen2 bing4-bak7*-gah7-to3* e5 zing3-zong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>結果 在六日 不幸往生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2-ti7 lak8-ho7 put-heng7 ong2-seng，</JiaoLuo>
+			<TongYong>get7-gor4 di2-lak6-hor2* but7-hing2*-ong4-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>疾病管制局 的 說法 是，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chit8-peN7-koan2-li2-kiok8 e5 kong2-hoat-si7，</JiaoLuo>
+			<TongYong>Zit6-Benn2*-Guan4-Ze3-Giok6* e5 gong4-huat7* si2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>這位老翁的 死因，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ui7 lau7-toa7-lang5-e5 si2-in，</JiaoLuo>
+			<TongYong>zit7-ui2 lau2-dua2-lang5* e5 si4-in1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>應該 和 疫苗接種 無 直接 因果關係，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng3-kai-kap ek8-biau5-cheng3-chu bo5-tit8-chiap in-ko2-koan-he7，</JiaoLuo>
+			<TongYong>ing3-gai1 gah7 zu3-sia2-ik6-viau5 vor5 dit6-ziap7*-e5 in1-gor4-guan1-he2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>可能的死因 已提到 疫苗受害 救濟委員會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5-e5 si2-in i2-the5-kau3 Ek8-biau5-siu7-hai7 kiu3-che3-ui2-oan5-hoe7，</JiaoLuo>
+			<TongYong>kor4-ling5*-e5-si4-in1* i4-ging1-te5-gau3 Ik6-Viau5*-Siu2-Hai2* Giu3-Ze3*-Ui4-Uan5-Hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>會由 專家學者 進行研判。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-iu5 choan-ka-hak8-chia2 chin3-heng5-gian2-phoaN3。</JiaoLuo>
+			<TongYong>e2-iu5 zuan1-ga1*-hak6-zia4* zin3-hing5-qen5-puann3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

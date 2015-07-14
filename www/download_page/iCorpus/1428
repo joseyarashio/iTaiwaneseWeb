@@ -1,0 +1,111 @@
+<article>
+	<id>1428</id>
+	<title>數十位地主 陳情 台北捷運 圖利廠商</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 數十位的 地主，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 sou3-chap8-ui7 e5 toe7-chu2，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* gui4*-a2-zap6-ui2*-e5 de2-zu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>聚集在 新店市 小碧潭 捷運站 陳情，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu7-chip8-ti7 Sin-tiam3-chhi7 Sio2-phek-tham5 chiat8-un7-cham7 tin5-cheng5，</JiaoLuo>
+			<TongYong>zu2-zip6-di2 Sin1-Diam3-Ci2* Sior4-Pik7-Tam5* zet6-un2-zam2* din5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>質疑 台北市政府 捷運工程局，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-gi5 Tai5-pak-chhi7-cheng3-hu2 chiat8-un7-kang-teng5-kiok8，</JiaoLuo>
+			<TongYong>zit7-qi5 Dai5-Bak7-Ci2-Zing3-Hu4* Zet6-Un2-Gang1-Ding5-Giok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>在 十九年前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chap8-kau2-ni5-cheng5，</JiaoLuo>
+			<TongYong>di2 zap6-gau4-ni5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>用著 興建 捷運機廠 為理由 徵收土地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng7-tioh8 heng-kian3 chiat8-un7-ki-chhiunn2 cho3-li2-iu5 tin-siu-thou2-toe7，</JiaoLuo>
+			<TongYong>iong2 hing1-gen3 zet6-un2-gi1-ciunn4* zor3-li4-iu5* zing1-siu1-to4-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>卻 與建築商 聯合開發 興建 商場住宅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-ham kian3-tiok8-siong lian5-hap8-khai-hoat heng-kian3 siong-tiunn5-khia7-ke，</JiaoLuo>
+			<TongYong>suah7 ham2-gen3-diok6-siong1* len5-hap6-kai1-huat7* hing1-gen3 siong1-diunn5*-zu2-teh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>民眾 質疑 與 當初 徵地的理由 不符，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 chit-gi5 ham khi2-thau5 tin-toe7-e5 li2-iu5-put-hu5，</JiaoLuo>
+			<TongYong>vin5-ziong3* zit7-qi5* gah7 dong1-co1* zing1-de2*-e5-li4-iu5* vor5-hu5-hap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>抗議 台北捷運 有 圖利廠商 之嫌。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khong3-gi7 Tai5-pak-chiat8-un7 u7-tou5-li7 chhiunn2-siong chi-hiam5。</JiaoLuo>
+			<TongYong>kong3-qi2 Dai5-Bak7-Zet6-Un2* u2 do5-li2-ciunn4-siong1* e5 hiam5-qi5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>數十位 地主 不滿 台北市 捷運工程局，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou3-chap8-ui7 toe7-chu2 put-boan2 Tai5-pak-chhi7-chiat8-un7-kang-teng5-kiok8，</JiaoLuo>
+			<TongYong>Gui4*-a2-zap6-ui2 de2-zu4* but7-vuan4 Dai5-Bak7-Ci2* Zet6-Un2-Gang1-Ding5-Giok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>當年 用著 蓋捷運機廠 的 理由 徵收土地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-ni5 eng7-tioh8 khi2 chiat8-un7-ki-chhiunn2 e5 li2-iu5 tin-siu-thou2-toe7，</JiaoLuo>
+			<TongYong>dong1-ni5* iong2 ki4-zet6-un2-gi1-ciunn4* e5 li4-iu5* zing1-siu1-to4-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>讓建築商 興建 大型 商場住宅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 kian3-tiok8-siong heng-kian3 toa7-heng5-siong-tiunn5 khia7-ke，</JiaoLuo>
+			<TongYong>ho2-gen3-diok6-siong1* hing1-gen3 dua2-hing5* siong1-diunn5*-zu2-teh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>欺騙的行為 讓他們 相當痛心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khi-phian3-e5 heng5-ui5 hou7-in siang-tong-thong3-sim，</JiaoLuo>
+			<TongYong>ki1-pen3*-e5-hing5-ui5* ho2-in1 hui1-siong5-tong3-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>抗議民眾 改編了 台語名曲 補破網，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khong3-gi7-bin5-chiong3 kai2-phian-liau2 Tai5-gi2-mia5-khek Pou2-phoa3-bang7，</JiaoLuo>
+			<TongYong>kong3-qi2*-vin5-ziong3* gai4-ben1-liau4 dai5-qi4-ving5-kik7* Bo4-Pua3-Vang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>在現場 唱出 他們的心聲。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-hian7-tiunn5 chhiunn3-chhut in-e5-sim-siann。</JiaoLuo>
+			<TongYong>di2-hen2-diunn5* ciunn3-cut7 in1-e5-sim1-siann1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

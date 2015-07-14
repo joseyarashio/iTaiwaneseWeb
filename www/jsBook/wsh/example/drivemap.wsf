@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<package>
+<comment>
+Recurses a drive and maps all it's files and folders to a text file.
+For more WSH scripts, visit http://www.wshscripting.com
+</comment>
+<job id="DriveMap" prompt="no">
+<?job error="false" debug="false" logo="false" validate="false" ?>
+<script language="VBScript">
+<![CDATA[
+
+  Dim strResult, FldDepth, sDrv
+  Dim DriveLetter
+  
+  Sub Recurse(objFolder)
+    FldDepth = FldDepth + 1
+    'strResult = strResult & vbCrLf & objFolder.Name &  vbCrLf & String(Len(objFolder.Name), "=") & vbCrLf
+    strResult = strResult & String(FldDepth * 2 - 1, "-") & objFolder.Name & vbCrLf
+    For Each fld In objFolder.SubFolders
+      Recurse(fld)
+    Next
+    'For Each fld In objFolder.SubFolders
+    '  strResult = strResult & fld.Name & vbTab & Mid(fld.Path, 3, Len(fld.Path) - Len(fld.name) -2) &  vbCrLf
+    'Next
+    For Each fl In objFolder.Files
+      strResult = strResult & String(FldDepth * 2 - 1, "-") & fl.Name & vbCrLf
+    Next
+    FldDepth = FldDepth - 1
+  End Sub
+  
+  DriveLetter = InputBox("Drive letter...", "Drive", "C:")
+  Set fso = Wscript.CreateObject("Scripting.FilesystemObject")
+    Set Drive = fso.GetDrive(DriveLetter)
+    sDrv = Drive.VolumeName
+    strResult = DriveLetter & sDrv & " information: " & vbCrLf & vbCrLf
+    Set Drive = Nothing
+    
+    Set drv = fso.GetFolder(DriveLetter)
+    For Each Folder In drv.SubFolders
+      Recurse(Folder)
+    Next
+    Set drv = Nothing
+    
+    Set outputfile = fso.OpenTextFile("C:\" & sDrv & ".txt", 2, True)
+    outputfile.Write strResult
+    Set outputfile = Nothing
+  Set fso = Nothing
+  
+  MsgBox "All Done!", vbExclamation Or vbOKOnly, "Finished"
+
+]]>
+</script>
+</job>
+</package>

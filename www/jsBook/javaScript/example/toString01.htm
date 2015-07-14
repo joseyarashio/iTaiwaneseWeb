@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>如何使用 toString()</h2>
+<hr>
+
+<script>
+x = "This is a string";
+document.write("字串：" + x.toString()+"<br>");
+x = new Date();
+document.write("日期：" + x.toString()+"<br>");
+x = ["Mon", "Tue", "Wed"];
+document.write("陣列：" + x.toString()+"<br>");
+function square(n){
+	return(n*n);
+}
+document.write("函數：" + square.toString()+"<br>");
+student = new Object();
+student.name = "Timmy";
+student.age = "25";
+student.phone = "575-1114";
+document.write("自訂物件：" + student.toString()+"<br>");
+</script>
+
+<hr>
+</body>
+</html>

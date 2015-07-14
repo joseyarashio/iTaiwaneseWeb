@@ -1,0 +1,28 @@
+<html>
+<body>
+
+<script>
+// 顯示從伺服器回傳的資訊，此函數只會被隱藏的子網頁所呼叫。
+function showRetrievedInfo(serverName, serverUrl, serverIp) {
+	show01.innerHTML=serverName;		// 顯示 serverName
+	show02.innerHTML=serverUrl;		// 顯示 serverUrl
+	show03.innerHTML=serverIp;		// 顯示 serverIp
+	myHiddenFrame.src='';		// 清除 iframe 的網址
+}
+
+// 母網頁表單的回應函數，只被母網頁呼叫。
+function mainCallBack(){
+	var iframe = document.getElementById('myHiddenFrame');	// 取得 iframe 物件
+	iframe.src = "serverAction01.asp";	// 設定 iframe 的網址為 serverAction01.asp 並執行此 asp 網頁
+}
+</script>
+
+<input type="button" value="顯示子網頁相關資訊..." onClick="mainCallBack()">
+<p>子網頁伺服器網域名稱：<div id="show01"></div>
+<p>子網頁網址：<div id="show02"></div>
+<p>子網頁伺服器 IP：<div id="show03"></div>
+
+<iframe id="myHiddenFrame" style="display:none"></iframe>
+
+</body>
+</html>

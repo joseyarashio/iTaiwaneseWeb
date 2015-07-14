@@ -1,0 +1,52 @@
+.Efont {
+	FONT-FAMILY: Arial; FONT-SIZE: 7pt
+}
+.smooth9 {
+	FONT-FAMILY: 新細明體; FONT-SIZE: 9pt
+}
+.fix9 {
+	FONT-FAMILY: 新細明體; FONT-SIZE: 9pt; LINE-HEIGHT: 1.5em
+}
+.smooth11 {
+	FONT-FAMILY: 新細明體; FONT-SIZE: 11pt
+}
+.smooth12 {
+	FONT-FAMILY: 新細明體; FONT-SIZE: 12pt
+}
+.smooth9 {
+	FONT-FAMILY: "新細明體"; FONT-SIZE: 12px
+;
+; letter-spacing: 1px; word-spacing: 1px
+}
+.fix12 {
+	FONT-FAMILY: 新細明體; FONT-SIZE: 12pt; LINE-HEIGHT: 1.3em
+}
+.yellow9 {
+	BACKGROUND-COLOR: rgb(255,250,216); FONT-FAMILY: "新細明體"; FONT-SIZE: 9pt
+; letter-spacing: 1px; word-spacing: 1px
+}
+.red9 {
+	BACKGROUND-COLOR: rgb(242,185,205); FONT-FAMILY: "新細明體"; FONT-SIZE: 9pt
+; letter-spacing: 1px; word-spacing: 1px
+}
+.green9 {
+	BACKGROUND-COLOR: rgb(230,251,235); FONT-FAMILY: "新細明體"; FONT-SIZE: 9pt
+; letter-spacing: 1px; word-spacing: 1px
+}
+.white9 {
+	BACKGROUND-COLOR: rgb(255,255,255); FONT-FAMILY: 新細明體; FONT-SIZE: 9pt
+; letter-spacing: 1px; word-spacing: 1px
+}
+
+.blue9 {
+	BACKGROUND-COLOR: rgb(199,223,255); FONT-FAMILY: "新細明體"; FONT-SIZE: 9pt
+; letter-spacing: 1px; word-spacing: 1px
+}
+.help9 {
+	BACKGROUND-COLOR: rgb(201,232,106); FONT-FAMILY: 新細明體; FONT-SIZE: 9pt
+; letter-spacing: 1px; word-spacing: 1px
+}
+body {  word-spacing: 1px }
+
+table {  font-size: 9pt; line-height: 150%; }
+

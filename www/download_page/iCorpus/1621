@@ -1,0 +1,118 @@
+<article>
+	<id>1621</id>
+	<title>落選後 蘇嘉全 請吃便當 感謝相挺</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>五大都市 選舉 才剛結束，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gou7-toa7-tou-chhi7 soan2-ki2 chiah-tu2-kiat-sok</JiaoLuo>
+			<TongYong>Qo2-dua2-do1-ci2* suan4-gi4* ziah7-du4-get7-sok</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台中市 市議會 正副議長的 選舉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-chhi7 chhi7-gi7-hoe7 chiann3-hu3-gi7-tiunn2 e5 soan2-ki2，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Ci2* ci2-qi2-hue2 zenn3-hu3-qi2-diunn4*-e5 suan4-gi4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>開始進入 白熱化 爭霸戰，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khai-si2 chin3-jip8 peh8-jiat8-hoa3 cheng-pa3-chian3，</JiaoLuo>
+			<TongYong>kai1-si4-zin3-rip6 beh6-ret6-hua3* zing1-ba3-zen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>民進黨 與 中國國民黨 只差 三席市議員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 ham Tiong-kok-kok-bin5-tong2 chi2-chha sann-sek8 chhi7-gi7-oan5，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* gah7 Diong1-Gok7*-Gok7-Vin5-Dong4* zi4-ca1 sann1-sik6-ci2-qi2-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>未來 新議會生態 極有可能 重新洗牌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bi7-lai5 sin-gi7-hoe7 senn-thai3 kai3-u7-kho2-leng5 teng5-sin se2-pai5，</JiaoLuo>
+			<TongYong>vi2-lai5* sin1-qi2-hue2*-sing1-tai3* zin1-u2-kor4-ling5* ding5-sin1-se4-bai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>這一次 市長選舉 以 三萬多票 落選 的 蘇嘉全，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-pai2 chhi7-tiunn2-soan2-ki2 eng7 sann-ban7-goa7-phio3 lok8-soan2-e5 Sou-ka-choan5，</JiaoLuo>
+			<TongYong>zit7-bai4* ci2-diunn4*-suan4-gi4* i4 sann1-van2-qua2-pior3* lok6-suan4*-e5 So1-Ga1-Zuan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>以 便當和啤酒 在 二十九日 晚上 宴請 議員參選人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng7 pian7-tong kap bi3-luh ti7 ji7-chap8-kau2-ho7 am3-si5 ian3-chhiann2 gi7-oan5 chham-soan2-jin5，</JiaoLuo>
+			<TongYong>iong2 ben2-dong1*-gah7-vi3-luh7* di2 qi2-zap6-gau4-hor2* am3-si5* en3-ciann4 qi2-uan5*-cam1-suan4-rin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>感謝 他們 情義相挺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kam2-sia7 in cheng5-gi7 sio-thiann7，</JiaoLuo>
+			<TongYong>gam4-sia2-in2* zing5-qi2* sior1-tin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>便當 餐會中 討論了 即將 登場的 正副議長 選舉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pian7-tong chhan-hoe7-tiong tho2-lun7-liau2 tit-beh chiunn7-tiunn5-e5 chiann3-hu3 gi7-tiunn2 soan2-ki2，</JiaoLuo>
+			<TongYong>ben2-dong1 can1-hue2-diong1 tor4-lun2-liau4 diorh6-veh7-ding1-diunn5*-e5 ziann3-hu3-qi2-diunn4* suan4-gi4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>初步規劃 民進黨 打算 搶下副議長 為目標。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhou-pou7 kui-oe7 Bin5-chin3-tong2 an3-sng3 chhiunn2-loh8 hu3-gi7-tiunn2 cho3-bok8-phiau。</JiaoLuo>
+			<TongYong>co1-bo2*-gui1-ue2* Bin5-zin3-dong4 an3-sng3 ciunn4-lorh6 hu3-qi2-diunn4 zor3-vok6-biau1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>蘇嘉全 在 謝完票 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sou-ka-choan5 ti7 sia7-oan5-phio3 liau2-au7，</JiaoLuo>
+			<TongYong>So1-ga1-zuan5* di2 sia2-pior3*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>依舊保持 樸素的作風，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-oan5 po2-chhi5 phok-sou3-e5 chok-hong，</JiaoLuo>
+			<TongYong>iu5-uan5-bor4-ci5 pok7-so3*-e5-zok7-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>邀請 民進黨的 同志 吃便當 開會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau-chhiann2 Bin5-chin3-tong2 e5 tong5-chi3 chiah8-pian7-tong khui-hoe7，</JiaoLuo>
+			<TongYong>iau1-ciann4 Vin5-zin3-Dong4* e5 dong5-zi3 ziah6-ben2-dong1* kui1-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>加上 台聯黨的 市議員 高基讚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-siang7 Tai5-lian5-tong2 e5 chhi7-gi7-oan5 Ko-ki-chan2，</JiaoLuo>
+			<TongYong>ga1-siang2 Tai5-len5-Dong4*-e5 ci2-qi2-uan5 Gor1-Gi1-Zan3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>民進黨 可以說 有 問鼎副議長 的 實力。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 e7-sai2-kong2-u7 chhia-piann3 hu3-gi7-tiunn2 e5 sit8-lek8。</JiaoLuo>
+			<TongYong>Bin5-zin3-dong4 e2-sai4-gong4 u2 vun2-ding4 biann3-hu3-qi2-diunn4* e5 sit6-lik6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

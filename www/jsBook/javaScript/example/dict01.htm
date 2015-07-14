@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>字典物件的建構方法</h2>
+<hr>
+
+<script>
+capitalOf = new ActiveXObject("Scripting.Dictionary");	// 建構一個空的字典物件
+capitalOf.Add("Taiwan", "Taipei");		// 加入第 1 個對應關係
+capitalOf.Add("USA", "Washington");		// 加入第 2 個對應關係
+capitalOf.Add("Korea", "Seoul");		// 加入第 3 個對應關係
+document.writeln("capitalOf(\"Taiwan\") = " + capitalOf("Taiwan") + "<br>");
+document.writeln("capitalOf(\"USA\") = " + capitalOf("USA") + "<br>");
+document.writeln("capitalOf(\"Korea\") = " + capitalOf("Korea") + "<br>");
+</script>
+
+<hr>
+</body>
+</html>

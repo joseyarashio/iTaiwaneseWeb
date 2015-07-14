@@ -1,0 +1,125 @@
+<article>
+	<id>1721</id>
+	<title>為 參選立委 暖身 羅致政 發紅包</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>民進黨主席 蔡英文 競選 新北市長 的 發言人 羅致政，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2-chu2-sek8 Chhoa3-eng-bun5 keng7-soan2 Sin-pak-chhi7-tiunn2 e5 hoat-gian5-jin5 Lo5-ti3-cheng3 ，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4*-zu4-sik6* Cua3-Ing1-Vun5* ging2-suan4 Sin1-Bak7-ci2-diunn4* e5 huat7-qen5-rin5* Lor5-Di3-Zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>打算 在年底 參選 板橋 第七選區的 立委，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an3-sng3-ti7 ni5-boe2 chham-soan2 Pang-kio5 te7-chhit-soan2-khu e5 lip8-ui2 ，</JiaoLuo>
+			<TongYong>pah7-suinn3 di2-ni5-de4* cam1-suan4 Bang1-Gior5* de2-cit7-suan4-ku1*-e5 lip6-ui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>三十一日 上午 帶著 蘇貞昌 和 蔡英文 的 紅包，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-chap8-it-ho7 cha2-khi2 chah-tioh8 Sou-cheng-chhiong kap Chhoa3-eng-bun5 e5 ang5-pau ，</JiaoLuo>
+			<TongYong>sann1-zap6-it7-hor2* zai4-ki4* zah7-diorh6 So1-Zin1-Ciang1* gah7 Cua3-Ing1-Vun5* e5 ang5-bau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>到菜市場 向民眾 拜早年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3 chhai3-chhi7-a2 hiong3 bin5-chiong3 pai3-cha2-ni5 ，</JiaoLuo>
+			<TongYong>gau3-cai3-ci2-diunn5* hiong3-vin5-ziong3* bai3-za4-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>也 替 自己的初選 造勢暖身。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7 the3-ka-ki7 e5 chhou-soan2 cho7-se3 loan2-sin ，</JiaoLuo>
+			<TongYong>ma2 te3 ga1-di2*-e5-co1-suan4* zor2-se3*-luan4-sin1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>在 十度以下的 寒風，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chap8-tou7 i2-ha7-e5 han5-hong ，</JiaoLuo>
+			<TongYong>Di2 zap6-do2*-i4-ha2*-e5 ling4-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>羅致政 站在 板橋市場 外面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lo5-ti3-cheng3 khia7-ti7 Pang-kio5-chhi7-tiunn5 goa7-bin7 ，</JiaoLuo>
+			<TongYong>Lor5-Di3-Zing3* kia2-di2 Bang1-Gior5-ci2-diunn5* qua2-kau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>向民眾 鞠躬拜年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hiong3 bin5-chiong3 kiok-kiong pai3-ni5 ，</JiaoLuo>
+			<TongYong>hiong3-vin5-ziong3* giann5-le4*-bai3-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>蘇貞昌的 一元紅包，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sou-cheng-chhiong e5 chit8-kho3 ang5-pau，</JiaoLuo>
+			<TongYong>So1-Zin1-Ciang1*-e5 zit6-ko1*-ang5-bau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>還有 蔡英文的 春聯 搭配贈送，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 Chhoa3-eng-bun5 e5 chhun-lian5 phoe3-tah cheng7-sang3 ，</JiaoLuo>
+			<TongYong>gorh7-u2 Cua3-Ing1-Vun5*-e5 cun1-len5* dah7-pue3*-zing2-sang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還找 市議員 王淑慧 搭檔，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-chhe7 chhi7-gi7-oan5 Ong5-siok-hui7 sio-tau3 ，</JiaoLuo>
+			<TongYong>gorh7-cue2 ci2-qi2-uan5* Ong5-Siok7-Hui2* hap6-zok7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>羅致政 過去 擔任 蔡英文 競選 新北市長 的 發言人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lo5-ti3-cheng3 koe3-khi3 tam-jim7 Chhoa3-eng-bun5 keng7-soan2 Sin-pak-chhi7-tiunn2 e5 hoat-gian5-jin5 ，</JiaoLuo>
+			<TongYong>Lor5-Di3-Zing3* gue3-ki3* dam1-rim2 Cua3-Ing1-Vun5* ging2-suan4 Sin1-Bak7-ci2-diunn4* e5 huat7-qen5-rin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>跟著 到處 跑透透，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toe3-leh chit8-si3-ke3 chau2-thau3-thau3 ，</JiaoLuo>
+			<TongYong>due3-leh7 si3-ge3* zau4-tau3-tau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>也 讓他 決定 要投入 民進黨的 立委初選，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7-hou7 i koat-teng7-beh tau5-jip8 Bin5-chin3-tong2 e5 lip8-ui2 chhou-soan2，</JiaoLuo>
+			<TongYong>ma2 ho2-i1 guat7-ding2 veh7-dau5-rip6 Vin5-Zin3-Dong4*-e5 lip6-ui4*-co1-suan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>在 被列為 艱困選區 的 板橋 開疆闢土，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 pi7-liat8-ui5 kan-khun3 soan2-khu Pang-kio5 khai-kiang-pit8-thou2 ，</JiaoLuo>
+			<TongYong>di2 hong5*-let6-ui5 gan1-kun3*-suan4-ku1* e5 Bang1-Gior5* kai1-giang1*-pik7-to4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>過年前 先暖身 希望 贏在 起跑點上。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe3-ni5-cheng5 seng-loan2-sin hi-bong7 iann5-ti7 khi2-chau2-tiam2-siang7 。</JiaoLuo>
+			<TongYong>gue3-ni5-zing5* sing1-luan4-sin1* hi1-vang2 iann5-di2 ki4-zau4-diam4* ding4-vin2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

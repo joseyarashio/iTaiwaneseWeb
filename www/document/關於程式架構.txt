@@ -1,0 +1,41 @@
+﻿分成
+
+edit系列 編輯_後面的事情 順序為 .html->.php->_sql.php 通常只有 .html->.php 或 .php->_sql.php
+通常用input type="hidden" 再把資料放入 用!!!隔開 再用POST的放視傳到下一頁 用explode分開
+
+
+management系列 看到所有關於_後面的字有關的資訊
+
+
+
+add系列 新增用
+
+
+
+重要fuction:
+
+function CreatOption(id,sel,len)
+		{result=\"<select id=\\\"\"+id+\"_value\\\">\";
+		for(i=0;i<len;i++){ if(i==sel){
+		result+=\"<option value=\\\"\"+i+\"\\\" selected>\"+i+\"</option>\";}else{
+		result+=\"<option value=\\\"\"+i+\"\\\" >\"+i+\"</option>\";}}
+		result+=\"</select>\";document.writeln(result);}
+	這是由 javascript 用writeln的方式產生select表格,不用在自行手寫不過由於是用php echo 所以如果javascript因此 \" -> \\\"  ,  " -> \" 	
+	
+用法 (id,已選擇的value,有多少個option) 它就會產生相對應的select並且將 sel設定為selected  比較好的寫法 應該有3個變數 (id,sel,len,value) 這樣就可以不只只有選擇數字,還可以選擇不同的值,len的值要對應到 value=new Array()大小;
+
+function EditWebPost(last){
+			result=\"\";
+			for(i=1;i<last;i++){
+				str=i;
+				result+=document.getElementById(str).value+\"!!!\";	
+				str=i+\"_value\"
+				result+=document.getElementById(str).value+\"!!!\";
+				
+			}
+			document.getElementById(\"PostValue\").value=result;
+			document.getElementById(\"SendValue\").submit();
+		}
+	這就是上面所說的給input type="hidden" value再POST的方式 
+
+其餘的盡量個別說明

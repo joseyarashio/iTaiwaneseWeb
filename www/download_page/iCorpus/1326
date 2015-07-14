@@ -1,0 +1,146 @@
+<article>
+	<id>1326</id>
+	<title>大雨不斷 神木村 溪水暴漲 土石流爆發</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>氣象局 豪雨特報，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Khi3-siong7-kiok8 toa7-chui2-hou7 tek8-po3，</JiaoLuo>
+			<TongYong>Ki3-siang2-giok6* hor5-u4*-dik6-bor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>南投縣的 山區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-tau5-koan7 e5 soann-khu，</JiaoLuo>
+			<TongYong>Lam5-Dau5-Guan2*-e5 suann1-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>在下午 降下大雨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-e5-pou kang3-ha7 toa7-hou7，</JiaoLuo>
+			<TongYong>di2-e2-bo1* lorh6-dua2-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>去年 八八風災 中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ku7-ni5 Pat-Pat hong-chai-tiong，</JiaoLuo>
+			<TongYong>gu2-ni5* Bat7-Bat7*-hong1-zai1* diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>嚴重受損的 南投縣 水里鄉 新山村，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>giam5-tiong7 siu7-sun2-e5 Lam5-tau5-koan7 Chui2-li2-hiong Sin-san-chhoan，</JiaoLuo>
+			<TongYong>qiam5-ding2-siu2-sun4*-e5 Lam5-Dau5-Guan2* Zui4-Li4-Hiang1* Sin1-Suann1-Cuan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>村民 雖然 搬到 組合屋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhoan-bin5 sui-jian5 poann-kau3 chou-hap8-chhu3，</JiaoLuo>
+			<TongYong>cuan1-vin5* sui1-ren5* buann1-gau3 zo1-hap6-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>但 還是擔心 土石流 會爆發，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-iau2-si7 tam-sim thou5-chhoah-lau5 e7-phok8-hoat，</JiaoLuo>
+			<TongYong>m2-gorh7 iau4-si2-huan5-lor4 to5-ziorh6-liu5* e2-pok6-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>阻斷了 下山的道路；</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chou2-tng7-liau2 loh8-soann-e5 to7-lou7；</JiaoLuo>
+			<TongYong>zo4-duan2-liau4 lorh6-suann1*-e5-dor2-lo2*；</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>而 在 信義鄉 神木村，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah-ti7 Sin3-gi7-hiong Sin5-bok8-chhoan，</JiaoLuo>
+			<TongYong>a1* di2 Sin3-Qi2-Hiang1* Sin5-Vok6-Cuan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>愛玉子溪 溪水暴漲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ai3-giok8-a2-khoe khoe-chui2 po7-tiong3，</JiaoLuo>
+			<TongYong>Ai3-Qik6-A4-Ke1* ke1-zui4* diunn3*-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>便道 被溪水 淹沒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pian7-to7 pi7-khoe-chui2 im-bat8，</JiaoLuo>
+			<TongYong>ben2-dor2* bi2-ke1-zui4* im1*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>山上的 土石流，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soann-teng2-e5 thou5-chhoah-lau5，</JiaoLuo>
+			<TongYong>suann1-ding4*-e5 to5-ziorh6-liu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>整個 覆蓋了 路面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-e5 kham3-liau2 lou7-bin7，</JiaoLuo>
+			<TongYong>gui1-e5* ga2-lo2-vin2* kam3-diau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>阻斷了 去路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chou2-tng7-liau2 khi3-lou7，</JiaoLuo>
+			<TongYong>zo4-duan2-liau4 ki3-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>神木村 中午 有 結婚宴客，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin5-bok8-chhoan tiong-tau3 u7 kiat-hun-ian3-kheh，</JiaoLuo>
+			<TongYong>Sin5-Vok6-Cuan1* diong1-dau3* u2 get7-hun1* ciann4-lang5-keh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>將近 四百名 賓客，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh-oa2 si3-pah-mia5 pin-kheh，</JiaoLuo>
+			<TongYong>ziang1-gin2 si3-bah7-ui2 bin1-keh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>趕緊 下山離開，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-kin2 loh8-soann li5-khui，</JiaoLuo>
+			<TongYong>guann4-gin4 lorh6-suann1*-li2-kui1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>個個 都直呼，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ko5-ko5 long2-tit8-hoah ，</JiaoLuo>
+			<TongYong>dak6-e5* long4-gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>實在可怕！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sit8-chai7 kho2-phann3！</JiaoLuo>
+			<TongYong>sit6-zai2-kor4-pa3*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

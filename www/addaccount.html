@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>新增帳號</title>
+		<meta charset="utf-8">
+		<link href="./css/management.css" rel="stylesheet" type="text/css">
+		<script>
+			function CheckAndGo(){
+				if(document.getElementById("acc").value==""){
+					alert("必須填寫帳號");
+				}
+				else if(document.getElementById("pass").value==""){
+					alert("必須填寫密碼");
+				}
+				else if(document.getElementById("pass").value==document.getElementById("rpass").value){
+					document.getElementById("rig").submit();
+				}
+				else{
+					alert("密碼不一致");
+					document.getElementById("pass").value="";
+					document.getElementById("rpass").value="";
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<div id="header-wrapper">
+			<div style="float:right; text-align:right; color:red;">歡迎~ 管理者 &nbsp &nbsp &nbsp </div>
+			<div id="header" class="container">
+			<div id="logo"><span><a href="./index.php"><img src="./images/sinicalogo.gif" height=150 width=150 ></a></span>	
+			</div><div id="menu"><ul>
+			<li class="active"><a href="./management_admin.php">管理帳號</a></li>
+			<li><a href="./management_web.php">管理網頁</a></li>
+			<li><a href="./management_valid_path.php">管理檔案路徑</a></li>
+			<li><a href="./management_editableweb.php">管理公開檔案</a></li>
+			<li><a href="./index.php">回首頁</a></li>
+			</ul></div></div></div><br><center>
+		<form method="post" action="addaccount.php" id="rig">
+		<table>
+			<tr><td>帳號:</td><td><input type="text" name="R_Account" id="acc" maxlength="10"  required></td></tr>
+			<tr><td>密碼:</td><td><input type="password" name="R_Password" id="pass" maxlength="10" required></td></tr>
+			<tr><td>確認密碼:</td><td><input type="password" name="R_rePassword" id="rpass" maxlength="10" required></td></tr>
+			<tr><td>權限:</td><td><select name="R_Value">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+				</select>
+			</table>
+			<br><input type="button" onclick="CheckAndGo()" value="確定">
+			<input type="button" onClick="location.href='management_admin.php'" value='取消'>
+			</center>
+		</form>
+	</body>
+</html>

@@ -1,0 +1,335 @@
+<article>
+	<id>42</id>
+	<title>美國總統 就職 估計 五百萬人 觀禮</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 綜合報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 chong-hap8-po3-to7</JiaoLuo>
+			<TongYong>Vin5-si2*-sin1-vun5* zong1-hap6-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>美國 下一任 總統 歐巴馬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bi2-kok au7-chit8-jim7 chong2-thong2 Obama，</JiaoLuo>
+			<TongYong>Vi4-gok7* au2-zit6-rim2 zong4-tong4* Obama，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>要 等到 二OO九年 一月二十日，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ai3-tan2-kau3 nng7-chheng-khong3-kau2-ni5 it-geh8 ji7-chap8-jit8，</JiaoLuo>
+			<TongYong>ai3 dan4-gau3 nng2-cing1*-kong3-gau4-ni5* it7-queh6-ri2-zap6-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>才會 正式上任，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiaN3-e7 cheng3-sek chiuN7-jim7，</JiaoLuo>
+			<TongYong>ziah7-e2 zing3-sik7-ziunn2-rim2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>不過 當天的 就職典禮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bu5-ko3 tng-kang e5 chiu7-chit tian2-le2</JiaoLuo>
+			<TongYong>m2-gorh7 dong1-rit6*-e5 ziu2-zit7-den4-le4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>估計 會吸引 高達 五百萬人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kou2-ke3 e7-khip-in2 koan5-kau3 gou7-pah-ban7-lang5，</JiaoLuo>
+			<TongYong>go4-ge3* e2-kip7-in4 gor1-dat6 qo2-bah7-van2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>到場觀禮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3-tiuN5 koan-le2，</JiaoLuo>
+			<TongYong>gau3-hen2-diun5* guan1-le4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>也 讓 維安工作的 難度，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-ho2 i5-an-kang-chok e5 lan5-tou7，</JiaoLuo>
+			<TongYong>ma2 ho2 ui5-an1-gang1-zok7*-e5 lan5-do2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>大幅增加，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tai7-hok cheng-ka，</JiaoLuo>
+			<TongYong>dai2-hok7-zing1-ga1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>雖然 還有 兩個月 時間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5 iau2-u7 nng7-kou3-goeh8 si5-kan，</JiaoLuo>
+			<TongYong>sui1-ren5* iau4-u2 nng2-gor3-queh6 si5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>但是 首都華府的 街頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 siu2-tou Hoa5-hu2 e5 ke-thau5，</JiaoLuo>
+			<TongYong>dan2-si2 siu4-do1*-hua5-hu4*-e5 ge1-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>準備工作 已經展開。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chun2-pi7 kang-chok i2-keng tian2-khui。</JiaoLuo>
+			<TongYong>zun4-bi2-gang1-zok7* i4-ging1-den4-kui1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>不論 是 觀賞煙火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-lun7-si7 koan-siong2-ian-hoe2，</JiaoLuo>
+			<TongYong>Vor5-lun2 si2 guan1-siong4-en1-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>還是 示威遊行，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-si7 si7-ui-iu5-heng5，</JiaoLuo>
+			<TongYong>ia2-si2 si2-ui1*-iu5-hing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>華府的 國民廣場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hoa5-hu2-e5 Kok-bin5-kong2-tiuN5，</JiaoLuo>
+			<TongYong>hua5-hu4*-e5 gok7-vin5-gong4-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>本來 就是 群眾活動的 最佳場地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pun2-lai5 chiu7-si7 kun5-chiong3-oah8-tang7 e5 siang7-ho2-tiuN5-te7，</JiaoLuo>
+			<TongYong>bun4-lai5 diorh6-si2 gun5-ziong3-uah6-dong2* e5 siong2-hor4-diunn5-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>不過， 應該 怎麼準備</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-ku2 ， eng3-kai an2-choaN2 chun2-pi7，</JiaoLuo>
+			<TongYong>m2-gorh7， ing3-gai1 an4-zuan4-zun4-bi2</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>二OO九年 一月 的 總統就職 典禮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-chheng-khong3-kau2-ni5 it-geh8 e5 chong2-thong2-chiu7-chit-tian2-le2，</JiaoLuo>
+			<TongYong>nng2-cing1*-kong3-gau4-ni5* it7-queh6* e5 zong4-tong4-ziu2-zit7* den4-le4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>卻 讓 華府市長，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-ho2 Hoa5-hu2-chhi7-tiuN2，</JiaoLuo>
+			<TongYong>suah7 ho2 hua5-hu4-ci2-diunn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>相當頭痛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang-tong thau5-thiaN3，</JiaoLuo>
+			<TongYong>siong1-dong1-tau5-tiann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>大選結果 出爐 的 當晚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tai7-soan2-kiat-ko2 chhut-lou5-e5 tong-am3，</JiaoLuo>
+			<TongYong>dai2-suan4*-get7-gor4* cut7-lo5* e5 dong1-am3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>芝加哥的 葛蘭特公園 就 擠進 二十四萬人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chicago e5 Grant-kong-hng5 to-chiN-jip8 ji-chap8-si3-ban7-lang5，</JiaoLuo>
+			<TongYong>zi1-ga1-gor1*-e5 Grant gong1-hng5* diorh6-zinn1-rip6 ri2-zap6-si3-van2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>聽歐巴馬 發表感言。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thiaN Obama hoat-piau2 kam2-gian5 ，</JiaoLuo>
+			<TongYong>tiann1 Obama huat7-biau4-gam4-qen5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>可以想像，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-tang3 siong2-siong7，</JiaoLuo>
+			<TongYong>E2-dang3-siong4-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>這位 美國史上 第一位 黑人總統，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ui7 Bi2-kok-su2-siong7 te7-it-ui7 ou-lang5-chong2-thong2，</JiaoLuo>
+			<TongYong>zit7-ui2 vi4-gok7-su4-siong2* de2-it7-ui2 o1-lang5*-zong4-tong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>宣誓就職的 歷史性 時刻，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soan-se3-chiu7-chit e5 lek8-su2-seng3 si5-khek，</JiaoLuo>
+			<TongYong>suan1-se3-ziu2-zit7* e5 lik6-su4-sing3* si5-kik7，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>現場人潮 會有 多洶湧，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hian7-tiuN5 jin5-tiau5 e7-chhiunn7-chui2-eng2，</JiaoLuo>
+			<TongYong>hen2-diunn5-rin5-diau5* e2-u2 qua2-ni2-ze2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>負責 保護 總統 和 政府高官 的 祕密勤務局 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hu7-chek po2-hou7 chong2-thong2 kah cheng3-hu2-ko-koaN e5 pi3-bit8-khin5-bu7-kiok8 piau2-si7，</JiaoLuo>
+			<TongYong>hu2-zik7 bor4-ho2 zong4-tong4* gah7 zing3-hu4-gor1-guann* e5 bi3-vit6-kin5-vu2-giok6* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>只要 將 現有的 安全措施 稍稍修改，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-iau3 ka7-hian7-u7-e5 an-choan5-chhou3-si sio2-khoa2-siu-kai2ka7，</JiaoLuo>
+			<TongYong>zi4-iau3 ga2 hen2-iu4*-e5 an1-zuan5-cor3-si1* sior4-kua4-siu1-gai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>不管 現場 有多少人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-koan2 hian7-tiuN5-u7 goa7-che7-lang5，</JiaoLuo>
+			<TongYong>m2-guan4 hen2-diunn5* u2-qua2-ze2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>維安工作 都 不是問題，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i5-an-kang-chok long2-m7-si7-bun7-te5，</JiaoLuo>
+			<TongYong>ui5-an1-gang1-zok7* long4 m2-si2-vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>唯一的問題 是，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui5-it bun7-te5-si7，</JiaoLuo>
+			<TongYong>ui5-it7*-e5-vun2-de5* si2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>歐巴馬 會不會 參考 卡特 和 柯林頓 的 做法，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Obama kiam2-e7 chham-kho2 Carter kah Clinton e5 cho3-hoat，</JiaoLuo>
+			<TongYong>Obama gam4-e2 cam1-kor4 Carter gah7 Clinton e5 zor3-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>突然下車 和民眾 握手 呢？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tut8-jian5 loh8-chhia kah bin5-chiong3 ak-chhiu2-ne？</JiaoLuo>
+			<TongYong>tut6-ren5-lorh6-cia1* gah7-vin5-ziong3* ak7-ciu4* leh7*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>華府街頭， 能裝的下 五百萬人 嗎？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hoa5-hu2-ke-thau5 ， kiam2-te2-e7-loh8 gou7-pah-ban7-lang5 ma？</JiaoLuo>
+			<TongYong>hua5-hu4-ge1-tau5*， gam4 de4-e2-lorh6 qo2-bah7-van2-lang5*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>根據 CNN的計算，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ku3 CNN e5 ke3-sng3，</JiaoLuo>
+			<TongYong>gin1-gi3 CNN-e5-ge3-sng3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>應該是 可以，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng3-kai-si7 e7-eng7-leh，</JiaoLuo>
+			<TongYong>ing3-gai1-si2 e2-dang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>只不過 每個人的 空間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-bu5-ko3 tak8-lang5-e5 khong-kan，</JiaoLuo>
+			<TongYong>zi4-but7-gor3* mui4-zit6-e5-lang5*-e5 kong1-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>小的可怕，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>se3-kau3-chiaN5-kho2-phaN3，</JiaoLuo>
+			<TongYong>se3-gah7 ziann5-kor4-pa3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>大小 差不多 像 電腦的 液晶螢幕，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-se3 chha-put-to-chhiunn7 tian7-nau2-ek8-cheN-eng5-bou7，</JiaoLuo>
+			<TongYong>dua2-se3* ca1-but7-dor1 ciunn2 den2-nau4*-e5 ik6-zing1-ing5-vo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>另一個 問題 是住宿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-chit8-e5 bun7-te5-si7 hehN-khun3，</JiaoLuo>
+			<TongYong>ling2-zit6-e5 vun2-de5* si2-dua3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>二OO九年 一月底，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-chheng-khong3-kau2-ni5 it-geh8-te2，</JiaoLuo>
+			<TongYong>nng2-cing1*-kong3-gau4-ni5* it7-queh6-de4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>華府地區的 飯店、 民宿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hoa5-hu2-te7-khu e5 png7-tiam3 、 bin5-siok，</JiaoLuo>
+			<TongYong>hua5-hu4-de2-ku1*-e5 bng2-diam3*、 vin5-siok7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>早已 被訂滿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha2-tioh8-pi7-taN3-oan5，</JiaoLuo>
+			<TongYong>za4*-diorh6 hong5*-ding2-vuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>現在 網路上 出現 大量民眾 出租</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 bang7-lou7-teng2 chhut-hian7 tai7-liang7 bin5-chiong3 chhut-chou，</JiaoLuo>
+			<TongYong>zit7-ma4* vang2-lo2-siong2* cut7-hen2 dai2-liong2-vin5-ziong3* cut7-zo1</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>家裡的 房間、 沙發， 甚至是 草坪，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-lai7-e5 pang5-keng 、 phong3-i2 ， sim7-chi3-si7 chhau2-pou-a2，</JiaoLuo>
+			<TongYong>cu3-lai2*-e5 bang5-ging1*、 pong3-i4*， sim2-zi3-si2 cau4-piann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>大賺 總統財。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-than3 chong2-thong2-chai5。</JiaoLuo>
+			<TongYong>dua2-tan3 zong4-tong4-zai5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

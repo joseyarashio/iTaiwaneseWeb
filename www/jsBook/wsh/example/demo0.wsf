@@ -1,0 +1,8 @@
+<?XML version="1.0" ?>
+<package>
+	<job>
+		<script language="JScript">
+			WScript.Echo("Hello World!");
+		</script>
+	</job>
+</package>

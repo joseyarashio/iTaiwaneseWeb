@@ -1,0 +1,185 @@
+<html>
+<head>
+
+<style type="text/css">
+a
+{text-decoration: none;}
+
+.title
+{position: absolute;
+width: 150px;
+height: 20px;
+left: 10px;
+z-index: 10;
+font-family: verdana, helvetica, sans-serif;
+font-weight: bold;
+font-size: 12px;}
+
+.submenu
+{position: absolute;
+left: 25px;
+width: 120px;
+border: 0px solid black;
+background-color: white;
+layer-background-color: white;
+font-family: verdana, helvetica, sans-serif;
+font-size: 10px;
+visibility: hidden;}
+</style>
+
+<SCRIPT LANGUAGE="JavaScript">
+//menuNum is the number of menus on your tree, change this if your want more menus
+var menuNum = 4; // Number of menus
+var usePictures = 1;
+
+var ttls = new Array();
+var subs = new Array();
+var lastn;
+var lastmove;
+
+if (document.layers) {
+	visible = 'show';
+	hidden = 'hide';
+}else
+	if (document.all) {
+		visible = 'visible';
+		hidden = 'hidden';
+	}
+
+for (var i = 1; i <= menuNum; i++) {
+	ttls[i] = ('title' + i);
+	subs[i] = ('submenu' +i);
+}
+
+function picopen(n) {
+	title = ('title' + n);
+	pic = ('pic' + n);
+	if (document.layers)
+		document.layers[title].document.images[pic].src = "open.gif";
+	else
+		if (document.all) document.all(pic).src = "open.gif";
+}
+	
+function picclose(n) {
+	title = ('title' + n);
+	pic = ('pic' + n);
+	if (document.layers)
+		document.layers[title].document.images[pic].src = "closed.gif";
+	else
+		if (document.all) document.all(pic).src = "closed.gif";
+}
+
+lastn = (menuNum + 1);
+lastmove = 0;
+
+function lasttoggle(n,move) {
+	if (n <= menuNum) {
+		menu = ('submenu' + n);
+		if (document.layers)
+			submenu = document.layers[menu];
+		else
+			if (document.all) submenu = document.all(menu).style;
+		if (submenu.visibility == visible) {
+			submenu.visibility = hidden;
+			picclose(n);
+			for (var i = (n+1); i <= menuNum; i++) {
+				if (document.layers) {
+					document.layers[ttls[i]].top -= move;
+					document.layers[subs[i]].top -= move;
+				}else
+					if (document.all) {
+						document.all(ttls[i]).style.pixelTop -= move;
+						document.all(subs[i]).style.pixelTop -= move;
+					}
+			}
+		}
+	}
+}
+
+function toggle(n,move) {
+	menu = ('submenu' + n);
+	if (document.layers)
+		submenu = document.layers[menu];
+	else 
+		if (document.all) submenu = document.all(menu).style;
+	if (submenu.visibility == visible) {
+		submenu.visibility = hidden;
+		if (usePictures) picclose(n);
+		for (var i = (n+1); i <= menuNum; i++) {
+			if (document.layers) {
+				document.layers[ttls[i]].top -= move;
+				document.layers[subs[i]].top -= move;
+			}else 
+				if (document.all) {
+					document.all(ttls[i]).style.pixelTop -= move;
+					document.all(subs[i]).style.pixelTop -= move;
+				}
+		}
+	} else {
+		submenu.visibility = visible;
+		if (usePictures) picopen(n);
+		if (lastn != n) lasttoggle(lastn,lastmove);
+	for (var i = (n+1); i <= menuNum; i++) {
+		if (document.layers) {
+			document.layers[ttls[i]].top += move;
+			document.layers[subs[i]].top += move;
+		}
+		if (document.all) {
+			document.all(ttls[i]).style.pixelTop += move;
+			document.all(subs[i]).style.pixelTop += move;
+		}
+	}
+}
+lastn = n;
+lastmove = move;
+}
+</script>
+</head>
+
+<body>
+
+<!--  Copy this code into the BODY of your HTML document  -->
+
+<div class="title" id="title1" style="top: 0px"> 
+<a href="#" onclick="javascript: toggle(1,30); return false"><img name="pic1" src="closed.gif" border="0"> Webtools</a>
+</div>
+
+<div class="submenu" id="submenu1" style="top: 20px">
+ <img src="line.gif" border="0"><a href="http://www.codespy.com" target="_blank">CodeSpy.com</a><br>
+ <img src="line.gif" border="0"><a href="http://www.cgi-resources.com">CGI-Resources</a>
+</div>
+
+<div class="title" id="title2" style="top: 20px"> 
+<a href="#" onclick="javascript: toggle(2,60); return false"><img name="pic2" src="closed.gif" border="0"> Search Engines</a>
+</div>
+
+<div class="submenu" id="submenu2" style="top: 40px">
+ <img src="line.gif" border="0"><a href="http://www.yahoo.com">Yahoo</a><br>
+ <img src="line.gif" border="0"><a href="http://www.excite.com">Excite</a><br>
+ <img src="line.gif" border="0"><a href="http://www.altavista.com">Altavista</a><br>
+ <img src="line.gif" border="0"><a href="http://www.lycos.com">Lycos</a>
+</div>
+
+<div class="title" id="title3" style="top: 40px"> 
+<a href="#" onclick="javascript: toggle(3,45); return false"><img name="pic3" src="closed.gif" border="0"> Computer Jobs</a>
+</div>
+
+<div class="submenu" id="submenu3" style="top: 60px">
+ <img src="line.gif" border="0"><a href="http://www.computerjobs.com">Computerjobs.com</a><br>
+ <img src="line.gif" border="0"><a href="http://www.techiegold.com">TechieGold</a><br>
+ <img src="line.gif" border="0"><a href="http://www.monster.com">Monster</a>
+</div>
+
+<div class="title" id="title4" style="top: 60px"> 
+<a href="#" onclick="javascript: toggle(4,60); return false"><img name="pic4" src="closed.gif" border="0"> TV Channels</a>
+</div>
+
+<div class="submenu" id="submenu4" style="top: 80px">
+ <img src="line.gif" border="0"><a href="http://www.abc.com">ABS</a><br>
+ <img src="line.gif" border="0"><a href="http://www.cbs.com">CBS</a><br>
+ <img src="line.gif" border="0"><a href="http://www.fox.com">FOX</a><br>
+ <img src="line.gif" border="0"><a href="http://www.nbc.com">NBC</a>
+</div>
+
+</body>
+</html>

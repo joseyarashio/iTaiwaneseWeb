@@ -1,0 +1,118 @@
+<article>
+	<id>1639</id>
+	<title>光天化日！ 竊賊 偷 視障按摩店</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo>Bin5-si7-sin-bun5-po3-to7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 新店市 一家 視障按摩店 ，</segmentation>
+			<TaiLuo>Tai5-pak-koan7 Sin-tiam3-chhi7 chit8-keng si7-chiong3 liah8-leng5-tiam3 ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* Sin1-diam3-Ci2* zit6-ging1 si2-ziang3*-liah6-ling5-diam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>三天前 遭到 闖空門，</segmentation>
+			<TaiLuo>sann-kang-cheng5 tu2-tioh8 tioh8-chhat8-thau5 ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>sann1-gang1-zing5* diorh6-cat6-tau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>竊賊 光天化日 打破玻璃 進入屋內，</segmentation>
+			<TaiLuo>chhat8-a2 kng-thau5-peh8-jit8 phah-phoa3 po-le5 chin3-jip8 chhu3-lai7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>cat6-a4* dng1-tau5*-beh6-rit6* pah7-pua3 bor1-le5 zin3-rip6 cu3-lai7，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>搬走 店內的 盲人 電腦 及 電視 ，</segmentation>
+			<TaiLuo>poann-chau2 tiam3-lai7-e5 chhenn-me5-e5 tian7-nau2 kap tian7-si7 ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>buann1-zau4 diam3-lai2-e5 cenn1-me5-e5 den2-nau4 gap7 den2-si2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>甚至連 零錢 也不放過 。</segmentation>
+			<TaiLuo>sim7-chi3-lian5 lan5-san-chinn5 oan5-a7-m7-pang3-koe3 ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>sim2-zi3-len5 lan5-san1-zinn5 uan5-a2-m2-bang3-gue3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>視障 被害人 出面 呼籲竊賊，</segmentation>
+			<TaiLuo>si7-chiong3 pi7-hai7-jin5 chhut-bin7 hou-iok8 chhat8-a2 ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Si2-ziang3* bi2-hai2-rin5 cut7-vin2* ho1-iok6 cat6-a4 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>假如 歸還 物品 ，</segmentation>
+			<TaiLuo>na7-chun2 kui-hoan5 mih8-kiann7 ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>na2-si2 gui1-huan5 mih6-genn2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>就 不追究 責任 。</segmentation>
+			<TaiLuo>to bo5-tui-kiu3 chek-jim7 。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>dor1 vor5-dui1-giu3 zik7-rim2 。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>被竊賊 打破 的 玻璃 已經 換新 ，</segmentation>
+			<TaiLuo>pi7 chhat8-a2 phah-phoa3-e5 po-le5 i2-keng oann7-sin ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Ho2-cat6-a4* pah7-pua3-e5 bor1-le5 i4-ging1 uann2-sin1 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>按摩 店門前 仍留下 碎玻璃 ，</segmentation>
+			<TaiLuo>liah8-leng5 tiam3-mng5-khau2 iau2-lau5-loh8 chhui3-po-le5 ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>liah6-ling5 diam3-mng5-kau4 iau4-lau5-lorh6 cui3-bor1-le5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>雙眼 失明 行動不便 的 蔡先生 與 林先生 ，</segmentation>
+			<TaiLuo>siang-gan2 chhenn-me5 heng5-tong7-put-pian7 e5 Chhoa3-sian-senn ham Lim5-sian-senn ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>siang1-qan4 cenn1-me5 hing5-dong2-but7-ben2 e5 Chhua3-sen1-senn1 ham1 Lim5-sin1-senn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>還得 靠著 鄰居 清點 損失 。</segmentation>
+			<TaiLuo>iau2-tioh8 oa2-kho3 chhu3-pinn chheng-tiam2 sun2-sit 。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>iau4-diorh6 ua4-kor3 cu3-binn1 cing1-diam4 sun4-sit7 。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>辛苦撐起 按摩店 生意 ，</segmentation>
+			<TaiLuo>sin-khou2 thenn3-khi2 liah8-leng5-tiam3 seng-li2 ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Sin1-ko4*-dann1-ki4 liah6-ling5-diam3*-e5 sing1-li4 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>才 半年 時間 就 被 竊賊 搬光 物品 ，</segmentation>
+			<TaiLuo>chiah poann3-ni5 si5-kan to pi7 chhat8-a2 poann-khang mih8-kiann7 ，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ziah7 buann3-ni5 si5-gan1 dor1 bi2 cat6-a4 buann1-kang1 mih6-genn2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>同棟 大樓 住戶 也曾被 竊賊 盜取 。</segmentation>
+			<TaiLuo>kang5-tong3 toa7-lau5 khia7-hou7 oan5-a7-bat-pi7 chhat8-a2 thau-theh8。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gang5-dong3 dua2-lau5 kia2-ho2 uan5-a2-vat7-bi2 cat6-a4 tau1-teh8。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

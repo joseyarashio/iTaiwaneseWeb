@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>RSGetASPObject 方法</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rsrsgetaspobjectmethod"></a>RSGetASPObject 方法</h1>
+<p>
+建立設定為可接收遠端 scripting 呼叫的 ASP 網頁之物件引用。</p>
+<p>
+<b>語法</b></p>
+<p>
+<i>objName</i> = RSGetASPObject(<i>url</i>)</p>
+<p>
+<b>參數</b></p>
+<DL>
+<DT>
+<i>objName</i></DT>
+<DD>
+您可以用來啟動 <i>url</i>所指定網頁中的方法之物件變數。<P></DD>
+<DT>
+<i>url</i></DT>
+<DD>
+ASP 網頁的路徑和檔案名稱，此網頁包含您想要呼叫的方法，其格式為 //server/.../filename.asp。<P></DD>
+</DL>
+<p>
+<b>請注意</b></p>
+<p>
+藉由建立 ASP 網頁的物件引用，您就可以使用標準的 <i>object</i>.<i>method</i> 語法來呼叫該物件的方法。如果您並未建立 ASP 物件的物件引用，還是可以呼叫此物件的方法，但是必須使用比較複雜的 <a href="rmscpt13.htm">RSExecute</a> 方法。</p>
+<p>
+例如，下列範例在第一行建立一個物件變數 <code>empLookup</code> ，它會引用 ASP 網頁 EmpLists.asp。下一行則呼叫 ASP 網頁的 <code>GetNames</code> 方法︰</p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript"&gt;
+empLookup = RSGetASPObject("../mypages/EmpLists.asp");
+co = empLookup.GetNames();
+&lt;/SCRIPT&gt;
+</code></pre>
+<p>
+<b>請參閱</b></p>
+<p>
+<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a></p>
+<p>
+<a href="rmscpt5.htm">同步呼叫遠端 Scripting 方法</a></p>
+<p>
+<a href="rmscpt4.htm">將 ASP 網頁當作物件引用</a></p>
+</BODY>
+</HTML>

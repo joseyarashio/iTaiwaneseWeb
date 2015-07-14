@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用輸入視窗來決定連結網址</h2>
+<hr>
+
+<script>
+function link2course() {
+	course = prompt("請輸入課程編號：(cs3431, cs3331, cs3334, cs5652, or isa5571)", "cs3431");
+	if ((course=="cs3431")||(course=="cs3331")||(course=="cs3334")||(course=="cs5652")||(course=="isa5571"))
+		location.href="http://neural.cs.nthu.edu.tw/jang/courses/" + course;
+}
+</script>
+
+<a href="javascript:link2course()">張老師的課程</a>
+
+<hr>
+</body>
+</html>

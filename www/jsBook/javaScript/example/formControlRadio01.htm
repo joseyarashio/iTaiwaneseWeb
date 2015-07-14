@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>表單元素 radio 的性質列表</h2>
+<hr>
+
+<b>呈現方式</b>：男<input type=radio name=gender id=radio1> 女<input type=radio name=gender id=radio2 checked>
+<script>
+obj1=document.all["radio1"];
+obj2=document.all["radio2"];
+</script>
+<script src="utility.js"></script>
+<p><b>原始碼</b>：
+<script>sourcePrint(obj1)</script>
+<script>sourcePrint(obj2)</script>
+<p><b>radio1 性質排序列表</b>：
+<p><script>propertyPrint(obj1, "obj")</script>
+<p><b>radio2 性質排序列表</b>：
+<p><script>propertyPrint(obj2, "obj")</script>
+
+<hr>
+</body>
+</html>

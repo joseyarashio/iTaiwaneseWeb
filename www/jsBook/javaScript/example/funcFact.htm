@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>以遞迴方式進行階乘函數的計算</h2>
+<hr>
+
+<script>
+function fact(n){		// 以遞迴方式進行階乘函數的計算
+	if (n==0) return(1);	// 結束條件
+	return(n*fact(n-1));	// 遞迴呼叫
+}
+
+for (i=10; i<19; i++)
+	document.write(i+"! = "+fact(i)+"<br>");
+</script>
+
+<hr>
+</body>
+</html>

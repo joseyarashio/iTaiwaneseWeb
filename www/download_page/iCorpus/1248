@@ -1,0 +1,139 @@
+<article>
+	<id>1248</id>
+	<title>自強號 引擎脫落 旅客 摸黑步行鐵軌</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>一列 自強號 二零五六號 火車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-liat8 Chu7-kiong5-ho7 ji7-khong3-gou7-liok8-ho7 hoe2-chhia，</JiaoLuo>
+			<TongYong>Zit6-let6 Zu2-Giong5-Hor2* qi2-kong3-nqo4-liok6-hor2* hue4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>從台東 開往 台中縣 豐原，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 Tai5-tang khui-ong2 Tai5-tiong-koan7 Hong-goan5，</JiaoLuo>
+			<TongYong>ui3-Dai5-Dang1* kui1-ong4 Dai5-Diong1-Guan2* Hong1-Quan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>在 行經 屏東縣 竹田 西勢路段，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-kiann5-keng Pin5-tong-koan7 Tek-tian5 Sai-se3 lou7-toann7，</JiaoLuo>
+			<TongYong>di2 ging1-gue3 Bin5-Dong1-Guan2* Dik7-Can5* Sai1-Se3*-lo2-duann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>倒數 第二車廂 的 引擎 脫落，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>boe2-ji7 chhia-siunn-e5 ian5-jin2 lut-khi3，</JiaoLuo>
+			<TongYong>au2-biah7*-sng3*-lai5 de2-qi2-cia1-siunn1* e5 en5-rin4* lak7*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>列車 緊急的停駛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>liat8-chhia kin2-kip-e5 theng5-sai2， </JiaoLuo>
+			<TongYong>let6-cia1* gin4-gip7*-e5 ting5*-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>脫離了 後面 兩個車廂，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thoat-li7-liau2 au7-bin7 nng7-e5 chhia-siunn，</JiaoLuo>
+			<TongYong>tuat7-li5-liau4 au2-biah7*-e5 nng2-e5*-cia1-siunn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>再 由 前頭車廂，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-iu5 thau5-cheng5 chhia-siunn，</JiaoLuo>
+			<TongYong>gorh7 iu5 tau5-zing5*-e5-cia1-siunn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>將旅客 載到 屏東火車站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiong lu2-kheh chai3-kau3 Pin5-tong-hoe2-chhia-cham7，</JiaoLuo>
+			<TongYong>ga2-lu4-keh7* zai3-gau3 Bin5-Dong1*-Hue4-Cia1-Zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>台灣鐵路局 緊急調派 八輛遊覽車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5-thih-lou7-kiok8 kin2-kip-tiau3-phai3 peh-tai5 iu5-lam2-chhia，</JiaoLuo>
+			<TongYong>Dai5-Uan5-Tih7-Lo2-Giok6* gin4-gip7*-diau3-pai3 beh7-dai5-iu5-lam4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>接駁 剩下的旅客，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiap-lau5 chhun-e5 lu2-kheh，</JiaoLuo>
+			<TongYong>ziap7-un2 cun1*-e5-lu4-keh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>拖延了 一個多小時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thoa-ian5-liau2 chit8-tiam2-goa7-cheng，</JiaoLuo>
+			<TongYong>tua1-liau4 zit6-diam4-qua2-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>民眾 簡直 氣炸了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 kin-pun2 khi3-hai7-i7，</JiaoLuo>
+			<TongYong>vin5-ziong3* giong5-veh7 ki3*-si4-a3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>要台鐵 負責，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ai3 Tai5-thih hu7-chek，</JiaoLuo>
+			<TongYong>ai3-Dai5-Tih7* hu2-zik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>讓他們 可以 順利回家，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7-in e7-tang3 sun7-li7 tng2-khi3， </JiaoLuo>
+			<TongYong>ho2-in1 e2-dang3 sun2-li2*-dng4*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>受損車廂 已經 從 西勢路段，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu7-sun2 chhia-siunn i2-keng-tui3 Sai-se3-lou7-toann7，</JiaoLuo>
+			<TongYong>siu2-sun4*-e5-cia1-siunn1* i4-ging1 ui3 Sai1-Se3*-lo2-duann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>順利拖到 西勢火車站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sun7-li7 thoa-kau3 Sai-se3-hoe2-chhia-cham7 ， </JiaoLuo>
+			<TongYong>sun2-li2*-tua1-gau3 Sai1-Se3*-Hue4-Cia1-Zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>晚間 十一點 二十六分 以後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>am3-si5 chap8-it-tiam2 ji7-chap8-lak8-hun i2-au7，</JiaoLuo>
+			<TongYong>am3-si5* zap6-it7-diam4* qi2-zap6-lak6-hun1* i4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>北上列車 已經 恢復通車。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiunn7-pak-liat8-chhia i2-keng khoe-hok8-thong-chhia。</JiaoLuo>
+			<TongYong>ziunn2-bak7*-e5-let6-cia1* i4-ging1 kue1-hok6-tong1-cia1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

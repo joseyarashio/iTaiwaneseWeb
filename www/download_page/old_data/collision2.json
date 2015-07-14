@@ -1,0 +1,500 @@
+[
+ {
+  "syllable": "a1", 
+  "flag": "1", 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposer": "", 
+   "Proposal": "", 
+   "addr": {
+    "": ""
+   }, 
+   "Original": "", 
+   "time": ""
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "vor5-la3", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "沒有", 
+   "Original": "VOR5-LA3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "time": "", 
+   "expiry": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }, 
+ {
+  "syllable": "vor5-la3", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "沒有", 
+   "Original": "VOR5-LA3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+0"
+   ]
+  }
+ }, 
+ {
+  "syllable": "ah1", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "ah3", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+1"
+   ]
+  }
+ }, 
+ {
+  "syllable": "dor2", 
+  "flag": 0, 
+  "Result": {
+   "checker": "", 
+   "expiry": "", 
+   "time": ""
+  }, 
+  "Controversy": {
+   "Proposal": "null", 
+   "Original": "DOR2", 
+   "addr": [
+    "/GitRepos/finish/DaAi/vvrs13-20130317-0408-20130423.trs+176.833+2"
+   ]
+  }
+ }
+]

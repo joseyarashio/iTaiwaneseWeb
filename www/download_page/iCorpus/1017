@@ -1,0 +1,125 @@
+<article>
+	<id>1017</id>
+	<title>疑似 駕駛 路況不熟 母女駕車 墜碼頭</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>淡水的 漁人碼頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tam7-chui2-e5 hi5-lang5-be2-thau5，</JiaoLuo>
+			<TongYong>Dam2-Zui4*-e5 Hi5-Lang5-Ve4-Tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>二十五日 中午 發生 轎車墜海的 意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji7-chap8-gou7-ho7 tiong-tau3 hoat-seng kiau7-chhia tui7-hai2-e5 i3-goa7，</JiaoLuo>
+			<TongYong>ri2-zap6-qo2-hor2* diong1-dau3* huat7-sing1 giau2-cia1*-dui2-hai4*-e5 i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>車上 一對母女，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-teng2 chit8-tui3 bu2-lu2，</JiaoLuo>
+			<TongYong>cia1-ding4* zit6-dui3-vu4-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>被救上岸 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-kiu3 chiuN7-hoaN7-au7，</JiaoLuo>
+			<TongYong>hong5*-giu3-ziunn2-huann2* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>已經沒有 生命跡象，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng bo5-seN3-mia7 iaN2-chiah，</JiaoLuo>
+			<TongYong>i4-ging1-vor5 senn3-mia2-hen2-siang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>警方懷疑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong giau5-gi5，</JiaoLuo>
+			<TongYong>ging4-hong1*-huai5-qi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>可能是 駕駛 對於 當地路況 不熟悉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5-si7 ka3-su2 tui3-i5 chai7-toe7 lou7-chhau2 bo5-sek，</JiaoLuo>
+			<TongYong>kor4-ling5-si2 ga3-su4* dui3-i5 dong1-de2*-e5-lo2-kong4* vor5-sik6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>才會發生 這樣的意外。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-e7 hoat-seng an2-ne-e5 i3-goa7。</JiaoLuo>
+			<TongYong>ziah7-e2-huat7-sing1 an4-ne1*-e5-i3-qua2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>根據 警消調查，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ku3 keng2-siau tiau-cha，</JiaoLuo>
+			<TongYong>Gin1-gi3 ging4-siau1*-diau1-za1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>這對 不幸溺斃的 母女，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-tui3 put-heng7 im-si2-e5 bu2-lu2。</JiaoLuo>
+			<TongYong>zit7-dui3 but7-hing2*-im1*-si4-e5 vu4-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>女兒 領有 身障手冊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-bou2-kiaN2 nia2-u7 sin-chiong3-chhiu2-chheh，</JiaoLuo>
+			<TongYong>za1-vo4-giann4* nia4-u2 zan5-ziong3-ciu4-ceh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>長期 靠著 媽媽照顧，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng5-ki5 oa2-tioh8 lau7-bu2 chiau3-kou3，</JiaoLuo>
+			<TongYong>dng5-gi5* ua4-kor3 ma1-ma1*-e5-ziau3-go3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>母女倆 在一起 生活了 四十多年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bu2-lu2-nng7-e5 cho3-hoe2 seng-oah8-liau2 si3-chap8-goa7-ni5，</JiaoLuo>
+			<TongYong>vu4-li4*-nng2-e5* zor3-hue4 sing1-uah6-liau4 si3-zap6-qua2-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>可能 母女倆 想 趁著 天氣不錯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5 bu2-lu2-nng7-e5 siuN7-than3-tioh8 thiN-khi3 be7-bai2，</JiaoLuo>
+			<TongYong>kor4-ling5* vu4-li4*-nng2-e5* siunn2-veh7 tan3 tinn1-ki3*-ve2-vai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>到 漁人碼頭 開車散心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3 hi5-lang5-be2-thau5 khui-chhia san3-sim，</JiaoLuo>
+			<TongYong>gau3 Hi5-Lang5-Ve4-Tau5* kui1-cia1*-san3-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>沒想到 竟然 發生意外。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siuN7-kau3 keng2-jian5 hoat-seng i3-goa7。</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3 ging4-ren5* huat7-sing1-i3-qua2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

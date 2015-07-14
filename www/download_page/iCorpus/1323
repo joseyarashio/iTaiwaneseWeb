@@ -1,0 +1,111 @@
+<article>
+	<id>1323</id>
+	<title>讓路關喇叭 ECAF靜坐 自律 不打擾考生</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>ECFA公投 靜坐活動 最後一天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ECFA kong-tau5 cheng7-cho7-oah8-tang7 siang7-boe2-chit8-kang，</JiaoLuo>
+			<TongYong>ECFA gong1-dau5* zing2-zor2-uah6-dong2* siang2-vue4-zit6-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>遇上 國中的基測，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu2-tioh8 kok-tiong-e5 ki-chhek，</JiaoLuo>
+			<TongYong>du4-diorh6 gok7-diong1*-e5-gi1-cik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>原先 台北市政府 郝龍斌 說 會 妨礙交通，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-sian Tai5-pak-chhi7-cheng3-hu2 Hok-leng5-pin kong2 e7-hong5-gai7 kau-thong，</JiaoLuo>
+			<TongYong>quan5-sen1* Dai5-Bak7-Ci2-Zing3-Hu4* Hok7-Ling5-Bin1* gong4 e2 hong5-qai2-gau1-tong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>還說 活動的噪音 會擾人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-kong2 oah8-tang7-e5 chho3-im e7-kiau2-lang5，</JiaoLuo>
+			<TongYong>gorh7-gong4 uah6-dong2*-e5-cor3-im1* e2-giau4-ca4-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>結果 今天 靜坐民眾 展現自律，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 kin-a2-jit8 cheng7-cho7 bin5-chiong3 tian2-hian7 chu7-lut8，</JiaoLuo>
+			<TongYong>get7-gor4 gin1-a4-rit6* zing2-zor2*-e5-vin5-ziong3* den4-hen2-zu2-lut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>自動讓出 濟南路 雙線道路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu7-tong7 niu7-chhut Che3-lam5-lou7 siang-soann3-chhia-to7，</JiaoLuo>
+			<TongYong>zu2-dong2-niu2-cut7 Ze3-Lam5-Lo2* siang1-suann3*-dor2-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>以 方便 雙向通車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-hong-pian7 siang-hiong3 thong-chhia，</JiaoLuo>
+			<TongYong>i4 hong1-ben2 siang1-hiang3*-tong1-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>舞台的喇叭 也關掉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bu2-tai5-e5 la3-pa oan-na2-koainn-tiau7，</JiaoLuo>
+			<TongYong>vu4-dai5*-e5-la4-bah7* ma2-guainn1-diau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>改以 大聲公 談話。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kai-eng7 toa7-siann-kong tam5-oe7。</JiaoLuo>
+			<TongYong>gai1-ing2 dua2-siann1-gong1* gong4-ue2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>台北市政府 竟然 也派出了 環保局人員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7-cheng3-hu2 keng3-jian5-oan-na2 phai3-chhut-liau2 Khoan5-po2-kiok8-jin5-oan5，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2-Zing3-Hu4* ging3-ren5* ma2-pai3-cut7-liau4 Huan5-Bor4-Giok6-rin5-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>說 要 到場監測 聲音 分貝數，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kong2-beh kau3-tiunn5 kam3-chhek chho3-im hun-poe3-sou3，</JiaoLuo>
+			<TongYong>gong4 veh7 gau3-hen2-diunn5* gam3-cik7 siann1-im1*-e5 hun1-bue3-so3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>結果 沒有 超過標準，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 bo5-chhiau-koe3 piau-chun2，</JiaoLuo>
+			<TongYong>get7-gor4 vor5 ciau1-gue3-biau1-zun4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>謝長廷 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tsia7-tiong2-teng5 piau2-si7，</JiaoLuo>
+			<TongYong>Zia2-Diang5-Ding5* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>靜坐沉默 就是 民眾的力量。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng7-cho7 tiam7-tiam7 tioh8-si7 bin5-chiong3-e5 lek8-liong7。</JiaoLuo>
+			<TongYong>zing2-zor2*-diam2-zing2* diorh6-si2 vin5-ziong3*-e5-lik6-liang2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>顯示 JavaScript/VBScript 變數大小寫所產生的不同結果</title>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>顯示 JavaScript/VBScript 變數大小寫所產生的不同結果</h2>
+<hr>
+
+<script>
+xyz = 0
+Xyz = 1
+XYZ = 2
+document.write("<p>JavaScript:<br>xyz=" + xyz + ", Xyz=" + Xyz + ", XYZ=" + XYZ)
+</script>
+
+<script language=VBScript>
+xyz = 0
+Xyz = 1
+XYZ = 2
+document.write("<p>VBScript:<br>xyz=" & xyz & ", Xyz=" & Xyz & ", XYZ=" & XYZ)
+</script>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用確認視窗來確認連結動作</h2>
+<hr>
+
+<script>
+function link2nthu() {
+	answer = confirm("你確定要連到清大的首頁嗎？");
+	if (answer)
+		location.href="http://www.nthu.edu.tw";
+}
+</script>
+
+<!-- 第一種方法：以函數來完成此項工作 -->
+<a href="javascript:link2nthu()">清大首頁</a><br>
+
+<!-- 第二種方法：將程式碼寫在連結內。若回傳值為真，則連至新位置 -->
+<a href="javascript:if (confirm('你確定要連到交大的首頁嗎？')) location.href='http://www.nctu.edu.tw'">交大首頁</a><br>
+
+<!-- 第三種方法：使用 onClick 來完成此項工作。若 onClick 的值為偽，則連結無作用 -->
+<a href="http://www.ntu.edu.tw" onClick="return(confirm('你確定要連到台大的首頁嗎？'))">台大首頁</a>
+
+<hr>
+</body>
+</html>

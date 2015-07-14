@@ -1,0 +1,391 @@
+<article>
+	<id>130</id>
+	<title>日本媒體 報導 中國 明年 著手建造 航空母艦</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 即時新聞</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-Iu5-Si5-Po3 chek-si5 sin-bun5</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* zik7-si5*-sin1-vun5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>日本 「朝日新聞」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Jit8-pun2 「 Tiau5-jit8-sin-bun5 」 ，</JiaoLuo>
+			<TongYong>Rit6-bun4* 「diau1-rit6-sin1-vun5*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>今天報導，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit po3-to7 ，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* bor3-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>中國 將 從明年（二零零九年） 開始，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok boeh-tui3 me5-ni5-khi2（ ji7-khong3-khong3-kiu2-ni5 ）khai-si2 ，</JiaoLuo>
+			<TongYong>diong1-gok7* veh7 ui3-me5-ni5*（ri2-kong3-kong3-giu4-ni5*） kai1-si4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>首次 著手建造 兩艘</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5-ke3 tang7-chhiu2 kian3-cho7 nng7-chiah ，</JiaoLuo>
+			<TongYong>siu4-cu3* ki4-ciu4-gen3-zor2 nng2-ziah7</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>傳統動力 推動 的 五萬噸 至 六萬噸 級，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thoan5-thong2-tong7-lek8 thui-tong7-e5 gou7-ban7-tong3 kau3 lak8-ban7-tong3 kip ，</JiaoLuo>
+			<TongYong>tuan5-tong4-dong2-lik6* tui1-dong2* e5 qo2-van2-dong3* zi3 lak6-van2-dong3* gip7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>中型的 航空母艦，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiong-heng5-e5 hang5-khong-bo2-kam3，</JiaoLuo>
+			<TongYong>diong1-hing5*-e5 hang5-kong1-vu4-gam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>預定 二零一五年 完成，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i7-teng7 ji7-khong3-it-gou7-ni5 oan5-seng5 ，</JiaoLuo>
+			<TongYong>i2-ding2 ri2-kong3-it7-nqo4-ni5* uan5-sing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>可能 對 東亞 軍事平衡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5 tui3 Tang-a kun-su7 peng5-heng5</JiaoLuo>
+			<TongYong>kor4-ling5* dui3 dang1-a1* gun1-su2-bing5-hing5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>造成 很大影響。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 chin-toa7 eng2-hiang2 。</JiaoLuo>
+			<TongYong>zor2-sing5 zin1-dua2*-e5-ing4-hiong4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>朝日新聞 引述</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiau5-jit8-sin-bun5 in2-sut8 ，</JiaoLuo>
+			<TongYong>diau1-rit6-sin1-vun5* in4-sut6</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>中國 軍方 和 造船公司 等</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok kun-hong kah cho7-chun5-kong-si teng2 ，</JiaoLuo>
+			<TongYong>diong1-gok7* gun1-hong1* gah7 zor2-zun5-gong1-si1* ding4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>有關人士 的 透露 報導，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu2-koan-jin5-su7 e5 thau3-lou7 po3-to7 ，</JiaoLuo>
+			<TongYong>iu4-guan1-rin5-su2* e5 tau3-lo2* bor3-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>中國 在 今年秋天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok ti7 kin-ni5 chhiu-thinn ，</JiaoLuo>
+			<TongYong>diong1-gok7* di2 gin1-ni5*-ciu1-tinn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>已經 在 上海市郊外 長興島，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng ti7 Siong7-hai2-chhi7 kau-goa7 Tiong5-heng-to2 ，</JiaoLuo>
+			<TongYong>i4-ging1 di2 siong2-hai4-ci2*-gau1-qua2* diong5-hing1-dor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>完成 全球 最大規模的 造船基地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-seng5 choan5-kiu5 siang7-toa7 kui-bou5-e5 cho7-chun5-ki-te7 ，</JiaoLuo>
+			<TongYong>uan5-sing5 zuan5-giu5* siang2-dua2-gui1-mo5*-e5 zor2-zun5-gi1-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>擁有 四座 大型船埠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iong2-iu2 si3-cho7 toa7-heng5 chun5-pou7 ，</JiaoLuo>
+			<TongYong>iong4-iu4 si3-zor2 dua2-hing5-ve4-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>其中一處 要 用來 建造航艦。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong chit8-ui7 boeh-iong7-lai5 kian3-cho7 hang5-kam3。</JiaoLuo>
+			<TongYong>gi5-diong1-zit6-ui2 veh7 iong2-lai5 gen3-zor2-hang5-gam3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>報導指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>po3-to7 chi2-chhut ，</JiaoLuo>
+			<TongYong>bor3-dor2*-zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>中國軍方 今年秋天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok kun-hong kin-ni5 chhiu-thinn ，</JiaoLuo>
+			<TongYong>diong1-gok7*-gun1-hong1* gin1-ni5*-ciu1-tinn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>完成 「大航空母艦 計畫」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-seng5 「 toa7-hang5-khong-bo2-lam7 ke3-oe7  」 ，</JiaoLuo>
+			<TongYong>uan5-sing5 「dua2-hang5-kong1-vu4-gam3 ge3-ue2*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>在 海軍 總司令部，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 hai2-kun chong2-su-leng7-pou7 ，</JiaoLuo>
+			<TongYong>di2 hai4-gun1* zong4-su1-ling2-bo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>成立 專門部門，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>seng5-lip8 choan-bun5 pou7-bun5 ，</JiaoLuo>
+			<TongYong>sing5-lip6 zuan1-vun5-bo2-mng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>要 建造 傳統動力型，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>boeh kian3-cho7 thoan5-thong2 tong7-lek8-heng5</JiaoLuo>
+			<TongYong>veh7 gen3-zor2 tuan5-tong4-dong2-lik6-hing5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>並非 核能動力型 的 航艦，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7-hui hek8-leng5-tong7-lek8-heng5 e5 hang5-lam7 ，</JiaoLuo>
+			<TongYong>bing2-hui1 hik6-ling5-dong2-lik6-hing5* e5 hang5-gam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>預定 部署於 南海艦隊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i7-teng7 pou7-su2-ti7 Lam5-hai2-lam7-tui7 ，</JiaoLuo>
+			<TongYong>i2-ding2 bo2-su4-di2 lam5-hai4-gam3-dui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>同時 在 海南島 三亞，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tang5-si5-ti7 Hai2-lam5-to2 Sam-a ，</JiaoLuo>
+			<TongYong>dong5-si5* di2 hai4-lam5-dor4* sam1-a1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>已經建設 專用埠頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng kian3-siat choan-iong7 pou-thau5 ，</JiaoLuo>
+			<TongYong>i4-ging1-gen3-set7 zuan1-iong2-ve4-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>中國 並 從 俄羅斯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok peng7-tui3 Go5-lo5-su ，</JiaoLuo>
+			<TongYong>diong1-gok7* bing2-ciann4 ui3-qor5-lor5-su1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>購入 大約 五十架，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>be2-tioh8 tai7-iok gou7-chap8-chiah ，</JiaoLuo>
+			<TongYong>ve4-rip6 dai2-iok7 qo2-zap6-ziah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>蘇愷三三型 航艦搭載的 戰鬥機。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sukhoi sam-sam-heng5 hang5-lam7 tah-chai3 e5 chian3-tou3-ki 。</JiaoLuo>
+			<TongYong>Sukhoi sann1-zap6-sann1-hing5* hang5-gam3*-dah7-zai3* e5 zen3-dau3-gi1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>朝日新聞 指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiau5-jit8-sin-bun5 chi2-chhut ，</JiaoLuo>
+			<TongYong>Diau5-rit6-sin1-vun5* zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>俄羅斯 在 舊蘇聯 時代，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Go5-lo5-su ti7 ku7-Sou-lian5 si5-tai7 ，</JiaoLuo>
+			<TongYong>qor5-lor5-su1* di2 gu2-so1-len5* si5-dai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>建造七成 還未完工的</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kian3-cho7 chhit-siann5 iau2-boe7 oan5-kang-e5 ，</JiaoLuo>
+			<TongYong>gen3-zor2-cit7-siann5* iau4-vue2-uan5-gang1*-e5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>六萬噸級 航艦 「Varyag號」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lak8-ban7-tong3-kip hang5-lam7 「 Varyag-ho7 」 ，</JiaoLuo>
+			<TongYong>lak6-van2-dong3-gip7* hang5-gam3* 「Varyag hor2*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>然後 於 一九九八年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jian5-au7-ti7 it-kiu2-kiu2-pat-ni5 ，</JiaoLuo>
+			<TongYong>ren5-au2* di2 it7-giu4-giu4-bat7-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>賣給 澳門 一家 旅遊公司 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>be7-hou7 O3-mng5 chit8-keng li2-iu5-kong-si au7</JiaoLuo>
+			<TongYong>ve2-ho2 or3-mng5* zit6-ging1 li4-iu5-gong1-si1* liau4-au2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>這艘 半成品 於 二零零二年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-chiah poann3-seng5-phin2 ti7 ji7-khong3-khong3-ji7-ni5 ，</JiaoLuo>
+			<TongYong>zit7-ziah7 buan3-sing5-pin4* di2 ri2-kong3-kong3-ri2-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>由 大連 造船公司 進行改建，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5 Tai7-lian5 cho7-chun5-kong-si chin3-heng5 kai2-kian3 ，</JiaoLuo>
+			<TongYong>iu5 dai2-len5* zor2-zun5-gong1-si1* zin3-hing5-gai4-gen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>目前 在大連港 的 這艘航艦，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok8-cheng5 ti7 Tai7-lian5-kang2 e5 chit-chiah hang5-lam7 ，</JiaoLuo>
+			<TongYong>vok6-zing5* di2-dai2-len5-gang4* e5 zit7-ziah7-hang5-gam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>最近 已 完成改建，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choe3-kin7 i2-oan5-seng5 kai2-kian3 ，</JiaoLuo>
+			<TongYong>zue3-gin2* i4-ging1 uan5-sing5-gai4-gen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>能夠 為訓練 而航行，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-tang3 ui7 hun3-lian7 iah hang5-heng5 ，</JiaoLuo>
+			<TongYong>e2-dang3 ui2-hun3-len2* lai-hang5-hing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>用來 培訓 航艦搭載 戰鬥機 的 飛行員。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iong7-lai5 poe5-hun3 hang5-lam7 tah-chai3 chian3-tou3-ki e5 hui-heng5-oan5 。</JiaoLuo>
+			<TongYong>iong2-lai5 bue5-hun3 hang5-gam3*-dah7-zai3* zen3-dau3-gi1* e5 hui1-hing5-uan5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>中國 並 在大連 成立</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok peng7-ti7 Tai7-lian5 seng5-lip8 ，</JiaoLuo>
+			<TongYong>diong1-gok7* gorh7 di2-dai2-len5* sing5-lip6</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>訓練 航艦搭載 戰鬥機 飛行員 的 學校，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hun3-lian7 hang5-lam7 tah-chai3 chian3-tou3-hui-heng5-oan5 e5 hak8-hau7 ，</JiaoLuo>
+			<TongYong>hun3-len2 hang5-gam3*-dah7-zai3* zen3-dau3-gi1* hui1-hing5-uan5* e5 hak6-hau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>從 二零零七年 起 前往Ukraine</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 ji7-khong3-khong3-chhit-ni5 khi2 chian5-ong2 Ukraine ，</JiaoLuo>
+			<TongYong>ui3 ri2-kong3-kong3-cit7-ni5* ki4* zen5-ong4 Ukraine</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>接受訓練 的 中國 海軍人員 擔任講師，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiap-siu7 hun3-lian7-e5 Tiong-kok hai2-kun-jin5-oan5 tam-jim7 kang2-su ，</JiaoLuo>
+			<TongYong>ziap7-siu2-hun3-len2* e5 diong1-gok7* hai4-gun1-rin5-uan5* dam1-rim2-gang4-su1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=47>
+			<segmentation>已經 著手訓練 大約 五十名 飛行員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng tang7-chhiu2 hun3-lian7 tai7-iok gou7-chap8-mia5 hui-heng5-oan5 ，</JiaoLuo>
+			<TongYong>i4-ging1 ki4-ciu4-hun3-len2 dai2-iok7* qo2-zap6-mia5 hui1-hing5-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=48>
+			<segmentation>並 要 從俄羅斯 招聘老師。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7 boeh-tui3 Go5-lo5-su chio-pheng3 lau7-su 。</JiaoLuo>
+			<TongYong>ri5-ciann4 veh7 ui3-qor5-lor5-su1* zior1-pin3-lau2-su1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=49>
+			<segmentation>報導 引述</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>po3-to7 in2-sut8 ，</JiaoLuo>
+			<TongYong>bor3-dor2* in4-sut6</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=50>
+			<segmentation>一名 中國 海軍少將 的 發言 指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 Tiong-kok hai2-kun-siau2-chiong3 e5 hoat-gian5 chi2-chhut ，</JiaoLuo>
+			<TongYong>zit6-mia5 diong1-gok7* hai4-gun1-siau3-ziong3* e5 huat7-qen5* zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=51>
+			<segmentation>航空母艦的 任務，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hang5-khong-bo2-lam7 e5 jim7-bu7 ，</JiaoLuo>
+			<TongYong>hang5-kong1-vu4-gam3*-e5 rin2-vu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=52>
+			<segmentation>是 防衛 中國 由中東 進口石油</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 hong5-oe7 Tiong-kok tui3 Tiong-tang chin3-khau2 chioh8-iu5 ，</JiaoLuo>
+			<TongYong>si2 hong5-ui2 diong1-gok7* ui3-diong1-dang1* zin3-kau4-ziorh6-iu5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=53>
+			<segmentation>經過 的 麻六甲 海峽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3-e5 Malacca hai2-kiap ，</JiaoLuo>
+			<TongYong>ging1-gue3* e5 Malacca hai4-giap7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=54>
+			<segmentation>和 印度洋 的 海上 生命線 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kap In3-tou7-iunn5 e5 hai2-siang7 senn3-mia7-soann3 。</JiaoLuo>
+			<TongYong>gah7 in3-do2-iunn5* e5 hai4-siong2 senn3-mia2-suann3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

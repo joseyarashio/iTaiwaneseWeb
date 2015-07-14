@@ -1,0 +1,21 @@
+路徑:http://localhost/phpmyadmin/ !!!注意事項 不要把語言調成中文,除非不會用到 strture ,問題目前沒找到解決辦法,應該是當初寫的人留下的bug,網路上目前有這問題出現,但沒有人有提出解決方法
+帳號密碼同iTaiwanese與其密碼 
+資料在 itaiwanese裡面
+一共有10個table
+account 紀錄帳號主要資訊 `value`->權限(0->訪客 1->有註冊 2~9->管理員可設 10->管理員) `date`->創辦日期 `redate`->上一次登入日期 
+accountdata 紀錄帳號個人訊息 `account`->帳號 關連於`account`.`account`因此`account`刪除會連`accountdata`一起刪除 `name`->名子  `reason`->想使用這個網站的理由
+file 存放目前提供的給人可以下載的資料,控制editablepage.php所呈現的樣式 `base`關連於filebase.`name`所以刪除filebase內的資料會連同file一起刪除, `accesskey` 變動方式 random.php
+
+filebase 存放目前提供的給人可以下載的資料的欄位名稱,控制editablepage.php所呈現的樣式
+
+filedata 整理出來可以新增的資料,但不一定要新增,如果有用accesskey的話,無人可以取得,除非新增 它關連於value_c `name`='valid_path' 如果刪除valid_path的資料 相對應的 filedata也會跟著刪除
+
+message_board 紀錄留給管理員的訊息
+
+value 存放value為常數的資料
+
+value_c 存放value為varchar的資料
+
+visitinfo 訪問訊息(如果visitor為問題,那就是指有人試圖跳過home.php,直接去連入其他網頁,target會顯示它想連什麼,假如visitor為 問題-試圖找尋檔案 在是有人在editablepage.php 試圖猜測id或accesskey,來尋找其他wav檔)
+
+web 存放home.php可以看到的所有網頁

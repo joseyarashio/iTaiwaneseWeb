@@ -1,0 +1,111 @@
+<article>
+	<id>978</id>
+	<title>回診 看報告 收費 民眾痛批 被 剝兩層皮</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>很多民眾 到醫院 做檢查，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin-che7 bin5-chiong3 kau3 peN7-iN7 cho3-kiam2-cha ，</JiaoLuo>
+			<TongYong>Zin1-ze2-vin5-ziong3* gau3-benn2-inn2* zor3-giam4-za1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>往往 不是當天 看報告，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ong2-ong2 m7-si7 hian7-jit8 khoaN3-po3-ko3，</JiaoLuo>
+			<TongYong>ong4-ong4* m2-si2-dong-rit6* kuann3-bor3-gor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>都必須 還要回診，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2 pit-su-ai3 he5-chin2，</JiaoLuo>
+			<TongYong>long4-bit7-su1 ai3-gorh7-hue5-zin4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>但 問題是，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7 bun7-te5-si7，</JiaoLuo>
+			<TongYong>m2-gorh7 vun2-de5*-si2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>回診 得要 多付一次 掛號費，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>he5-chin2 to-ai3 ke-hu3 chit8-pai2 koa3-ho7-hui3，</JiaoLuo>
+			<TongYong>hue5-zin4* diorh6-ai3 ge1-hu3-zit6-bai4 gua3-hor2-hui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>不少民眾 痛批，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>be7-chio2 bin5-chiong3 thong3-phe，</JiaoLuo>
+			<TongYong>ve2-zior4-vin5-ziong3* giong5-let6-pe1-ping5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>根本 是 被 剝了 兩層皮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-pun2 si7 pi7-pak-liau2 nng7-teng5-phoe5，</JiaoLuo>
+			<TongYong>gin1-bun4* si2 hong5* bak7-nng2-zan3-pue5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>但 衛生署長 楊志良 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7 Oe7-seng-su2-tiuN2 IuN5-chi3-liang5 piau2-si7，</JiaoLuo>
+			<TongYong>dan2-si2 ue2-sing1-su4-diunn4* Iunn5-Zi3-Liang5* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>如果是 慢性病患 回診，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ju5-ko2-si7 ban7-seng3-peN7-hoan7 he5-chin2，</JiaoLuo>
+			<TongYong>ru5-gor4-si2 van2-sing3*-benn2-huan2* hue5-zin4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>因為 有 所謂的 行政費用，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 u7 sou2-ui7-e5 heng5-cheng3 hui3-iong7，</JiaoLuo>
+			<TongYong>in1-ui2 u2 so4-ui2*-e5 hing5-zing3-hui3-iong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>所以 還是 得繳費，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou2-i2 a2-si7 ai3-kiau2-hui3，</JiaoLuo>
+			<TongYong>so4-i4 iau4-si2 ai3-giau4-hui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>但 如果是 單純 看報告，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-na7-si7 tan-sun5 khoaN3-po3-ko3，</JiaoLuo>
+			<TongYong>dan2-si2 ru5-gor4-si2 dan1-sun5* kuann3-bor3-gor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>要不要 收掛號費，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh-ah-m7 siu koa3-ho7-hui3，</JiaoLuo>
+			<TongYong>gam4-veh7 siu1-gua3-hor2-hui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>還會 再討論。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah-e7 koh-tho2-lun7。</JiaoLuo>
+			<TongYong>iah7-e2 gorh7-tor4-lun2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

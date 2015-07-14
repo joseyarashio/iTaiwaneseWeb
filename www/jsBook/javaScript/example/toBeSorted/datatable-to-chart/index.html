@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>Generating charts from accessible data tables using the Google Chart API</title>
+    <link type="text/css" rel="stylesheet" href="http://yui.yahooapis.com/2.4.1/build/reset-fonts-grids/reset-fonts-grids.css">
+    <link type="text/css" rel="stylesheet" href="page.css">
+    <link type="text/css" rel="stylesheet" href="table2chart.css">
+</head>
+<body>
+<div id="doc">
+    <div id="hd">
+        <h1>Generating charts from accessible data tables using the Google Chart API</h1>
+    </div>
+    <div id="bd">
+        <div class="yui-b">
+            <p>Read the <a href="http://www.wait-till-i.com/2008/01/08/generating-charts-from-accessible-data-tables-using-the-google-charts-api/">blog post about table to chart</a></p>
+            <table class="tochart" summary="Fruit Consumption of under 15 year olds, March 2007">
+              <caption>Fruit Consumption</caption>
+              <thead>
+                <tr><th scope="col">Fruit</th><th scope="col">Amount</th></tr>
+              </thead>
+              <tbody>
+                <tr><td>Apples</td><td>10</td></tr>
+                <tr><td>Oranges</td><td>58</td></tr>
+                <tr><td>Pineapples</td><td>95</td></tr>
+                <tr><td>Bananas</td><td>30</td></tr>
+                <tr><td>Pears</td><td>63</td></tr>
+              </tbody>
+            </table>
+
+            <table class="tochart size300x100 color990000" summary="Browsers for this site, March 2007">
+              <caption>Browsers</caption>
+              <thead>
+                <tr><th scope="col">Browser</th><th scope="col">Percent</th></tr>
+              </thead>
+              <tbody>
+                <tr><td>Firefox</td><td>60</td></tr>
+                <tr><td>MSIE</td><td>25</td></tr>
+                <tr><td>Opera</td><td>10</td></tr>
+                <tr><td>Safari</td><td>5</td></tr>
+              </tbody>
+            </table>
+            
+            <h2>Charts to tables:</h2>
+            
+            <img src="http://chart.apis.google.com/chart?cht=p3&chco=339933&chs=450x150&chd=t:10,58,95,30,63&chl=Apples|Oranges|Pineapples|Bananas|Pears" alt="Fruit Consumption of under 15 year olds, March 2007" class="totable"/>
+
+            <img src="http://chart.apis.google.com/chart?cht=p3&chco=666699&chs=450x150&chd=t:60,10,20,10&chl=Firefox|MSIE|Opera|Safari" alt="Browsers used on this site" class="totable"/>
+            
+        </div>
+    </div>
+    <div id="ft">
+        <p>All work by <a href="http://wait-till-i.com">Christian Heilmann</a>, <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Some rights reserved</a>.</p>
+  </div>
+  <script src="table2chart.js"></script>
+</body>
+</html>
+

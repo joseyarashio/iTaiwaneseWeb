@@ -1,0 +1,97 @@
+<article>
+	<id>1261</id>
+	<title>拖板車 撞死婦女 死者家屬 哭倒在地</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>晚間最新 社會新聞 消息，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>am3-si5 siang7-sin sia7-hoe7-sin-bun5-siau-sit，</JiaoLuo>
+			<TongYong>Am3-si5*-siong2-sin1*-e5 sia2-hue2-sin1-vun5* siau1-sit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台北縣 新莊 發生一起 死亡車禍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 Sin-chng hoat-seng chit8-khi2 si2-bong5-chhia-ho7，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* Sin1-Zng1* huat7-sing1-zit6-giann2 si4-vong5*-cia1-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一名 五十七歲的 劉姓婦人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 gou7-chap8-chhit-hoe3 e5 senn3-Lau5 hu7-jin5，</JiaoLuo>
+			<TongYong>zit6-e5* qo2-zap6-cit7-hue3* senn3-Lau5*-e5 hu2-rin5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>晚間 騎摩托車 行經路口 的時後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>am3-si5 khia5-ou-tou2-bai2 kiann5-koe3 lou7-khau2 si5-chun7，</JiaoLuo>
+			<TongYong>am3-si5* kia5-o1-do4-vai4* ging1-gue3-lo2-kau4* e5-si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>卻 遭到 一台 雙連結 拖板車 撞上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-tu2-tioh8 chit8-tai5 siang-lian5-kiat thoa-pan2-chhia e-tioh8，</JiaoLuo>
+			<TongYong>suah7 ki3-ho2 zit6-dai5 siang1-len5-get7* tua1-ban4-cia1* long3*-diorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>壓在車底， 當場死亡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teh-ti7 chhia-toe2，tong-tiunn5-si2-bong5 ，</JiaoLuo>
+			<TongYong>deh7-di2-cia1-de4*， dong1-diunn5*-si4-vong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>駕駛 經過酒測 是零，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka3-su2 keng-koe3 chiu2-chhek si7 leng5， </JiaoLuo>
+			<TongYong>ga3-su4* ging1-gue3-ziu4-cik7* si2-ling5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>警方 目前 深入調查 意外原因，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong bok8-cheng5 chhim-jip8 tiau-cha i3-goa7-goan5-in，</JiaoLuo>
+			<TongYong>ging4-hong1* vok6-zing5* cim1-rip6-diau1-za1 i3-qua2*-e5-quan5-in1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>不過 死者的兒女 來到現場 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 si2-chia2-e5 kiann2-ji5 lai5-kau3 hian7-tiunn5-si5，</JiaoLuo>
+			<TongYong>m2-gorh7 si4-zia4*-e5 hau2-senn1* za1-vo4-giann4* lai5-gau3-hen2-diunn5* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>看到 母親的遺體，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoann3-tioh8 bu2-chhin-e5 ui5-the2，</JiaoLuo>
+			<TongYong>kuann3-diorh6 lau2-vu4*-e5-ui5-te4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>當場 情緒失控，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-tiunn5 cheng5-su7-sit-khong3，</JiaoLuo>
+			<TongYong>dong1-diunn5* zing5-su2*-sit7-kong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>哭倒在 地上。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khau3-to2-ti7-thou5-kha。</JiaoLuo>
+			<TongYong>kau3-dor4-di2 to5-ka1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

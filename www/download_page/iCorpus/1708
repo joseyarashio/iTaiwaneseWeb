@@ -1,0 +1,111 @@
+<article>
+	<id>1708</id>
+	<title>技術突破 平地草莓 口感再提升</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>種植 高山草莓 多年 的 苗栗農民，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng3 ko-soann chhi3-pho choe7-ni5-e5 Biau5-lek8 choh-sit-lang5 ，</JiaoLuo>
+			<TongYong>Zing3 gor1-suann1-cau4-mui5* zin1-ze2-ni5* e5 Viau5-Lik6-long5-vin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>將 施肥管理的 經驗 運用在 平地栽種，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka7 he7-pui5 koan2-li2-e5 keng-giam7 un7-iong7-ti7 penn5-te7 chai-cheng3 ，</JiaoLuo>
+			<TongYong>ga2 he2-bui5*-guan4-li4*-e5 ging1-qiam2* un2-iong2-di2 benn5-de2*-zai1-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>結果 生產出 口感脆、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 seng-san2-chhut au5-un7 chhe3 、</JiaoLuo>
+			<TongYong>get7-gor4 sing1-san4-cut7 kau4-gam4*-ce3*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>果肉 又紮實 的 草莓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe2-chi2-bah koh chat8-pak-e5 chhi3-pho ，</JiaoLuo>
+			<TongYong>gue4-zi4-vah7* gorh7-zat6-sit6* e5 cau4-mui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>加上 產期長 又可以 存放更久，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-siang7 san2-ki5-tng5 koh-e7-tang3 kia3-khng3 khah-ku2 ，</JiaoLuo>
+			<TongYong>ga1-siong2 san4-gi5*-dng5* gorh7-e2-dang3 kng3-kah7-gu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>特別受到 廠商青睞。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tek8-piat8 siu7-tioh8 chhiunn2-siong kah-i3 。</JiaoLuo>
+			<TongYong>dik6-bet6-siu2-diorh6 ciunn4-siong1*-ding3-i3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>他 說 兩者 差異最大的 地方，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-kong2 nng7-e5 cheng-chha siang7-toa7-e5 sou2-chai7 ，</JiaoLuo>
+			<TongYong>I1 gong4 nng2-ziong4* ca1-i2*-siong2-dua2*-e5 so4-zai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>在 施肥的管理 跟 預防鳥害 的 問題。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 he7-pui5 e5 koan2-li2 kap i7-hong5 chiau2-hai7 e5 bun7-te5 ，</JiaoLuo>
+			<TongYong>di2 he2-bui5*-e5-guan4-li4* gah7 i2-hong5-ziau4-hai2* e5 vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>利用中藥材 殺菌 加上 魚粉、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>li7-iong7 tiong-ioh8-chai5 sat-khun2 ka-siang7 hi5-hun2 、</JiaoLuo>
+			<TongYong>Li2-iong2-diong1-iorh6-zai5* sat7-kun4* ga1-siong2 hi5-hun4*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>芝麻 等 十幾種材料 做成的肥料 施肥，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>moa5-a2 teng2 chap8-kui-cheng2 chai5-liau7 cho3-seng5-e5 pui5-liau7 he7-pui5 ，</JiaoLuo>
+			<TongYong>mua5*-a4 ding4-ding4* zap6-gui4-ziong4-zai5-liau2* zor3-sing5*-e5-bui5-liau2* he2-bui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>除了 讓草莓 品質好，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti5-liau2 hou7 chhi3-pho phin2-chit-ho2 ，</JiaoLuo>
+			<TongYong>du5-liau4 ho2-cau4-mui5* pin4-zit7*-hor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>生產期 又 比別人更久，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>seng-san2-ki5 koh-pi2 pat8-lang5 khah-ku2 ，</JiaoLuo>
+			<TongYong>sing1-san4-gi5* gorh7 bi4-bat6-lang5*-kah7-gu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>就有 巧克力 廠商 和他合作 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-u7 chi-ku-lat8 chhiunn2-siong kap i hap8-chok liau2-au7 ，</JiaoLuo>
+			<TongYong>diorh6-u2 chocolate ciunn4-siong1* gah7-i1-hap6-zok7* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>都沒有 再換過 草莓供應商。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-bo5 koh-oann7-koe3 chhi3-pho kiong-eng3-siong 。</JiaoLuo>
+			<TongYong>long4-vor5 gorh7-uann2-gue3 cau4-mui5*-giong1-ing3-siong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

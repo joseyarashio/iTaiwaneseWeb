@@ -1,0 +1,21 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>顯示網頁載入時間的警告視窗</h2>
+<hr>
+
+<script>
+today = new Date();			// 產生日期物件
+hour = today.getHours();		// 取得時數
+minute = today.getMinutes();		// 取得分數
+second = today.getSeconds();		// 取得秒數
+string = "網頁載入時間是"+hour+"點"+minute+"分"+second+"秒";	// 連接字串
+</script>
+<a href="javascript:alert(string)">網頁載入時間</a>
+
+<hr>
+</body>
+</html>

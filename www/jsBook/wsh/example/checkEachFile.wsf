@@ -1,0 +1,25 @@
+<job>
+<script src="/users/jang/wsh/utility.fun"></script>
+<script>
+dir=".";
+output=fileList(dir, "js");
+//printArray(output);
+//WScript.Quit();
+
+fso=new ActiveXObject("Scripting.FileSystemObject");
+
+for (i=0; i<output.length; i++){
+	fileName=output[i];
+	try {
+		fid=fso.OpenTextFile(fileName);
+		content=fid.ReadAll();
+		fid.Close();
+		eval(content);
+		result="";
+	} catch(errObj){
+		result="Try & Catch 所偵測到的錯誤訊息：" + errObj.description;
+	}
+	WScript.Echo(i+"/"+output.length+": " + fileName + " ===> " + result);
+}
+</script>
+</job>

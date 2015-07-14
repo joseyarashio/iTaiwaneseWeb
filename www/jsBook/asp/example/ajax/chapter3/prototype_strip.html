@@ -1,0 +1,18 @@
+<html>
+<head>
+<meta http-equiv="Content-Type=text/html; charset=BIG5"/>
+<script type="text/javascript" src="script/prototype.js"></script>
+<script type="text/javascript">
+function process() {
+	var content = document.getElementById('content').value;
+	alert ('去除所有 HTML 標籤：' + content.stripTags());
+	alert ('去除所有 Script 區塊：' + content.stripScripts());
+	alert ('轉換保留的關鍵字：' + content.escapeHTML());
+}
+</script>
+</head>
+<body>
+<textarea id="content" rows=20 cols=40></textarea><br>
+<input type="button" value="Go" onClick="process()">
+</body>
+</html>

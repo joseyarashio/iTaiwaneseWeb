@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>同步呼叫遠端&nbsp;Scripting&nbsp;方法</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rscallingremotescriptingmethodssynchronously"></a>同步呼叫遠端&nbsp;Scripting&nbsp;方法</h1>
+<p>
+當您在客戶端網頁與伺服端網頁上都建構了遠端 scripting 之後，就可以從客戶端 script 呼叫伺服端網頁的方法。當您呼叫伺服端方法時，預設情況會以同步的方式執行&nbsp;- 客戶端 script 會停止，直到伺服端方法結束執行並傳回結果為止。一般而言，當您的客戶端 script 立即需要伺服端方法的結果時，就要用同步方式呼叫伺服端方法。</p>
+<p>
+<b>附註</b>&nbsp;&nbsp;&nbsp;您也可以用非同步方式呼叫伺服端方法。相關的詳細資訊，請參閱<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a>。</p>
+<p>
+當您呼叫一個伺服端方法，該方法並不是傳回一個單一數值。而是建立一個<FONT COLOR=RED>呼叫物件</FONT>，其中包含了有關呼叫程序的傳回與狀態資訊。最常用到的屬性是該呼叫物件的 <code>return_value</code>  屬性，此屬性包含了一個由遠端程序所計算或查詢的數值。其它呼叫物件屬性則讓您取得更多有關遠端程序呼叫狀態的資訊。</p>
+<p>
+如果您已建立一個對伺服端網頁的物件引用，就可以用標準的 <i>object.method</i> 語法來呼叫方法。關於建立物件引用的詳細資訊，請參閱<a href="rmscpt4.htm">將 ASP 網頁當作物件引用</a>。或者，您也可以不用物件引用方式來呼叫遠端 scripting 方式。這麼做是比使用 <i>object.method</i> 語法稍稍繁複一點，不過卻不需要預先建立物件引用。 </p>
+<p>
+<b>若要同步呼叫伺服端方法</b>
+<ul>
+<li>
+如果您已建立一個對伺服端網頁的物件引用，當您從 JavaScript 呼叫時，請用第一種語法範例，如果使用的是 VBScript 呼叫時，請用第二種語法範例︰
+<i>callObject</i> = <i>ASPObject</i>.<i>methodName</i>(<i>p1</i>, <i>p2</i>[,...])
+
+VBScript:
+set <i>callObject</i> = <i>ASPObject</i>.<i>methodName</i>(<i>p1</i>, <i>p2</i>[,...])
+</code></pre>
+<p>
+-&nbsp;or&nbsp;-</p>
+</li>
+<li>
+如果您並未建立物件引用，請呼叫 <code>RSExecute</code> 函數。當您從 JavaScript 呼叫時，請用第一種語法範例，而當您用 VBScript 呼叫時，請用第二種語法範例︰<pre><code>JavaScript:
+<i>callobject</i> = RSExecute(<i>url</i>, <i>methodName</i>, <i>p1</i>, <i>p2</i>[,...])
+
+VBScript:
+set <i>callobject</i> = RSExecute(<i>url</i>, <i>methodName</i>, <i>p1</i>, <i>p2</i>[,...])
+</code></pre>
+<p>
+其中︰
+<ul>
+<li>
+<i>callObject</i>&nbsp;&nbsp;&nbsp;表示呼叫物件的名稱，此呼叫物件會在遠端 scripting 呼叫結束時啟動。您並不需要在呼叫遠端 script 前先建立這個物件；遠端 script 呼叫會自動為您建立。<br><br></li>
+<li>
+<i>ASPObject</i>&nbsp;&nbsp;&nbsp;先前選擇性地使用 <a href="rmscpt14.htm">RSGetASPObject</a> 方法所建立的物件引用。若需詳細資訊，請參閱<a href="rmscpt4.htm">將 ASP 網頁當作物件引用</a>。<br><br></li>
+<li>
+<i>url</i>&nbsp;&nbsp;&nbsp;ASP 網頁的 URL，此 ASP 網頁包含您想執行的遠端 script。此伺服端網頁必須按照<a href="rmscpt3.htm">在伺服端網頁中啟動遠端 Scripting</a>中的說明建構。此伺服端網頁必須放在您要求的目前客戶端網頁的伺服器上。<br><br></li>
+<li>
+<i>methodName</i>&nbsp;&nbsp;&nbsp;在伺服端網頁上，是您想執行的方法名稱。<br><br></li>
+<li>
+<i>p1, p2, ...&nbsp;&nbsp;&nbsp;</i> 執行 <i>methodName</i>中的方法所需要的各種參數。參數以數值方式傳送。您可以傳送像是數字或文字數值之類的簡單資料型態，但是不得傳送陣列或物件之類的結構化資料。<p>
+<b>附註</b>&nbsp;&nbsp;&nbsp;當參數從客戶端傳送到伺服器時，會被轉換為字串。請確定伺服端方法在使用這些參數數值時，會將其轉換為適當的資料型態。如需詳細的資訊，請參閱<a href="rmscpt3.htm">在伺服端網頁中啟動遠端 Scripting</a>。
+</li>
+</ul>
+</li>
+</ul>
+<p>
+例如，下列的客戶端 script 中關於 btnAdd 按鈕的 onclick 處理常式呼叫了伺服端方法 add 來加入兩個數字。呼叫遠端 scripting 方法的動作建立了一個名為 <code>co</code> 的呼叫物件。遠端 scripting 呼叫的結果會會從呼叫物件的 <code>return_value</code> 屬性中抽選出來，並且顯示為 <code>txt3</code> 文字方塊的數值。</p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript" for="btnAdd" event="onclick"&gt;
+    rsMath = RSGetASPObject("../myPages/RSMath.asp")
+    number1 = txt1.value;
+    number2 = txt2.value;
+    co = rsMath.Add(number1,number2);
+    txt3.value = "The sum is " + co.return_value;
+&lt;/SCRIPT&gt;
+</code></pre>
+<p>
+不藉助物件引用 (使用 <code>RSExecute</code>) 所進行的同型呼叫，可能如下例所示︰</p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript" for="btnAdd" event="onclick"&gt;
+    number1 = txt1.value;
+    number2 = txt2.value;
+    co = RSExecute("RSmath.asp","add",number1,number2);
+    txt3.value = "The sum is " + co.return_value;
+&lt;/SCRIPT&gt;
+</code></pre>
+<p>
+關於如何在進行遠端 scripting 呼叫時檢查錯誤的相關資訊，請參閱<a href="rmscpt7.htm">檢查錯誤</a>。</p>
+</BODY>
+</HTML>

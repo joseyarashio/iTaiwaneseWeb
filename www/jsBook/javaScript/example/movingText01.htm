@@ -1,0 +1,31 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>跑馬燈</h2>
+<hr>
+
+<input type=text id=myText1 size=40>
+<div id=myText2></div>
+
+<script>
+text="那河畔的金柳，是夕陽中的新娘；波光裡的豔影，在我的心頭蕩漾...";
+text=text+"　　　　　　　　　　　　　　　　　　";	// 加一些全形空白
+
+function showMovingText(){
+	var n = text.length;
+	text = text.substr(1, n-1)+text.substr(0, 1);		// 將第一個字搬到最後面
+	document.getElementById("myText1").value = text;	// 設定至文字欄位
+	document.getElementById("myText2").innerHTML = text;	// 設定至 <div> 標籤內文
+	window.status = text;					// 設定至狀態列
+	setTimeout("showMovingText()", 400);			// 0.4 秒閃一遍
+}
+
+showMovingText();
+</script>
+
+<hr>
+</body>
+</html>

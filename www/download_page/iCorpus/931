@@ -1,0 +1,118 @@
+<article>
+	<id>931</id>
+	<title>輕航機 俯瞰寶島 山河變色</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>莫拉克 颱風 無情 凌虐 南台灣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bok8-la-khek hong-thai bo5-cheng5 leng5-ti5 lam5-Tai5-oan5，</JiaoLuo>
+			<TongYong>Vok6-la1-kik7* hong1-tai1* vor5-zing5* ling5-qik6 lam5-dai5-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>房屋 倒一地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-theh8 to3-kui-phian3，</JiaoLuo>
+			<TongYong>cu3-teh6* dor4-gui1-pen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>崩山情況 嚴重，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pang-soaN cheng5-hong2 giam5-tiong7，</JiaoLuo>
+			<TongYong>bang1-suann1*-zing5-hong4* qiam5-diong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>尤其 屏東縣 高樹鄉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-ki5 Pin5-tang-koan7 Ko-chhiu7-hiong，</JiaoLuo>
+			<TongYong>iu5-gi5 bin5-dong1-guan2* gor1-ciu2-hiang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>因為 荖濃溪 堤岸潰堤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 Lau2-long5-khe the5-hoaN7 pang-hoaN7，</JiaoLuo>
+			<TongYong>in1-ui2 lau4-long5-ke1* borh7-huann2*-bang1*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>導致 新豐村 一百多公頃 土地 流失，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 Sin-hong-chhoan chit8-pah-goa7 kong-kheng2 thou2-te7 liu5-sit，</JiaoLuo>
+			<TongYong>di3-su4 sin1-hong1-cuan1* zit6-bah7-qua2-gong1-king4* to4-de2* liu5-sit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>而 從山上 流下 的 土石樹枝，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah tui3 soaN-teng2 lau5-ha7-e5 thou5-chioh8 chhiu7-ki，</JiaoLuo>
+			<TongYong>a1* ui3-suann1-ding4* lau5*-lorh6-lai5 e5 to5-ziorh6*-ciu2-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>完全沖毀 流進溪裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chong2 chhiang5-hui2 lau5-jip8 khe-lai7，</JiaoLuo>
+			<TongYong>uan5-zuan5-ciong1-hui4* lau5-rip6-ke1-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>嚴重 堵塞河床，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>giam5-tiong7 that-si2 ho5-chhng5，</JiaoLuo>
+			<TongYong>qiam5-diong2 tat7-diau5-hor5-cng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>台中市 有一位 熱心民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-chhi7 u7 chit8-ui7 jiat8-sim bin5-chiong3，</JiaoLuo>
+			<TongYong>dai5-diong1-ci2* u2-zit6-ui2 ret6-sim1-vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>搭 朋友的 輕航機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>che7 peng5-iu2 e5 khin-hang5-ki，</JiaoLuo>
+			<TongYong>ze2 bing5-iu4*-e5 kin1-hang5-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>高空 拍下 一張張 山河變色的 照片，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ko-khang hip-ha7 chit8-tiuN-tiuN soaN-ho5 pian3-sek siong3-phiN3，</JiaoLuo>
+			<TongYong>gor1-kong1* hip7-ha2 zit6-diunn1*-zit6-diunn1* san1-hor5*-ben3-sik7*-e5 siang3-pinn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>希望 藉著 公布照片，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi-bong7 chia3-tioh8 kong-pou3 siong3-phiN3，</JiaoLuo>
+			<TongYong>hi1-vang2 ziorh7-diorh6 gong1-bo3-siang3-pinn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>能 讓更多的人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7 hou7 khah-ke e5 lang5，</JiaoLuo>
+			<TongYong>e2-dang3 ho2-kah7-ze2*-e5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>關心 台灣這塊 受創的土地。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koan-sim Tai5-oan5 chit-te3 siu7-chhong3 e5 thou2-te7。</JiaoLuo>
+			<TongYong>guan1-sim1 dai5-uan5*-zit7-de3 siu2-cong3*-e5-to4-de2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

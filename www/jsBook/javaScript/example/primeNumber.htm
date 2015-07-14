@@ -1,0 +1,33 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>顯示質數的範例</h2>
+<hr>
+
+<script>
+n=100;
+count=1;
+document.writeln("<center>");
+document.writeln("<table border=1>");
+document.writeln("<tr><th>編號<th>質數值");
+for (i=1; i<=n; i++){
+	maxDivisor=Math.sqrt(i);
+	isPrime=1;
+	for (j=2; j<=maxDivisor; j++)
+		if (i%j==0){
+			isPrime=0;
+			break;
+		}
+	if (isPrime)
+		document.writeln("<tr><td>"+(count++)+"<td>"+i);
+}
+document.writeln("</table>");
+document.writeln("</center>");
+</script>
+
+<hr>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>地震</h2>
+<hr>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- begin
+// please help yourself to this code.
+var startTime   =null;
+var timerID     =null;
+var initial     =new Date();
+var pos         =0;
+var menuItem    =null;
+
+function parsemenuItem(data, num) {
+	for(var i=0;i<data.length;i++) {
+		if(data.substring(i,i+1)=="|")
+			break;
+	}
+	if (num==0)
+		return(data.substring(0,i));
+	else
+		return(data.substring(i+1,data.length));
+}
+
+function startTimer() {
+	initial = new Date();
+	startTime=initial.getTime();
+	menuItem = new Array(
+		"1. HTML|http://neural.cs.nthu.edu.tw/jang/sandbox/html",
+		"2. JavaScripts|http://neural.cs.nthu.edu.tw/jang/sandbox/javascript",
+		"3. ASP|http://neural.cs.nthu.edu.tw/jang/sandbox/asp",
+		"4. CGI|http://neural.cs.nthu.edu.tw/jang/sandbox/cgi",
+		"5. WWW+Databases|http://neural.cs.nthu.edu.tw/jang/sandbox/www+db",
+		"6. Search Engines|http://neural.cs.nthu.edu.tw/jang/sandbox/search",
+		"7. Web Server|http://neural.cs.nthu.edu.tw/jang/sandbox/server");
+	showTimer();
+}
+
+function showTimer() {
+	pos= (pos == menuItem.length) ? 1 : pos + 1;
+	document.forms[0].elements[0].value=parsemenuItem(menuItem[pos],0);
+	timerID=window.setTimeout('showTimer()',1000);
+}
+
+function goToUrl()  {
+	//parent.welcome.location=parsemenuItem(menuItem[pos],1);
+	this.location=parsemenuItem(menuItem[pos],1);
+	return (false);
+}
+// end -->
+</SCRIPT>
+</head>
+
+<body onLoad="startTimer()">
+Links to Roger's WWW sandboxes:
+<br>
+<form>
+<INPUT TYPE=button NAME="goTo" onClick="goToUrl()">
+</form>
+
+<hr>
+</body>
+</html>

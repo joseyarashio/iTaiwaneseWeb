@@ -1,0 +1,97 @@
+<article>
+	<id>1280</id>
+	<title>北二高走山 雙向車道 受阻 傳出 車輛 遭土石掩埋</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>國道三號 北上 三點一公里 處，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kok-to7-sann-ho7 chiunn7-pak sann-tiam2-it kong-li2-chhu3，</JiaoLuo>
+			<TongYong>Gok7-dor2*-sann1-hor2* ziunn2-bak7* sann1-diam4-it7-gong1-li4* e5 so4-zai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>靠近 瑪陵坑 七堵路段，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho3-kin7 Be2-leng5-khenn Chhit-tou2 lou7-toann7，</JiaoLuo>
+			<TongYong>ua4-gin2 Ma4-Ling5-Kenn1* Cit7-Do4*-lo2-duann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>下午 整片山壁 突然 崩落在 道路上；</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e5-pou kui-phiann2 soann-piah tut8-jian5 pang-pai7-ti7 to7-lou7-teng2；</JiaoLuo>
+			<TongYong>e2-bo1* gui1-pen3-suann1-biah7* tut6-ren5-gan1* bang1-lorh6-di2 dor2-lo2-ding4*；</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>崩坍意外 造成 雙向車道 封閉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pang-thap i3-goa7 cho7-seng5 siang-hiong3-chhia-to7 hong-pi3，</JiaoLuo>
+			<TongYong>bang1-suann1*-e5-i3-qua2* zor2-sing5 siang1-hiong3*-cia1-dor2* hong1-bi3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>警消 已經 派人員 前往救援；</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-siau i2-keng phai3-jin5-oan5 chian5-ong2 kiu3-oan7；</JiaoLuo>
+			<TongYong>ging4-siau1* i4-ging1 pai3-rin5-uan5* zen5-ong4-giu3-uan5*；</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>坍方路段 是 在 國道三號 三點一公里 處，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tham-hong-lou7-toann7 si7-ti7 Kok-to7-sann-ho7 sann-tiam2-it kong-li2-chhu3，</JiaoLuo>
+			<TongYong>bang1-suann1*-e5-lo2-duann2* si2 di2 gok7-dor2*-sann1-hor2* sann1-diam4-it7-gong1-li4* e5 so4-zai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>經過 相關單位 評估，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 siang-koan-tan-ui7 pheng5-kou2，</JiaoLuo>
+			<TongYong>ging1-gue3 siong1-guan1-dan1-ui2* bing5-go1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>總共 寬 兩百公尺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chong2-khoah nng7-pah kong-chhioh， </JiaoLuo>
+			<TongYong>zong4-giong2* nng2-bah7-gong1-ciorh7 kuah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>長 七百公尺 的 路段，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng5 chhit-pah kong-chhioh e5 lou7-toann7，</JiaoLuo>
+			<TongYong>cit7-bah7-gong1-ciorh7 dng5* e5 lo2-duann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>完全 被 坍塌的土石 掩埋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-choan5-pi7 pang-thap-e5 thou5-chioh8 iam2-mai5，</JiaoLuo>
+			<TongYong>uan5-zuan5* ho2 bang1*-lorh6-lai5-e5 to5-ziorh6* dai5*-diorh6，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>車輛 都 無法 再經過，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-liong2 long2-bo5-hoat koh-keng-koe3，</JiaoLuo>
+			<TongYong>cia1-liong2* long4 vor5-huat7-do2 gorh7-ging1-gue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>已經封閉 整個路段。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng hong-pi3 kui-e5 lou7-toann7。</JiaoLuo>
+			<TongYong>i4-ging1-hong1-bi3 gui1-e5-lo2-duann2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

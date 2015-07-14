@@ -1,0 +1,76 @@
+<article>
+	<id>1240</id>
+	<title>餐廳 遭祝融 瓦斯外洩 引火 連燒四家店</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北市 南京東路 上 一間餐廳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7 Lam5-kiann-tang-lou7 teng2 chit8-keng chhan-thiann，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2* Lam5-Giann1-Dang1-Lo2* ding4* zit6-ging1-can1-tiann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>三十日 晚間 七點多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-chap8-ho7 am3-si5 chhit-tiam2-goa7，</JiaoLuo>
+			<TongYong>sann1-zap6-hor2* am3-si5* cit7-diam4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>突然發生 火警意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tut8-jian5 hoat-seng hoe2-sio-i3-goa7，</JiaoLuo>
+			<TongYong>tut6-ren5*-huat7-sing1 hue4-ging4*-e5-i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>正在用餐的 客人 立刻 被疏散，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiann3-leh eng7-chhan lang5-kheh chek-si5 pi7-sou-san3，</JiaoLuo>
+			<TongYong>dng1-deh7-ing2-can1*-e5 lang5-keh7* ma4-siang2* ho2-lang5-so1-san3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>不過 因為 旁邊 就是 加油站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 in-ui7 pinn-a2 tioh8-si7 ka-iu5-cham7，</JiaoLuo>
+			<TongYong>m2-gorh7 in1-ui2 binn1*-a1* diorh6-si2 ga1-iu5-zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>情況 一度 相當危急，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chong7-hong2 it-to2 siang-tong-gui5-kip，</JiaoLuo>
+			<TongYong>zing5-kong4* zit6-si5* hui1-siang5-ui5-gip7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>消防隊 出動 十八輛 消防車 前往灌救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-tui7 chhut-tong7 chap8-peh-tai5 siau-hong5-chhia koan3-kiu3，</JiaoLuo>
+			<TongYong>siau1-hong5-dui2* cut7-dong2 zap6-beh7-dai5 siau1-hong5-cia1* zen-ong4-guan3-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>幸好 火勢 很快 被控制，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 hoe2-si3 chin-kin2 pi7-khong3-che3，</JiaoLuo>
+			<TongYong>hor4-ga1-zai3* hue4-se3* zin1-gin4* hong5*-kong3-ze3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>沒有人 傷亡。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-lang5-siong-bong5。</JiaoLuo>
+			<TongYong>vor5-lang5-siang1-vong5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

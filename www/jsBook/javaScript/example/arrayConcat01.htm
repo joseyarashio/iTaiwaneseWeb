@@ -1,0 +1,28 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>陣列的方法：split() 和 concat()</h2>
+<hr>
+
+<script src="listArray.js"></script>
+<script>
+str1="鍾倫、陳晴";
+str2="陳江村、林政源、張永森";
+array1=str1.split('、');	// 將字串拆成陣列
+array2=str2.split('、');	// 將字串拆成陣列
+document.writeln("Array 1:<br>");
+listArray(array1, 'array1');
+document.writeln("Array 2:<br>");
+listArray(array2, 'array2');
+document.writeln("<p>將上述兩個陣列並排的結果：<br>");
+document.writeln("Array 3:<br>");
+array3=array1.concat(array2);
+listArray(array3, 'array3');
+</script>
+
+<hr>
+</body>
+</html>

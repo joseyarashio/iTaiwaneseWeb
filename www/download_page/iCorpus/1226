@@ -1,0 +1,76 @@
+<article>
+	<id>1226</id>
+	<title>大膽竊賊 腋下夾螢幕 從容 離開網咖</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 三峽警方，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 Sam-kiap keng2-hong，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* Sam1-Giap7*-ging4-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>逮捕一名 大膽的 網咖竊賊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tai7-pou2 chit8-mia5 toa7-tann2-e5 bang7-ka chhat8-a2，</JiaoLuo>
+			<TongYong>dai4-bo4-zit6-e5* dua2-dann4*-e5 vang2-ga1*-cat6-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>他 不偷 體積小的 滑鼠 或是 鍵盤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i bo5-thau the2-chek-se3-e5 liu3-chhi2 ah-si7 khi2-poann5，</JiaoLuo>
+			<TongYong>i1 vor5-tau1-teh6 te4-zik7*-se3*-e5 mouse ia2-si2 ki4-buann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>而是 直接偷走 液晶螢幕，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah-si7 tit8-chiap thau-chau2 ek8-chenn-eng5-bou7，</JiaoLuo>
+			<TongYong>den1-dor3-si2 dit6-ziap7*-tau1-zau4 ik6-zing1-ing5-vo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>塞不進 外套，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chinn-be7-jip8 goa7-tho3，</JiaoLuo>
+			<TongYong>zinn1-ve2-rip6 qua2-tor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>夾在腋下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>giap-ti7 koeh-lang-kha，</JiaoLuo>
+			<TongYong>qiap7-di2 gue3-lang5-ka1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>大大方方 走出去，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tai7-tai7-hong-hong kiann5-chhut-khi3，</JiaoLuo>
+			<TongYong>dai2-dai2-hong1-hong1* giann5*-cut7*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>幸好 店裡的 監視器 拍下全程，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 tiam3-lai7-e5 kam3-si7-khi3 hip-loh8-choan5-teng5，</JiaoLuo>
+			<TongYong>hor4-ga1-zai3* diam3-lai2-e5 gam3-si2-ki3* hip7-ha2 zuan5-bo2*-e5-gue3-ding5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>才能 順利抓人。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-e7 sun7-li7 liah8-lang5。</JiaoLuo>
+			<TongYong>ziah7-e2-dang3 sun2-li2-liah6-lang5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

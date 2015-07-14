@@ -1,0 +1,97 @@
+<article>
+	<id>1370</id>
+	<title>北二高 天雨路滑 貨櫃車打滑 撞成一團</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>北高二 基隆路段，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Pak-ji7-ko Ke-lang5-lou7-toann7，</JiaoLuo>
+			<TongYong>Bak7-qi2-gor1* Ge1-Lang5*-lo2-duann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>日前 才 恢復 全線通車 而己，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng5-jit8 chiah-khoe-hok8 choan5-soann3-thong-chhia na7-nia7，</JiaoLuo>
+			<TongYong>zin3-zing5* ziah7 hue1-hok6 zuan5-suann3*-tong1-cia1* nia5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>二十二日 下午五點 左右，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji7-chap8-ji7-ho7 e5-pou gou7-tiam2-cho2-iu7，</JiaoLuo>
+			<TongYong>qi2-zap6-qi2-hor2* e2-bo1*-qo2-diam4* zor4-iu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>在 七堵收費站 南下車道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Chhit-tou2-siu-hui3-cham7 loh8-lam5-chhia-to，</JiaoLuo>
+			<TongYong>di2 Cit7-Do4*-Siu1-Hui3-Zam2* lorh6-lam5*-cia1-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>發生 一輛 四十尺 貨櫃車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng chit8-chiah si3-chap8-chhioh hoe3-kui7-chhia，</JiaoLuo>
+			<TongYong>huat7-sing1 zit6-dai5 si3-zap6-ciorh7* hue3-gui2-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>疑似 因為 天雨路滑 翻車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 in-ui7 hou7-thinn lou7-kut8 peng2-chhia，</JiaoLuo>
+			<TongYong>qi5-su2 in1-ui2 lorh6-ho2*-lo2*-gut6* bing4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>整輛車 打橫 占用 三線車道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-chiah-chhia liah8-than2-hoainn5 chiam3-iong7 sann-soann3-chhia-to，</JiaoLuo>
+			<TongYong>gui1-dai5-cia1* pah7-huainn5* ziam3-ing2 sann1-suann3-cia1-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>造成 後方轎車 煞車不及 撞上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 boe2-au7 kiau7-chhia tong3-chhia-be7-hu3 tong7-tioh8，</JiaoLuo>
+			<TongYong>zor2-sing5 au2-biah7*-e5-giau1-cia1* ve2-hu3-dong3-cia1* long3*-diorh6，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>另外 國道二高 南下 九十七點二 公里 處，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7 Kok-to7 ji7-ko loh8-lam5 kau2-chap8-chhit-tiam2-ji7 kong-li2 chhu3，</JiaoLuo>
+			<TongYong>ling2-qua2* gok7-dor2*-qi2-gor1* lorh6-lam5* gau4-zap6-cit7*-diam4-qi2 gong1-li4* e5-so4-zai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>也因為 一輛 小貨車 爆胎，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-in-ui7 chit8-chiah sio2-hoe3-chhia pong7-lian2，</JiaoLuo>
+			<TongYong>ma2-in1-ui2 zit6-dai5 sior4-hue3-cia1* bok6-tai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>造成 一輛 預拌 混凝土車 跌落邊坡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 chit8-chiah i7-chhiau ang5-mng5-thou5-chhia poah8-loh8 pinn-pho，</JiaoLuo>
+			<TongYong>zor2-sing5 zit6-dai5 lam5-ma4-kong4-cia1* buah6-lorh6-ben1-por1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>幸好 兩起意外 都沒有 造成 人員傷亡。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 nng7-khi2 i3-goa7 long2-bo5 cho7-seng5 jin5-oan5-siong-bong5 。</JiaoLuo>
+			<TongYong>hor4-ga1-zai3* nng2-giann2-i3-qua2* long4-vor5 zor2-sing5 rin5-uan5*-siang1-vong5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

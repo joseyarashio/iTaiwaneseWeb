@@ -1,0 +1,15 @@
+<job>
+<script src="sumFunction.fun"></script>
+
+<script language=jscript>
+// 在不同的程式語言呼叫同一個函數
+n = 40;
+WScript.Echo("1+2+...+" + n + " = " + sum(n) + " (via Jscript)");
+</script>
+
+<script language=vbscript>
+n = 40
+WScript.Echo("1+2+...+" & n & " = " & sum(n) & " (via Vbscript)")
+</script>
+
+</job>

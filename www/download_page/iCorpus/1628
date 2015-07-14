@@ -1,0 +1,125 @@
+<article>
+	<id>1628</id>
+	<title>超車被擋 惡煞 攔國光號 欲砍人</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>國光號客運 在 高速 公路上 遇到 惡煞，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kok-kong-ho7-kheh-un7 ti7 ko-sok kong-lou7-teng2 tu2-tioh8 ok-soah，</JiaoLuo>
+			<TongYong>Gok7-Gong1-Hor2*-Keh7-Un2* di2 gor1-sok7 gong1-lo2-ding4 du4-diorh6 ok7-suah，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一名 黃姓 男子 要 載著 女友 北上 看展覽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 senn3-Ng5 cha-pou beh chai3-tioh8 li2-iu2 chiunn7-pak khoann3-tian2-lam2，</JiaoLuo>
+			<TongYong>zit6-mia5 senn3-nnq5 za1-bo1 veh7 zai3-diorh6 li4-iu4 ziunn2-bak7 kuann3-den4-lam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>在經過 四十六 點 二公里 的 時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-keng-koe3 si3-chap8-lak8 tiam2 ji7-kong-li2 e5 si5-chun7，</JiaoLuo>
+			<TongYong>di2-ging1-gue3 si3-zap6-lak6 diam4 ri2-gong1-li4 e5 si5-zun7，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>認為 國光號客運 故意 不讓 他 超車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jim7-ui5 Kok-kong-ho7-kheh-un7 thiau5-kang m7-hou7 i chhiau-chhia，</JiaoLuo>
+			<TongYong>rim2-ui5 Kok7-gong1-hor2-keh7-un2 tiau5-gang1 m2-ho2 i1 ciau1-cia，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>囂張的 黃姓 男子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hiau-pai-e5 senn3-Ng5 cha-pou，</JiaoLuo>
+			<TongYong>hiau1-bai1-e5 senn3-nnq5 za1-bo，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>竟然 就在 高速 公路上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 to-ti7 ko-sok kong-lou7-teng2，</JiaoLuo>
+			<TongYong>ging4-ren5 dor1-di2 gor1-sok7 gong1-lo2-ding2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>開車 把 國光號客運 攔下來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khui-chhia ka7 Kok-kong-ho7-kheh-un7 chah8-loh8-lai5，</JiaoLuo>
+			<TongYong>kui1-cia1 ga2 Kok7-gong1-hor2-keh7-un2 zah6-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>還 拿刀 要砍 國光號 司機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2 theh8-to beh-phut Kok-kong-ho7 un3-chiang3，</JiaoLuo>
+			<TongYong>iau4 teh6-dor1 veh7-put7 Kok7-gong1-hor2 un3-ziang3，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>幸好 車上 乘客 及時 報警。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 chhia-teng2 seng5-kheh kip8-si5 po3-keng2。</JiaoLuo>
+			<TongYong>hor4-ga1-zai3 cia1-ding4 sing5-keh7 gip6-si5 bor3-ging2。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>糾紛的 原因是 休旅車 被 聯結車 擋住，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiu3-hun-e5 goan5-in-si7 hiu5-li2-chhia pi7 lian5-kiat-chhia tong3-tiau5，</JiaoLuo>
+			<TongYong>Giu3-hun1*-e5 quan5-in1* si2 hiu5-li4-cia1 bi2 len5-get7-cia1 dong3-diau5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>黃姓 男子 想 從 旁邊 車道 超車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>senn3-Ng5 cha-po siunn7 tui3 pinn-a2 chhia-to7 chhiau-chhia，</JiaoLuo>
+			<TongYong>senn3-nnq5 za1-bor1 siunn2 dui3 binn1-a4 cia1-dor2 ciau1-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>認為 國光號客運 是 故意 阻擋在 前面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jim7-ui5 Kok-kong-ho7-kheh-un7 si7 thiau5-kang chou2-tong3-ti7 thau5-cheng5 ，</JiaoLuo>
+			<TongYong>rim2-ui5 Kok7-gong1-hor2-keh7-un2 si2 tiau5-gang1 zo4-dong3-di2 tau5-zing5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>嫌犯 直接 開車 繞到 國光號 前 停下來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hiam5-hoan7 tit8-chiap khui-chhia seh8-kau3 Kok-kong-ho7 cheng5 thih8-loh8-lai5，</JiaoLuo>
+			<TongYong>hiam5-huan2 dit6-ziap7 kui1-cia1 seh6-gau3 Kok7-gong1-hor2 zing5 tih6-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>拿刀 想要 砍人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>theh8-to siunn7-beh phut-lang5，</JiaoLuo>
+			<TongYong>teh6-dor1 siunn2-veh7 put7-lang5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>警方 及時 趕到 現場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong kip8-si5 koann2-kau3 hian7-tiunn5，</JiaoLuo>
+			<TongYong>ging4-hong1 gip6-si5 guann4-gau3 hen2-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>查扣 黃姓 男子的 番刀 和 球棒。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-khau3 senn3-Ng5 cha-po-e5 hoan-to kap kiu5-pang7。</JiaoLuo>
+			<TongYong>za1-kau3 senn3-nnq5 za1-bor1-e5 huan1-dor1 gap7 giu5-bang7。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,112 @@
+body  {
+  font: 12px/1.4 "Lucida Grande", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color: #efefef;
+  color: #333;
+}
+
+#help {
+  display: none;
+}
+
+#daw {
+  margin: 10px;
+}
+
+#daw > header {
+  display: block;
+  margin-bottom: 60px;
+  height: 100px;
+}
+
+#sound-title {
+  position: absolute;
+  top: -5px;
+  left: 10px;
+  font-size: 20px;
+  width: 1000px;
+  text-overflow: ellipsis;
+}
+
+#search {
+  position: absolute;
+  top: 85px;
+  left: 10px;
+  width: 280px;
+  height: 50px;
+  -webkit-border-radius: 5px;
+  border: 1px solid #999;
+  outline: none;
+  font-size: 18px;
+}
+
+.sound {
+  margin-top: 30px;
+  width: 100px;
+  height: 100px;
+  margin-right: 1px;
+  cursor: pointer;
+  opacity: 0.8;
+  -webkit-transition: all .2s ease-in-out;
+}
+
+.sound:hover {
+  opacity: 1;
+}
+
+.sound:first-of-type {
+  margin-left: 300px;
+}
+
+#daw > header ul {
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 10px;
+}
+
+.username {
+  color: #4b7ed4;
+}
+
+.track {
+  z-index: 1;
+  position: relative;
+  width: 0;
+  height: 280px;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+}
+
+.track.source {
+  background: -webkit-linear-gradient(top, #777, #333);
+  -webkit-transition: width 0.6s ease-in-out;
+}
+
+.track.source.loaded {
+  width: 100%;
+}
+
+.track.result {
+  width: 0;
+  background: -webkit-linear-gradient(top, #4b7ed4, #7eaff7);
+}
+
+.track.result.uploading {
+  background: -webkit-linear-gradient(top, #777, #333);
+}
+
+.playhead {
+  z-index: 2;
+  position: absolute;
+  height: 100%;
+  background: -webkit-linear-gradient(top, #ff6600, #ff4e00);
+}
+
+.clip {
+  z-index: 3;
+  position: absolute;
+  height: 100%;
+  background-size: cover;
+  image-rendering: -webkit-optimize-contrast;
+}

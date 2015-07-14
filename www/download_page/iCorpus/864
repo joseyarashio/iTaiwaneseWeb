@@ -1,0 +1,118 @@
+<article>
+	<id>864</id>
+	<title>新疆民眾 示威 中國軍警 鎮壓</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>新疆的首府 烏魯木齊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-kiong e5 siu2-hu2 Urumqi ，</JiaoLuo>
+			<TongYong>Sin1-giang1*-e5-siu4-hu4* o1-lo4-vok6-ze5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在 七月五日，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chhit-goeh go7-ho7 ，</JiaoLuo>
+			<TongYong>di2 cit7-queh6-qo2-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>有 大批民眾 走上街頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 toa7-phe bin5-chiong3 kiann5-chiunn7 ke-thau5 ，</JiaoLuo>
+			<TongYong>u2 dua2-pue1-vin5-ziong3* giann5-ziunn2-ge1-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>進行 和平抗議 活動，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin3-heng5 ho5-peng5 khong3-gi7 oah-tang7 ，</JiaoLuo>
+			<TongYong>zin3-hing5 hor5-bing5*-kong3-qi2* uah6-dong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>卻 遭到 中國武警 開槍！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-tu2-tioh Tiong-kok bu2-keng2 khui-chheng3 ！</JiaoLuo>
+			<TongYong>suah7 zor1-siu2 diong1-gok7*-vu4-ging4* kui1-cing3*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>民眾 群情激憤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 kun5-cheng5 kek-hun3 ，</JiaoLuo>
+			<TongYong>Vin5-ziong3* gun5-zing5*-gik7-hun3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>燒毀警車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sio-hui2 keng2-chhia ，</JiaoLuo>
+			<TongYong>sior1-hui4-ging4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>隨後 演變成 萬人暴動！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toe3-boe2 ian2-pian3-seng5 ban7-lang5-po7-tong7 ！</JiaoLuo>
+			<TongYong>lo-vue4* en4-ben3-sing5 van2-lang5*-bok6-dong2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>中國官方 派出 超過 五十輛 軍用卡車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok-koann-hong phai3-chhut chhiau-koe3 go7-chap-chiah kun-iong7 khah-chhia ，</JiaoLuo>
+			<TongYong>Diong1-gok7*-guann1-hong1* pai3-cut7 ciau1-gue3 qo2-zap6-ziah7* gun1-iong2-kah7-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>載著 大批 解放軍 展開鎮壓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chai3-tioh toa7-phe kai2-hong3-kun thian2-khui tin3-ap ，</JiaoLuo>
+			<TongYong>zai3-diorh6 dua2-pue1 gai4-hong3-gun1* den4-kui1-din3-ap7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>外國報導 估計，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goa7-kok po3-to7 ko2-ke3 ，</JiaoLuo>
+			<TongYong>qua2-gok7*-bor3-dor2* go1-ge3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>至少 已經有 數百人 以上 喪命，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi3-chio2 i2-keng-u7 so3-pah-lang5 i2-siong7 song3-beng7 ，</JiaoLuo>
+			<TongYong>zi3-zior4* i4-ging1-u2 so3-bah7-lang5* i4-siong2* song3-ving2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>中國軍警 鎮壓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok kun-kéng tìn-ap ，</JiaoLuo>
+			<TongYong>diong1-gok7*-gun1-ging4* din3-ap7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>新疆民眾 示威，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-kiong bîn-chiòng si7-ui ，</JiaoLuo>
+			<TongYong>Sin1-giang1*-vin5-ziong3* si2-ui1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>造成 將近千人 輕重傷！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 chiong-kun7 chheng-lang5 khin-tang7 siong ！</JiaoLuo>
+			<TongYong>zor2-sing5 ziong1-gin2-cing1-lang5* kin1-dang2-siong1*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

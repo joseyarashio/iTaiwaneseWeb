@@ -1,0 +1,118 @@
+<article>
+	<id>960</id>
+	<title>台北捷運 下班時段 兩起臥軌 一死一傷</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>下班 尖峰時間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ha7-pan chiam-hong si5-kan，</JiaoLuo>
+			<TongYong>Ha2-ban1*-e5 ziam1-hong1-si5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台北捷運 兩條 主要幹線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak chiat8-un7 nng7-tiau5 chu2-iau3 kan3-soaN3，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Zet6-Un2* nng2-diau5 zu4-iau3-gan3-suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>在 六分鐘內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 lak8-hun-cheng-lai7，</JiaoLuo>
+			<TongYong>di2 lak6-hun1-zing1-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>分別 出現了 一男一女 臥軌道 尋短，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hun-piat8 chhut-hian7-liau2 it-lam5-it-li2 to2-thih-ki siuN7-te2-lou7，</JiaoLuo>
+			<TongYong>hun1-bet6 cut7-hen2-liau4 it7-lam5*-it7-lu4* pak7-tih7-gi1-lo2* giann5-de4-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>導致 捷運 大停頓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 chiat8-un7 toa7-theng5-tun3，</JiaoLuo>
+			<TongYong>di3-su4 zet6-un2* dua2-ting5-dun3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>有 數萬名 乘客 受到影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng2-hiong2 sou3-ban7-mia5 seng5-kheh siu7-tioh8 eng2-hiong2，</JiaoLuo>
+			<TongYong>u2 so3-van2-mia5 sing5-keh7* siu2-diorh6-ing4-hiong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>其中一名，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong chit8-mia5，</JiaoLuo>
+			<TongYong>gi5-diong1*-zit6-e5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>是 從台南 北上就醫的 老翁，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 ui3 Tai5-lam5 chiuN7-pak chiu7-i-e5 lau7-lang5，</JiaoLuo>
+			<TongYong>si2 ui3-Dai5-Lam5* ziunn2-bak7*-ziu2-i1*-e5 lau2-dua2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>疑似 久病厭世，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 ku2-piN7 iam3-se3，</JiaoLuo>
+			<TongYong>qi5-su2 gu4-benn2*-ia3-se3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>在 淡水線 明德站 臥軌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Tam7-chui2-soaN3 Beng5-tek-cham7 to2-thih-ki，</JiaoLuo>
+			<TongYong>di2 Dam2-Zui4-Suann3* Ving5-Dik7-Zam2* pak7-tih7-gi1-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>送醫不治，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sang3-i put-ti7，</JiaoLuo>
+			<TongYong>sang3-i1*-but7-di2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>另一名 桃園北上的 年輕女子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-chit8-mia5 Tho5-hng5 chiuN7-pak e5 siau3-lian5 lu2-chu2，</JiaoLuo>
+			<TongYong>ling2-zit6-e5* Tor5-Hng5*-ziunn2-bak7*-e5 siau3-len5-lu4-zu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>疑似 因 家庭經濟 壓力過大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 in ka-teng5 keng-che3 ap-lek8 koe3-toa7，</JiaoLuo>
+			<TongYong>qi5-su2 in1-ui ga1-ding5-ging1-ze3* ap7-lik6*-gue3-dua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>在 板南線 西門站 尋短，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Pang-lam5-soaN3-cham7 siuN7-te2-lou7，</JiaoLuo>
+			<TongYong>di2 Bang1-Lam5-Suann3* Se1-Mng5-Zam2* giann5-de4-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>幸好 送醫 救回一命。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-loh8-chai3 sang3-i kiu3-hoe5 chit8-mia7。</JiaoLuo>
+			<TongYong>ga1-zai3* sang3-i1* giu3-hue5-zit6-mia2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

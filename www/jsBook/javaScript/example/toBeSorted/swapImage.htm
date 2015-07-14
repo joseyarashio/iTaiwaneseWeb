@@ -1,0 +1,25 @@
+<script language="JavaScript">
+if (document.images)   {
+	image1on = new Image();
+	image1on.src="einstein3.jpg";
+	image1off = new Image();
+	image1off.src = "einstein4.jpg";
+}
+
+function turnOn(imageName){
+	if (document.images)
+		document[imageName].src = eval(imageName + "on.src");
+}
+
+function turnOff(imageName){
+	if (document.images)
+		document[imageName].src = eval(imageName + "off.src");
+}
+</script>
+
+<html>
+<body>
+<A HREF="URL of linked page" onMouseOver="turnOn('image1')" onMouseOut="turnOff('image1')">
+<IMG SRC="einstein4.jpg" NAME="image1" BORDER="0"></a>
+</body>
+</html>

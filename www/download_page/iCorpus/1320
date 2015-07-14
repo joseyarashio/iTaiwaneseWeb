@@ -1,0 +1,111 @@
+<article>
+	<id>1320</id>
+	<title>余祥銓女友 選美掀風波 余天陳瑩 握手言和</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>民進黨 立法委員 余天 的 兒子 余祥銓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 lip8-hoat-ui2-goan5 I5-thian e5 hau7-senn I5-siong5-chhoan，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* lip6-huat7-ui4-uan5* I5-Ten1* e5 hau2-senn1* I5-Siang5-Zuan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>因為 他的女朋友，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 i-e5 li2-peng5-iu2，</JiaoLuo>
+			<TongYong>in1-ui2 i1-e5-li4-bing5-iu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>參加 馬來西亞的 一場 選美比賽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chham-ka Ma2-lai5-se-a e5 chit8-tiunn5 soan2-bi2-pi2-sai3，</JiaoLuo>
+			<TongYong>cam1-ga1 Ma4-Lai5-Se1-A1*-e5 zit6-diunn5 suan4-vi4*-bi4-sai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>披掛 寫著「TAIWAN CHINA」 的 彩帶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phoah8 sia2-tioh8 「TAIWAN CHINA」 e5 chhai2-toa3，</JiaoLuo>
+			<TongYong>puah6 sia4「TAIWAN CHINA」 e5 cai4-dua3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>引起 也是 民進黨立委 陳瑩 的 撻伐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in2-khi2 oan-na2-si7 Bin5-chin3-tong2-lip8-ui2 Tan5-eng5 e5 siau，</JiaoLuo>
+			<TongYong>in4-ki4 ma2-si2 Vin5-Zin3-Dong4*-lip6-ui4* Dan5-Ing5* e5 pe1-ping5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>結果 陳瑩的 一席話，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 Tan5-eng5 e5 chit8-sek8-oe7，</JiaoLuo>
+			<TongYong>get7-gor4 Dan5-Ing5*-e5 zit6-sik6-ue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>卻引來 余天的不滿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-in2-lai5 I5-thian e5 put-boan2，</JiaoLuo>
+			<TongYong>suah7-in4-lai5 I5-Ten1*-e5-but7-vuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>今天 陳瑩 特地來到 委員會 找余天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit Tan5-eng5 tek8-piat8-lai5-kau3 ui2-goan5-hoe7 chhoe7 I5-thian，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* Dan5-Ing5* zuan1-gang1-lai5-gau3 ui4-uan5-hue2* cue2-I5-Ten1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>兩人 也 立刻 在立法院 同台，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-lang5 oan-na2-sui5-ti7 Lip8-hoat-inn7 kang7-tai5，</JiaoLuo>
+			<TongYong>nng2-e5-lang5* ma2 sui5 di2-Lip6-Huat7-Inn2* gang2-dai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>雙方 握手言和。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang-hong ak-chhiu2-kong2-ho5。</JiaoLuo>
+			<TongYong>siang1-hong1* ak7-ciu4*-gong4-hor5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>陳瑩 她笑說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tan5-eng5 i-chhio3-kong2，</JiaoLuo>
+			<TongYong>Dan5-Ing5* i1-cior3-cior3*-gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>會 脫口說出 這些話，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7 thoat-khau2-kong2-chhut chia-e5-oe7，</JiaoLuo>
+			<TongYong>e2 sun2-cui3*-gong4-cut7 zia3-e5-ue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>是因為 當時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7-in-ui7 tong-si5，</JiaoLuo>
+			<TongYong>si2-in1-ui2 dong1-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>一時 沒有想到 余祥銓 是誰！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-si5 bo5-siunn7-tioh8 I5-siong5-chhoan si7-siann2！</JiaoLuo>
+			<TongYong>zit6-si5* vor5-siunn2-diorh6 I5-Siang5-Zuan5* si2-siang4*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

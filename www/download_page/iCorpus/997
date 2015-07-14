@@ -1,0 +1,118 @@
+<article>
+	<id>997</id>
+	<title>沒注意 限高 貨櫃車 車身 卡天橋</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>一輛 載有 精密 機械儀器 的 貨櫃車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tai5 chai3 u7 cheng-bit8 ki-hai5-gi5-khi3 e5 hoe3-kui7-chhia，</JiaoLuo>
+			<TongYong>Zit6-dai5 zai3-diorh6 zing1-vit6 gi1-hai5*-qi5-ki3* e5 hue3-gui2-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>行經 台中市 力行路 一處天橋 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiaN5-koe3 Tai5-tiong-chhi7 Lek8-heng5-lou7 chit8-ui7 thian-kio5 si5，</JiaoLuo>
+			<TongYong>ging1-gue3 Dai5-Diong1-Ci2* Lik6-Hing5-Lo2* zit6-e5-ten1-gior5* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>駕駛 未注意，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khui-chhia-e5 bo5-chu3-i3，</JiaoLuo>
+			<TongYong>ga3-su4* vor5-zu3-i3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>天橋 限制高度 四點四 公尺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thian-kio5 han7-che3 koan5-tou7 si3-tiam2-si3 kong-chhioh，</JiaoLuo>
+			<TongYong>ten1-gior5* han2-ze3-guan5-do2* si3-diam4-si3 gong1-ciorh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>就 強行 開過去，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to nge7-khui-koe3-khi3，</JiaoLuo>
+			<TongYong>diorh6 nqe2-sai4*-gue3*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>車頭 雖然過了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-thau5 sui-jian5-koe3-ah，</JiaoLuo>
+			<TongYong>cia1-tau5* sui1-ren5*-gue3*-a3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>車身 卡在天橋 動彈不得，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-sin khe5-ti7 thian-kio5 be7-tin2-tang7，</JiaoLuo>
+			<TongYong>cia1-sin1* ka2-di2-ten1-gior5* ve2-din4-ve2-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>當時 發出 巨大聲響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-si5 hoat-chhut pin3-piang3-siaN，</JiaoLuo>
+			<TongYong>dong1-si5* huat7-cut7 ziok7-dua2*-e5-siann1-hiang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>讓民眾 嚇了一跳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 bin5-chiong3 kiaN-chit8-tio5，</JiaoLuo>
+			<TongYong>ho2-vin5-ziong3* giann1-zit6-dior5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>而 雇用 貨櫃車 載運儀器 的 公司，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah chhiaN3 hoe3-kui7-chhia chai3-un7 gi5-khi3 e5 kong-si，</JiaoLuo>
+			<TongYong>a1* ciann3-hue3-gui2-cia1* zai3-un2-qi5-ki3* e5 gong1-si1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>更是 直呼倒楣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-si7 hoah-chin-soe，</JiaoLuo>
+			<TongYong>ging2-ga1-si2 dit6-ziap7*-huah7-sue1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>因為 這起事故，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 chit-e5-su7-kou3，</JiaoLuo>
+			<TongYong>in1-ui2 zit7-giann2-su2-go3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>造成 機械儀器 毀損，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 ki-hai5 gi5-khi3 hui2-sun2，</JiaoLuo>
+			<TongYong>zor2-sing5 gi1-hai5*-qi5-ki3* hui4-sun4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>交貨時間 得延後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau-hoe3 si5-kan ai3-ian5-au7，</JiaoLuo>
+			<TongYong>gau1-hue3*-e5-si5-gan1* ai3-en5-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>損失慘重。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sun2-sit-chham2-tiong7。</JiaoLuo>
+			<TongYong>sun4-sit7*-cam4-diong2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

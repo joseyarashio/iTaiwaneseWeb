@@ -1,0 +1,97 @@
+<article>
+	<id>1173</id>
+	<title>台大 第三十 林班地 大火 延燒 二公頃面積</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>南投縣 信義鄉 草坪頭 山區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-tau5-koan7 Sin3-gi7-hiong Chhau2-pou-thau5 soann-khu，</JiaoLuo>
+			<TongYong>Lam5-Dau5-Guan2* Sin3-Qi2-Hiang1* Cau4-Piann5-Tau5* suann1-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>發生 山林火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng soann-na5 hoe2-sio，</JiaoLuo>
+			<TongYong>huat7-sing1 suann1-na5*-hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>起火點 是 台大 第三十 林班地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tioh8-hoe2-tiam2 si7 Tai5-tai7 te7-sann-chap8 lim5-pan-te7，</JiaoLuo>
+			<TongYong>ki4-hue4-diam4* si2 Dai5-Dai2* de2-sann1-zap6 lim5-ban1-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>周圍 是 保護林地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiu-ui5-si7 po2-hou7 lim5-te7，</JiaoLuo>
+			<TongYong>ziu1-ui5* si2 bor4-ho2*-lim5-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>五十多位 消防人員 徒步 上山滅火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gou7-chap8-goa7-ui7 siau-hong5-jin5-oan5 pou7-kiann5 chiunn7-soann phah-hoe2，</JiaoLuo>
+			<TongYong>qo2-zap6-qua2-ui2 siau1-hong5-rin5-uan5* giann5-lo2* ziunn2-suann1*-pah7-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>但是 撲救不易，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh phainn2-phok-kiu3，</JiaoLuo>
+			<TongYong>m2-gorh7 hue4*-zin1-painn4-pah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>請求 六架次的 空勤總隊 直升機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chheng2-kiu5 lak8-tai5-chhu3 e5 Khong-khin5-chong2-tui7 tit8-seng-ki，</JiaoLuo>
+			<TongYong>cing4-giu5 lak6-ga3-cu3*-e5 kong1-kin5*-zong4-dui2* dit6-sing1-gi1，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>吊掛水袋 灑水撲救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiau3-koa3 chui2-te7 ak-chui2 phok-kiu3，</JiaoLuo>
+			<TongYong>diau3-gua3-zui4-de2* ia2-zui4*-giu3-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>終於 控制火勢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chong2-sng3 khong3-che3 hoe2-si3，</JiaoLuo>
+			<TongYong>zong4-suinn3 kong3-ze3-hue4-se3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>經過 初步估計，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 chhou-pou7 kou2-ke3，</JiaoLuo>
+			<TongYong>ging1-gue3 co1-bo2*-e5-go4-ge3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>延燒的 竹林地 面積，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ian5-sio-e5 tek-na5-te7 bian7-chek，</JiaoLuo>
+			<TongYong>en5-sior1*-e5 dik7-na5-de2* vin2-zik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>約略 有兩公頃。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iok-liok8-u7 nng7-kong-kheng2。</JiaoLuo>
+			<TongYong>dai2-iok7* u2-nng2-gong1-king4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：修正英文姓名</h2>
+<hr>
+
+<script>
+function checkEnglishName(uiControl) {
+	var str = uiControl.value;
+	str = str.replace(/^[\s　]+/g, "");	// 刪除頭部的空白字串
+	str = str.replace(/[\s　]+$/g, "");	// 刪除尾部的空白字串
+	str = str.replace(/[\s　]+/g, " ");	// 將其他空白字串代換成單一半形空格
+	uiControl.value = str;
+}
+</script>
+英文大名：<input id=englishName value="           Michael     　 Jordan ">
+<input type=button value="修正" onClick="checkEnglishName(englishName)">
+
+<hr>
+</body>
+</html>

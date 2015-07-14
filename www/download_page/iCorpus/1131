@@ -1,0 +1,132 @@
+<article>
+	<id>1131</id>
+	<title>第二劑 新流感疫苗 施打率偏低</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>疑似 施打 新流感 疫苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 si-tann2 Sin-liu5-kam2-ek8-biau5，</JiaoLuo>
+			<TongYong>Qi5-su2 zu3 sin1-liu5-gam4* ik6-viau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>因此往生的 台中 劉姓男孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-chhu2 ong2-seng Tai5-tiong senn3-Lau5 cha-pou-kiann2-a2，</JiaoLuo>
+			<TongYong>get7-gor4-ong4-sing1*-e5 Dai5-Diong1* senn3-Lau5*-e5 za1-bo1-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>今天 他所就讀的 育仁國小，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit i sou2 chiu7-thok8-e5 Iok8-jin5-kok-sio2，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* i1-so4-tak6*-e5 Iok6-Rin5*-Gok7-Sior4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>開始 針對 一 到 三年級 學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khai-si2 chiam-tui3 it kau3 sann-ni5-kip hak8-seng，</JiaoLuo>
+			<TongYong>kai1-si4 ziam1-dui3 it7 gau3 sann1-ni5-gip7* e5 hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>施打 第二劑的 疫苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si-tann2 te7-ji7-che7 e5 ek8-biau5，</JiaoLuo>
+			<TongYong>zu3 de2-ri2-ze1*-e5 ik6-viau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>只不過，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-put-ko3，</JiaoLuo>
+			<TongYong>zi4-but7-gor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>原本 該有 四百五十位 學童 報到，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 kai-u7 si3-pah gou7-chap8-ui7 hak8-tong5 po3-to3，</JiaoLuo>
+			<TongYong>quan5-bun4* ing3-gai1-u2 si3-bah7-qo2-zap6-ui2 hak6-dong5* bor3-dor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>卻 只來了 八十幾位，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah chi2-lai5-liau2 peh-chap8 kui2-ui7，</JiaoLuo>
+			<TongYong>suah7 gan1-na2*-lai5-liau4 beh7-zap6-gui4-ui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>施打率 不到兩成，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si-tann2-lut8 bo5-kau3 nng7-siann5，</JiaoLuo>
+			<TongYong>zu3-sia2-lut6* vor5-gau3-nng2-siann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>有一些 學童 天真地表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-chit8-koa2-a2 hak8-tong5 thian-chin-e5 piau2-si7，</JiaoLuo>
+			<TongYong>u2-zit6-gua4 hak6-dong5 zin1-ten1-zin1*-e5 biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>沒來打針的，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-lai5 chu3-sia7-e5，</JiaoLuo>
+			<TongYong>vor5-lai5-zu3-sia2*-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>是因為 他們「怕死」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7-in-ui7 in 「kiann-si2」，</JiaoLuo>
+			<TongYong>si2-in1-ui2 in1「giann1-si4*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>這樣的現象 在北部 同樣 也發生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an2-ne-e5 hian7-siong7 ti7-pak-pou7 kang7-khoan2 oan-na2-hoat-seng，</JiaoLuo>
+			<TongYong>an4-ne1*-e5-hen2-siang2* di2-bak7-bo2* gang2-kuan4 ma2-huat7-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>台北市 碧湖國小 也有學童 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7 Phek-ou5-kok-sio2 oan-na2-u7 hak8-tong5 piau2-si7，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2* Pik7-O5*-Gok7-Sior4* ma2-u2-hak6-dong5* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>他們班上 有 一半以上的 同學，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-pan-siong7 u7-chit8-poann3 i2-siong7 tong5-oh8，</JiaoLuo>
+			<TongYong>in1-hit7-ban1* u2 zit6-buann3*-i4-siang2*-e5 dong5-orh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>都因為 家長 不同意</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-in-ui7 ka-tiunn2 bo5-tong5-i3</JiaoLuo>
+			<TongYong>long4-in1-ui2 ga1-diunn4* vor5-dong5-i3</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>繼續施打 第二劑！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke3-siok8 si-tann2 te7-ji7-che7！</JiaoLuo>
+			<TongYong>ge3-siok6-zu3 de2-ri2-ze1*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

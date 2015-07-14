@@ -1,0 +1,28 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>鍵盤事件：偵測複合鍵</h2>
+<hr>
+
+<script>
+// Shift 的鍵盤代碼是 16，Ctrl 的鍵盤代碼是 17，Alt 的鍵盤代碼是 18
+function keyFunction() {
+	// 若不加第二個條件，會印出兩次警告視窗
+	// 一次是按 Shift，第二次是按其他鍵
+	if ((event.shiftKey) && (event.keyCode!=16))	
+		alert("Shift + "+event.keyCode);
+	if ((event.ctrlKey) && (event.keyCode!=17))
+		alert("Ctrl + "+event.keyCode);
+	if ((event.altKey) && (event.keyCode!=18))
+		alert("Alt + "+event.keyCode);
+}
+document.onkeydown=keyFunction;
+</script>
+請按下鍵盤任意複合鍵（先按 Shift 或 Ctrl 或 Alt 不放，再按任意鍵），以顯示按鍵代碼！
+
+<hr>
+</body>
+</html>

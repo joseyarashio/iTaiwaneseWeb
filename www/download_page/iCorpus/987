@@ -1,0 +1,160 @@
+<article>
+	<id>987</id>
+	<title>銀樓搶案 警 公布 犯案車 及 榔頭照</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 新店 警察分局，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 Sin-tiam3-keng2-chhat-hun-kiok8，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* Sin1-Diam3* ging4-cat7-hun1-giok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>偵辦 銀樓搶案的 警方，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng-pan7 gin5-lau5 chhiuN2-an3 e5 keng2-hong ，</JiaoLuo>
+			<TongYong>zin1-ban2 qin5-lau5*-ciunn4-an3*-e5 ging4-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>八月七號 晚間 公布</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peh-goeh8-chhit-ho7 am3-si5 kong-pou3，</JiaoLuo>
+			<TongYong>beh7-queh6-cit7-hor2* am3-si5* gong1-bo3</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>負責接應的 黑色 賓士車 照片，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hu7-chek chiap-eng3-e5 ou-sek Pin-su7-chhia siong3-phiN3，</JiaoLuo>
+			<TongYong>hu2-zik7-ziap7-ing3*-e5 o1-sik7* ven3-lu3-cia1* siang3-pinn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>希望 民眾 提供線索。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi-bong7 bin5-chiong3 the5-kiong soaN3-soh。</JiaoLuo>
+			<TongYong>hi1-vang2 vin5-ziong3* te5-giong1-suann3-sorh7。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>另外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7，</JiaoLuo>
+			<TongYong>Ling2-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>也公布了 一張照片，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah8 kong-pou3-liau2 chit8-tiuN siong3-phiN3 ，</JiaoLuo>
+			<TongYong>ma2-gong1-bo3-liau4 zit6-diunn1-siang3-pinn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>是 歹徒 用來 敲破玻璃 的 榔頭。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 phai2-tou5 iong7-lai5 kha3-phoa3 po-le5 e5 kong3-thui5-a2。</JiaoLuo>
+			<TongYong>si2 painn4-do5* ing2-lai5 gong3-pua3-bor1-le5* e5 gong3-tui5-a4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>警方表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong piau2-si7 ，</JiaoLuo>
+			<TongYong>Ging4-hong1*-biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>做案用的 榔頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choe3-an3-iong7-e5 kong3-thui5-a2，</JiaoLuo>
+			<TongYong>zor3-an3*-ing2*-e5 gong3-tui5-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>看起來 像是新買的，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoaN3-khi2-lai5 chhin-chhiuN7 sin-be2-e5，</JiaoLuo>
+			<TongYong>kuann3*-ki4-lai5 cin1-ciunn2-sin1-ve4*-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>如果 有 民眾 或是 五金行 業者，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ju5-ko2 u7 bin5-chiong3 ah-si7 ngou2-kim-hang5 giap8-chia2，</JiaoLuo>
+			<TongYong>ru5-gor4 u2 vin5-ziong3* ia2-si2 ngo4-gim1-hang5* qiap6-zia4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>知道 榔頭的來源，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chai-iaN2 kong3-thui5-a2 e5 lai5-goan5 ，</JiaoLuo>
+			<TongYong>zainn1-iann4 gong3-tui5-a4*-e5 lai5-quan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>請 立刻 向警方 通報。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiaN2 lip8-khek hiang3 keng2-hong thong-po3 。</JiaoLuo>
+			<TongYong>ciann4 lip6-kik7* hiong3-ging4-hong1* tong1-bor3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>另一方面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-chit8-hong-bin7，</JiaoLuo>
+			<TongYong>Ling2-zit6-hong1-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>歹徒 搶劫之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phai2-tou5 chhiuN2-kiap liau2-au7，</JiaoLuo>
+			<TongYong>painn4-do5* ciunn4-giap7*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>開車逃逸的 畫面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khui-chhia to5-thoat e5 oe7-bin7 ，</JiaoLuo>
+			<TongYong>kui1-cia1*-dor5-zau4*-e5 ue2-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>也 被 消防隊的 監視器，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah8-pi7 siau-hong5-tui7 e5 kam3-si7-khi3，</JiaoLuo>
+			<TongYong>ma2 ho2 siau1-hong5-dui2*-e5 gam3-si2-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>清楚拍下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chheng-chho2 hip-loh8，</JiaoLuo>
+			<TongYong>cing1-cor4*-e5 hip7*-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>目前 警方 正 根據 相關線索，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok8-cheng5 keng2-hong tu2-kun-ku3 siong-koan soaN3-soh，</JiaoLuo>
+			<TongYong>vok6-zing5* ging4-hong1* dng1-deh7 gin1-gi3 siong1-guan1-suann3-sorh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>全力追捕 四名歹徒。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-lek8 tui-liah8 si3-mia5 phai2-tou5。</JiaoLuo>
+			<TongYong>zuan5-lik6-dui1-bo4 si3-mia5-painn4-do5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

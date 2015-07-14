@@ -1,0 +1,69 @@
+<article>
+	<id>1220</id>
+	<title>一Ｏ一 餐廳區 驚見死老鼠 嚇壞觀光客</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>標榜 頂級奢華的 台北 一Ｏ一 購物中心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hong-pong3 teng2-kip chhia-hoa-e5 Tai5-pak-It-khong3-it-kang2-mih8-tiong-sim，</JiaoLuo>
+			<TongYong>Biau1-bong4 ding4-gip7*-cia1-hua1*-e5 Dai5-Bak7* It7-Kong3-It7* go3-vut6-diong1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>被民眾 投訴 說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7 bin5-chiong3 tau5-oe7-kong2，</JiaoLuo>
+			<TongYong>ho2-vin5-ziong3* dau5-so3* gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>有死老鼠 出現在 四樓餐廳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 si2-niau2-chhi2 chhut-hian7-ti7 si3-lau5 chhan-thiann，</JiaoLuo>
+			<TongYong>u2-si4-niau4-ci4* cut7-hen2-di2 si3-lau5*-e5-can1-tiann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>讓 想去用餐的 民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 siunn7-khi3 iong7-chhan-e5 bin5-chiong3，</JiaoLuo>
+			<TongYong>ho2 siunn2-veh7-ki3 ing2-can1* e5 vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>以及 路過的 觀光客 都 被嚇壞了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-kip8 lou7-koe3-e5 koan-kong-kheh long2-pi7-kiann-si3-ah，</JiaoLuo>
+			<TongYong>gah7 ging1-gue3*-e5 guan1-gong1-keh7* long4 ho2-i1-giann1*-si4 a3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>相當於 台灣 重要地標 之一 的 台北 一Ｏ一大樓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang-tong-i5 Tai5-oan5 tiong7-iau3-toe7-phiau chi-it-e5 Tai5-pak-It-khong3-it-toa7-lau5，</JiaoLuo>
+			<TongYong>siang1-dong1-i5 Dai5-Uan5* diong2-iau3-de2-biau1* zi1-it7* e5 Dai5-Bak7* It7-Kong3-It7*-dua2-lau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>竟然發生 這種 沒衛生的 事情，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 hoat-seng chit-khoan2 bo5-oe7-seng tai7-chi3，</JiaoLuo>
+			<TongYong>ging3-ren5*-huat7-sing1 zit7-kuan4 vor5-ue2-sing1*-e5 dai2-zi3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>直接 影響到 一Ｏ一大樓 的 國際形象。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tit8-chiap eng2-hiang2-tioh8 It-khong3-it-toa7-lau5 e5 kok-che3-heng5-siang7。</JiaoLuo>
+			<TongYong>dit6-ziap7* ing4-hiang4-diorh6 It7-Kong3-It7*-dua2-lau5* e5 gok7-ze3-hing5-siang2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

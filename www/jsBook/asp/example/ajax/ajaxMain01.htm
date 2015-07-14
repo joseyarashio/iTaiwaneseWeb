@@ -1,0 +1,33 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>AJAX Webpage Design Using Prototype.js</h2>
+<hr>
+
+<script src="prototype.js"></script>
+
+<script>
+// 顯示查詢結果
+function showQueryResult(xmlHttpObj){
+	Element.update('queryResult', xmlHttpObj.responseText);
+}
+// 送出對資料庫的查詢
+function sendQuery() {
+	var url = 'queryDb01.asp';				// 伺服器的程式網頁	
+	var queryString = 'singerName=' + $F('singerName');	// 參數列
+	var ajax = new Ajax.Request(url, {method:'post', parameters:queryString, onComplete:showQueryResult});
+}
+</script>
+
+<form action=queryDb01.asp target=_blank>
+歌手大名：<input type="text" name=singerName id="singerName" value="鄧麗君">
+<input type="button" onClick="sendQuery()" value="送出AJAX查詢">
+<input type=submit value="送出一般表單查詢">
+</form>
+<div id="queryResult"></div>
+
+</body>
+</html>

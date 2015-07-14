@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+</head>
+
+<body>
+<h2 align=center>AJAX Webpage Design Using Updater() in Prototype.js</h2>
+<hr>
+
+<script src="prototype.js"></script>
+<script>
+// 送出對資料庫的查詢
+function sendQuery() {
+	var url = 'queryDb01.asp';				// 伺服器的程式網頁	
+	var queryString = 'singerName=' + $F('singerName');	// 參數列
+	var ajax = new Ajax.Updater('queryResult', url, {method:'post', parameters:queryString});
+}
+</script>
+
+歌手大名：<input type="text" id="singerName" value="鄧麗君">
+<input type="button" onClick="sendQuery()" value="送出">
+<div id="queryResult"></div>
+
+</body>
+</html>

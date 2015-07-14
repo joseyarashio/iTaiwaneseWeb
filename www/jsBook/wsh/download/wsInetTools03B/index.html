@@ -1,0 +1,407 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>wsInetTools</title>	
+	<meta name="author" content="daren thiel">
+	<META NAME="DESCRIPTION" CONTENT="WinScripter - wsInetTools is a COM dll that allows sending SMTP mail and downloading web pages.">
+	<meta name="keywords" content="SMTP, HTTP, Download, Web, COM, WSH, JScript">
+	
+	
+	<style>
+	TD {
+		font-family: verdana, arial;
+		font-size:9pt;
+	}
+	
+	.SubHeader {
+   		font-family: verdana, arial;
+   		font-size: 10pt;
+   		font-weight:400;
+   		background: #006B6B;
+   		text-align: left;
+   		color: #FFFFFF;
+	}
+	
+	BODY {
+		font-family: verdana, arial;
+		font-size: 9pt;
+	}
+	
+	</style>
+	
+</head>
+
+<body>
+
+
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>wsInetTools</b>
+</td></tr></table><br>
+
+<table border="0" cellpadding="2" cellspacing="0">
+
+<tr>
+	<td valign="top" width="125"><b>Description</b></td>
+	<td>
+		COM dll written in C++ that allows you to easily send email
+		and download web pages.
+	</td>
+</tr>
+
+<tr>
+	<td><b>Current Version</b></td>
+	<td><a href="wsInetTools03B.zip">0.3 Beta - Download (26K zip file)</a></td>
+</tr>
+
+<tr>
+	<td><b>Release Date</b></td>
+	<td>17 Dec 2000</td>
+</tr>
+
+<tr>
+	<td><b>Author</b></td>
+	<td><a href="mailto:daren@winscripter.com">Daren Thiel</a></td>
+</tr>
+
+<tr>
+	<td><b>Web Site</b></td>
+	<td><a href="http://www.winscripter.com">www.winscripter.com</a></td>
+</tr>
+
+</table>
+<br>
+<br>
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2" style="text-align:left;">
+<b>Whats New</b>
+</td></tr></table>
+<ul>
+	<li><b>SMTP: </b> Added "FROM", "TO", "SUBJECT" header fields to fix problem with
+		   some SMTP servers.  Not all are as forgiving as Exchange and Sendmail 
+		   (GroupWise sucks!).<br><br>   
+	</li>
+	<li><b>HTTP: </b> Added "GetBinary" method to allow downloading of binary data.</li>
+</ul>
+<br>
+<br>
+
+
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2" style="text-align:left;">
+<b>License Agreement
+</b>
+</td></tr></table><br>
+
+<b>Agreement</b><br>
+<br>
+<pre style="font-family: verdana, arial; font-size: 10pt;">
+This program is free for use by individuals and non-profit
+organizations.  This program may be redistributed only if
+full credit is given to the author and the inclusion of 
+this file unaltered.  It may not be used in or with a 
+product released for commerical distribution.
+
+<b>Disclaimer of Warranty</b>
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE RELEASE 
+"AS IS" AND WITHOUT WARRANTIES AS TO PERFORMANCE OR 
+MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED 
+OR IMPLIED.  NO WARRANTY OF FITNESS FOR A PARTICULAR 
+PURPOSE IS OFFERED.
+
+Good data processing procedure dictates that any program be
+thoroughly tested with non-critical data before relying on 
+it. The user must assume the entire risk of using the 
+program. THE AUTHOR ASSUMES NO LIABILITY FOR USE OF THIS
+PRODUCT.
+</pre>
+<br>
+<br>
+
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>Description
+</b>
+</td></tr></table><br>
+<br>
+wsInetTools is a COM dll written in C++, that allows to:<br>
+<ul>
+<li>Send SMTP email</li>
+<li>Download web pages (text and binary data)</li>
+</ul>
+
+<br>
+<br>
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>Installation</b>
+</td></tr></table><br>
+<br>
+
+<ol>
+	<li>Copy wsInetTools.dll to %windir%\system32 directory</li>
+	<li>
+		Run regsvr32 to register the dll with the system.<br>
+		<br>
+		
+		<ul>
+			<li>Click 	<b>Start</b> 	then 	<b>Run</b></li>
+			<li>Type <b>regsvr32 wsInetTools.dll</b></li>
+			<li>Click 	<b>OK</b></li>
+			<li>You should see a message that the dll was 
+	    		successfully registered.<br><br>
+				
+				<img src="regsvr32.jpg" width="287" height="119" alt="regsvr32 dialog box"><br>
+				<br>
+				
+				</li>
+		</ul>
+	
+	</li>
+
+<li>wsInetTools is ready for use.</li>
+</ol>
+<br>
+<br>
+
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>Usage</b>
+</td></tr></table><br>
+<br>
+
+Using wsInetTools from Windows Script Host is straight 
+forward and was specifically written for scripters.  It can
+be used by any language or environment that can instantiate
+COM objects.  This includes, but not limited to the following:<br>
+<br>
+<ul>
+<li>JScript</li>
+<li>VBScript</li>
+<li>C/C++</li>
+<li>Visual Basic</li>
+<li>Visual Basic for Applications (VBA)</li>
+<li>Perl</li>
+</ul>
+	
+	
+
+wsInetTools contains two creatable objects, SMTP and HTTP.
+In your code, you must first create an instance of the 
+desired object, assuming wsInetTools is registered on the
+system.<br>
+<br>
+
+Using the exposed properties and methods, you can send 
+basic email and download text based documents from the
+web.  Refer the the samples below.<br>
+<br>
+
+
+
+
+
+
+<!-- SMTP API and Sample -->
+<!------------------------------------------------------------------>
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>SMTP - API</b>
+</td></tr></table><br>
+	
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr>
+	<td>ProgID:</td>
+	<td>wsInetTools.SMTP</td>
+</tr>
+<tr>
+	<td>Properties:</td>
+	<td>MailServer</td>
+</tr>
+<tr>
+	<td></td>
+	<td>MailPort</td>
+</tr>
+<tr>
+	<td></td>
+	<td>LastError</td>
+</tr>
+<tr>
+	<td>Methods:</td>
+	<td>SendMail( from, to, subject, body )</td>
+</tr>
+
+</table>
+<br>
+<br>
+<br>
+
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>SMTP - Example</b>
+</td></tr></table><br>
+
+<pre>
+<font color="green">// Define variables</font>
+var smtp, to, from, subject, body;      
+           
+<font color="green">// Instantiate COM object </font>
+mail = new ActiveXObject( "wsInetTools.SMTP" );  
+
+<font color="green">// Enter you mail server </font>
+mail.MailServer = "smtp.yourdomain.com";      
+         
+<font color="green">// Set email properties </font>      
+from    = "youremail@yourdomain.com";
+to      = "recipient@somedomain.com";              
+subject = "Testing wsInetTools";                  
+body    = "This is just a test message\r\n";    
+  
+<font color="green">// Send the mail</font>
+mail.SendMail(  from, to, subject, body );    
+
+</pre>
+<br>
+<br>
+<br>
+
+
+
+<!-- HTTP API and Sample -->
+
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>HTTP - API</b>
+</td></tr></table><br>
+
+<table border="0" cellpading="0" cellspacing="0" width="400">
+<tr>
+	<td>ProgID:	</td>
+	<td>wsInetTools.HTTP</td>
+</tr>
+<tr>
+	<td>Properties:</td>
+	<td>LastError</td>
+</tr>
+<tr>
+	<td>Methods:</td>
+	<td>GetWebPage( URL )</td>
+</tr>
+<tr>
+	<td></td>
+	<td>GetBinary( remoteFile, localFile )</td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>HTTP - Text Example</b>
+</td></tr></table><br>
+<br>
+
+<pre>
+<font color="green">// Define variables</font>
+var web, file, url;               
+                 
+<font color="green">// URL of the page want to download</font>
+url  = "http://www.winscripter.com/content.html";  
+
+<font color="green">// Instantiate the COM object</font>
+web  = new ActiveXObject( "wsInetTools.HTTP" );  
+  
+<font color="green">// Download the page and store in variable 'file'</font>
+file = web.GetWebPage( url );   
+
+
+</pre>
+
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>HTTP - Binary Example</b>
+</td></tr></table><br>
+<br>
+
+<pre>
+<font color="green">// Instantiate the COM object</font>
+var web = new ActiveXObject( "wsInetTools.HTTP" );
+
+<font color="green">// Define the full path to local and remote files</font>
+var remoteBinaryFile = "http://www.winscript.com/ads/ad1.gif"
+var localBinaryFile  = "e:\\ad1.gif";
+
+<font color="green">// Call GetBinary</font>
+web.GetBinary( remoteBinaryFile, localBinaryFile ); 
+
+
+</pre>
+
+
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr><td class="SubHeader" colspan="2">
+<b>Known Issues and Future enhancements</b>
+</td></tr></table><br>
+<br>
+
+<b>Applies to all</b><br>
+<br>
+<ul>
+<li>
+	Connection to Internet or LAN based service required prior
+	to using wsInetTools. 
+</li>
+
+<li>
+	Firewall/Proxy Servers - The current release does not support
+	firewalls or proxy server that challenge for a name and a password.
+	Support for these users will be handled in a future release.
+</li>
+
+</ul>
+
+
+<b>SMTP</b><br>
+<br>
+<ul>
+<li>
+	MailPort - is currently hard coded to port 25, the default SMTP port.
+	A future release will allow changing the port value.
+</li>
+<li>
+	Limited testing has been done. Exchange Server 5.5, and Sendmail 8.9.3<br>
+	If you have successes or failures on other SMTP daemons, send me a note
+	<a href="mailto:daren@winscripter.com">Daren</a>
+</li>
+<li>
+	Does not support attachments.
+</li>
+</ul>
+
+<br>
+<br>
+
+<b>HTTP</b><br>
+<br>
+
+<ul>
+<li>
+	GetWebPage - only handles text data.  Attempting to download binary
+	data, such as images, zip files, etc.. will fail.
+</li>
+<li>
+	Support for downloading Binary data is now available with <b>GetBinary</b>
+</li>
+
+</ul>
+
+
+<center>
+<font face="verdana,arial,helvetica" size="2">
+&copy; 2000 WinScripter - <a href="http://www.winscripter.com">winscripter.com</a>
+</center>
+</body>
+</html>

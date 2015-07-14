@@ -1,0 +1,90 @@
+<article>
+	<id>1509</id>
+	<title>台南 夜晚不平靜 火警、淹水 民眾撤離</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台南縣市 十九日晚間 也不平靜，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-lam5-koan7-chhi7 chap8-kau2-ho7 e5-hng-si5 oan5-a7-bo5-peng5-cheng7，</JiaoLuo>
+			<TongYong>Dai5-Lam5-Guan2-Ci2* zap6-gau4-hor2*-am3-si5* ma2-vor5-bing5-zing2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台南市 發生 招牌 被吹倒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-lam5-chhi7 hoat-seng chiau-pai5 pi7-chhoe-to2，</JiaoLuo>
+			<TongYong>Dai5-Lam5-Ci2* huat7-sing1 ziau1-bai5* ho2-hong1*-cue1-dor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>倒下的招牌 砸中轎車的 意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to2-loh8-e5 chiau-pai5 ham2-tioh8 kiau7-chhia-e5 i3-goa7，</JiaoLuo>
+			<TongYong>dor4*-lorh6-lai5-e5 ziau1-bai5* gong3-diorh6-giau1-cia1*-e5 i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>消防人員 出動 破壞工具，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-jin5-oan5 chhut-tong7 pho3-hoai7-kang-khu7，</JiaoLuo>
+			<TongYong>siau1-hong5-rin5-uan5* cut7-dong2 por3-huai2*-gang1-gu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>順利救出 受困的民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sun7-li7 kiu3-chhut siu7-khun3-e5 bin5-chiong3，</JiaoLuo>
+			<TongYong>sun2-li2*-giu3-cut7 siu2-kun3*-e5-vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>在 台南火車站 附近 的 出租套房 還 發生火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Tai5-lam5-hoe2-chhia-thau5 hu3-kin7-e5 chhut-chou-tho3-pang5 iau2-hoat-seng hoe2-sio，</JiaoLuo>
+			<TongYong>di2 Dai5-Lam5*-Hue4-Cia1-Tau5* hu2-gin2* e5 cut7-zo1*-tor3-bang5* gorh7 huat7-sing1-hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>至於 台南縣 新化鎮 是 晚間淹水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi3-u5 Tai5-lam5-koan7 Sin-hoa3-tin3 si7 e5-hng-si5 im-chui2，</JiaoLuo>
+			<TongYong>a4-na2 Dai5-Lam5-Guan2* Sin1-Hua3-Din3* si2 am3-si5*-im1-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>十多位民眾 漏夜 讓 消防人員 救出。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-goa7-ui7 bin5-chiong3 thau3-am3 hou7 siau-hong5-jin5-oan5 kiu3-chhut。</JiaoLuo>
+			<TongYong>zap6-qua2-ui2-vin5-ziong3* tau3-me5* ho2 siau1-hong5-rin5-uan5* giu3*-cut7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>民眾 搭上 消防局的 橡膠筏 和 車輛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 che7-tioh8 siau-hong5-kiok8 e5 chhiu7-leng-pai5-a2 kap chhia-liong2，</JiaoLuo>
+			<TongYong>Vin5-ziong3* ze2-diorh6 Siau1-Hong5-Giok6*-e5 ciu2-ling1-bai5*-a4* gah7 cia1-liong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>安全的撤離 來到 鎮公所的 安置點，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an-choan5-e5 thiat-li5-lai5-kau3 tin3-kong-sou2 e5 an-ti3-tiam2，</JiaoLuo>
+			<TongYong>an1-zuan5*-e5-tet7-li5* lai5-gau3 din3-gong1-so4*-e5 an1-di3-diam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>不過 還是有人 堅持 守著家園 不肯離開。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-ku2 iau2-si7-u7-lang5 kian-chhi5 siu2-tioh8 ka-hng5 m7-kheng2-li7-khui。</JiaoLuo>
+			<TongYong>m2-gorh7 iau4-si2-u2-lang5 gen1-ci5* siu4-diorh6-ga1-hng5* m2-king4-li2-kui1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

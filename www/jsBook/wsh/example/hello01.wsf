@@ -1,0 +1,6 @@
+<job>
+<script language="JScript">
+// 使用 wsf 檔案來印出 Hello World!
+WScript.Echo("Hello World!");
+</script>
+</job>

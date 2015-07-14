@@ -1,0 +1,90 @@
+<article>
+	<id>1086</id>
+	<title>孕婦 打疫苗 胎兒 無心跳</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>國內 驚傳 一名孕婦，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kok-lai7 kiaN-thoan5 chit8-mia5 u7-sin-lang5，</JiaoLuo>
+			<TongYong>Gok7-lai2* ging1-tuan5 zit6-ui2-un2-hu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>疑似 因為 接種 H1N1疫苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 in-ui7 cheng3-chu H1N1 ek8-biau5，</JiaoLuo>
+			<TongYong>qi5-su2 in1-ui2 zu3 H1N1 ik6-viau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>產生 不良反應！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>san2-seng put-liong5-hoan2-eng3！</JiaoLuo>
+			<TongYong>san4-sing1 but7-liang5-huan4-ing3*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>這位 四十一歲 準媽媽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ui7 si3-chap8-it-hoe3 chun2-ma-ma，</JiaoLuo>
+			<TongYong>Zit7-ui2 si3-zap6-it7-hue3*-e5 zun4-ma1-ma1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>懷孕 第三十八週 即將臨盆，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-sin te7-saN-chap8-peh-le2-pai3 tit-beh-kau3-goeh8，</JiaoLuo>
+			<TongYong>u2-sin1* de2-sann1-zap6-beh7 le4-bai3* dih7-veh7-senn1*-a1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>在 十一月 二十七日 接種 H1N1疫苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chap8-it-goeh8 ji7-chap8-chhit-ho7 cheng3-chu H1N1 ek8-biau5，</JiaoLuo>
+			<TongYong>di2 zap6-it7-queh6 ri2-zap6-cit7-hor2* zu3 H1N1 ik6-viau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>十二月二日 產檢時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-ji7-goeh8 ji7-ho7 san2-kiam2-si5，</JiaoLuo>
+			<TongYong>zap6-ri2-queh6-ri2-hor2* san4-giam4*-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>發現 胎兒 已經 沒有心跳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 gin2-a2 i2-keng bo5-sim-thiau3，</JiaoLuo>
+			<TongYong>huat7-hen2 tai1-ri5* i4-ging1 vor5-sim1-tiau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>只好 在 三日的晚間 進行引產。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-ho2 ti7 saN-ho7 e5 am3-si5 chin3-heng5 in2-san2。</JiaoLuo>
+			<TongYong>zi4-hor4 di2 sann1-hor2*-e5-am3-si5* zin3-hing5-in4-san4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>雖然 疾病管制局 成立 危機小組 進行了解，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5 Chit8-peN7-koan2-li2-kiok8 seng5-lip8 gui5-ki-sio2-chou chin3-heng5-liau2-kai2，</JiaoLuo>
+			<TongYong>Sui1-ren5* Zit6-Benn2*-Guan4-Ze3-Giok6* sing5-lip6 ui5-gi1-sior4-zo1* zin3-hing5-liau4-gai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>仍然堅持 接種作業 不需要 暫停！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-goan5 kian-chhi5 cheng3-chu-chok-giap8 m7-bian2 chiam7-theng5！</JiaoLuo>
+			<TongYong>iu5-quan5-gen1-ci5* ziap7-zing3*-zok7-qiap6* vor5-su1-iau3 ziam2-ting5*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

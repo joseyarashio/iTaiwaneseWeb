@@ -1,0 +1,52 @@
+<html>
+
+<script>
+// 依據不同的瀏覽器，取得 XMLHttpRequest 物件
+function newAjax() {
+	if (window.ActiveXObject) {
+		try {
+			return new ActiveXObject("Msxml2.XMLHTTP");
+		} catch (e) {
+			try {
+				return new ActiveXObject("Microsoft.XMLHTTP");
+			} catch (e2) {
+				return null;
+			}
+		}
+	} else if (window.XMLHttpRequest) {
+		return new XMLHttpRequest();
+	} else {
+		return null;
+	}
+}
+
+// 接收伺服器回傳的資料並顯示在網頁上
+function displayTime() {
+	if (ajax.readyState==4) {
+		if (ajax.status==200)
+			document.getElementById('showResult').innerHTML = ajax.responseText;
+		else
+			alert ("伺服器發生錯誤，無法回傳資料！");
+	} 
+}
+
+// 非同步送出資料
+function getServerTime(url) {
+	ajax = newAjax();
+	if (!ajax) {
+		alert ('抱歉，您的瀏覽器不支援 XMLHttpRequest！');
+		return 0;
+	}
+	ajax.onReadyStateChange=displayTime;	// 設定接收伺服器資料的回應函數
+	ajax.open("GET", url, true);		// 設定 ajax 物件的參數
+	ajax.send("");				// 執行 ajax
+}
+</script>
+
+<body>
+
+<input type="button" value="使用 AJAX 顯示伺服器的時間" onClick="getServerTime('showTime.asp')">
+<div id="showResult"></div>
+
+</body>
+</html>

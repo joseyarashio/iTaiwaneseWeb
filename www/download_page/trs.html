@@ -1,0 +1,342 @@
+﻿<!DOCTYPE HTML PUBLIC"-//W3C//DTD HTML 4.0//EN" "http"//www.w3.org/TR/REC-html1140/strict.dtd">
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript" src="js/jquery-1.7.2.js"></script>
+	<link rel="stylesheet" type="text/css" href="js/tree_themes/SimpleTree.css"/>
+	<script type="text/javascript" src="js/SimpleTree.js"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+	<style> 
+		.lineNum {font-size:18px;color:dimgray}
+		.blueLyric {font-size:20px;font-weight:bold;color:blue;}
+        .normalLyric {font-size:20px;font-weight:bold;color:black;}
+	</style> 
+	
+	</head>
+<body>
+	<form name="myform">
+		<table border="0">
+			<tr>
+				<tr valign="top">
+					<audio id="media" controls> //FF not supported mp3
+						audio not supported
+					</audio>
+				</tr>
+				<tr style="width:260px; overflow:auto;">
+					<tr>
+					改變播放速度:
+					<input type="button" value="+0.1" onclick=rate(0.1)>
+					<input type="button" value="-0.1" onclick=rate(-0.1)>
+					<input type="button" value="reset" onclick=rate(1)>
+					</tr>
+					<tr>
+						<input type="checkbox" name="independent" id="independent">單句播放
+						<input type="checkbox" name="scrollTop" id="scrollTop">捲動
+					</tr>
+					<tr valign="top">
+						<a>使用者：<input type="text" name="user" id="user" value=""></a>
+					</tr>
+					<tr valign="top">
+						<input type="button" value="爭議選擇" onclick=check()>
+					</tr>
+				</tr>
+			</tr>
+			<tr>
+				<td valign="top">
+					<a class=normalLyric >播放速度:</a><div id="media_rate">1.0</div>
+					<div class="st_tree" id="st_tree" name="st_tree"  style="width:170px;height:500px; overflow:auto;"></div>
+				</td>
+				<td rowspan=2 valign="top">
+				<div name="S_result" id="S_result" style="width:950px;height:500px;overflow:auto;"></div>
+				</td>
+				<br>
+				
+			</tr>
+			<tr valign="top">
+				<td>
+				<a style="font-size:15px;font-weight:bold;color:red;"> 版權所有 非經許可請勿做商業用途</a>
+				</td>
+			</tr>
+		</table>
+	</form>
+	<script type="text/javascript">
+		var AllVars = decodeURI(window.location.search.substring (1));
+		var Vars = AllVars.split("&");
+		var file_name = Vars[0];//url?接檔名
+		var scroll;
+		var alltime=0;
+		var pre_time = new Array();	//處理前的時間陣列
+		var time = new Array();//處理後的時間陣列
+		var pre_text = new Array();//處理前的文字陣列
+		var text = new Array();//處理後的文字陣列
+		var current_time = "";//目前播放時間
+		var currentKey = 0;//目前播放的array index
+		var i=1,j=0,ps="";
+		var spk = new Object();
+		var spk_time = new Object();
+		var pre_spk = new Array();
+		var stop_spk;
+		$("#st_tree").empty();
+		//音樂播放狀態
+		document.getElementById("user").value=Vars[1];
+		function load_file(file_name){
+			//$(".row_n").remove();
+			$("#media_rate").append('<br><a href="http://140.109.18.117/download_page/dic2trs.php?url='+file_name.replace(/~$/,'')+'">reload</a>');
+			$.ajax({//開啟文字檔
+					type: "POST",
+					url: file_name,
+					dataType: "text",
+					async:false,
+					//error:function(xhr){alert('error: '+file_name+".trs"+" open file failed");},//開啟失敗
+					error:function(xhr){document.location.href="http://140.109.18.117/download_page/trs.html?"+file_name+"&";},//開啟失敗
+					success: function(msg){
+						$("#st_tree").append("<div class=row_n><span id='spk0' class=normalLyric onclick='spk_play(\"spk0\")'>undefind</span></div>");
+						splitText(msg,file_name);//進行文字處理
+					}
+			});
+			
+			$.ajax({
+					url:file_name,
+					type: 'GET',
+					dataType: 'xml',//資料型態可以不設定，且此型態不可是text或html
+					timeout: 1000,
+					//error: function(xml){alert('讀取xml錯誤'+xml);}, //當xml讀取失敗
+					error: function(xml){document.location.href="http://140.109.18.117/download_page/trs.html?"+file_name+"&";}, //當xml讀取失敗
+					success: function(xml){
+						$(xml).find("Speaker").each(function(){  //取得xml父節點       
+						total=$(xml).find("Speaker").size();//xml的總筆數
+						
+						while(total >= i) 
+						{
+							var spk_name=$(xml).find("Speaker[id='spk"+i+"']").attr("name"); //取得子節點中的adsrc 
+							spk["spk"+i]=spk_name
+							$("#st_tree").append("<div class=row_n><span id='spk"+i+"' class=normalLyric onclick='spk_play(\"spk"+i+"\")'>"+spk["spk"+i]+"</span></div>");
+							i++;
+						}
+						});
+						
+						$(xml).find("Section").each(function(){
+							var timer="0";
+							var spk="";
+							total=$(xml).find("Turn").length;
+							$(xml).find("Section").each(
+								function(){  //取得xml父節點       
+									$(this).find("Turn").each(
+										function(){
+											if (!(/spk/.test($(this).attr("speaker")))){spk="spk0";}
+											else{spk=$(this).attr("speaker");}
+											
+											var n=0;
+											while($(this).children("Sync").length > n)
+											{
+												pre_spk.push(spk);
+												n++;
+											}
+											});
+										
+										})
+							//while(total > j){
+							//	var spkname = $(this).children("Turn[startTime='"+timer+"']").attr("speaker"); 
+							//	var st = $(this).children("Turn[startTime='"+timer+"']").attr("startTime"); 
+							//	var et = $(this).children("Turn[startTime='"+timer+"']").attr("endTime"); 
+							//	var n=0;
+							//	while($(this).children("Turn[startTime='"+timer+"']").children("Sync").length > n)
+							//	{
+							//		if (!(/spk/.test(spkname))){spkname="spk0";}
+							//		pre_spk.push(spkname)
+							//		//$("#st_tree").append("<div class=row_n><span id=spk"+i+"' class=normalLyric onclick='spk_play(spk"+i+")'>"+j+"\\"+spkname+"</span></div>");
+							//		n++;
+							//	}
+							//	timer=et
+							//	spk_time[spkname]=spk_time[spkname]+","+st+"-"+et
+							//	//pre_spk[j]=spkname
+							//	
+							//	j++;
+							//}
+							
+						});
+					}
+				});
+					
+			}
+		function splitText(msg,file_name){
+			var i = 0, m = 0;
+			pre_text = msg.split(/<\?.*\?>|<!DOCTYPE.*>|<.*Trans.*>|<.*Speaker.*>|<.*Topic.*>|<.*Section.*>|<.*Turn.*>|<.*Episode.*>|<.*Background.*>|<Sync.*>/);
+			pre_time = msg.split(/<\?.*\?>|<!DOCTYPE.*>|<Trans|<.*Event.*>|<.*Speaker.*>|<.*Topic.*>|<.*Section.*>|<.*Turn.*>|<.*Episode.*>|<.*Background.*>|<Sync |"\/>/);
+			while(i != pre_time.length){//處理時間陣列
+				if(/time=".+/.test(pre_time[i])){//去除文字time="xxx"
+					time[m] = pre_time[i].split(/time="/)[1];
+					m++;
+				}
+				if(/.*audio_filename=.+/.test(pre_time[i])){
+					var media_src = pre_time[i].split(/.*audio_filename="|".*>/)[1];
+					if(media_src == "MSPLAB")
+						media.src = file_name+".mp3";
+					else{
+						var file_path = file_name.lastIndexOf('/');
+						media.src = file_name.substring(0,file_path+1) + media_src+".mp3";
+					}
+				}
+				i++;
+			
+			}
+			i = 0, m = 0;
+			while(i != pre_text.length){//處理文字陣列
+				if(/.+/.test(pre_text[i])){//去除空白
+					text[m] = pre_text[i];
+					m++;
+				}
+				
+				i++;
+			}
+			i = 0, m = 0;
+			while(text.length > i){//將時間+文字顯示
+				$("#S_result").append("<div class=row_n><span id='meaning"+i+"'class=normalLyric onclick='mean_check("+i+")'>"+i+"</span><span id='Sentence"+i+"' class=normalLyric onclick='part_play("+i+")'>"+text[i] +"</span></div>"); 
+				i++;
+			}
+			//$("#S_result").scrollTop(99999999);
+			//scroll=$("#S_result").scrollTop();
+			//$("#S_result").scrollTop(0);
+		}
+		function mean_check(project){
+			if (! document.getElementById("user").value == "")
+			{
+				Vars = location.href.split("&");
+				location.replace(Vars[0]+"&"+document.getElementById("user").value);
+				window.open("http://140.109.18.117/download_page/searchDic.php?url="+file_name+"&time="+time[project]+"&user="+document.getElementById("user").value,"width=350,height=120,menubar=no,toolbar=no");
+			}
+			else
+			{
+				//alert("請填入使用者名稱");
+			}
+		}
+		function check(){
+			if (! document.getElementById("user").value == "")
+			{
+				Vars = location.href.split("&");
+				location.replace(Vars[0]+"&"+document.getElementById("user").value);
+				window.open("http://140.109.18.117/download_page/check_page.php?&user="+document.getElementById("user").value);
+			}
+			else
+			{
+				//alert("請填入使用者名稱");
+			}
+		}
+		
+		function part_play(current){//random access
+			
+			media.currentTime = time[current];
+			document.getElementById(pre_spk[currentKey]).className = "normalLyric";
+			document.getElementById("Sentence"+currentKey+"").className = "normalLyric";
+			document.getElementById("meaning"+currentKey+"").className = "normalLyric";
+			
+			currentKey = current;
+			document.getElementById("Sentence"+currentKey+"").className = "blueLyric";
+			document.getElementById("meaning"+currentKey+"").className = "blueLyric";
+			document.getElementById(pre_spk[currentKey]).className = "blueLyric";
+			//alert(text[currentKey].length);
+			clearTimeout(stop_spk);
+			media.play();
+			grab_time();
+		}
+		
+		function spk_play(play_spk)
+		{
+			//alert(currentKey);
+			current_time = media.currentTime;
+			ps=play_spk;
+			
+			var dev = 0;
+			i=0;
+			//alert(pre_spk[currentKey]+"_"+ps+"_"+currentKey+"_"+current_time+"_"+time[currentKey]);
+			//while(current_time < time[currentKey]){//處理
+			//		currentKey += 1;}
+			//alert(pre_spk[currentKey]+"_"+ps+"_"+currentKey+"_"+current_time+"_"+time[currentKey]);
+			document.getElementById("Sentence"+currentKey+"").className = "normalLyric";
+			document.getElementById("meaning"+currentKey+"").className = "normalLyric";
+			document.getElementById(pre_spk[currentKey]).className = "normalLyric";
+			while (pre_spk[currentKey] != play_spk)
+			{
+				media.pause();
+				currentKey+=1;
+				media.currentTime=time[currentKey];
+			}
+			media.play();
+			document.getElementById("Sentence"+currentKey+"").className = "blueLyric";
+			document.getElementById("meaning"+currentKey+"").className = "blueLyric";
+			document.getElementById(pre_spk[currentKey]).className = "blueLyric";
+			if (media.currentTime > time[currentKey+1])
+			{
+				document.getElementById("Sentence"+currentKey+"").className = "normalLyric";
+				document.getElementById("meaning"+currentKey+"").className = "normalLyric";
+				document.getElementById(pre_spk[currentKey]).className = "normalLyric";
+				currentKey+=1
+			}	
+			stop_spk = window.setTimeout("spk_play(ps,currentKey)", 500);
+			//
+			
+		}
+		
+		function grab_time(){
+			
+			current_time = media.currentTime;
+			if($("#independent").attr("checked")){
+				clearTimeout(stop_spk);
+				//if (currentKey > 15)
+				//	$("#S_result").scrollTop(((currentKey-15)*40));
+				if(current_time > time[currentKey+1]){
+					media.pause();
+				}
+			}
+			else{
+				var dev = 0;
+				if(current_time > time[currentKey+1]){//播放達到下一句文字時間
+					while(current_time > time[currentKey+dev+1])//處理當使用者直接往後拉動音樂的播放條
+						dev += 1;
+					document.getElementById("Sentence"+currentKey+"").className = "normalLyric";
+					document.getElementById("meaning"+currentKey+"").className = "normalLyric";
+					document.getElementById(pre_spk[currentKey]).className = "normalLyric";
+					currentKey = currentKey+dev;
+					document.getElementById("Sentence"+currentKey+"").className = "blueLyric";
+					document.getElementById("meaning"+currentKey+"").className = "blueLyric";
+					document.getElementById(pre_spk[currentKey]).className = "blueLyric";
+					if($("#scrollTop").attr("checked")){
+						$("#S_result").scrollTop(document.getElementById("Sentence"+currentKey).offsetTop-200);
+					}
+				}
+				
+				else if(current_time < time[currentKey]){
+					while(current_time < time[currentKey+dev])//處理當使用者直接往前拉動音樂的播放條
+						dev -= 1;
+					document.getElementById("Sentence"+currentKey+"").className = "normalLyric";
+					document.getElementById("meaning"+currentKey+"").className = "normalLyric";
+					document.getElementById(pre_spk[currentKey]).className = "normalLyric";
+					currentKey = currentKey+dev;
+					document.getElementById("Sentence"+currentKey+"").className = "blueLyric";
+					document.getElementById("meaning"+currentKey+"").className = "blueLyric";
+					document.getElementById(pre_spk[currentKey]).className = "blueLyric";
+					if($("#scrollTop").attr("checked")){
+						$("#S_result").scrollTop(document.getElementById("Sentence"+currentKey).offsetTop-200);
+					}
+				}
+			}
+			//&&(current_time > time[currentKey+1])
+			
+			window.setTimeout("grab_time()", 50);
+		}
+		
+		function rate(speed)
+		{
+			if(speed == 1)
+				media.playbackRate = 1;
+			else
+				media.playbackRate+=speed;
+			document.getElementById("media_rate").innerHTML = media.playbackRate;
+			$("#media_rate").append('<br><a href="http://140.109.18.117/download_page/dic2trs.php?url='+file_name.replace(/~$/,'')+'">reload</a>');
+		}
+		
+		setTimeout("load_file(file_name)",1000);
+		grab_time();
+	</script>
+</body>
+</html>

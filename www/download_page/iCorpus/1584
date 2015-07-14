@@ -1,0 +1,118 @@
+<article>
+	<id>1584</id>
+	<title>掛羊頭 賣狗肉 突擊 查獲證物</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>羊肉火鍋店 藉口 外送的名義 販賣狗肉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iunn5-bah-hoe2-ko-tiam3 chia3-khau2 goa7-sang3-e5 beng5-gi7 hoan3-be7 kau2-bah，</JiaoLuo>
+			<TongYong>Iunn5-vah7-hue4-gor1-diam3* ziorh7 qua2-sang3*-e5-mia5-qi2* ve2-gau4-vah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>動物檢驗所 接獲檢舉 進行突擊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong7-but8-kiam2-giam7-sou2 chiap-hek8 kiam2-ki2 chin3-heng5 tut8-kek8，</JiaoLuo>
+			<TongYong>dong2-vut6-giam4-qiam2-so4* ziap7-diorh6-giam4-gi4* zin3-hing5-tut6-gik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>趁著 業者 買賣的時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>than3-tioh8 giap8-chia2 be2-be7-e5 si5-chun7，</JiaoLuo>
+			<TongYong>tan3 qiap6-zia4* ve4-ve2*-e5-si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>當場 查扣三包 狗肉證物，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-tiunn5 cha-khau3 sann-pau kau2-bah cheng3-but8，</JiaoLuo>
+			<TongYong>dong1-diunn5* ca5-kau3-sann1-bau1 gau4-vah7*-zing3-vut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>經過 DNA檢驗 確定 就是狗肉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 DNA kiam2-giam7 khak-teng7 to-si7 kau2-bah，</JiaoLuo>
+			<TongYong>ging1-gue3 DNA giam4-qiam2* kak7-ding2 diorh6-si2-gau4-vah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>將 進一步 調查 狗肉的來源，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh-chin3-chit8-pou7 tiau-cha kau2-bah e5 lai5-goan5，</JiaoLuo>
+			<TongYong>veh7 zin3-zit6-bo2* diau1-za1 gau4-vah7*-e5-lai5-quan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>因為 業者 已經是 累犯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 giap8-chia2 i2-keng-si7 lui2-hoan7，</JiaoLuo>
+			<TongYong>in1-ui2 qiap6-zia4* i4-ging1-si2 lui4-huan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>至少 處罰 十五萬元。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi3-chio2 chhu2-hoat8 chap8-gou7-ban7-kho3。</JiaoLuo>
+			<TongYong>zi3-zior4* cu4-huat6 zap6-qo2-van2-ko1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>月初 高雄市 動物檢驗所 人員 埋伏突擊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goeh8-chhoe Ko-hiong5-chhi7 tong7-but8-kiam2-giam7-sou2 jin5-oan5 mai5-hok8 tut8-kek8，</JiaoLuo>
+			<TongYong>Queh6-ce1* Gor1-Hiong5-Ci2* Dong2-Vut6-Giam4-Qiam2-So4* rin5-uan5* vai5-hok6*-tut6-gik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>打著 羊肉外送 名義 販賣狗肉 的 羊肉火鍋店，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phah-tioh8 iunn5-bah goa7-sang3 beng5-gi7 hoan3-be7 kau2-bah e5 iunn5-bah-hoe2-ko-tiam3，</JiaoLuo>
+			<TongYong>pah7-diorh6 iunn5-vah7*-qua2-sang3* mia5-qi2* ve2-gau4-vah7* e5 iunn5-vah7-hue4-gor1-diam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>當場抓到 外送狗肉的 老闆 和 老闆娘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-tiunn5 sa-tioh8 goa7-sang3 kau2-bah e5 thau5-ke kap thau5-ke-niu5，</JiaoLuo>
+			<TongYong>dong1-diunn5*-liah6-diorh6 qua2-sang3-gau4-vah7*-e5 tau5-ge1* gah7 tau5-ge1-niu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>兩人 雙手 緊抓著 裝有 狗肉料理 的 箱子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-lang5 siang-chhiu2 lak8-an5-tioh8 chong u7 kau2-bah liau7-li2-e5 siunn-a2，</JiaoLuo>
+			<TongYong>nng2-e5-lang5* siang1-ciu4* ga2 de4 gau4-vah7*-liau2-li4* e5 siunn1-a4* sa1-an5-an5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>拚命哀求 動物檢驗所 人員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>piann3-mia7 ai-kiu5 tong7-but8-kiam2-giam7-sou2 jin5-oan5，</JiaoLuo>
+			<TongYong>biann3-mia2-ai1-giu5 dong2-vut6-giam4-qiam2-so4* rin5-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>經過 DNA比對，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 DNA pi2-tui3，</JiaoLuo>
+			<TongYong>ging1-gue3 DNA bi4-dui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>確定 業者賣的 就是狗肉。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khak-teng7 giap8-chia2 be7-e5 to-si7 kau2-bah。</JiaoLuo>
+			<TongYong>kak7-ding2 qiap6-zia4*-ve2*-e5 diorh6-si2-gau4-vah7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

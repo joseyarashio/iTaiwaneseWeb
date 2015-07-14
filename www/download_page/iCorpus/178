@@ -1,0 +1,314 @@
+<article>
+	<id>178</id>
+	<title>H1N1 新型流感 包含 四種病毒</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 黃文玲 綜合報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 Ng5-bun5-leng5 chong-hap8-po3-to7</JiaoLuo>
+			<TongYong>Vin5-si2*-sin1-vun5* ng5-vun5-ling5* zong1-hap6-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>H1N1 新型流感 病毒 來勢洶洶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>H1N1 sin-heng5 liu5-kam2 pinn7-tok8 lai5-se3-hiong5-hiong5 ，</JiaoLuo>
+			<TongYong>H1N1 sin1-hing5-liu5-gam4* benn2-dok6* lai5-se3*-hiong5-hiong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>這個 新型的病毒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-e5 sin-heng5-e5 pinn7-tok8 ，</JiaoLuo>
+			<TongYong>zit7-le5 sin1-hing5*-e5-benn2-dok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>外界 對H1N1 的 認識 並不多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goa7-kai3 tui3 H1N1 i-e5 jin7-sek peng3-bo5-che7 ，</JiaoLuo>
+			<TongYong>qua2-gai3* dui3 H1N1 e5 rin2-sik7* bing3-vor5-ze2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>目前 全球的專家，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chong-hap8 choan5-kiu5-e5 choan-ka ，</JiaoLuo>
+			<TongYong>vok6-zing5* zuan5-giu5*-e5-zuan1-ga1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>正 努力地分析</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu2-lou2-lek8 e5 hun-sek ，</JiaoLuo>
+			<TongYong>dng1-deh7 no4-lik6*-e5-hun1-sik7</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>這個 新型病毒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-e5 sin-heng5 pinn7-tok8 ，</JiaoLuo>
+			<TongYong>zit7-le5 sin1-hing5-benn2-dok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>究竟 有 什麼特點？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiu3-keng3 u7-siann2-mih tek8-tiam2 ？</JiaoLuo>
+			<TongYong>dau3-de4* u2 siann4-mih7-dik6-diam4*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>請看 以下 這個報導。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiann2-khoann3 i2-ha7 chit-e5 po3-to7 。</JiaoLuo>
+			<TongYong>Ciann4-kuann3 i4-ha2* zit7-le5-bor3-dor2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>H1N1 新型流感 病毒 疫情，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>H1N1 sin-heng5 liu5-kam2 pinn7-tok8 ek8-cheng5 ，</JiaoLuo>
+			<TongYong>H1N1 sin1-hing5-liu5-gam4* benn2-dok6* ik6-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>連續 在全球 擴散，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-soa3-ti7 choan5-kiu5 khok-san3 ，</JiaoLuo>
+			<TongYong>len5-sua3* di2-zuan5-giu5* kok7-san3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>在 醫學專家的 努力 下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 i-hak8 choan-ka-e5 lou2-lek8-ha7 ，</JiaoLuo>
+			<TongYong>di2 i1-hak6-zuan1-ga1*-e5 no4-lik6 ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>外界 對 這個 新型流感 病毒 的 特性，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goa7-kai3 tui3 chit-e5 sin-heng5 liu5-kam2 pinn7-tok8 e5 tek8-seng3 ，</JiaoLuo>
+			<TongYong>qua2-gai3* dui3 zit7-le5 sin1-hing5-liu5-gam4* benn2-dok6* e5 dik6-sing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>有了 多一點的 了解。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-liau2 ke-chit8-koa2-a2 e5 liau2-kai2 。</JiaoLuo>
+			<TongYong>u2-liau4 ge1-zit6-gua4-a4*-e5 liau4-gai4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>首先 是 H1N1的 流行季節，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu2-sian-si7 H1N1 e5 liu5-heng5 choeh-kui3 ，</JiaoLuo>
+			<TongYong>Siu4-sen1* si2 H1N1 e5 liu5-hing5-gui3-zet7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>竟然 是 在 一般 病毒</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5-si7 ti7 it-poann pinn7-tok8 ，</JiaoLuo>
+			<TongYong>ging4-ren5* si2 di2 it7-buann1* benn2-dok6*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>較不活躍的 初春季節，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khah-bo5 oah8-thiau3-e5 chhun-thau5 cheh-kui3 ，</JiaoLuo>
+			<TongYong>kah7-vor5-uah6-tiau3*-e5 za4-cun1*-gui3-zet7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>接著 是 感染的 年齡層，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiap-leh-si7 kam2-jiam2-e5 ni5-leng5-chan5 ，</JiaoLuo>
+			<TongYong>sua3*-lorh6-lai5 si2 gam4-riam4*-e5 len5-ling5-zan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>一般的 流感病毒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-poann-e5 liu5-kam2 pinn7-tok8 ，</JiaoLuo>
+			<TongYong>it7-buann1*-e5 liu5-gam4-benn2-dok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>大多數 以 抵抗力 較差 的 老人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-to-sou3 i2 te2-khong3-lek8 khah-chha si7-toa7-lang5 ，</JiaoLuo>
+			<TongYong>dua2-dor1-so3* i4 de4-kong3-lik6* kah7-ca1* e5 lau2-dua2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>或是 孩童 病情較重，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ah-si7 hai5-tong5 pinn7-cheng5 khah-tang7 ，</JiaoLuo>
+			<TongYong>ia2-si2 hai5-dong5* benn2-zing5*-kah7-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>但是 在墨西哥，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 ti7 Mexico ，</JiaoLuo>
+			<TongYong>dan2-si2 di2 Mexico，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>新型流感的 死亡人數 當中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-heng5 liu5-kam2 e5 si2-bong5 jin5-sou3 tong-tiong ，</JiaoLuo>
+			<TongYong>sin1-hing5-liu5-gam4*-e5 si4-vong5-rin5-so3* dang1-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>有六成 是年輕人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 lak8-siann5 si7 siau3-lian5-lang5 ，</JiaoLuo>
+			<TongYong>u2-lak6-siann5* si2-siau3-len5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>此外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu2-goa7 ，</JiaoLuo>
+			<TongYong>cu4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>美國的 感染者 都 以年輕人 佔多數。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bi2-kok-e5 kam2-jiam2-chia2 long2-i2 siau3-lian5-lang5 chiam3-to-sou3 。</JiaoLuo>
+			<TongYong>vi4-gok7*-e5 gam4-riam4-zia4* long4 i4-siau3-len5-lang5* ziam3-dor1-so3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>醫學專家 進一步 分析</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-hak8 choan-ka chin3-chit8-pou7 hun-sek ，</JiaoLuo>
+			<TongYong>I1-hak6-zuan1-ga1* zin3-zit6-bo2* hun1-sik7</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>H1N1 這個 新型流感 病毒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>H1N1 chit-e5 sin-heng5 liu5-kam2 pinn7-tok8 ，</JiaoLuo>
+			<TongYong>H1N1 zit7-le5 sin1-hing5-liu5-gam4* benn2-dok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>發現 這個病毒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 chit-e5 pinn7-tok8 ，</JiaoLuo>
+			<TongYong>huat7-hen2 zit7-le5-benn2-dok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>竟然 包含了 西班牙流感，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 pau-ham5-liau2 Se-pan-ga5 liu5-kam2 ，</JiaoLuo>
+			<TongYong>ging4-ren5* bau1-ham5-liau4 se1-ban1-qa5-liu5-gam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>A型 香港流感、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>A-heng5 Hiang-kang2 liu5-kam2 、</JiaoLuo>
+			<TongYong>A hing5* hiang1-gang4-liu5-gam4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>以及 禽流感，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-kip8 khim5-liu5-kam2 ，</JiaoLuo>
+			<TongYong>i4-gip6 kim5-liu5-gam4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>與 家禽類 傳染給豬 的 流感病毒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham koe-ah-a2 thoan5-jiam2-hou7 ti-e5 liu5-kam2 pinn7-tok8 ，</JiaoLuo>
+			<TongYong>gah7 ga1-kim5-lui2* tuan5-riam4-ho2-di1* e5 liu5-gam4-benn2-dok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>總共 四種病毒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chong2 si3-chiong2 pinn7-tok8 ，</JiaoLuo>
+			<TongYong>zong4-giong2* si3-ziong4-benn2-dok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>另外， 新型流感的 傳染，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7 ， sin-heng5 liu5-kam2 e5 thoan5-jiam2 ，</JiaoLuo>
+			<TongYong>ling2-qua2*， sin1-hing5-liu5-gam4*-e5 tuan5-riam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>已經 不再 侷限於 人傳人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng bo5-koh kiok8-han7-ti7 lang5-thoan5-lang5 ，</JiaoLuo>
+			<TongYong>i4-ging1 vor5-gorh7 giok6-han2-di2 lang5*-tuan5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>甚至 已經有 人傳豬的 病例。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3 i2-keng-u7 lang5-thoan5-ti e5 pinn7-le7 。</JiaoLuo>
+			<TongYong>sim2-zi3 i4-ging1-u2 lang5*-tuan5-di1*-e5 binn2-le2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>未來 H1N1 新型流感 病毒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bi7-lai5 H1N1 sin-heng5 liu5-kam2 pinn7-tok8 ，</JiaoLuo>
+			<TongYong>Vi2-lai5* H1N1 sin1-hing5-liu5-gam4* benn2-dok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>是否 會 因為 人、豬 互相傳染，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7-m7-si7 e7-in-ui7 lang5 、 ti hou7-siong thoan5-jiam2 ，</JiaoLuo>
+			<TongYong>si2-m2-si2 e2 in1-ui2 lang5*、di1* ho2-siong1-tuan5-riam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>也 讓 病毒的毒性 越來越強，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7-hou7 pinn7-tok8 e5 tok8-seng3 lu2-lai5-lu2-kiong5 ，</JiaoLuo>
+			<TongYong>ma2 ho2 benn2-dok6*-e5-dok6-sing3* lu4-lai5*-lu4-giong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>也 成了 醫學專家 關注的焦點，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7-seng5-liau2 i-hak8-choan-ka koan-chu3-e5 chiau-tiam2 ，</JiaoLuo>
+			<TongYong>ma2 sing5-ui5 i1-hak6-zuan1-ga1* guan1-zu3*-e5-ziau1-diam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>對 這個 新型病毒 多一分 認識，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 chit-e5 sin-heng5 pinn7-tok8 ke-chit8-hun jim7-bat ，</JiaoLuo>
+			<TongYong>dui3 zit7-le5 sin1-hing5-benn2-dok6* ge1-zit6-hun1 rin2-sik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>也 有助 病患的治療，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7 iu2-chou7 pinn7-hoan7 e5 ti7-liau5，</JiaoLuo>
+			<TongYong>ma2 bang1-zo2 benn2-huan2*-e5-di2-liau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>降低 H1N1所帶來的 威脅。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kang3-ke7 H1N1 sou2-chah-lai5 e5 ui-hiap8 。</JiaoLuo>
+			<TongYong>gang3-ge2 H1N1 so4-dua3*-lai5-e5 ui1-hiap6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

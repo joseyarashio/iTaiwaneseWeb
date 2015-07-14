@@ -1,0 +1,307 @@
+<article>
+	<id>950</id>
+	<title>桶裝瓦斯 漲三十元 小吃業 無奈</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 綜合報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7 sin-bun5 chong-hap8 po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* zong1-hap6-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>油價 上週漲價 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-ke3 teng2-le2-pai3 khi2-ke3 liau2-au7，</JiaoLuo>
+			<TongYong>Iu5-ge3* ding4-le4-bai3* ki4-ge3* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>八月二日 起，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pat-ho7-goeh8-chhoe-ji7-khi2，</JiaoLuo>
+			<TongYong>beh7-queh6-ce1-ri2* ki4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>桶裝瓦斯 和 天然氣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thang2-chng ga2-suh kap thian-jian5-khi3，</JiaoLuo>
+			<TongYong>zng1-tang4*-e5-qa4-su3* gah7 ten1-ren5-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>也 跟著漲價 了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah8 toe3-leh khi2-ke3-ah，</JiaoLuo>
+			<TongYong>ma2 due3-leh7-ki4-ge3* a3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>二十公斤的 桶裝瓦斯 一桶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji7-chap8-kong-kin e5 thang2-chng ga2-suh chit8-thang2，</JiaoLuo>
+			<TongYong>ri2-zap6-gong1-gin1* zng1-tang4*-e5-qa4-su3* zit6-tang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>就漲了 三十元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-khi2-liau2 saN-chap8-kho3，</JiaoLuo>
+			<TongYong>diorh6-ki4-liau4 sann1-zap6-ko1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>瓦斯 用最兇的 小吃業者 很無奈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ga2-suh iong7 siong-tiong7-e5 sio2-chiah8-giap8-chia2 chin-bo5-nai7，</JiaoLuo>
+			<TongYong>qa4-su3* iong2-siang2-ze2*-e5 sior4-ziah6-qiap6-zia4* zin1-vor5-nai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>風災後 什麼都漲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hong-chai-au7 siaN2-mih long2-khi2，</JiaoLuo>
+			<TongYong>hong1-zai1*-liau4-au2* siann4-mih7*-long4-ki4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>中油 應該 多 體恤他們 一點。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-iu5 eng3-kai ke-the2-sut in chit8-koa2。</JiaoLuo>
+			<TongYong>Diong1-Iu5* ing3-gai1 ge1-te4-liong2-in2* zit6-gua4。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>大火 炒什錦飯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-hoe2 chha2 chap8-chhai3-png7，</JiaoLuo>
+			<TongYong>Dua2-hue4* ca4-zap6-cai3-bng2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>炒飯 在 鍋子和空中 來回穿梭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chha2-png7 ti7 oe-a2 kap khong-tiong lai5-lai5-hoe5-hoe5，</JiaoLuo>
+			<TongYong>ca4-bng2* di2 ca4-cai3-diann4* gah7 kong1-diong1* lai5-lai5-ki3-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>颱風過後 什麼食材 都漲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hong-thai koe3-au7 siaN2-mih sit8-chai5 long2-khi2，</JiaoLuo>
+			<TongYong>hong1-tai1*-gue3-liau4* siann4-mih7-sit6-zai5* long4-ki4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>但 老闆賣的 炒飯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7 thau5-ke be7-e5 chha2-png7，</JiaoLuo>
+			<TongYong>dan2-si2 tau5-ge1*-ve2*-e5 ca4-bng2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>價格 不敢漲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke3-siau3 khi2-kam2-khi2，</JiaoLuo>
+			<TongYong>ge3-siau3* m2-gann4-ki4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>現在 一桶 二十公斤 的 瓦斯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 chit8-thang2 ji7-chap8-kong-kin e5 ga2-suh，</JiaoLuo>
+			<TongYong>zit7-ma4* zit6-tang4* ri2-zap6-gong1-gin1* e5 qa4-su3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>一口氣 要漲 三十元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-khun3 boeh-khi3 saN-chap8-kho3，</JiaoLuo>
+			<TongYong>zit6-kun3* veh7-ki4 sann1-zap6-ko1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>讓老闆 大喊 吃不消。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 thau5-ke hau2 tong3-be7-tiau5。</JiaoLuo>
+			<TongYong>ho2-tau5-ge1* huah7-gong4 dong3-ve2-diau5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>可口多汁的 豬腳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-chiah8 to-chiap-e5 ti-kha，</JiaoLuo>
+			<TongYong>Kor4-kau4*-dor1-ziap7*-e5 di1-ka1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>最重要的 就是，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong7-tiong7-iau3-e5 tioh8-si7，</JiaoLuo>
+			<TongYong>siang2-diong2-iau3*-e5 diorh6-si2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>要 靠小火 熬煮入味，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ai3-kho3 se3-hoe2 ngau5-chu2 jip8-bi7，</JiaoLuo>
+			<TongYong>ai3 kor3-van2-hue4* gun5-ho2-rip6-vi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>所以 瓦斯 也用得兇，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou2-i2 ga2-suh ia7-iong7-kah-siong，</JiaoLuo>
+			<TongYong>so4-i4 qa4-su3* ma2 iong2-gah7 zin1-siong1-diong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>一天 就要 耗掉兩桶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-kang to-ai3 siau-mou5-tiau7 nng7-thang2，</JiaoLuo>
+			<TongYong>zit6-gang1* diorh6-ai3 iong2-diau2-nng2-tang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>瓦斯一漲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ga2-suh chit8-khi2，</JiaoLuo>
+			<TongYong>qa4-su3*-zit6-ki4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>算一算 每個月的 成本，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sng3-sng3-leh mui2-kou3-goeh8-e5 seng5-pun2，</JiaoLuo>
+			<TongYong>sng3-sng3*-leh7* mui4-gor3-queh6*-e5 sing5-bun4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>就 多出來 一千八百元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-ke-chhut-lai5 chit8-chheng-peh-pah-kho3，</JiaoLuo>
+			<TongYong>diorh6 ge1-cut7-lai5 zit6-cing1*-beh7-bah7-ko1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>瓦斯一桶 售價</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ga2-suh chit8-thang2 siu5-ke3，</JiaoLuo>
+			<TongYong>qa4-su3*-zit6-tang4* siu2-ge3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>從 六百五十元 漲到 六百八十元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 lak8-pah-gou7-chap8-kho3 khi2-kau3 lak8-pah-peh-chap8-kho3，</JiaoLuo>
+			<TongYong>ui3 lak6-bah7-qo2-zap6-ko1* ki4-gau3 lak6-bah7-beh7-zap6-ko1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>不只 小吃攤 吃不消，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-na7 sio2-chiah8-taN3 tong3-be7-tiau5，</JiaoLuo>
+			<TongYong>m2-na2 sior4-ziah6-dann3* dong3-ve2-diau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>一般的家庭 天然氣 也漲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-poaN-e5 ka-teng5 thian-jian5-khi3 ia7-khi2，</JiaoLuo>
+			<TongYong>it7-buann1*-e5-ga1-ding5* ten1-ren5-ki3* ma2-ki4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>平均 一戶</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng5-kun chit8-hou7，</JiaoLuo>
+			<TongYong>bing5-gin1* zit6-ho2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>每個月 要多繳 十三元。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mui2-kou3-goeh8 ai3-ke-kiau2 chap8-saN-kho3。</JiaoLuo>
+			<TongYong>mui4-gor3-queh6* ai3-ge1-giau4 zap6-sann1-ko1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>大家 把禍首</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tak8-ke ka7 ho7-siu2，</JiaoLuo>
+			<TongYong>Dak6-ge2* ga2-hor2-siu4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>指向 中油 不 體恤民情，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-hiong3 Tiong-iu5 bo5-the2-sut bin5-cheng5，</JiaoLuo>
+			<TongYong>zi4-hiang3 Diong1-Iu5* vor5 te4-liang2-vin5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>而 中油表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah Tiong-iu5 piau2-si7，</JiaoLuo>
+			<TongYong>a1* Diong1-Iu5*-biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>依照 氣價機制 來計算，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-chiau3 khi3-ke3 ki-che3 lai5-ke3-sng3，</JiaoLuo>
+			<TongYong>i1-ziau3 ki3-ge3*-gi1-ze3* lai5-ge3-sng3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>原本 瓦斯 每公斤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 ga2-suh mui2-kong-kin，</JiaoLuo>
+			<TongYong>quan5-bun4* qa4-su3* mui4-gong1-gin1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>應該 調漲 二．六元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng3-kai tiau3-khi2 nng7-kho3-lak8，</JiaoLuo>
+			<TongYong>ing3-gai1 diau3-ki4 nng2-ko1-lak6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>但 考量 目前 經濟情勢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-kho2-liong7 bok8-chian5 keng-che3 cheng5-si3，</JiaoLuo>
+			<TongYong>dan2-si2 kor4-liang2 vok6-zing5*-e5 ging1-ze3-zing5-se3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>只有 漲了 一．五元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kan-na7 khi2-liau2 kho3-poaN3，</JiaoLuo>
+			<TongYong>gan1-na2* ki4-liau4-ko1-buann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>剩下 沒漲的 一．一元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhun bo5-khi2-e5 kho3-it，</JiaoLuo>
+			<TongYong>cun1*-e5 vor5-ki4*-e5-ko1-it7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>可能會 趁 日後</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5-e7 than3-au7-lit8，</JiaoLuo>
+			<TongYong>kor4-ling5-e2 tan3 i4-au2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>油價下跌 再補漲。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-ke3 loh8-ke3 koh-pou2-khi2。</JiaoLuo>
+			<TongYong>iu5-ge3*-lak6-ge3* ziah7-bo4-ki4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

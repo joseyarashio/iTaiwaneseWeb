@@ -1,0 +1,20 @@
+<html>
+<head>
+<script type="text/javascript" src="script/prototype.js"></script>
+<script type="text/javascript">
+var container = {
+	success: 'success_msg',	/* 如果 Ajax.Updater 成功取得回傳，替換 success_msg 中的內容 */
+	failure: 'failure_msg'	/* 如果失敗的話，則替換 failure_msg 中的內容 */
+};
+function query() {
+	var ajax = new Ajax.Updater (container, 'hello.php', {method:'post'});
+}
+</script>
+</head>
+<body>
+<input type="button" onClick="query()"><br>
+<font color="green"><div id="success_msg"></div></font>
+<font color="red"><div id="failure_msg"></div></font>
+</body>
+</html>
+

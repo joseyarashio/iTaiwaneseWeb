@@ -1,0 +1,118 @@
+<article>
+	<id>1442</id>
+	<title>小麥歉收 俄羅斯 禁止 穀物出口</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>全球 第三大的 小麥生產國 俄羅斯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-kiu5 te7-sann-toa7-e5 beh8-a2 seng-san2-kok Go5-lo5-su，</JiaoLuo>
+			<TongYong>Zuan5-giu5* de2-sann1-dua2*-e5 sior4-veh6*-sing1-san4-gok7* Qor5-Lor5-Su1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>近來 因為乾旱 野火問題 嚴重，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin7-lai5 in-ui7 khong3-oann7 soann-hoe2 bun7-toe5-giam5-tiong7，</JiaoLuo>
+			<TongYong>gin2-lai5* in1-ui2-kor3-huann2* ia4-hue4*-vun2-de5* qiam5-diong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>導致 小麥 等 穀物 歉收，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 beh8-a2 teng2 bi2-chhek kiam2-siu，</JiaoLuo>
+			<TongYong>di3-su4 sior4-veh6* ding4-ding4*-e5 gok7-vut6* kiam3-siu1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>引發 糧食價格 狂飆，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in2-hoat bi2-niu5 ke3-siau3-kong5-pio，</JiaoLuo>
+			<TongYong>in4-huat7 niu5-sit6-ge3-siau3* gong5-bior1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>俄羅斯 總理 在五日 宣布，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Go5-lo5-su-chong2-li2 ti7 gou7-ho7 soan-pou3，</JiaoLuo>
+			<TongYong>Qor5-Lor5-Su1* zong4-li4* di2-qo2-hor2* suan1-bo3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>下半年 禁止 穀類農作物 出口，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-poann3-ni5 kim3-chi2 bi2-chhek long5-choh-but8 chhut-khau2，</JiaoLuo>
+			<TongYong>e2-buann3-ni5* gim3-zi4 gok7-lui2*-long5-zok7-vut6* cut7-kau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>也導致 小麥 期貨價格 持續飆漲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-ti3-su2 beh8-a2 ki5-hoe3-ke3-siau3 lian5-soa3-pio-khi2，</JiaoLuo>
+			<TongYong>ma2-di3-su4 sior4-veh6* gi5-hue3*-ge3-siau3* ci5-siok6-bior1-ki4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>創下 二十三個月 以來 的 新高價。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhong3-ha7 ji7-chap8-sann-kou3-goeh8 i2-lai5-e5 sin-koan5-ke3。</JiaoLuo>
+			<TongYong>cong3-ha2 qi2-zap6-sann1-gor3-queh6* i4-lai5* e5 sin1-guan5-ge3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>俄羅斯 野火災情 不斷蔓延，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Go5-lo5-su soann-hoe2 chai-cheng5 put-toan7-thoann3-khui，</JiaoLuo>
+			<TongYong>Qor5-Lor5-Su1* ia4-hue4*-zai1-zing5* but7-duan2-tuann3-en5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>又面臨 百年來 最嚴重 乾旱，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-bin7-lim5 pah-ni5-lai5 siang7-giam5-tiong7 khong3-oann7，</JiaoLuo>
+			<TongYong>gorh7-ven2-lim5 bah7-ni5*-lai5* siang2-qiam5-diong2*-e5 kor3-huann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>導致 小麥收成 銳減兩成，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 beh8-a2 siu-seng5 joe7-kiam2 nng7-siann5，</JiaoLuo>
+			<TongYong>di3-su4 sior4-veh6*-e5-siu1-sing5* dua2-giam4-nng2-siann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>引發 小麥 期貨價格 狂飆，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in2-hoat beh8-a2 ki5-hoe3-ke3-siau3 kong5-pio，</JiaoLuo>
+			<TongYong>in4-huat7 sior4-veh6* gi5-hue3*-ge3-siau3* gong5-bior1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>為了 遏止 通貨膨脹 惡化，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-tioh8 chou2-chi2 chinn5 poh8-khi3 ok-hoa3，</JiaoLuo>
+			<TongYong>ui2-diorh6 ik7-zi4 tong1-hue3*-ping5-diang3* ok7-hua3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>俄羅斯 下半年 將禁止 出口穀物，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Go5-lo5-su e7-poann3-ni5 beh-kim3-chi2 chhut-khau2 bi2-chhek，</JiaoLuo>
+			<TongYong>Qor5-Lor5-Su1* e2-buann3-ni5* veh7-gim3-zi4 cut7-kau4-gok7-vut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>預計 從 八月十五日 開始實施。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an3-sng3-tui3 peh-goeh8 chap8-gou7-ho7 khai-si2-sit8-si。</JiaoLuo>
+			<TongYong>i2-ge3* ui3 beh7-queh6-zap6-qo2-hor2* kai1-si4-sit6-si1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

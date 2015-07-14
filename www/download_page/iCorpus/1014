@@ -1,0 +1,125 @@
+<article>
+	<id>1014</id>
+	<title>新流感 死亡病例 慢性病史 男子</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>新流感疫情 升高，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-liu5-kam2 ek8-cheng5 chheng3-koan5，</JiaoLuo>
+			<TongYong>Sin1-liu5-gam4*-ik6-zing5* sing1-guan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台灣 又再 添一個 死亡病例，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5 koh-thiam chit8-e5 si2-bong5 peN7-le7</JiaoLuo>
+			<TongYong>Tai5-Uan5* gorh7-zai3 tiam1-zit6-e5* si4-vong5*-benn2-le2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>這 是 一位 家住基隆的 五十四歲 男性，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-si7 chit8-ui7 chhu3-toa3 Ke-lang5 e5 gou7-chap8-si3-hoe3 lam5-seng3，</JiaoLuo>
+			<TongYong>ze1* si2 zit6-ui2 cu3*-dua3-Ge1-Lang5*-e5 qo2-zap6-si3-hue3* lam5-sing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>有 肝炎 以及 洗腎 的 病史，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 koaN-iam7 i2-kip8 se2-sin7-e5 peN7-su2，</JiaoLuo>
+			<TongYong>u2 guann1-iam2* i4-gip6 se4-ior1-zi4* e5 benn2-su4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>這 也是 國內 第二十五例，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-iah8-si7 kok-lai7 te7 ji7-chap8-gou7 le7，</JiaoLuo>
+			<TongYong>ze1* ma2-si2 gok7-lai2* de2-ri2-zap6-qo2-le2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>因為 新流感 死亡 個案，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 sin-liu5-kam2 si2-bong5 ko3-an3，</JiaoLuo>
+			<TongYong>in1-ui2 sin1-liu5-gam4* si4-vong5* gor3-an3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>疫情 蠢蠢欲動，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ek8-cheng5 ngiauh8-ngiauh8-tang7，</JiaoLuo>
+			<TongYong>ik6-zing5 nqiauh6-nqiauh6-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>根據 疾病管理局 監測的數字，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ki3 chit8-peN7-koan2-li2-kiok8 kam3-chhek-e5 sou3-ji7，</JiaoLuo>
+			<TongYong>gin1-gi3 zit6-benn2*-guan4-li4-giok6* gam3-cik7*-e5-so3-ri2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>最近 這兩個 星期，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choe3-kin7 chit-nng7-le2-pai3，</JiaoLuo>
+			<TongYong>zue3-gin2* zit7-nng2-le4-bai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>門診和急診 的 新流感病人 增多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mng5-chin2 ham kip-chin2-e5 sin-liu5-kam2 peN7-lang5 ke-khah-choe7，</JiaoLuo>
+			<TongYong>mng5-zin4*-gah7-gip7-zin4* e5 sin1-liu5-gam4*-benn2-lang5* zing1-ga1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>顯示 疫情 又 開始升高，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hian2-si7 ek8-cheng5 koh-khai-si2 chheng3-koan5，</JiaoLuo>
+			<TongYong>hen4-si2 ik6-zing5* gorh7 kai1-si4-sing1-guan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>醫界 更預估，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-kai3 khah-kou2-ke3，</JiaoLuo>
+			<TongYong>i1-gai3* ging2-ga1-i2-go1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>第二波的 新流感疫情，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>te7-ji7-pho1 e5 sin-liu5-kam2 ek8-cheng5，</JiaoLuo>
+			<TongYong>de2-ri2-por1*-e5 sin1-liu5-gam4*-ik6-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>在十一月 就會來臨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>boeh ti7 chap8-it-goeh8 to-e7 lai5-lim5，</JiaoLuo>
+			<TongYong>di2-zap6-it7-queh6* diorh6-e2-lai5-lim5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>而且 病毒 攻擊的對象，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiaN2 peN7-tok8 kong-kek-e5 tui3-siong7，</JiaoLuo>
+			<TongYong>ri5-ciann4 benn2-dok6* gong1-gik7*-e5-dui3-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>和第一波 也會 明顯不同！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham te7-it-pho7 iah8-e7 beng5-hian2 bo5-kang5！</JiaoLuo>
+			<TongYong>ham2-de2-it7-por2* ia2-e2 ving5-hen4*-vor5-gang5*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

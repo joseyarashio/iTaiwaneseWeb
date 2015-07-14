@@ -1,0 +1,8 @@
+<job>
+<script src="sumFunction.fun"></script>
+<script>
+// 呼叫函數以計算由 1 加到 n 的總和
+n = 40;
+WScript.Echo("1+2+...+" + n + " = " + sum(n));
+</script>
+</job>

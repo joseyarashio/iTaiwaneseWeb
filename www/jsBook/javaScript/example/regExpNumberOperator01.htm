@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式的「Number Operator」</h2>
+<hr>
+
+<script>
+str = "My height is 179cm; my weight is 75kg";
+re = /(\d+)/g;
+newStr=str.replace(re, "<$1>");
+document.write("str = "+str+"<br>");
+document.write("re = "+re+"<br>");
+document.write("newStr = "+newStr+"<br>");
+//document.write("RegExp.$1 = "+RegExp.$1+"<br>");
+
+
+str = "the taller he is, the bigger he will be";
+re = /the (.*)er he is, the $1er he will be/;
+found=str.search(re);
+document.write("RegExp.$1 = "+RegExp.$1+"<br>");
+document.write("RegExp.$2 = "+RegExp.$2+"<br>");
+document.write("str.match(re) = "+str.match(re)+"<br>");
+</script>
+
+<hr>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<article>
+	<id>1095</id>
+	<title>被棄養 流浪狗 赴美國 展開 新生活</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台灣 動物 緊急救援 小組，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5-tong7-but8 kin2-kip-kiu3-oan7 sio2-cho，</JiaoLuo>
+			<TongYong>Dai5-Uan5* dong2-vut6* gin4-gip7*-giu3-uan5* sior4-zor1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>上個月 陸續接到 好幾通 求助電話，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teng2-ko3-goeh liok8-siok8-chiap-tioh8 kui2-na7-thong kiu5-cho7-tian7-oe7，</JiaoLuo>
+			<TongYong>ding4-gor3-queh6* liok6-siok6-ziap7-diorh6 gui4-a2-tong1 giu5-zo2*-e5-den2-ue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>剛出生的 小狗 被棄養 案件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu2-chhut-si3-e5 kau2-a2 pi7-khi3-iang2 an3-kiann7，</JiaoLuo>
+			<TongYong>du4-cut7-si3*-e5 gau4-a4* ho2-lang5-ki3-iang4* e5 an3-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>志工 總共 帶回 二十八隻，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi3-kang long2-chong2 chah-tng2 ji7-chap-peh chiah，</JiaoLuo>
+			<TongYong>zi3-gang1* long4-zong4* cua2-dng4-ki3 ri2-zap6-beh7-ziah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>經過 美國 動物 中途之家 協助，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 Bi2-kok-tong7-but8 tiong-tou5-chi-ka hiap8-chou7，</JiaoLuo>
+			<TongYong>ging1-gue3 Vi4-Gok7* dong2-vut6* diong1-do5*-zi1-ga1* hiap6-zo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>現在 要 將 這些小狗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 beh-ka7 chia-e5 kau2-a2，</JiaoLuo>
+			<TongYong>zit7-ma4* veh7 ga2 zia3-e5-gau4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>送到 美國 洛杉磯 讓人認養，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sang3-kau3 Bi2-kok-Lok-sam-ki  hou7-lang5 jim7-iang2，</JiaoLuo>
+			<TongYong>sang3-gau3 Vi4-Gok7* Lok6-Sam1-Gi1* ho2-lang5-rin2-iang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>其中 一隻 小黃狗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong chit8-chiah ng5-kau2-a2，</JiaoLuo>
+			<TongYong>gi5-diong1* zit6-ziah7 uinn5-sik7*-e5-gau4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>被 舊金山 一對 住豪宅的 老夫婦 指定收養，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7 Ku7-kim-soann chit8-tui3 toa3-toa7-chhu3-theh8 e5 lau7-ang-a2-bou2 chi2-teng7-siu-iang2，</JiaoLuo>
+			<TongYong>ho2 Gu2-Gim1-San1* zit6-dui3 dua3 hor5-hua5-cu3-teh6* e5 lau2-ang1-a4-vo4* zi4-ding2-siu1-iang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>流浪的 小黃狗 要 住進豪宅。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>liu5-long7-e5 ng5-kau2-a2 beh-toa3-jip8 toa7-chhu3-theh8。</JiaoLuo>
+			<TongYong>liu5-long2*-e5 uinn5-gau4-a4* veh7 dua3-rip6 hor5-hua5*-e5-cu3-teh6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

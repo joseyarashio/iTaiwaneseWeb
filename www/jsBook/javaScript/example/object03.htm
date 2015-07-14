@@ -1,0 +1,39 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>自訂物件示範：較複雜物件</h2>
+<hr>
+
+<script>
+function student(inputName, inputStudentID, inputAge) {
+	this.name = inputName;
+	this.studentID = inputStudentID;
+	this.age = inputAge;
+	this.display = displayStudent;
+}
+
+function displayStudent() {
+	var outStr="大名 = "+this.name+"\n";
+	outStr = outStr + "學號 = "+this.studentID+"\n";
+	outStr = outStr + "年齡 = "+this.age;
+	alert(outStr);
+}
+
+student1 = new student("Alex",695326,23);
+student2 = new student("Joey",998735,20);
+student3 = new student("Kelvin",978732,22);
+</script>
+
+按鈕以顯示學生資訊：
+<form>
+<input type=button value=student1 onClick="javascript:student1.display()">
+<input type=button value=student2 onClick="javascript:student2.display()">
+<input type=button value=student3 onClick="javascript:student3.display()">
+</form>
+
+<hr>
+</body>
+</html>

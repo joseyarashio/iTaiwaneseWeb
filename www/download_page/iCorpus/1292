@@ -1,0 +1,90 @@
+<article>
+	<id>1292</id>
+	<title>中國館門票 十分鐘搶完 恥！ 推擠 像逃難潮</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>鏡頭 帶你看 中國的 上海 世界博覽會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiann3-thau5 chhoa7-li2-khoann3 Tiong-kok-e5 Siong7-hai2 se3-kai3-phok-lam2-hoe7，</JiaoLuo>
+			<TongYong>Giann3-tau5* cua2-li4-kuann3 Diong1-Gok7*-e5 Siong2-Hai4* Se3-Gai3*-Pok7-Lam4-Hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>今天 已經是 第二天了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit i2-keng-si7 te7-ji7-kang-ah，  </JiaoLuo>
+			<TongYong>gin1-a4-rit6* i4-ging1-si2 de2-qi2-gang1*-a1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>會場 還是 一樣 亂糟糟，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe7-tiunn5 iau2-si7 kang7-khoan2 loan7-chhau-chhau，</JiaoLuo>
+			<TongYong>hue2-diunn5* iau4-si2 gang2-kuan4 luan2-cau1-cau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>上午 中國館 開門，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha2-khi2 Tiong-kok-koan2 khui-mng5，</JiaoLuo>
+			<TongYong>zai4-ki4* Diong1-Gok7-Guan4* kui1-mui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>但是 預約券 根本不夠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 i7-iok-kng3 kun-pun2-bo5-kau3，</JiaoLuo>
+			<TongYong>dan2-si2 i2-iok7-guan3* gin1-bun4*-vor5-gau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>不到 十分鐘 就發完，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-kau3 chap8-hun-cheng to-hoat-oan5， </JiaoLuo>
+			<TongYong>vor5-gau3 zap6-hun1-zing1* diorh6-huat7-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>有民眾 不滿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 bin5-chiong3 put-boan2，</JiaoLuo>
+			<TongYong>u2-vin5-ziong3* but7-vuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>當場 拉著 工作人員的 領子 痛罵。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-tiunn5 giu2-tioh8 kang-chok jin5-oan5-e5 am7-nia2 thong3-ma7。</JiaoLuo>
+			<TongYong>dong1-diunn5* qiu4-diorh6 gang1-zok7-rin5-uan5*-e5 am2-a4-nia4* dua2-siann1-me2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>其實 前一天 也一樣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-sit8 teng2-chit8-kang oan-na2-kang7-khoan2，</JiaoLuo>
+			<TongYong>Gi5-sit6* zing5-zit6-gang1* ma2-gang2-kuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>一群人 搶票 搶到跌倒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tin7-lang5 chhiunn2-phio3 chhiunn2-kah-poah8-to2，</JiaoLuo>
+			<TongYong>zit6-din2-lang5* ciunn4-pior3* ciunn4-gah7-buah6-dor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>甚至 把垃圾桶 都推倒了。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3-ka7 pun3-so3-thang2 long2-chhia-to2-ah。</JiaoLuo>
+			<TongYong>sim2-zi3 ga2-bun3-sor3-tang4* long4-sak7-dor4*-a3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

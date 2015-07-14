@@ -1,0 +1,223 @@
+<article>
+	<id>996</id>
+	<title>民視 提出告訴 台北市府 說尊重！</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>針對 台北市政府 說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiam-tui3 Tai5-pak-chhi7-cheng3-hu2 kong2，</JiaoLuo>
+			<TongYong>Ziam1-dui3 Dai5-Bak7-Ci2-Zing3-Hu4* gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>民視 配合 台北市議員 洪健益 製造 假新聞，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7 phoe3-hap8 Tai5-pak-chhi7-gi7-oan5 Ang5-kian7-ek che3-cho7 ke2-sin-bun5，</JiaoLuo>
+			<TongYong>Vin5-Si2* pue3-hap6 Dai5-Bak7-Ci2-qi2-uan5* Ang5-Gen2-Ik7* ze3-zor2 ge4-sin1-vun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>是 腳尾飯事件 的 翻版，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 kha-boe2-png7-su7-kiaN7 e5 hoan-pan2，</JiaoLuo>
+			<TongYong>si2 ka1-vue4-bng2*-su2-giann2* e5 huan1-ban4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>民視 決定提告，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7 koat-teng7 the5-ko3，</JiaoLuo>
+			<TongYong>Vin5-Si2* guat7-ding2-te5-gor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>晚間 頭家來開講 節目，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>am3-si5 Thau5-ke-lai5-khai-kang2 chiat-bok8，</JiaoLuo>
+			<TongYong>am3-si5* Tau5-Ge1-Lai5-Kai1-Gang4* zet7-vok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>台北市政府 有官員 參加，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7-cheng3-hu2 u7 koaN-oan5 chham-ka，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2-Zing3-Hu4* u2-guann1-uan5* cam1-ga1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>他說 民視提告，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-kong2 Bin5-si7 the5-ko3，</JiaoLuo>
+			<TongYong>i1-gong4 Vin5-Si2*-te5-gor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>他們尊重，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in chun-tiong7，</JiaoLuo>
+			<TongYong>in1-zun1-diong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>還 一再咬定 洪健益 踹門 就是犯法，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-it-chai3 ka7-tiaN7 Ang5-kian7-ek cham3-mng5 tioh8-si7 hoan7-hoat，</JiaoLuo>
+			<TongYong>gorh7 it7-zai3*-ga2-ding2 Ang5-Gen2-Ik7* zam3-mng5* diorh6-si2-huan2-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>但是 對於 貓纜站的 公安問題，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh tui3-i5 Niau-lam2-cham7 e5 kong-an bun7-te5，</JiaoLuo>
+			<TongYong>m2-gorh7 dui3-i5 Niau1-Lam4-Zam2*-e5 gong1-an1-vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>卻是 三言兩語 帶過。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-si7 saN-nng7-ku3-oe7 tai3-koe3。</JiaoLuo>
+			<TongYong>kiok7-si2 sann1-nng2-gu3-ue2* gau1-dai3*-gue3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>台北市 市議員 洪健益，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7-chhi7-gi7-oan5 Ang5-kian7-ek，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2* ci2-qi2-uan5* Ang5-Gen2-Ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>和 台北市政府 訴願會 主委 陳業鑫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hap Tai5-pak-chhi7-cheng3-hu2 sou3-goan7-hoe7 chu2-ui2 Tan5-giap8-him，</JiaoLuo>
+			<TongYong>ham2 Dai5-Bak7-Ci2-Zing3-Hu4* so3-quan2-hue2* zu4-ui4* Dan5-Qiap6-Him1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>一塊 上節目，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho3-hoe2 chiuN7-chiat-bok8，</JiaoLuo>
+			<TongYong>dang5-ze5-hu ziunn2-zet7-vok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>儘管 兩人 坐在一起，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin7-koan2 nng7-lang5 che7-tau3-tin7，</JiaoLuo>
+			<TongYong>sui1-ren5* nng2-e5-lang5* ze2-zor3-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>你沒看我，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>li2-bo5-khoaN3-goa2，</JiaoLuo>
+			<TongYong>li4-vor5-kuann3-qua4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>我 也沒看你，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goa2-ma7-bo5-khoaN3-li2，</JiaoLuo>
+			<TongYong>qua4 ma2-vor5-kuann3-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>卻 因為 貓纜站 事件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-in-ui7 Niau-lam2-cham7 su7-kiaN7，</JiaoLuo>
+			<TongYong>suah7 in1-ui2 Niau1-Lam4-Zam2* su2-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>聞得出 火藥味。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phiN7-e7-chhut hoe2-ioh8-bi7。</JiaoLuo>
+			<TongYong>pinn2-e2-cut7 hue4-iorh6-vi2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>對於 貓攬站的 公安問題，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-i5 Niau-lam2-cham7 e5 kong-an bun7-te5，</JiaoLuo>
+			<TongYong>Dui3-i5 Niau1-Lam4-Zam2*-e5 gong1-an1-vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>陳業鑫 沒有回答，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tan5-giap8-him bo5-he5-tap，</JiaoLuo>
+			<TongYong>Dan5-Qiap6-Him1* vor5-hue5-dap7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>沒 正面回答 的 還有這個，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-chiaN3-bin7 he5-tap-e5 iau2-u7-chit-e5</JiaoLuo>
+			<TongYong>vor5 ziann3-vin2-hue5-dap7* e5 gorh7-u2-ze1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>洪健益 拿出 的 錄影，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ang5-kian7-ek theh8-chhut-e5 liok8-iaN2，</JiaoLuo>
+			<TongYong>Ang5-Gen2-Ik7* teh6*-cut7*-lai5 e5 lok6-iann4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>先前 自行拍攝 進入 貓攬站 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha2-cheng5 ka-ki7-hip chin3-jip8 Niau-lam2-cham7 liau2-au7，</JiaoLuo>
+			<TongYong>zin3-zing5* ga1-di2-hip7 zin3-rip6 Niau1-Lam4-Zam2* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>都 沒人攔阻 的 錄影帶。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2 bo5-lang5-chah8-e5 liok8-iaN2-toa3</JiaoLuo>
+			<TongYong>long4 vor5-lang5-zo4-dong3* e5 lok6-iann4-dua3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>陳業鑫 只好 轉移話題。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tan5-giap8-him chi2-ho2 choan2-i5 oe7-toe5，</JiaoLuo>
+			<TongYong>Dan5-Qiap6-Him1* zi4-hor4 zuan4-i5-ue2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>主攻 洪健益 破門進入 貓纜站 的 行為 違法，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu2-kong Ang5-kian7-ek phoa3-mng5 chin3-jip8 Niau-lam2-cham7 e5 heng5-ui5 ui5-hoat，</JiaoLuo>
+			<TongYong>zu4-gong1 Ang5-Gen2-Ik7* pua3-mng5*-zin3-rip6 Niau1-Lam4-Zam2* e5 hing5-ui5* ui5-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>你來我往，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>li2-lai5-goa2-ong2，</JiaoLuo>
+			<TongYong>li4-lai5*-qua4-ong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>雙方 各自堅持，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang-hong sui5-lang5-kian-chhi5，</JiaoLuo>
+			<TongYong>siang1-hong1* gok7-zu2-gen1-ci5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>這件事 還有得吵。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-kiaN7-su7 iau2-u7-thang-chha2。</JiaoLuo>
+			<TongYong>zit7-giann2-dai2-zi3* iau4-u2-tang1-ca4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

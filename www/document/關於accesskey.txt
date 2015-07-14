@@ -1,0 +1,9 @@
+﻿運作方式:在wamp控制面板->apache->httpd.conf->ctrl+f 找2014->找到forbidden 將下面註解去掉->重新啟動 ->editablepage.php去掉4,5行的註解
+另外要設定排程定期時間(自行決定),定期跑 random.php(這支程式會幫忙刪掉tmp下的檔案,並重新分配accesskey)
+
+原理:wamp可以將某些資料夾禁止訪問,但藉由copy的方式(本機端有程式才有可能實行),換到tmp內,即可保護資料不讓未公開的檔案能夠下載
+
+待解決地方:靜態網頁的部分路徑要做更改
+
+更改方式:下SQL在file內取得`id`與`accesskey` 連入 getinfo_accesskey.php?id=查到的id&accesskey=查到的accesskey
+所以比需要有那一頁資料存放位置的列表,可以去update_file.php改變找尋目標,找不同類型檔案,filedata只是指可以新增的檔案,而不會影響到file內已經公開的檔案,所以可以放心使用,filedata存放的目的本身就是為了整理不同目錄下,你希望找的檔案有哪些,所以可以找到後給好要找的所有檔案,在下SQL得到id與accesskey 即可藉由 getinfo_accesskey.php?id=查到的id&accesskey=查到的accesskey 登入

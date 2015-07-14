@@ -1,0 +1,116 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5"/>
+<script type="text/javascript" src="script/prototype.js"></script>
+<script type="text/javascript">
+function isDigit (val) {
+	if (val.length > 1) { return false; }
+	var str = "1234567890";
+	if (str.indexOf (val)!=-1) {return true;}
+	return false;
+}
+	
+function isNum(val) {
+	for (var i = 0; i < val.length; i++) {
+		if (!isDigit(val.charAt(i))) {
+			return false;
+		}
+	}
+	return true;
+}
+
+function isOperator(val) {
+	var str = "()*/+-";
+	if (str.indexOf (val) != -1) { return true;}
+	return false;
+}
+
+function caculate() {
+	var elements = document.getElementById ('formula').value.split(' ');
+	if (elements.length == 0) {
+		alert ('請輸入算式');
+		return false;
+	}
+
+	var postfix = new Array();
+	var tmp_stack = new Array();
+
+	var i;
+
+	// 轉為 Postfix
+	for (i = 0; i < elements.length; i++) {
+		if (isNum(elements[i])) {
+			postfix.push (parseInt (elements[i]));
+		} else if (isOperator(elements[i])) {
+			if (elements[i] == '(') {
+				tmp_stack.push(elements[i]);
+			} else if (elements[i] == ')') {
+				while (tmp_stack.length) {
+					var t = tmp_stack.pop();
+					if (t == '(') 
+						break;
+					postfix.push (t);
+				}
+			} else if (elements[i] == '*' || elements[i] == '/') {
+				var t = tmp_stack.last();
+				while (tmp_stack.length && (t == '*' || t == '/')) {
+					postfix.push(tmp_stack.pop());
+					t = tmp_stack.last();	
+				}
+				tmp_stack.push (elements[i]);
+			} else {
+				var t = tmp_stack.last();
+				while (tmp_stack.length && 
+				   (t == '*' || t == '/' || t == '+' || t == '-')) {
+					postfix.push (tmp_stack.pop());
+					t = tmp_stack.last();
+				}
+				tmp_stack.push (elements[i]);
+			}
+		} else {
+			alert ('錯誤的運算元或運算子');
+			return false;
+		}
+	}
+
+	while (tmp_stack.length > 0) {
+		postfix.push (tmp_stack.pop());
+	}	
+
+	Element.update('postfix', 'Postfix:' + postfix.inspect());
+
+	tmp_stack.clear();
+
+	// 開始運算
+	while (postfix.length) {
+		var t = postfix.shift();
+		if (typeof t == 'number') {
+			tmp_stack.push (t);
+		} else {
+			var n1 = tmp_stack.pop();
+			var n2 = tmp_stack.pop();
+			tmp_stack.push (eval (n2 + t + n1));
+		}
+	}
+	Element.update('answer', '' + tmp_stack.last());
+
+}
+</script>
+</head>
+
+<body>
+<table width="50%" border="0">
+	<tr>
+		<td width=60%>
+			<input type="text" id="formula" size=30>=
+		</td>
+		<td>
+			<b><div id="answer"></div></b>
+		</td>
+	</tr>
+	<tr><td><div id="postfix"></div></td></tr>
+</table>
+<input type="button" value="Go" onClick="caculate()">
+
+</body>
+</html>

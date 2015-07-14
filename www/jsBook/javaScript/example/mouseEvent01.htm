@@ -1,0 +1,32 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>滑鼠事件：偵測滑鼠鍵</h2>
+<hr>
+
+<script>
+function showMouseButton() {
+	switch (event.button){
+		case 1:
+			alert("你用滑鼠左鍵！");
+			break;
+		case 2:
+			alert("你用滑鼠右鍵！");
+			break;
+		case 4:
+			alert("你用滑鼠中鍵！");
+			break;
+		default:
+			alert("未知的滑鼠鍵！");
+			break;
+	}
+}
+</script>
+<div onMouseDown="showMouseButton()">請用滑鼠按我！</div>
+
+<hr>
+</body>
+</html>

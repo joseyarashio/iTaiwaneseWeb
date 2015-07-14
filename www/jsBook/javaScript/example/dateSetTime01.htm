@@ -1,0 +1,48 @@
+<script language=javascript>
+function go(form){
+	switch(form.controlButton.value){
+		case "開始計時":
+			date1=new Date();					// 取得目前時間
+			form.timeDisplay.value="xx:xx:xx";			// 設定時間顯示為 xx:xx:xx
+			form.controlButton.value="停止計時";			// 將按鈕文字改為「停止計時」
+			break;
+		case "停止計時":
+			date2=new Date();					// 取得目前時間
+			timeDiff=(date2.getTime()-date1.getTime())/1000;	// 時間差距，以秒為單位
+			form.timeDisplay.value=timeDiff;			// 設定時間顯示
+			form.controlButton.value="歸零";			// 將按鈕文字改為「歸零」
+			break;
+		case "歸零":
+			form.timeDisplay.value="00:00:00";			// 設定時間顯示為 00:00:00
+			form.controlButton.value="開始計時";			// 將按鈕文字改為「開始計時」
+			break;
+		default:
+			alert("Error!");
+			break;
+	}
+}
+</script>
+
+<html>
+<body>
+<h2 align=center>簡易馬錶</h2>
+<hr>
+
+現在時間是：
+<script>
+date1=new Date();
+document.write(date1.toLocaleString());
+</script>
+加入100天之後，新的時間是：
+<script>
+date2=new Date();
+date2.setTime(date1.getTime()+100*24*60*60*1000);
+document.write(date2.toLocaleString());
+<form>
+<input type="button" name="controlButton" value="開始計時" width=10 onClick="go(this.form)">
+<p>
+經過時間：<input type=text name="timeDisplay" value="00:00:00">秒
+</form>
+
+</body>
+</html>

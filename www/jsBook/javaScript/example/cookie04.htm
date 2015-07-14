@@ -1,0 +1,41 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>利用 Cookie 記錄客戶拜訪網頁次數</h2>
+<hr>
+
+<script src="cookieUtility.js"></script>
+<script>
+duration = 365;			// 資料將被保留一年
+today = new Date();
+expireDate = new Date();
+expireDate.setTime(today.getTime()+1000*60*60*24*duration);	// Set up expire date
+cookieName = 'VisitCount';
+count = getCookie(cookieName);
+if (count==null)
+	count=0;
+count++;
+if (count==1)
+	message="謝謝您初次光臨寒舍！";
+else if (count==2)
+	message="謝謝您再度光臨！";
+else
+	message="您已經光臨本站 "+count+" 次了！"
+setCookie(cookieName, count, expireDate);
+document.write(message);
+document.write("（您在本頁所留下的資料記錄在名為「"+cookieName+"」的小餅乾，將會被保留"+duration+"天。）");
+</script>
+<p>點選 <input type="button" value="歸零" onClick="delCookie('VisitCount'); history.go(0)"> 來使計數資料歸零。<br>
+點選 <input type="button" value="重載" onClick="history.go(0)"> 來增加記數資料。
+
+<hr>
+<h3 align=center>本頁小餅乾列表</h3>
+<script src="listCookie.js"></script>
+<script>listCookie();</script>
+
+<hr>
+</body>
+</html>

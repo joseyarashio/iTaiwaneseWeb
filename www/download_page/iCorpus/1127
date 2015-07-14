@@ -1,0 +1,132 @@
+<article>
+	<id>1127</id>
+	<title>捷運 飄焦味 二年六次 煞車碟片 凸槌</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>改名後的 台北捷運 文湖線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kai2-mia5-au7 e5 Tai5-pak-chiat8-un7 Bun5-ou5-soaN3，</JiaoLuo>
+			<TongYong>Gai4-mia5*-liau4-au2*-e5 Dai5-Bak7*-Zet6-Un2* Vun5-O5-Suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在 一月四日 當天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 it-goeh8 si3-ho7 tng-kang，</JiaoLuo>
+			<TongYong>di2 it7-queh6-si3-hor2紃 hit7-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>又發生 飄出 燒焦味 的 異常事件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-hoat-seng phiau-chhut sio-chhau3-ta-bi7 e5 koh-iunn7-su7-kiann7，</JiaoLuo>
+			<TongYong>gorh7-huat7-sing1 piau1-cut7 cau3-hue4-da1-vi2* e5 i2-siong5-su2-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>台北市政府 的 交通部門，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7-cheng3-hu2-e5 kau-thong-pou7-bun5，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2-Zing3-Hu4* e5 gau1-tong1-bo2-vun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>召開 公聽會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiau3-khai kong-thiann-hoe7，</JiaoLuo>
+			<TongYong>ziau1-kai1 gong1-tiann1-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>對 市議員 洪健益、劉耀仁 做說明，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 chhi7-gi7-oan5 Ang5-kian7-ek、Lau5-iau7-jin5 cho3-soat-beng5，</JiaoLuo>
+			<TongYong>dui3 ci2-qi2-uan5* Ang5-Gen2-Ik7、Lau5-Iau2-Rin5* zor3-suat7-ving5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>柵湖線 改名為 文湖線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chheh-ou5-soaN3 kai2-mia5-cho3 Bun5-ou5-soaN3，</JiaoLuo>
+			<TongYong>Sa1-O5-Suann3* gai4-mia5-zor3 Vun5-O5-Suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>一路 從試營運 到現在，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-lou7-tui3 chhi3-eng5-un7 kau3-chit-ma2，</JiaoLuo>
+			<TongYong>zit6-lo2* ui3-ci3-ing5-un2* gau3-zit7-ma4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>兩年來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-ni5-lai5，</JiaoLuo>
+			<TongYong>nng2-ni5*-lai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>有六次 飄出 燒焦味 的 情況，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-lak8-pai2 phiau-chhut sio-chhau3-ta-bi7-e5 cheng5-hong2，</JiaoLuo>
+			<TongYong>u2-lak6-bai4* piau1-cut7 cau3-hue4-da1-vi2* e5 zing5-hong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>台北市政府 祕書長 譚國光 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7-cheng3-hu2 pi3-su-tiunn2 Tann5-kok-kong piau2-si7，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2-Zing3-Hu4* bi3-si1-diunn4* Tam5-Gok7-Gong1* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>廠商 已經 承諾改善，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiunn2-siong i2-keng seng5-lok8 kai2-sian7，</JiaoLuo>
+			<TongYong>ciunn4-siang1* i4-ging1 sing5-lok6-gai4-sen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>究竟 到何時 才會 停止出包，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiu3-keng3 kau3-ti7-si5 chiah-e7 theng5-chi2 chhut-pau，</JiaoLuo>
+			<TongYong>dau3-de4* gau3-hor5-si5 ziah7-e2 ting5-zi4-cut7-bau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>譚國光 說 年底之前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tann5-kok-kong kong2 ni5-boe2 i2-cheng5，</JiaoLuo>
+			<TongYong>Tam5-Gok7-Gong1* gong4 ni5-de4*-i4-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>會 讓大家 滿意，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-hou7 ta-ke moa2-i3，</JiaoLuo>
+			<TongYong>e2 ho2-dak6-ge1 vuan4-i3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>不然 會有人 要 為此負責，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-bo5 e7-u7-lang5 ai3-ui7-chhu2 hu7-chek， </JiaoLuo>
+			<TongYong>na2-vor5* e2-u2-lang5 ai3 ui2 zit7-giann2-dai2-zi3* hu2-zik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>這個人 不排除 就是他。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-e5-lang5 bo5-pai5-tu5 tioh8-si7-i。</JiaoLuo>
+			<TongYong>zit7-e5-lang5* vor5-bai5-di5* diorh6-si2-i2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

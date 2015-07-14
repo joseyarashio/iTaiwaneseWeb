@@ -1,0 +1,132 @@
+<article>
+	<id>1591</id>
+	<title>警察 丟掉彈匣 沿路 問路人 「有撿到嗎？」</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>立法委員 在 立法院 質詢 內政部長，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lip8-hoat-ui2-oan5 ti7 Lip8-hoat-inn7 chit-sun5 Lai7-cheng3-pou7-tiunn2，</JiaoLuo>
+			<TongYong>Lip6-huat7-ui4-uan5* di2 Lip6-huat7-inn2 zit7-sun5 Lai2-zing3-bo2-diunn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>爆料 台北市 松山分局 的 一名 員警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phok8-liau7 Tai5-pak-chhi7 Siong-san-hun-kiok8 e5 chit8-mia5 oan5-keng2，</JiaoLuo>
+			<TongYong>bok6-liau2 Tai5-bak7-ci2 Siong1-san1-hun1-giok6 e5 zit6-mia5 uan5-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>竟然 沿路問 路人 「你 有沒有 撿到彈匣？」</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 ian5-lou7-mng7 koe3-lou7-lang5 「 li2 u7-a2-bo5 khioh-tioh8 chheng3-chi2-ah8 bou3？」，</JiaoLuo>
+			<TongYong>ging4-ren5 en5-lo2-mng2 gue3-lo2-lang5 「1 li4 u2-a4-vor5 kiorh7-diorh6 cing3-zi4-keh7-a4* vo3*？」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>立法委員 痛批 太誇張，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lip8-hoat-ui2-oan5 thong3-phoe siunn-ham3-kou2，</JiaoLuo>
+			<TongYong>Lip6-huat7-ui4-uan5* giong5-let6-pe1-ping5 siunn1-ham3-go2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>松山分局 的 回應 是 彈匣 已經在 警車 找到，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Siong-san-hun-kiok8 e5 hoe5-eng3 si7 chheng3-chi2-ah8 i2-keng-ti7 keng2-chhia chhoe7-tioh8，</JiaoLuo>
+			<TongYong>Siong1-san1-hun1-giok6 e5 hue5-ing3 si2 cing3-zi4-keh7-a4* i4-ging1-di2 ging4-cia1 cue2-diorh8，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>這名 糊塗 員警 也被 記申誡 處分。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-mia5 hou5-tou5 oan5-keng2 oan5-a7-pi7 ki3-sin-kai3 chhu2-hun。</JiaoLuo>
+			<TongYong>zit7-mia5 ho5-do5 uan5-ging4 uan5-a2-bi2 gi3-sin1-gai3 cu4-hun2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>內政部長 江宜樺 說 要調查，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lai7-cheng3-pou7-tiunn2 Kang-gi5-hoa5 kong2 beh-tiau-cha，</JiaoLuo>
+			<TongYong>Lai2-Zing3-Bo2-Diunn4* Kang1-qi5-Hua5* gong4 veh7-diau1-za，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>松山分局 趕緊 出面 解釋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Siong-san-hun-kiok8 koann2-kin2 chhut-bin7 kai2-sek，</JiaoLuo>
+			<TongYong>Siong5-San1-hun1-giok6* guann4-gin4 cut7-vin2-gai4-seh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>表示 這起 員警 尋找 彈匣 事件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>piau2-si7 chit-khi2 oan5-keng2 chau2-chhoe7 chheng3-chi2-ah8 su7-kiann7，</JiaoLuo>
+			<TongYong>biau4-si2 zit7-ki4 uan5-ging4 zau4-cue2 cing3-zi4-ah6 su2-genn7，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>這是 剛畢業 到 警備隊 服務的 顏姓 員警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-si7 tu2-pit-giap8 kau3 keng2-pi7-tui7 hok8-bu7-e5 senn3-gan5 oan5-keng2，</JiaoLuo>
+			<TongYong>zit7-si2 du4-bit7-qiap6 gau3 ging4-bi2-dui2 hok6-vu2-e5 senn3-qan5 uan5-ging2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>在 十月 二十六日 巡邏時 發生的，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chap8-goeh8 ji7-chap8-lak8-ho7 sun5-lo5-si5 hoat-seng-e5，</JiaoLuo>
+			<TongYong>di2 zap6-queh6 ri2-zap6-lak6-hor2 sun5-lor5-si5 huat7-sing1-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>顏姓 員警 回到 分局 以後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>senn3-gan5 oan5-keng2 tng2-kau3 hun-kiok8 i2-au7，</JiaoLuo>
+			<TongYong>senn3-qan5 uan5-ging4 dng4-gau3 hun1-giok6 i4-au7，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>才發現 彈匣 不見，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-hoat-hian7 chheng3-chi2-ah8 bo5-khi3 ，</JiaoLuo>
+			<TongYong>ziah7-huat7-hen2 cing3-zi4-ah6 vor5-ki3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>趕緊 通知 資深 員警 陪 他 找回 彈匣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-kin2 thong-ti chu-chhim oan5-keng2 poe5 i chhoe7-tng2 chheng3-chi2-ah8，</JiaoLuo>
+			<TongYong>guann4-gin4 tong1-di1 zu1-cim1 uan5-ging4 bue5 i1 cue2-dng4 cing3-zi4-ah8，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>最後 彈匣 找到了。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-boe2 chheng3-chi2-ah8 chhoe7-tioh8-ah。</JiaoLuo>
+			<TongYong>siang2-vue4 cing3-zi4-ah6 cue2-diorh6-ah。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>經過 統計 全台灣 最近 三年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 thong2-ke3 choan5-Tai5-oan5 choe3-kin7 sann-ni5，</JiaoLuo>
+			<TongYong>Ging1-gue3 tong4-ge3 zuan5-Tai5-uan5 zue3-gin2 sann1-ni5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>警方 總共 遺失 一百 六十七 發 子彈。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong chong2-kiong7 phah-bo5 chit8-pah lak8-chap8-chhit hoat chheng3-chi2。</JiaoLuo>
+			<TongYong>ging4-hong1 zong4-giong2 pah7-vor5 zit6-bah7 lak6-zap6-cit7 huat7 cing3-zi2。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

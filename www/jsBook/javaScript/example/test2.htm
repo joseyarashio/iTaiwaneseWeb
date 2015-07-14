@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>不同基底的表示方式</h2>
+<hr>
+
+<table border=1 align=center>
+<tr><th>十進位<th>二進位<th>八進位<th>十六進位
+<script>
+for (x=0; x<16; x++){
+	document.writeln("<tr>");
+	document.writeln("<td>"+x.toFixed());
+	document.writeln("<td>"+x.toPrecision(2));
+	document.writeln("<td>"+x.toPrecision(8));
+	document.writeln("<td>"+x.toPrecision(16));
+}
+</script>
+</table>
+
+<hr>
+</body>
+</html>

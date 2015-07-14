@@ -1,0 +1,356 @@
+<article>
+	<id>21</id>
+	<title>無薪假 爭議 勞工團體 提出 五大訴求</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 記者 鍾麗華 台北報導</segmentation>
+			<TaiLuo>Chu7-Iu5-Si5-Po3 ki3-chia2 Chiong-Le7-Hoa5 po3-to7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* gi3-zia4* ziong1-le2-hua5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>失業率 再創新高，</segmentation>
+			<TaiLuo>sit-giap8-lut8 koh chhong3 sin-koan5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Sit7-qiap6-lut6* gorh7-cong3-sin1-gor1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>「無薪假」 又 持續蔓延，</segmentation>
+			<TaiLuo>bo5-sin-sui2 hiu-ka3 iu7-koh chhi5-siok8 thoaN3-khui</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>vor5-sin1-ga4* gorh7 ci5-siok6-van2-en5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>十餘個 勞工團體、</segmentation>
+			<TaiLuo>chap8-kui2-e5 lo5-kang thoan5-the2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zap6-gui4-e5 lor5-gang1-tuan5-te4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>近千名 勞工 昨上午 包圍 勞委會，</segmentation>
+			<TaiLuo>beh-oa2 kui2-chhian-mia5 lo5-kang choh8-cha2-khi2 pau-ui5 lo5-ui2-hoe7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gin2-cing1-mia5* lor5-gang1* za1-hng1-zai4-ki4* bau1-ui5 lor5-ui4-hue2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>高舉 「『裁』神 到」、</segmentation>
+			<TaiLuo>giah8-tioh8 Chhai5-sin5 kau3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>qia5-diorh6 cai5-sin5*-gau3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>「官商勾結、 勞工受害」 等 標語，</segmentation>
+			<TaiLuo>koaN-siong kau-kiat lo5-kang siu7-hai7 teng2 piau-gu2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>guann1-siong1*-gau1-get7*、 lor5-gang1*-siu2-hai2 ding4 biau1-qu4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>抗議 勞委會 無力解決</segmentation>
+			<TaiLuo>khong3-gi7 lo5-ui2-hoe7 bo5-leng5 kai2-koat</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>kong3-qi2* lor5-ui4-hue2* vor5-ling5-lik6* gai4-guat7</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>企業 違法 放無薪假 問題。</segmentation>
+			<TaiLuo>lo5-kang thoan5-the2 chhiang3-siaN</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ki3-qiap6* ui5-huat7* bang3-vor5-sin1-ga4* vun2-de5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>勞工團體 揚言，</segmentation>
+			<TaiLuo>khi3-giap8 ui5-hoat pang3-bo5-sin-ka3 bun7-te5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Lor5-gang1-tuan5-te4* iong5-qen5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>若 勞委會 一週內 沒有 具體回應，</segmentation>
+			<TaiLuo>na7-si7 lo5-ui2-hoe7 chit8-le2-pai3-lai7 bo5 khu7-the2 hoe5-eng3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>na2-si2 lor5-ui4-hue2* zit6-le4-bai3-lai2* vor5 gu2-te4-hue5-ing3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>農曆年 將 發動 上千名 勞工</segmentation>
+			<TaiLuo>long5-lek8-ni5 beh hoat-tong7 chiuN7-chhian-mia5 lo5-kang</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>long5-lik6-ni5* veh7 huat7-dong2 ziunn2-cing1-mia5 lor5-gang1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>到 總統府前 「圍爐」抗議。</segmentation>
+			<TaiLuo>kau3 Chong2-thong2-hu2 thau5-cheng5 ui5-lou5 khong3-gi7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gau3 zong4-tong4-hu4* tau5-zing5* ui5-lo5*-kong3-qi2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>勞工團體 提出 五大訴求：</segmentation>
+			<TaiLuo>lo5-kang thoan5-the2 theh8-chhut gou7-toa7 sou3-kiu5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Lor5-gang1-tuan5-te4* teh6-cut7 qo2-dua2-so3-giu5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>第一 是 政府 必須宣示</segmentation>
+			<TaiLuo>te7-it si7 cheng3-hu2 pit-su soan-si7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>De2-it7* si2 zing3-hu4* bit7-su1-suan1-si2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>企業 實施 無薪假 是 公然違法；</segmentation>
+			<TaiLuo>khi3-giap8 sit8-si bo5-sin-ka3 si7 kong-jian5 ui5-hoat</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ki3-qiap6* sit6-si1 vor5-sin1-ga4* si2 gong1-ren5*-ui5-huat7*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>第二、 假使 企業 被迫 實施 無薪假，</segmentation>
+			<TaiLuo>te7-ji7 ka2-su2 khi3-giap8 pi7-pek sit8-si bo5-sin-ka3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>De2-ri2*、 kah7-su4 ki3-qiap6 bi2-pik7* sit6-si1 vor5-sin1-ga4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>也不能 違反 勞工 基本權益；</segmentation>
+			<TaiLuo>ia7-be7-tang3 ui5-hoan2 lo5-kang ki-pun2 koan5-ek</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ma2-ve2-dang3 ui5-huan4 lor5-gang1* gi1-bun4-kuan5-ik7*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>第三、 建立 無薪假 通報系統，</segmentation>
+			<TaiLuo>te7-saN kian3-lip8 bo5-sin-ka3 thong-po3 he7-thong2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>De2-sann1*、 gen3-lip6 vor5-sin1-ga4* tong1-bor3*-he2-tong4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>禁止 企業 違法實施 無薪假；</segmentation>
+			<TaiLuo>kim3-chi2 khi3-giap8 ui5-hoat sit8-si bo5-sin-ka3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gim3-zi4 ki3-qiap6* ui5-huat7*-sit6-si1 vor5-sin1-ga4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>第四、 擴大 對 弱勢勞工 紓困，</segmentation>
+			<TaiLuo>te7-si3 khok-toa7 tui3 jiok8-si3 lo5-kang su1-khun3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>De2-si3*、 kok7-dua2 dui3 riok6-se3*-lor5-gang1* su1-kun3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>反對 政府 無條件 對企業 紓困；</segmentation>
+			<TaiLuo>hoan2-tui3 cheng3-hu2 bo5-tiau5-kiaN7 tui3 khi3-giap8 su1-khun3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>huan4-dui3 zing3-hu4* vor5-diau5-giann2* dui3-ki3-qiap6* su1-kun3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>第五、暫緩 引用外勞，</segmentation>
+			<TaiLuo>te7-gou7 chiam7-theng5 chhiaN3-iong7 goa7-lo5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>De2-qo2*、 ziam2-huan4 in4-iong2-qua2-lor5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>擴大 對 本國勞工 引用。</segmentation>
+			<TaiLuo>khok-toa7 tui3 pun2-kok lo5-kang chhiaN3-iong7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>kok7-dua2 dui3 bun4-gok7-lor5-gang1* in4-iong2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>不過， 由於 勞委會主委</segmentation>
+			<TaiLuo>put-ko3 iu5-i5 lo5-ui2-hoe7 chu2-ui2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>But7-gor3*， in1-ui2 lor5-ui4-hue2*-zu4-ui4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>王如玄 在行政院 開會、</segmentation>
+			<TaiLuo>Ong5-Ju5-Hian5 ti7 Heng5-cheng3-iN7 khui-hoe7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ong5-ru5-hen5* di2 hing5-zing3-inn2* kui1-hue2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>副主委 卻稱 「另有行程」，</segmentation>
+			<TaiLuo>hu3-chu2-ui2 khiok-si7 kong2 leng7-u7 heng5-theng5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>hu3-zu4-ui4* suah7-gong4 ling2-iu4-hing5-ting5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>遲遲 無人接見 勞工團體，</segmentation>
+			<TaiLuo>thoa-ian5 kui-poaN3-pou bo5-lang5 chiap-kian3 lo5-kang thoan5-the2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>it7-dit6 vor5-lang5-ziap7-gen3 lor5-gang1-tuan5-te4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>引發 勞工不滿，</segmentation>
+			<TaiLuo>in2-hoat lo5-kang put-boan2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>in4-huat7 lor5-gang1*-but7-vuan4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>一度 情緒激動，</segmentation>
+			<TaiLuo>chit8-si5 cheng5-su7 kek-tong7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zit6-si5* zing5-su2*-gik7-dong2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>朝 勞委會 大門 推擠，</segmentation>
+			<TaiLuo>ng3-tioh8 lo5-ui2-hoe7 toa7-mng5 sak</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>hiong3 lor5-ui4-hue2* dua2-mng5* tui1-sak7*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>企圖 強行進入，</segmentation>
+			<TaiLuo>an3-sng3 nge7-beh jip8-khi3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>siunn3-veh7 giong5-hing5-zin3-rip6*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>最後 才 由 技監 林振裕</segmentation>
+			<TaiLuo>choe3-au7 chai5-iu5 ki-kam3 Lim5-Chin2-Ju7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zue3-au2* ziah7 iu5 gi1-gam3* lim5-zin4-ru2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>出面 接受陳情。</segmentation>
+			<TaiLuo>chhut-bin7 chiap-siu7 tin5-cheng5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>cut7-vin2* ziap7-siu2-din5-zing5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>在高雄 從事 電子業 的 王先生 表示，</segmentation>
+			<TaiLuo>ti7 Ko-hiong5 cho3 tian7-chu2-giap8 e5 Ong5-sin-seN piau2-si7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Di2-gor1-hiong5* ziong5-su2 den2-zu4-qiap6* e5 ong5-sin1-senn1* biau4-si2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>近 兩、三個月 以來，</segmentation>
+			<TaiLuo>choe3-kin7 nng7-saN-kou3-goeh8 lai5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zue3-gin2* nng2-sann1-gor3-queh6* i4-lai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>一個月 只 上班 十天 到 十五天，</segmentation>
+			<TaiLuo>chit8-kou3-goeh8 kan-ta siang7-pan chap8-kang kau3 chap8-gou7-kang</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zit6-go3-queh6 gan1-na2* siong2-ban1 zap6-gang1* gau3 zap6-qo2-gang1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>薪水 只 剩下一半，</segmentation>
+			<TaiLuo>sin-sui2 kan-ta chhun-tui3-poaN3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>sin1-sui4* zi4-cun1-zit6-buann3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>一家五口 都靠他，</segmentation>
+			<TaiLuo>chit8-ke-khau2 gou7-e5-lang5 long2 oa2-kho3-i</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zit6-ge1*-qo2-kau4* long4-kor3-i*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>王先生說，</segmentation>
+			<TaiLuo>Ong5-sin-seN kong2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ong5-sin1-senn1*-gong4</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>他 實在擔心 未來 小孩子的 學費、</segmentation>
+			<TaiLuo>i-sit8-chai7 tam-sim bi7-lai5 gin2-a2-e5 hak8-hui3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>i1 sit6-zai2-huan5-lor4 vi2-lai5* qin4-a4*-e5-hak6-hui3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>生活費 該 從哪裡來？</segmentation>
+			<TaiLuo>seng-oah8-hui3 eng3-kai tui3-tah-lai5</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>sing1-uah6-hui3* ai3 ui3-dor4-ui2*-lai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>從事 運輸業 的 陳先生 也說，</segmentation>
+			<TaiLuo>ti7 cho3 un7-su-giap8 e5 Tan5-sin-seN kong2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Ziong5-su2 un2-su1-qiap6* e5 dan5-sin1-senn1* ma2-gong4</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>以往 景氣好 的 時候，</segmentation>
+			<TaiLuo>i2-ong2 keng2-khi3-ho2 e5--si5-chun7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>i4-ong4* ging4-ki3-hor4* e5 si5-zun2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>每一個月 至少 有 五萬五千元，</segmentation>
+			<TaiLuo>tak8-kou3-goeh8 siang7-chio2-u7 gou7-ban7-gou7-chhian-kho3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>mui4-zit6-gor3-queh6* zi3-zior4* u2 qo2-van2-qo2-cing1-ko1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>但 公司 實施 無薪假 以後，</segmentation>
+			<TaiLuo>tan7-si7 kong-si sit8-si bo5-sin-ka3 i2-au7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>dan2-si2 gong1-si1 sit6-si1 vor5-sin1-ga4* i4-au2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>他 一個月 只 剩兩萬元，</segmentation>
+			<TaiLuo>i tak8-kou3-goeh8 kan-ta chhun nng7-ban7-kho3</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>i1 zit6-gor3-queh6* gan1-na2* cun1-nng2-van2-ko3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=47>
+			<segmentation>他 有 房貸壓力，</segmentation>
+			<TaiLuo>i-u7 chhu3-theh8 tai3-khoan2 ap-lek8</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>i1 u2 cu3-dai2-kuan4*-e5 ap7-lik6*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=48>
+			<segmentation>還有小孩 要養，</segmentation>
+			<TaiLuo>iau2-u7 gin2-a2 beh-chhi7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gorh7-u2-qin4-a4* veh7-ci2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=49>
+			<segmentation>未來 該怎麼辦？</segmentation>
+			<TaiLuo>bi7-lai5 beh-an2-choaN2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>vi2-lai5* veh7-an4-zuan4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

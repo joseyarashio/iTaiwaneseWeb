@@ -1,0 +1,118 @@
+<article>
+	<id>1635</id>
+	<title>巨型薑餅屋 醫院 濃濃耶誕味</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>一年一度 的 耶誕佳節 又到了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-ni5-chit8-tou7 e5 Ia5-tan3-ka-chiat koh-kau3-liau2，</JiaoLuo>
+			<TongYong>Zit6-ni5*-zit6-do2*-e5 Ia5-Dan3*-ga1-zet7 gorh7-gau3-liau2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>為了讓 醫院裡 病患們 感受到 過節的 氣氛 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-tioh8-hou7 penn7-inn7-lai7 penn7-hoan7-in kam2-siu7-tioh8 koe3-cheh-e5 khi3-hun，</JiaoLuo>
+			<TongYong>ui2-diorh6-ho2 benn2-inn2-lai2 benn2-huan2-in1 gam4-siu2-diorh6 gue3-zeh7-e5 ki3-hun，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>醫院的 大廳內 一堆的人 正在 施工 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-inn7-e5 toa7-thiann-lai7 chit8-tui-e5-lang5 chiann3-leh si-kang，</JiaoLuo>
+			<TongYong>benn2-inn2-e5 dua2-tenn1-lai2 zit6-dui1-e5-lang5 zenn3-leh7 si1-gang，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>有趣的是 這些 工人 雖然 帶著 鋸子 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-bi7-e5-si7 chia-e5 kang-lang5 sui-jian5 chah-tioh8 ki3-a2，</JiaoLuo>
+			<TongYong>cu3-vi2-e5-si2 zia1-e5 gang1-lang5 sui1-ren5 zah7-diorh6 gi3-a2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>他們 頭上 戴的 不是 安全帽 而是 廚師帽 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in thau5-teng2 ti3-e5 m7-si7 an-choan5-bo7 ah-si7 tou5-chi2-sai-bo7，</JiaoLuo>
+			<TongYong>in1 tau5-ding4 di3-e5 m2-si2 an1-zuan5-vor2 ah7-si2 du5-su1zi4-sai1-vor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>身上 還穿著 廚師服 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-khu-teng2 iau2-chheng7-tioh8 tou5-chi2-sai-hok8，</JiaoLuo>
+			<TongYong>sin1-ku1-ding4 iau4-cing2-diorh6 du5-su1zi4-sai1-hok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>大家 正在 趕搭建 一間 巨型的 薑餅屋 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ta-ke chiann3-leh koann2-tah-kian3 chit8-keng ku7-heng5-e5 kiunn-piann2-chhu3。</JiaoLuo>
+			<TongYong>da1-ge1 zenn3-leh7 guann4-dah7-gen3 zit6-ging1 gu2-hing5-e5 giunn1-benn4-cu3。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>花蓮縣 的 門諾醫院 大廳 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hoe-lian5-koan7 e5 Mng5-lok8-penn7-inn7 toa7-thiann，</JiaoLuo>
+			<TongYong>Hue1-Len5-guan2* e5 Mng5-Lok6-benn2-inn2 dua2-tenn，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>佈置了 一座 高 兩公尺 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pou3-ti3-liau2 chit8-cho2 koan5 nng7-kong-chhioh，</JiaoLuo>
+			<TongYong>bo3-di3-liau4 zit6-zor4 guan5 nng2-gong1-ciorh，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>長 、 寬 各 三公尺 的 大型的 薑餅屋 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng5 、 khoah koh sann-kong-chhioh e5 toa7-heng5-e5 kiunn-piann2-chhu3，</JiaoLuo>
+			<TongYong>dng5 、1 kuah7 gorh7 sann1-gong1-ciorh7 e5 dua2-hing5-e5 giunn1-benn4-cu3，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>花了 一星期 時間 製作 完工 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khai-liau2 chit8-le2-pai3 si5-kan che3-chok oan5-kang，</JiaoLuo>
+			<TongYong>kai1-liau4 zit6-le4-bai3 si5-gan1 ze3-zok7 uan5-gang，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>這些薑餅 用鋸子 鋸成 適用的 大小形狀 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chia-e5 kiunn-piann2 eng7 ki3-a2 ki3-cho3 hah8-eng7-e5 toa7-soe3 heng5-chong7，</JiaoLuo>
+			<TongYong>Zia3-e5 giunn1-biann4* ing2 gi3-a4 gi3-zor3 hah6-ing2-e5 dua2-sue3 hing5-zong7，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>再用 矽膠 將 一塊 一塊的 薑餅 黏起來 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-eng7 siak8-ka ka7 chit8-te3 chit8-te3-e5 kiunn-piann2 liam5-khi2-lai5，</JiaoLuo>
+			<TongYong>gorh7-ing2 siak6-ga1 ga2 zit6-de3 zit6-de3-e5 giunn1-benn4 liam5-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>因為 有了 這座 薑餅屋 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 u7-liau2 chit-cho2 kiunn-piann2-chhu3，</JiaoLuo>
+			<TongYong>in1-ui2 u2-liau4 zit7-zor4 giunn1-benn4-cu3，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>讓 醫院 增添了 不少 過節的 溫馨 氣息 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 penn7-inn7 ke-thinn-liau2 be7-chio2 koe3-cheh-e5 un-hiong khui3-si。</JiaoLuo>
+			<TongYong>ho2 benn2-inn2 ge1-tinn1-liau4 ve2-zior4 gue3-zeh7-e5 un1-hiong1 kui3-si。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

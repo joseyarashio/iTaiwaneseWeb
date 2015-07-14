@@ -1,0 +1,104 @@
+<article>
+	<id>1527</id>
+	<title>不需繳費項目 醫院 竟然 擅改自費</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>不知道 你 有沒有發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-chai-iann2 li2-u7-a2-bo5 hoat-hian7，</JiaoLuo>
+			<TongYong>M2-zainn1-iann4 li4 gam4-u2-huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>現在 到醫院看病，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 kau3-penn7-inn7 khoann3-penn7，</JiaoLuo>
+			<TongYong>zit7-ma4* gau3-benn2-inn2*-kuann3-benn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>自費的項目 卻 越來越多？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu7-hui3-e5 hang7-bok8 soah-lu2-lai5-lu2-choe7？</JiaoLuo>
+			<TongYong>zu2-hui3*-e5-hang2-vok6* suah7 lu4-lai5*-lu4-ze2*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>醫改會 調查以後 就發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>I-kai2-hoe7 tiau-cha liau2-au7 to-hoat-hian7，</JiaoLuo>
+			<TongYong>I1-gai4-hue2* diau1-za1*-liau4-au2* diorh6-huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>包括 轉床費 和 磨藥費 等，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pau-koat choan2-chhng5-hui3 kap boa5-ioh8-hui3 teng2，</JiaoLuo>
+			<TongYong>bau1-guah7 zuan4-cng5-hui3* gah7 vua5-iorh6-hui3* ding4-ding4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>有些 規定 不需繳費的 項目，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-koa2 kui-teng7 m7-bian2 kiau2-hui3-e5 hang7-bok8，</JiaoLuo>
+			<TongYong>u2-zit6-gua4 gui1-ding2 m2-ven4-giau4-hui3*-e5 hang2-vok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>竟然 有醫院 把它當成 自費的項目，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng3-jian5-u7 penn7-inn7 ka7-i-tong3-cho3 chu7-hui3-e5 hang7-bok8，</JiaoLuo>
+			<TongYong>ging3-ren5* u2-benn2-inn2* ga2-i1-dong3-zor3 zu2-hui3*-e5 hang2-vok8，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>擅自 改為自費 藉機 向病患 多收錢。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiam3-khoan5 kai2-ui5 chu7-hui3 chia3-ki-hiang3 penn7-hoan7 ke-siu-chinn5。</JiaoLuo>
+			<TongYong>sen2-zu2 gai4-ui5-zu2-hui3* ziorh7-gi1* hiong3-benn2-huan2* ge1-siu1-zinn5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>像是 住院病患 要求轉床，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhin-chhiunn7 toa3-inn7 penn7-hoan7 iau-kiu5 choan2-chhng5，</JiaoLuo>
+			<TongYong>Pi3-ru5-gong4 dua3-inn2*-e5-benn2-huan2* iau1-giu5-zuan4-cng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>就得繳交 兩百元 轉床費 給醫院，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-ai3-kiau2 nng7-pah-kho3 choan2-chhng5-hui3 hou7 penn7-inn7，</JiaoLuo>
+			<TongYong>diorh6-ai3-gau1 nng2-bah7-ko1* zuan4-cng5-hui3* ho2-benn2-inn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>但是 這筆費用 早就 包含在 健保費 當中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh chit-pit hui3-iong7 cha2-tioh8 pau-ham5-ti7 kian7-po2-hui3 tong-tiong，</JiaoLuo>
+			<TongYong>m2-gorh7 zit7-bit7-hui3-iong2* za4*-diorh6 bau1-ham5-di2 gen2-bor4-hui3* dang1-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>一九九九年 中央健保局 已經 更改規定，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-kiu2-kiu2-kiu2-ni5 Tiong-iang-kian7-po2-kiok8 i2-keng keng-kai2 kui-teng7 ，</JiaoLuo>
+			<TongYong>it7-giu4-giu4-giu4-ni5* Diong1-Iang1*-Gen2-Bor4-Giok6* i4-ging1 ging1-gai4-gui1-ding2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>醫院 不得 以此名義 要求患者 自費。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-inn7 put-tek eng7-chit-mia5-gi7 iau-kiu5 hoan7-chia2 chu7-hui3。</JiaoLuo>
+			<TongYong>benn2-inn2* but7-dik7 iong2-zit7-ziong4-mia5-qi2* iau1-giu5-huan2-zia4* zu2-hui3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

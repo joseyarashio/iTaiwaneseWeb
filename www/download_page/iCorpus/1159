@@ -1,0 +1,111 @@
+<article>
+	<id>1159</id>
+	<title>死亡車禍 塞車 下車察看 震驚 死者是兒子</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>新竹 發生一起 死亡車禍！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-tek hoat-seng chit8-khi2 si2-bong5-chhia-ho7！</JiaoLuo>
+			<TongYong>Sin1-Dik7* huat7-sing1-zit6-giann2 si4-vong5*-cia1-hor2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一台摩托車 三貼 行經 羅馬公路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tai5 ou-tou2-bai2 chai3-sann-lang5 kiann5-koe3 Lo5-ma2-kong-lou7， </JiaoLuo>
+			<TongYong>Zit6-dai5-o1-do4-vai4* ze2-sann1-e5-lang5* ging1-gue3 Lor5-Ma4-gong1-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>疑似 車速過快 加上 天雨路滑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 chhia-sok koe3-kin2 ka-siong7 hou7-lai5-thinn lou7-kut8，</JiaoLuo>
+			<TongYong>qi5-su2 cia1-sok7*-siunn1-gin4* ga1-siong2 lorh6-ho2*-lo2*-gut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>迎面撞上 遊覽車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chheng3-bin7 long3-tioh8 iu5-lam2-chhia，</JiaoLuo>
+			<TongYong>ziann3-vin2*-long3-diorh6 iu5-lam4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>來自 台中 某國中 教師聯誼會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lai5-chu7 Tai5-tiong bou2-kok-tiong kau3-su-lian5-gi7-hoe7，</JiaoLuo>
+			<TongYong>lai5-zu2 Dai5-Diong1* vo4-gok7-diong1* gau3-su1*-len5-qi5-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>整台摩托車 卡在 遊覽車 底下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-tai5 ou-tou2-bai2 khah8-ti7 iu5-lam2-chhia e7-kha</JiaoLuo>
+			<TongYong>gui1-dai5-o1-do4-vai4* kah6-di2 iu5-lam4-cia1* e2-ka1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>騎士 當場死亡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khia5-chhia-e5-lang5 tong-tiunn5 si2-bong5，</JiaoLuo>
+			<TongYong>ki5-su2* dong1-diunn5*-si4-vong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>另外兩人 多處骨折 送醫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7 nng7-lang5 che7-sou2-chai7 kut-tng7 sang3-i，</JiaoLuo>
+			<TongYong>ling2-qua2 nng2-e5-lang5* gui4*-a2-ui2* gut7-tau5*-duinn2*-ki3* sang3-i1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>車禍的路段 因此 大塞車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-ho7-e5 lou7-toann7 in-chhu2 toa7-that-chhia，</JiaoLuo>
+			<TongYong>cia1-hor2*-e5-lo2-duann2* in1-ui2 zit7-giann2-su2-go3* dua2-tat7-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>車陣中 一名 下車觀看的 民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-tin7-tiong chit8-mia5 loh8-chhia koan-khoann3-e5 bin5-chiong3，</JiaoLuo>
+			<TongYong>cia1-din2*-diong1* zit6-e5* lorh6-cia1*-guan1-kuann3*-e5 vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>突然 放聲大哭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tut8-jian5 toa7-siann-khau3，</JiaoLuo>
+			<TongYong>tut6-ren5-gan1* dua2-siann1-kau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>原本 要去 買東西 的 他，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 beh-khi3 be2-mih8-kiann7 e5 i，</JiaoLuo>
+			<TongYong>quan5-bun4 veh7-ki3 ve4-mih6-giann2* e5 i2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>赫然發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hek-jian5 hoat-hian7，</JiaoLuo>
+			<TongYong>diorh6-giann1*-e5-huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>死者 竟然 就是 他的兒子。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si2-chia2 keng3-jian5 tioh8-si7 i-e5 hau7-senn。</JiaoLuo>
+			<TongYong>si4-zia4* ging3-ren5* diorh6-si2 i1-e5-hau2-senn1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

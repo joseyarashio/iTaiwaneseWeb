@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>呼叫物件</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rscallobject"></a>呼叫物件屬性與方法</h1>
+<p>
+當您呼叫伺服端方法時，此方法並不會傳回一個單一值，而是建立一個呼叫物件。此物件中包含呼叫程序的傳回與狀態資訊。下表列出呼叫物件的屬性。</p>
+<table border=1 cols=2 frame=void rules=rows>
+<tr valign=top>
+<td width=294><b>屬性</b></td>
+<td width=294><b>描述</b></td>
+</tr>
+<tr valign=top>
+<td width=294><pre><code>id</code></pre>
+</td>
+<td width=294>呼叫的唯一值，在第一次呼叫時產生。</td>
+</tr>
+<tr valign=top>
+<td width=294><pre><code>return_value</code></pre>
+</td>
+<td width=294>如果方法有傳回值的話，則此屬性為其傳回值。</td>
+</tr>
+<tr valign=top>
+<td width=294><pre><code>data</code></pre>
+</td>
+<td width=294>伺服端回應遠端 scripting 呼叫所傳回的原始資料，包含在 XML 標記中。相關的詳細資訊，請參閱<a href="rmscpt7.htm">檢查錯誤</a>。</td>
+</tr>
+<tr valign=top>
+<td width=294><pre><code>status</code></pre>
+</td>
+<td width=294>此數值代表方法呼叫目前的狀態。可能的數值如下︰<p>
+-1&nbsp;&nbsp;&nbsp;失敗</p>
+<p>
+0&nbsp;&nbsp;&nbsp;完成</p>
+<p>
+1&nbsp;&nbsp;&nbsp;暫停</p>
+<p>
+相關的詳細資訊，請參閱<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a>。</p>
+</td>
+</tr>
+<tr valign=top>
+<td width=294><pre><code>message</code></pre>
+</td>
+<td width=294>關於呼叫的文字資訊。如果呼叫成功，則 <code>message</code> 的內容為「完成」。如果呼叫失敗，則 <code>message</code> 的內容可能是伺服端所傳回的錯誤文字，也可能是標準的錯誤訊息。相關的詳細資訊，請參閱<a href="rmscpt7.htm">檢查錯誤</a>。</td>
+</tr>
+<tr valign=top>
+<td width=294><pre><code>callback</code></pre>
+</td>
+<td width=294>呼叫中所指定的選擇性回呼函數的文字。</td>
+</tr>
+<tr valign=top>
+<td width=294><pre><code>error_callback</code></pre>
+</td>
+<td width=294>呼叫所指定的選擇性錯誤回呼函數的文字。</td>
+</tr>
+<tr valign=top>
+<td width=294><pre><code>context</code></pre>
+</td>
+<td width=294>隨著此呼叫傳遞的內容值。相關的詳細資訊，請參閱<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a>。</td>
+</tr>
+</table><br>
+<p>
+下表列出此呼叫物件所能呼叫的方法。</p>
+<table border=1 cols=2 frame=void rules=rows>
+<tr valign=top>
+<td width=294><b>方法</b></td>
+<td width=294><b>描述</b></td>
+</tr>
+<tr valign=top>
+<td width=294><a href="rmscpt15.htm">wait</a></td>
+<td width=294>停止目前正在執行的客戶端 script，直到指定呼叫物件的非同步遠端 scripting 呼叫完成為止。</td>
+</tr>
+<tr valign=top>
+<td width=294><a href="rmscpt10.htm">cancel</a></td>
+<td width=294>停止以非同步方式執行的遠端 scripting 呼叫。</td>
+</tr>
+</table><br>
+<p>
+關於呼叫物件的詳細資訊，請參閱 <a href="rmscpt5.htm">同步呼叫遠端 Scripting 方法</a>和<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a>。</p>
+</BODY>
+</HTML>

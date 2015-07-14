@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>wait 方法</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rswaitmethod"></a>wait 方法</h1>
+<p>
+停止目前正在執行的客戶端 script，直到指定呼叫物件的非同步遠端 scripting 呼叫完成為止。</p>
+<p>
+<b>語法</b></p>
+<p>
+<i>co</i>.wait()</p>
+<p>
+<b>參數</b></p>
+<DL>
+<DT>
+<i>co</i></DT>
+<DD>
+執行遠端 scripting 呼叫所產生的呼叫物件。</DD>
+<p>
+</DL>
+<b>請注意</b></p>
+<p>
+呼叫此方法會將非同步遠端 scripting 呼叫轉換為同步遠端 scripting 呼叫。如果遠端 scripting 呼叫已經完成，此方法會立即傳回。如果您在客戶端 script 中碰到某個點需要來自遠端 scripting 呼叫的結果時，便可以使用此呼叫。</p>
+<p>
+<b>範例</b></p>
+<p>
+下面的 script 會以非同步方式呼叫 EmpLists 網頁上的 <code>GetNames</code> 方法。啟動呼叫之後，螢幕上會顯示訊息，然後等待其結果。</p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript" FOR="btnReport" EVENT="onclick"&gt;
+    empLookup = RSGetASPObject("../mypages/EmpLists.asp");
+    co = empLookup.GetNames(showResults);
+    txt1.value = "Getting employee names ..."
+    co.wait()    // suspends client processing
+&lt;/SCRIPT&gt;
+</code></pre>
+<p>
+<b>請參閱</b></p>
+<p>
+<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a></p>
+</BODY>
+</HTML>

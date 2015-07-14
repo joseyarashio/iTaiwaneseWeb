@@ -1,0 +1,44 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>下拉選單：多選</h2>
+<hr>
+
+<script>
+function listSummary(form) {
+	var result = ""
+	for (var i=0; i<form.courseList.length; i++)
+		if (form.courseList.options[i].selected)
+			result = result + form.courseList.options[i].text + "\n"; 
+	alert("你最喜歡的幾門課是：\n" + result);
+}
+</script>
+
+請選擇你最喜歡的幾門課（可用 Ctrl 或 Shift 鍵來進行多選）：
+<form>
+<select name=courseList size=4 multiple onChange="listSummary(this.form)">
+	<option> 1. Linear Algebra
+	<option> 2. C Programming Language
+	<option> 3. Engineering Mathematics
+	<option selected> 4. Numerical Methods
+	<option> 5. Introduction to Artificial Intelligence
+	<option selected> 6. Web Programming
+	<option> 7. Artificial Neural Networks
+	<option> 8. Fuzzy Sets Theory and Applications
+	<option> 9. Audio Signal Processing and Recognition
+	<option> 10. Special Topics on MATLAB
+</select>
+</form>
+
+<script src=listProp.js></script>
+<p>Prop. of courseList:<br>
+<script>listProp(document.forms[0].courseList, "courseList");</script>
+<p>Prop. of courseList[0]:<br>
+<script>listProp(document.forms[0].courseList[0], "courseList[0]");</script>
+
+<hr>
+</body>
+</html>

@@ -1,0 +1,370 @@
+<article>
+	<id>77</id>
+	<title>高雄 發生 野草莓 向馬英九 突襲嗆聲</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 記者 侯承旭、 林孟婷、 徐夏蓮、 吳世聰 綜合報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-iu5-si5-po3 ki3-chia2 Hau5-seng5-hiok 、 Lim5-beng7-teng5 、 Tshi5-ha7-lian5 、 Gou5-se3-chhong chong-hap8-po3-to7</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* gi3-zia4* hau5-sing5-hiok7*、 lim5-ving2-ting5*、 ci5-ha2-len5*、 nqo5-se3-cong1* zong1-hap6-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>馬英九 昨晚 南下高雄 參加晚宴，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ma2-eng-kiu2 cha-mi5 lam5-ha7 Ko-hiong5 chham-ka boan2-ian3 ，</JiaoLuo>
+			<TongYong>Ma4-ing1-giu4* za1-am3* lam5-ha2-gor1-hiong5* cam1-ga1-vuan4-en3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在附近 靜坐 的 野草莓學生 發動突襲 嗆馬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 hu3-kin7 cheng7-cho e5 Ia2-chhi3-pho-hak8-seng hoat-tong7 tut8-sip8 chhiuN3-Ma2 ，</JiaoLuo>
+			<TongYong>di2-hu2-gin2* zing2-zor1* e5 ia4-cau4-mui5*-hak6-sing1* huat7-dong2-tut6-sip6* ciang3-ma4-ing1-giu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>與警方 拉扯追逐。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham keng2-hong giu2-chhe2 chau2-sio-jiok 。</JiaoLuo>
+			<TongYong>gah7-ging3-hong1* kiu4-lak6* zau4-sior1-qik7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>馬英九 昨晚 六點五十分 抵達 高雄 漢來飯店，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ma2-eng-kiu2 cha-mi5 lak8-tiam2 gou7-chap8-hun kau3 Ko-hiong5 Han3-lai5-png7-tiam3 ，</JiaoLuo>
+			<TongYong>Ma4-ing1-giu4* za1-am3* lak6-diam4*-qo2-zap6-hun1* gau3 gor1-hiong5* han3-lai5-bng2-diam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>附近 靜坐一週的 野草莓學生 聞訊後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hu3-kin7 cheng7-cho chit8-le2-pai3 e5 Ia2-chhi3-pho hak8-seng thiaN-tioh8-au7 ，</JiaoLuo>
+			<TongYong>hu3-gin2* zing2-zor2 zit6-le4-bai3* e5 ia4-cau4-mui5*-hak6-sing1* tiann1-diorh6-siau1-sit7* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>分別 騎機車 及 搭乘 接駁車 要 去飯店 嗆馬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hun-piat8 khia5-ou-tou2-bai2 kap che7 chiap-lau5-chhia beh-khi3 png7-tiam3 chhiuN3-Ma2 ，</JiaoLuo>
+			<TongYong>hun1-bet6 kia5-o1-do4-vai4* gah7 ze2-ziap7-un2-cia1* veh7 ki3-bng2-diam3* ciang3-ma4-ing1-giu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>要求 馬英九 回應 學生的訴求。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau-kiu5 Ma2-eng-kiu2 hoe5-eng3 hak8-seng e5 sou3-kiu5 。</JiaoLuo>
+			<TongYong>iau1-giu5 ma4-ing1-giu4* hue5-ing3 hak6-sing1*-e5-so3-giu5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>三名學生 搭上 前往飯店的 接駁車 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>saN-mia5 hak8-seng che7-tioh8 chian5-ong2 png7-tiam3 e5 che7-chiap-lau5-chhia liau2-au7 ，</JiaoLuo>
+			<TongYong>Sann1-mia5-hak6-sing1* ze2-ki4-li4 zen5-ong4-bng2-diam3*-e5 ziap7-un2-cia1* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>便衣警察 馬上 進入車內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pian7-i-keng2-chhat ma2-siang7 chin3-jip8 chhia-lai7 ，</JiaoLuo>
+			<TongYong>ben2-i1-ging3-cat7* ma4-siong2* zin3-rip6-cia1-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>下令 駕駛 不得開車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ha7-leng7 ka3-su2 be7-sai2 khui-chhia ，</JiaoLuo>
+			<TongYong>ha2-ling2 ga3-su4* ve2-sai4-kui1-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>並 要求學生 立即下車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7-iau-kiu5 hak8-seng sui5 loh8-chhia ，</JiaoLuo>
+			<TongYong>bing2-ciann4 iau1-giu5-hak6-sing1* sui5-lorh6-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>否則 「大家 都 別想畢業」。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-bo5 「 tak8-ke long2 bian2-siuN7-beh pit-giap8 」 。</JiaoLuo>
+			<TongYong>na2-vor5* 「dak6-ge1 long4 ven4-siunn2-veh7 bit7-qiap6*」。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>學生們 立即下車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hak8-seng-in sui5 loh8-chhia ，</JiaoLuo>
+			<TongYong>Hak6-sing1* ma4-siong2-lorh6-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>又 另外 攔計程車 要去飯店，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh leng7-goa7 chah8 ke3-teng5-chhia beh-khi3 png7-tiam3 ，</JiaoLuo>
+			<TongYong>gorh7 ling2-qua2 zah6-ke3-ding5-cia1* veh7-ki3-bng2-diam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>計程車 運將 也 被員警 制止 不得開車。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke3-teng5-chhia un3-chiang3 ia7-pi7 oan5-keng2 che3-chi2 be7-sai2 khui-chhia 。</JiaoLuo>
+			<TongYong>ke3-ding5-cia1 un3-ziang3* ma ho2-ging3-cat7* zo4-dong3* ve2-dang3-kui1-cia1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>此時， 學生們 以 步行的方式 往飯店 出發，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-si5 ， hak8-seng-in kiaN5-lou7 e5 hong-sek ong2 png7-tiam3 chhut-hoat ，</JiaoLuo>
+			<TongYong>zit7-e5-si5-zun2*， hak6-sing1* iong2 giann5-lo2*-e5-hong1-sik7* ong4-bng2-diam3* cut7-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>員警 一路尾隨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-keng2 toe3-kui-lou7 ，</JiaoLuo>
+			<TongYong>quan5-ging4* zit6-lo2* due3-diau5-diau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>學生 又攔了 計程車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hak8-seng koh-chah8-liau2 ke3-teng5-chhia ，</JiaoLuo>
+			<TongYong>hak6-sing1* gorh7-zah6 ke3-ding5-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>員警 竟然 以肉身 擋在 計程車 前方，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-keng2 keng3-jian5-iong7 seng-khu tong3-ti7 ke3-teng5-chhia thau5-cheng5 ，</JiaoLuo>
+			<TongYong>quan5-ging4* ging3-ren5* iong2-sin1-ku1* dong3-di2 ke3-ding5-cia1* tau5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>運將 馬上 轉彎 甩開員警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>un3-chiang3 ma2-siang7 hoan-thau5 hiN3-tiau7 oan5-keng2 ，</JiaoLuo>
+			<TongYong>un3-ziang3* ma4-siong2* seh6-uan1* hainn3-kui1-quan5-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>一路 朝飯店 加速前進，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-lou7-ong2 png7-tiam3 ka-sok chian5-chin3 ，</JiaoLuo>
+			<TongYong>zit6-lo2* hiong3-bng2-diam3* ga1-sok7*-zen5-zin3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>當 車子 距離飯店 僅僅 一百公尺 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong chhia ki7-li5 png7-tiam3 kan-na7 chit8-pah-kong-chhioh si5 ，</JiaoLuo>
+			<TongYong>dng1 cia1* li2-bng2-diam3* gan1-na2 zit6-bah7-gong1-ciorh7* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>計程車 就 被警網 團團包圍。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke3-teng5-chhia tioh8-pi7 keng2-bang thoan5-thoan5-pau-ui5 。</JiaoLuo>
+			<TongYong>ke3-ding5-cia1* diorh6 ho2-ging4-vong4* tuan5-tuan5-bau1-ui5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>員警 要求 三名學生 下車 接受盤查，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-keng2 iau-kiu5 saN-mia5 hak8-seng loh8-chhia chiap-siu7 poaN5-cha ，</JiaoLuo>
+			<TongYong>Quan5-ging4* iau1-giu5 sann1-mia5-hak6-sing1* lorh6-cia1* ziap7-siu2-giam4-za1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>學生們 見到 拔腿就跑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hak8-seng-in khoaN3-tioh8 oat8-thau5-sui5-chau2 ，</JiaoLuo>
+			<TongYong>hak6-sing1* kuann3-diorh6 ki4-ka1*-diorh6-zau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>與 馬英九的 維安人員 在小巷內 追逐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham Ma2-eng-kiu2 e5 i5-an-jin5-oan5 ti7 sio2-hang7-lai7 chau2-sio-jiok ，</JiaoLuo>
+			<TongYong>gah7 ma4-ing1-giu4*-e5 ui5-an1-rin5-quan5* di2-sior4-hang2-lai2* zau4-sior1-qik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>有女學生 書包 被扯破，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 lu2-hak8-seng e5 chheh-phaiN7-a2 pi7-khiu2-phoa3 ，</JiaoLuo>
+			<TongYong>u2-lu4-hak6-sing1* ceh7-painn2-a4* hong5*-kiu4-pua3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>直到 馬英九 離去後 才停止。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tit8-kau3 Ma2-eng-kiu2 li5-khui-au7 chiah-theng5-chi2 。</JiaoLuo>
+			<TongYong>it7-dit6-gau3 ma4-ing1-giu4* li5-kui1*-liau4-au2* ziah7-ting5-zi4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>學生強調，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hak8-seng kiong5-tiau7 ，</JiaoLuo>
+			<TongYong>Hak6-sing1*-giong5-diau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>馬英九 宣稱 願意 與學生 對談，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ma2-eng-kiu2 soan-chheng goan7-i3 ham hak8-seng tui3-tam5 ，</JiaoLuo>
+			<TongYong>ma4-ing1-giu4* suan1-cing1* quan2-i3 ham2-hak6-sing1* dui3-dam5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>卻 派出 大批 維安人員 阻止學生 接近，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-phai3-chhut toa7-phe i5-an-jin5-oan5 chou2-chi2 hak8-seng chiap-kin7 ，</JiaoLuo>
+			<TongYong>suah7 pai3-cut7 dua2-pue1 ui5-an1-rin5-quan5* zo4-zi4-hak6-sing1* ziap7-gin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>展現 執政者的 傲慢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tian2-hian7 chip-cheng3-chia2 e5 ngou7-ban7 ，</JiaoLuo>
+			<TongYong>den4-hen2 zip7-zing3-zia4*-e5 ngo2-van2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>未來 學生 要 進行 全國串連，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bi7-lai5 hak8-seng beh-chin3-heng5 choan5-kok chhoan3-lian5 ，</JiaoLuo>
+			<TongYong>vi2-lai5* hak6-sing1* veh7 zin3-hing5 zuan5-gok7*-cuan3-len5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>以 突襲的方式 嗆馬。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iong7 tut8-sip8 e5 hong-sek chhiuN3-Ma2 。</JiaoLuo>
+			<TongYong>iong2 tut6-sip6*-e5-hong1-sik7* ciang3-ma4-ing1-giu4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>野草莓學運 在 高雄市 城市光廊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ia2-chhi3-pho-hak8-un7 ti7 Ko-hiong5-chhi7 SiaN5-chhi7-kng-long5 ，</JiaoLuo>
+			<TongYong>Ia4-cau4-mui5*-hak6-un2* di2 gor1-hiong5-ci2* siann5-ci2-gong1-long5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>已經 靜坐 一個禮拜，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng cheng7-cho chit8-le2-pai3 ，</JiaoLuo>
+			<TongYong>i4-ging1 zing2-zor2 zit6-le4-bai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>昨天下午 包括 勞工、 教育、 性別、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choh8-jit8 e7-pou pau-koat lo5-kang 、 kau3-iok8 、 seng3-piat8 、</JiaoLuo>
+			<TongYong>za1-hng1*-e2-bo1* bau1-gua1 lor5-gang1*、 gau3-iok6*、 sing3-bet6*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>身障、 原住民、 生態 等 社運團體，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-chiong3 、 goan5-chu7-bin5 、 seN-thai3 teng2 sia7-un7-thoan5-the2 ，</JiaoLuo>
+			<TongYong>sin1-ziong3*、 quan5-zu2-vin5*、 sing1-tai3* ding4 sia2-un2-tuan5-te4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>在 學生 靜坐現場 大會師，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 hak8-seng cheng7-cho hian7-tiuN5 toa7-hoe7-su</JiaoLuo>
+			<TongYong>di2 hak6-sing1* zing2-zor2-hen2-diunn5* dua2-hue2-su1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>高喊 「社運 加 草莓、 人權 不倒退」。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-siaN-hoah 「 sia7-hoe7 ka chhi3-pho 、 jin5-koan5-be7-to3-the3 」 。</JiaoLuo>
+			<TongYong>dua2-siann1-huah7 「sia2-un2* ga1 cau4-mui5*、 rin5-kuan5* vor5-dor3-te3*」。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>另外 在 台南 成功大學 光復校區 的 野草莓學運 學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7 ti7 Tai5-lam5 Seng5-kong-tai7-hak8 Kong-hok8-hau7-khu e5 Ia2-chhi3-pho-hak8-un7 hak8-seng ，</JiaoLuo>
+			<TongYong>Ling2-qua2* di2 dai5-lam5* sing5-gong1-dai2-hak6* gong1-hok6-hau2-ku1* e5 ia4-cau4-mui5*-hak6-un2* hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>有 部分學生 因為 應付 期中考試 及 北上支援，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-pou7-hun7 hak8-seng in-ui7 eng3-hu3 ki5-tiong-kho2-chhi3 kap chiuN7-pak chi-oan7 ，</JiaoLuo>
+			<TongYong>u2 bo2-hun2-hak6-sing1* in1-ui2 ing3-hu3 gi5-diong1-kor4-ci3* gah7 ziunn2-bak7*-zi1-uan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>靜坐人數 減少許多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng7-cho jin5-sou3 kiam2-chio2 chiok-choe7 ，</JiaoLuo>
+			<TongYong>zing2-zor2-rin5-so3* giam4-zior4 zit6-gua4-a4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>還是 有 許多民眾 前往 加油打氣。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-si7 u7-chiok-choe7 bin5-chiong3 chian5-ong2 chhui-iu5 chan7-khui3 。</JiaoLuo>
+			<TongYong>ma-si2 u2 zit6-gua4-vin5-ziong3* zen5-ong4 ga1-iu5*-go4-le2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>嘉義地區的 大學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ka-gi7-te7-khu e5 tai7-hak8-seng ，</JiaoLuo>
+			<TongYong>Ga1-qi2-de2-ku1*-e5 dai2-hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>發動 在 二二八 紀念公園 靜坐 的 野草莓學運 持續進行 中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-tong7 ti7 Ji7-ji7-pat ki3-liam7-kong-hng5 cheng7-cho e5 Ia2-chhi3-pho-hak8-un7 chhi5-siok8 chin3-heng5-tiong ，</JiaoLuo>
+			<TongYong>huat7-dong2 di2 qi2-qi2-bat7* gi3-liam2-gong1-hng5* zing2-zor2* e5 ia4-cau4-mui5*-hak6-un2* ci5-siok6-zin3-hing5* diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=47>
+			<segmentation>累計 到 十六日傍晚 已經 有八百人 連署支持。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lui2-ke3-kau3 chap8-lak8-ho7 e5 am3-thau5-a2 i2-keng-u7 peh-pah-lang5 lian5-su7 chi-chhi5 。</JiaoLuo>
+			<TongYong>lui4-ge3* gau3 zap6-lak6-hor2*-e5 am3-tau5-a4* i4-ging1 u2-beh7-bah7-lang5* len5-su4*-zi1-ci5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=48>
+			<segmentation>中部地區 野草莓學運，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiong-pou7-te7-khu Ia2-chhi3-pho-hak8-un7 ，</JiaoLuo>
+			<TongYong>Diong1-bo2-de2-ku1* ia4-cau4-mui5*-hak6-un2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=49>
+			<segmentation>十一月十六日 在 台中市 市民廣場 舉行 「滿週紀念」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-it-goeh8 chap8-lak8-jit8 ti7 Tai5-tiong-chhi7 Chhi7-bin5-kong2-tiuN5 ki2-heng5 「 chiok-le2-pai3 ki3-liam7 」 ，</JiaoLuo>
+			<TongYong>zap6-it7-queh6-zap6-lak6-hor2* di2 dai5-diong1-ci2* ci2-vin5-gong4-diunn5* gi4-hing5 「vuan4-ziu1*-gi3-liam2*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=50>
+			<segmentation>參加靜坐的 學生 陣容 越來越大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chham-ka cheng7-cho hak8-seng e5 tin7-iong5 lu2-lai5-lu2-toa7 ，</JiaoLuo>
+			<TongYong>cam1-ga1-zing2-zor2*-e5 hak6-sing1* din2-iong5* lu4-lai5*-lu4-dua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=51>
+			<segmentation>聲援的民眾 也 越來越多。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>seng-oan5-e5 bin5-chiong3 ia7 lu2-lai5-lu2-che7 。</JiaoLuo>
+			<TongYong>siann1-uan5*-e5-vin5-ziong3* ma2 lu4-lai5*-lu4-ze2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

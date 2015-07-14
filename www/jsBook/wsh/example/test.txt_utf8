@@ -1,0 +1,4 @@
+﻿在上述範例中，我們使用 meta 標籤來指定語言編碼，其中 
+
+「HTTP-EQUIV="Content-Type"」代表在此標籤所定義的字串，將被以 HTTP 表頭資訊的方式送到用戶端，其類別是 Content-Type 
+「CONTENT="text/html; charset=big5"」代表送到用戶端的資訊是文字，且是 HTML，而且其語言的編碼方式是 big5（繁體大五碼） 

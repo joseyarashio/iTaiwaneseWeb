@@ -1,0 +1,45 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<script type="text/javascript" language="javascript" src="script/prototype.js"></script>
+<script type="text/javascript" language="javascript">
+function showResult(reqObj) {
+	Element.hide ('login_form');
+	Element.update ('login_result', reqObj.responseText);
+	Element.show ('login_result');
+}
+
+function doValidate() {
+	var uid = $F('user_id');
+	var pwd = $F('user_pwd');
+	var url = 'login.php?';
+	var qstr = 'user_id=' + uid + '&user_pwd=' + pwd;
+
+	var ajax = new Ajax.Request (url, 
+			{
+				method: 'post',
+				parameters: qstr,
+				onComplete: showResult
+			});
+}
+
+function init() {
+	Element.show ('login_form');
+	Element.hide ('login_result');
+}
+</script>
+
+</head>
+<body onload="init()">
+
+<div id="login_form">
+	<table border=0>
+		<tr><td>帳號名稱：</td><td><input type="text" id="user_id"></td></tr>
+		<tr><td>登入密碼：</td><td><input type="password" id="user_pwd"></td></tr>
+		<tr><td><input type="button" onClick="doValidate()" value="登入"></td></tr>
+	</table>
+</div>
+<div id="login_result">
+</div>
+
+</body>

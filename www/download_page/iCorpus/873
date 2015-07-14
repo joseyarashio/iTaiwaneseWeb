@@ -1,0 +1,209 @@
+<article>
+	<id>873</id>
+	<title>牛排館 愛心餐會 助弱勢童 圓夢</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 林俊明 台南縣 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 Lim5-chun3-beng5 Tai5-lam5-koan7 po3-to7</JiaoLuo>
+			<TongYong>vin5-si2*-sin1-vun5* lim5-zun3-ving5* dai5-lam5-guan2* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>和家人 到餐廳 享用美食，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kap chhu3-lai7-lang5 kau3 chhan-thiann hiang2-iong7 bi2-sit，</JiaoLuo>
+			<TongYong>Ham2-cu3-lai2-lang5* gau3-can1-tiann1* hiang4-iong2-vi4-sit6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>對許多人 來說 很平常，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 chiann5-che7-lang5 lai5-kong2 chin-peng5-siong5，</JiaoLuo>
+			<TongYong>dui3-ziann5-ze2-lang5* lai5-gong4* zin1-bing5-siong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>不過 對 弱勢家庭的 孩子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 tui3 jiok-si3 ka-teng5 e5 gin2-a2，</JiaoLuo>
+			<TongYong>m2-gorh7 dui3 riok6-se3*-ga1-ding5*-e5 qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>上餐館 吃飯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiunn7 chhan-koan2 chiah-png，</JiaoLuo>
+			<TongYong>ziunn2-can1-guan4* ziah6-bng2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>是 很難得的 機會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 chin-lan5-tit e5 ki-hoe7，</JiaoLuo>
+			<TongYong>si2 zin1-lan5-dit7*-e5 gi1-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>有 連鎖 牛排餐館 業者，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 lian5-so2 gu5-pai5 chhan-koan2 giap-chia2，</JiaoLuo>
+			<TongYong>u2 len5-sor4* qu5-bai5-can1-guan4* qiap6-zia4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>特地 邀請 兩百名</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan-kang iau-chheng2 nng-pah-mia5，</JiaoLuo>
+			<TongYong>dik6-bet6 iau1-ciann4 nng2-bah7-mia5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>弱勢家庭的 孩童與家長，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jiok-si3 ka-teng5 e5 gin2-a2 ham ka-tiunn2，</JiaoLuo>
+			<TongYong>riok6-se3*-ga1-ding5*-e5 ri5-dong5*-gah7-ga1-diunn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>到店裡 一起 吃牛排，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3 tiam3-li2 cho3-hoe2 chiah-gu5-pai5，</JiaoLuo>
+			<TongYong>gau3-diam3-lai2* zor3-hue4 ziah6-qu5-bai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>也 讓小朋友，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7- ho7 sio2-peng5-iu2，</JiaoLuo>
+			<TongYong>ma2 ho2-sior4-bing5-iu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>從中 學習 餐廳禮儀。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiong5-tiong hak-sip chhan-thiann le2-gi5。</JiaoLuo>
+			<TongYong>ui3-gi5-diong1* hak6-sip6 can1-tiann1-le4-qi5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>小朋友 走進 牛排餐館，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sio2-peng5-iu2 kiann5-jip gu5-pai5 chhan-koan2，</JiaoLuo>
+			<TongYong>Sior4-bing5-iu4* giann5-rip6 qu5-bai5-can1-guan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>臉上 充滿 喜悅和期待，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin7-siong7 chhiong-boan2 hi2-iat ham ki5-tha7，</JiaoLuo>
+			<TongYong>vin2-siong2* ciong1-vuan4 hi4-uat6*-gah7-gi5-tai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>熱騰騰的 牛排 上桌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sio-kun2-kun2 e5 gu5-pai5 chiunn7-toh，</JiaoLuo>
+			<TongYong>sior1-tng3-tng3*-e5 qu5-bai5* ziunn2-dorh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>小朋友 第一次 拿刀叉 用餐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sio2-peng5-iu2 te7-it-pai2 theh to-chhiam2-a2 iong7-chhan，</JiaoLuo>
+			<TongYong>sior4-bing5-iu4* de2-it7-bai4* teh6-dor1-ciam4-a4* iong2-can1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>似乎 有些 陌生和吃力，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na2-chhin-chhiunn7 u7-koa2 chhenn-so kap chiah-lat，</JiaoLuo>
+			<TongYong>ga4-na4 u2-dam2-borh6-a4 cenn1-so1*-gah7-ziah6-lat6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>幸好 有媽媽 在旁幫忙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 u7 ma-ma ti7 pinn-a2 pang-bang5，</JiaoLuo>
+			<TongYong>ga1-zai3* u2-ma1-ma1* di2-binn1*-a4* bang1-zo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>才 順利吃到 美味的牛排。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah sun7-li7 chiah-tioh bi2-bi7 e5 gu5-pai5，</JiaoLuo>
+			<TongYong>ziah7 sun2-li2-ziah6-diorh6 vi4-vi2*-e5-qu5-bai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>連鎖 牛排業者，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-so2 gu5-pai5 giap-chia2，</JiaoLuo>
+			<TongYong>Len5-sor4* qu5-bai5-qiap6-zia4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>在 台南永康店 的 開幕活動，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Tai5-lam5 Eng2-khong-tiam3 e5 khai-bo7 oah-tang7，</JiaoLuo>
+			<TongYong>di2 dai5-lam5*-ing4-kong1-diam3* e5 kai1-vo2-uah6-dong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>不是 摸彩抽獎，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m-si7 mo-chhai2 thiu-chiong2，</JiaoLuo>
+			<TongYong>m2-si2 mo1-cai4*-tiu1-ziong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>而是 特地 為了 兩百位</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah-si7 choan-kang ui7-tioh nng-pah-ui7，</JiaoLuo>
+			<TongYong>den1-dor3-si2 dik6-bet6 ui2-liau4 nng2-bah7-ui2</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>弱勢家庭的 孩童 封館 開餐會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jiok-si3 ka-teng5 e5 hai5-tong5 hong-koan2 khui chhan-hoe7，</JiaoLuo>
+			<TongYong>riok6-se3*-ga1-ding5*-e5 ri5-dong5* hong1-guan4* kui1-can1-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>和 爸爸媽媽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kap pa5-pa5 ma-ma，</JiaoLuo>
+			<TongYong>ham2 ba5-ba5*-ma1-ma1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>一起 在店裡 用午餐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho3-hoe2 ti7 tiam3-li2 iong7 tiong-tau3-tng3，</JiaoLuo>
+			<TongYong>zor3-hue4 di2-diam3-lai2* ziah6-diong1-dau3-dng3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>業者的愛心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>giap-chia2 e5 ai3-sim，</JiaoLuo>
+			<TongYong>qiap6-zia4*-e5-ai3-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>讓 這些孩子 在 暑假的開始，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho7 chia-e5 gin2-a2 ti7 su2-ka2 e5 khai-si2，</JiaoLuo>
+			<TongYong>ho2 zia3-e5-qin4-a4* di2 su4-ga4*-e5-kai1-si4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>圓了 和父母 上餐館 吃大餐 的 夢。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-liau2 kap pe7-bu2 chiunn7 chhan-koan2 chiah- toa7-tng3 e5 bang7。</JiaoLuo>
+			<TongYong>inn5-liau4 gah7-be2-vu4* ziunn2-can1-guan4* ziah7-dai2-can1* e5 vang2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

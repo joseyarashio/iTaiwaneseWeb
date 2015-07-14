@@ -1,0 +1,118 @@
+<article>
+	<id>1194</id>
+	<title>不理會 老婆困車內 撞車 獨自溜跑</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>中午的 嘉義市 博愛路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiong-tau3-e5 Ka-gi7-chhi7 phok-ai3-lou7，</JiaoLuo>
+			<TongYong>Diong1-dau3*-e5 Ga1-Qi2-Ci2* Pok7-Ai3-Lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>發生 小貨車 衝撞民宅 的 車禍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng sio2-hoe3-chhia long3 bin5-theh8-e5 chhia-ho7，</JiaoLuo>
+			<TongYong>huat7-sing1 sior4-hue3-cia1* long3-vin5-ge1-cu3* e5 cia1-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>因為 力道太大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 lat8-thau5 siunn-toa7，</JiaoLuo>
+			<TongYong>in1-ui2 lik6-liang2*-siunn1-dua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>小貨車 因此翻覆，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sio2-hoe3-chhia in-chhu2 peng2-chhia，</JiaoLuo>
+			<TongYong>sior4-hue3-cia1* diorh6-an4-ne1* bing4*-gue3-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>只是 警察 抵達時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-si7 keng2-chhat kau3-ui7-si5，</JiaoLuo>
+			<TongYong>zi4-si2 ging4-cat7* gau3-ui2*-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>車內 只有 一名 女性乘客 受困，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-lai7 chi2-u7 chit8-mia5 cha-bou2 seng5-kheh siu7-khun3，</JiaoLuo>
+			<TongYong>cia1-lai2* zi4-u2 zit6-ui2 za1-vo4-sing5-keh7* siu2-kun3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>駕駛 卻不見了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka3-su2 soah-bo5-khi3-ah，</JiaoLuo>
+			<TongYong>ga3-su4* suah7-vor5*-ki3*-a3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>目擊民眾 看見 男性駕駛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gan2-cheng3 bin5-chiong3 khoann3-tioh8 lam5-seng3 ka3-su2，</JiaoLuo>
+			<TongYong>vok6-gik7*-e5-vin5-ziong3* kuann3-diorh6 za1-bo1-ga3-su4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>一聽到 救護車聲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-thiann-tioh8  kiu3-hou7-chhia-siann，</JiaoLuo>
+			<TongYong>zit6-tiann1-diorh6 giu3-ho2-cia1*-e5-siann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>就 丟下乘客 溜跑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-pang-leh seng5-kheh soan-chau2，</JiaoLuo>
+			<TongYong>diorh6 bang3-sak7-sing5-keh7* suan1-zau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>最後 員警 在 附近巷弄 裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong7-be2 oan5-keng2 ti7 hu7-kin7 hang7-long7-lai7，</JiaoLuo>
+			<TongYong>lo2-vue4* uan5-ging4* di2 hu2-gin2*-e5-hang2-a4* lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>發現 這名駕駛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 chit-mia5 ka3-su2，</JiaoLuo>
+			<TongYong>huat7-hen2 zit7-ui2-ga3-su4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>他 滿身酒味，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i moa2-sin chiu2-bi7，</JiaoLuo>
+			<TongYong>i1 gui-sin1-ku1* zuan5-ziu4-vi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>而 被他丟下的 女性乘客，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah pi7 i pang-leh e5 cha-bou2 seng5-kheh，</JiaoLuo>
+			<TongYong>a1* ho2-i1-bang3-sak7*-e5 za1-vo4-sing5-keh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>原來 就是 他的老婆。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-lai5 to-si7 i e5 bou2。</JiaoLuo>
+			<TongYong>quan5-lai5* diorh6-si2 i1-e5-vo4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

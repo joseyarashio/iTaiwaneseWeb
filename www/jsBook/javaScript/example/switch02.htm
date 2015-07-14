@@ -1,0 +1,40 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>switch 敘述</h2>
+<hr>
+
+<script>
+today = new Date();	// 取得「今天」的物件
+day = today.getDay();	// 取得今天是星期幾
+switch (day) {
+	case 0:
+		document.write("<p>今天是星期天耶，可以睡到12點嘍！");
+		//break;
+	case 1:
+		document.write("<p>今天是星期一...GDIM (God damned it's Monday)...");
+		//break;
+	case 2:
+	case 3:
+		document.write("<p>今天是星期二或三，離週末還很遠呢！繼續工作中...");
+		//break;
+	case 4:
+		document.write("<p>今天是星期四...星期五為什麼還沒到？");
+		//break;
+	case 5:
+		document.write("<p>今天是星期五喔，TGIF (Thank God it's Friday) !");
+		//break;
+	case 6:
+		document.write("<p>今天星期六喔，誰要跟我去血拼？");
+		//break;
+	default:
+		document.write("<p>Error!");
+}
+</script>
+
+<hr>
+</body>
+</html>

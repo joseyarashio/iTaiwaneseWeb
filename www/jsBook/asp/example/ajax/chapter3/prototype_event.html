@@ -1,0 +1,27 @@
+<html>
+<head>
+<script type="text/javascript" src="script/prototype.js"></script>
+<script type="text/javascript" language="JavaScript">
+
+	function mouseTracing(e) {
+		var coorDis = document.getElementById('coordinate');
+		coorDis.innerHTML = 'X:' + Event.pointerX(e) + ',Y:' + Event.pointerY(e);
+	}
+	function stopTracing(e) {
+		var obj = Event.element(e);
+		if (Event.isLeftClick(e) ) {
+			Event.stopObserving(window.document, 'mousemove', mouseTracing, false);
+		}
+	}
+
+	// 註冊 mousemove 和 mousedown 事件處理函式
+	Event.observe(window.document, 'mousemove', mouseTracing, false);
+	Event.observe(window.document, 'mousedown', stopTracing, false);
+</script>
+</head>
+
+<body>
+<div id="coordinate"></div>
+</body>
+
+</html>

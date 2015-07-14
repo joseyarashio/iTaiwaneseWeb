@@ -1,0 +1,74 @@
+<script>
+var today = new Date()
+document.writeln(today.toLocaleString())
+
+
+function printOption2(){
+	today=new Date();
+        for (i=1; i<13; i++)
+        
+        document.writeln("<option>"+i+"</option>");
+        a = today.getMonth()
+	document.writeln("<option selected>"+a+"</option>");
+        
+}
+
+function printOption3(){
+	for (i=1; i<32; i++)
+		document.writeln("<option>"+i+"</option>");
+	
+}
+
+function printOption1(){
+	for (i=85; i<101; i++)
+		document.writeln("<option>"+i+"</option>");
+	
+}
+
+
+
+
+function changeday(theForm) {
+	var year1 = theForm.year.options[theForm.year.selectedIndex].text;
+	var month1 = theForm.month.options[theForm.month.selectedIndex].text;
+	var day1 = theForm.day.options[theForm.day.selectedIndex].text;
+	//upday=new Date();
+        //cc = upday.getTime(year1,month1,day1);
+        //cc = cc/(86400*1000);
+        //today=new Date();
+        //dd = today.getTime();
+        //dd = dd/(86400*1000);
+        //total = dd-cc;
+        alert(year1+month1);
+
+} 
+</script>
+
+<html>
+<body>
+<h2 align=center>顯示時間的差距</h2>
+<hr>
+
+<form name="bgColorSelection">
+<table border=1 align=center><tr>
+	<th><font color="#FF0000">年</font><br>
+	<select name="year" size=10 onChange="changeday(this.form)">
+		<script>printOption1();</script>
+	</select>
+
+	<th><font color="#00FF00">月</font><br>
+	<select name="month" size=10 onChange="changeday(this.form)">
+		<script>printOption2();</script>
+	</select>
+
+	<th><font color="#0000FF">日</font><br>
+	<select name="day" size=10 onChange="changeday(this.form)">
+		<script>printOption3();</script>
+	</select>
+</table>
+    
+
+</form>
+
+</body>
+</html>

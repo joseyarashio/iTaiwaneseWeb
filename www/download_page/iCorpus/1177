@@ -1,0 +1,125 @@
+<article>
+	<id>1177</id>
+	<title>國道六號 慘劇！ 砂石車 逆向 撞轎車 三死五傷</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>國道六號 九點六公里 位置，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kok-to7-lak8-ho7 kau2-tiam2-lak8 kong-li2 sou2-chai7，</JiaoLuo>
+			<TongYong>Gok7-dor2*-lak6-hor2* gau4-diam4-lak6-gong1-li4* e5 so4-zai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在 南投路段，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Lam5-tau5-lou7-toann7，</JiaoLuo>
+			<TongYong>di2 Lam5-Dau5*-lo2-duann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>發生 死亡 重大車禍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng si2-bong5 tiong7-tai7-chhia-ho7，</JiaoLuo>
+			<TongYong>huat7-sing1 si4-vong5*-e5 diong2-dai2-cia1-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一輛 砂石車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tai5 soa-chioh8-a2-chhia，</JiaoLuo>
+			<TongYong>zit6-dai5 sua1-ziorh6-a4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>疑似 前輪爆胎 失控，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 cheng5-lian2 pong7-lian2 sit-khong3，</JiaoLuo>
+			<TongYong>qi5-su2 tau5-zing5-len4* bok6-tai1* sit7-kong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>先撞上 小轎車 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>seng-long3-tioh8 sio2-kio7-chhia au7，</JiaoLuo>
+			<TongYong>sing1-long3-diorh6 sior4-giau1-cia1* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>再撞破 中央護欄，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-long3-phoa3 tiong-iang-hou7-lan5，</JiaoLuo>
+			<TongYong>gorh7-long3-pua3 diong1-ng1*-e5-ho2-lan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>接著逆向，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soa3-loh8 tian-to3-hiang3，</JiaoLuo>
+			<TongYong>sua3*-lorh6-lai5 den1-dor3-hiang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>又撞上 對向 一輛休旅車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-long3-tioh8 tui3-hiong3 chit8-tai5 hiu-lu2-chhia，</JiaoLuo>
+			<TongYong>gorh7-long3-diorh6 dui3-hiang3* zit6-dai5-hiu1-li4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>造成 三死五傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 saN-si2 gou7-siong，</JiaoLuo>
+			<TongYong>zor2-sing5 sann1-si4*-qo2-siang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>肇事司機 頭受傷 也 躺進醫院，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jia2-tai7-chi3 su-ki thau5-siu7-siong oan-na2-to2-jip8 penn7-inn7，</JiaoLuo>
+			<TongYong>diau2-su2-su1-gi1* tau5*-siu2-siang1* ma2 dor4-rip6-benn2-inn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>不過， 這名司機 向警方 供稱，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3，chit-mia5 su-ki hiong3 keng2-hong kiong-chheng，</JiaoLuo>
+			<TongYong>m2-gorh7， zit7-e5-su1-gi1* ga1-ging4-hong1* giong1-cing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>車輪 不是 再生胎，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-lian2 m7-si7 chai3-seng-thai，</JiaoLuo>
+			<TongYong>cia1-len4* m2-si2 zai3-sing1-tai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>怎麼會 爆胎 也很納悶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choann2-e7 pong7-lian2 oan-na2-chin-gi5-gai7，</JiaoLuo>
+			<TongYong>na3-e2-bok6-tai1* ma2-zin1-qiau5-qi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>對於 自己 造成大錯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-i5 ka-ki7 cho7-seng5 toa7-chho3，</JiaoLuo>
+			<TongYong>dui3-i5 ga1-di2* zor2-sing5*-dua2-cor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>願意 負全責。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan7-i3 hu7-choan5-chek。</JiaoLuo>
+			<TongYong>quan2-i3 hu2-zuan5-zik7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,90 @@
+<article>
+	<id>1353</id>
+	<title>為錢尋短 郭台銘 公布 員工遺書 停發撫恤金</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>富士康 連環 墜樓事件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hu3-su7-khong lian5-khoan5 tui7-lau5-su7-kiann7，</JiaoLuo>
+			<TongYong>Hu3-Su2-Kong1* len5-huan5 dui2-lau5*-su2-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>之前 網路上 一度盛傳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin3-cheng5 bang7-lou7-siang7 it-to2-seng7-thoan5，</JiaoLuo>
+			<TongYong>zin3-zing5* vang2-lo2-ding4* vat7-sing2-tuan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>富士康 員工 因為 撫恤金 豐厚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hu3-su7-khong oan5-kang in-ui7 bu2-sut-kim hong-hou7，</JiaoLuo>
+			<TongYong>Hu3-Su2-Kong1* uan5-gang1* in1-ui2 hu4-sut7-gim1* hong1-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>認為 要死 就要 死在富士康，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jim7-ui5 boeh-si2 to-ai3-si2-ti7 Hu3-su7-khong，</JiaoLuo>
+			<TongYong>rin2-ui5* veh7-si4* diorh6-ai3 si4-di2 Hu3-Su2-Kong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>今天 郭台銘 在 鴻海 股東大會 上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit8 Koeh-tai5-beng5 ti7 Hong5-hai2 kou2-tong-tai7-hoe7-siang7，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* Gueh7-Dai5-Ving5* di2 Hong5-Hai4* go4-dong1-dua2-hue2* siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>首度公開 尋短員工的 信件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>te7-it-pai2 kong-khai siunn7-te2-lou7 oan5-kang-e5 sin3-kiann7，</JiaoLuo>
+			<TongYong>de2-it7-bai4* gong1-kai1 giann5-de4-lo2* uan5-gang1* e5 sin3-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>證明 有 自殺的員工，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng3-beng5-u7 chu7-sat-e5 oan5-kang，</JiaoLuo>
+			<TongYong>zing3-ving5 u2 zu2-sat7*-e5-uan5-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>確實是 為了錢 做傻事，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khak-sit8-si7 ui7-tioh8-chinn5 cho3-gong7-tai7，</JiaoLuo>
+			<TongYong>kak7-sit6-si2 ui2-diorh6-zinn5* zor3-qong2-dai2-zi3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>郭台銘 也 當場宣布，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Koeh-tai5-beng5 oan-na2-tong-tiunn5 soan-pou3，</JiaoLuo>
+			<TongYong>Gueh7-Dai5-Ving5* ma2 dong1-diunn5*-suan1-bo3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>停止發放 撫恤金，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>theng5-chi2 hoat-hong3 bu2-sut-kim，</JiaoLuo>
+			<TongYong>ting5-zi4-huat7-hong3 vu4-sut7-gim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>希望 墜樓事件 就此打住。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi-bong7 tui7-lau5-su7-kiann7 chiu7-chhu2-tu2-tiau5。</JiaoLuo>
+			<TongYong>hi1-vang2 dui2-lau5*-su2-giann2* ziu2-cu4* dong3*-ki4-lai5。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

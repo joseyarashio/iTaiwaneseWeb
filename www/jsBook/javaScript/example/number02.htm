@@ -1,0 +1,56 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>與數字物件（Number）相關的常數與函式的測試</h2>
+<hr>
+
+<script>
+x = "15.32";
+document.writeln("parseInt(\""+x+"\") = " + parseInt(x) + "<br>");
+x = "5e+3.42";
+document.writeln("parseInt(\""+x+"\") = " + parseInt(x) + "<br>");
+x = "15abc";
+document.writeln("parseInt(\""+x+"\") = " + parseInt(x) + "<br>");
+x = "abc";
+document.writeln("parseInt(\""+x+"\") = " + parseInt(x) + "<br>");
+</script>
+<p>
+<script>
+x = "15.32";
+document.writeln("parseFloat(\""+x+"\") = " + parseFloat(x) + "<br>");
+x = "5.28e+3.42";
+document.writeln("parseFloat(\""+x+"\") = " + parseFloat(x) + "<br>");
+x = "15.32abc";
+document.writeln("parseFloat(\""+x+"\") = " + parseFloat(x) + "<br>");
+x = "abc";
+document.writeln("parseFloat(\""+x+"\") = " + parseFloat(x) + "<br>");
+</script>
+<p>
+<script>
+document.writeln("The value returned by \"isNaN(Nan)\" is \"" + isNaN(NaN) + "\"<br>");
+document.writeln("The value returned by \"NaN==NaN\" is \"" + (NaN==NaN) + "\"<br>");
+</script>
+<p>
+<script>
+document.writeln("Number.MIN_VALUE = " + Number.MIN_VALUE + "<br>");
+document.writeln("Number.MAX_VALUE = " + Number.MAX_VALUE + "<br>");
+document.writeln("Number.NEGATIVE_INFINITY = " + Number.NEGATIVE_INFINITY + "<br>");
+document.writeln("Number.POSITIVE_INFINITY = " + Number.POSITIVE_INFINITY + "<br>");
+document.writeln("Number.NaN = " + Number.NaN + "<br>");
+</script>
+<p>
+<script>
+x=5.238e+6;
+document.writeln("x=" + x + ", x.toFixed(4)="+x.toFixed(4)+"<br>");
+x=123456789;
+document.writeln("x=" + x + ", x.toExponential(3)="+x.toExponential(3)+"<br>");
+x=1234.56789;
+document.writeln("x=" + x + ", x.toPrecision(5)="+x.toPrecision(5)+"<br>");
+</script>
+
+<hr>
+</body>
+</html>

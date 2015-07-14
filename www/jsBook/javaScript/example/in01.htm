@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>以 in 運算子測試物件的欄位是否存在</h2>
+<hr>
+
+<script src="listProp.js"></script>
+<script>
+student = new Object();
+student.name = "Timmy";
+student.age = "25";
+student.phone = "575-1114";
+field = "age";
+if (field in student)
+	document.write(field + " is a field of student<br>");
+</script>
+
+<hr>
+</body>
+</html>

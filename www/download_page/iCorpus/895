@@ -1,0 +1,160 @@
+<article>
+	<id>895</id>
+	<title>高溫炎熱 午後雨少 周六午後 雷陣雨 增加</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>這幾天 午後陣雨的 範圍和面積，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-kui2-kang tiong-tau3-au7 chun7-ho7 e5 hoan7-u5 kah bin7-chek，</JiaoLuo>
+			<TongYong>Zit7-gui4-gang1* diong1-dau3*-i4-au2* zun2-ho2*-e5 huan2-ui5*-gah7-vin2-zik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>都 和前幾天 相比 少了不少，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2 kah cheng5-kui2-kang sann-pi2 chio2-liau2-be7-chio2，</JiaoLuo>
+			<TongYong>long4 gah7-zing5-gui4-gang1* bi4*-ki4-lai5 giam4-liau4-ve2-zior4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>高溫炎熱的 天氣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ko-un sio-joah thinn-khi3，</JiaoLuo>
+			<TongYong>gor1-un1*-sior1-ruah6*-e5 tinn1-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>預計 將 持續到 周六（八月一日），</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-ke3 chiang-lian5-soa3 kau3 pai3-lak（peh-goeh-chhoe-it），</JiaoLuo>
+			<TongYong>i2-ge3* e2 ci5-siok6-gau3 bai3-lak6*（beh7-queh6-ce1-it7*），</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>太平洋 高氣壓 力道強盛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Thai3-peng5-iunn5 ko-khi3-ap lat-thau5 kiong5-seng7，</JiaoLuo>
+			<TongYong>tai3-bing5-iunn5* gor1-ki3-ap7* lat6-tau5*-giong5-sing2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>今明兩天 天氣穩定，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-bin5 nng-kang thinn-khi3 un2-teng7，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* gah7 ma5*-a4-zai3* nng2-gang1* tinn1-ki3*-un4-ding2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>除了 山區 午後</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu5-liau2 soann-khu tiong-tau3-au7，</JiaoLuo>
+			<TongYong>di5-liau4 suann1-ku1* diong1-dau3*-i4-au2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>有 短暫雷陣雨 的 機會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 te2-chiam7 lui5-chun7-ho7 e5 ki-hoe7，</JiaoLuo>
+			<TongYong>u2 de4-ziam2-lui5-zun2-ho2* e5 gi1-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>其它地區 降雨緩和，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-thann toe7-khu kang3-ho7 tng2-ho5，</JiaoLuo>
+			<TongYong>gi5-tann1-de2-ku1* gang3-ho2*-hor5-huan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>不過 白天 氣溫偏高，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 jit-si5 khi3-un phian-koan5，</JiaoLuo>
+			<TongYong>m2-gorh7 rit6*-si5 ki3-un1*-pen1-guan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>各地高溫 攝氏 三十四、 三十五度。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kok-te7 ko-un liap-si7 sann-chap-si3、sann-chap-go7- to7。</JiaoLuo>
+			<TongYong>gok7-de2*-gor1-un1* Celsius sann1-zap6-si3*、 sann1-zap6-qo2-do2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>建議 中午前後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kian3-gi7 tiong-tau3 cheng5-au7，</JiaoLuo>
+			<TongYong>Gen3-qi2* diong1-dau3*-zing5-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>別讓 年長者 或是 小孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mai3 ho7 ni5-tiong2-chia2 hek-si7 gin2-a2，</JiaoLuo>
+			<TongYong>mai3-ho2 lau2-dua2-lang5* ia2-si2 qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>在 炎熱的 陽光下 外出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 sio-joah e5 jit-thau5-ha7 goa7-chhut，</JiaoLuo>
+			<TongYong>di2 sior1-ruah6*-e5 rit6-tau5-ka1* qua2-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>盡量 待在 陰涼地方，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin7-liong7 theng3 ti7 im-liang5 te7-hong，</JiaoLuo>
+			<TongYong>zin2-liong2 diam3-di2 im1-liang5*-e5-so4-zai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>才 不會中暑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah be7 tioh-soa，</JiaoLuo>
+			<TongYong>ziah7-ve2-diorh6-sua1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>預計 後天週六 開始，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-ke3 au7-jit pai3-lak khai-si2，</JiaoLuo>
+			<TongYong>i2-ge3* au2-gang1*-bai3-lak6* kai1-si4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>太平洋 高氣壓 的 壓力 減弱，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Thai3-peng5-iunn5 ko-khi3-ap e5 ap-lek kiam2-jiok，</JiaoLuo>
+			<TongYong>tai3-bing5-iunn5* gor1-ki3-ap7* e5 ap7-lik6* giam4-riok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>午後雷陣雨 機會 又會增加，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiong-tau3-au7 lui5-chun7-ho7 koh-e7 cheng-ka，</JiaoLuo>
+			<TongYong>diong1-dau3*-au2* lui5-zun2-ho2* gorh7-e2-zing1-ga1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>這個 週休二日，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-e5 chiu-hiu nng- jit，</JiaoLuo>
+			<TongYong>zit7-le5 bai3-lak6*-le4-bai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>請留意 天氣的變化。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiann2 liu5-i3 thinn-khi3 e5 pian3-hoa3。</JiaoLuo>
+			<TongYong>ciann4-liu5-i3 tinn1-ki3*-e5-ben3-hua3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

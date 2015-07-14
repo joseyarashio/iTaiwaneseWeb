@@ -1,0 +1,10 @@
+1.把wsInetTools.dll放入Windows/System32底下
+2.開始-->執行 鍵入 regsvr32 wsInetTools.dll
+3.就可以了
+
+注意：
+1.Ip分享器之下的電腦似乎無法順利下載
+2.有"許"的檔名下載似乎沒問題:P
+
+其他說明請見：
+http://www.winscripter.com/wsh/tools/wsInetTools.asp

@@ -1,0 +1,258 @@
+<article>
+	<id>140</id>
+	<title>景氣太差 病患 看診後 就落跑</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 陳乃瑛、 呂鎌顯 高雄報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 Tan5-nai2-eng 、 Lu7-liam5-hiann2 Ko-hiong5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-si2*-sin1-vun5* dan5-nai4-ing1*、 li2-liam5-henn4* gor1-hiong5*-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>景氣差的 影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-khi3-chha e5 eng2-hiang2 ，</JiaoLuo>
+			<TongYong>Ging4-ki3*-vai4*-e5 ing4-hiong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>病患 積欠 醫藥費 增加，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-hoan7 chek-khiam3 i-ioh8-hui3 cheng-ka ，</JiaoLuo>
+			<TongYong>Benn2-huan2* zik7-kiam3 i1-iorh6-hui3* zing1-ga1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>醫院 也 跟著 受衝擊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-inn7 ma7 toe3-tioh8 siu7-chhiong-kek ，</JiaoLuo>
+			<TongYong>benn2-inn2* ma2 due3-leh7 siu2-ciong1-gik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>不少 門診病患 看完病後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>be7-chio2 mng5-chin2 penn7-hoan7 khoann3-oan5-penn7-au7 ，</JiaoLuo>
+			<TongYong>ve2-zior4 mng5-zin4-benn2-huan2* kuann3-uan5-benn2* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>認為 病情 無什麼 大礙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jim7-ui5 penn7-cheng5 bo5-siann2-mih toa7-gai7 ，</JiaoLuo>
+			<TongYong>rin2-ui5 benn2-zing5* vor5-siann4-mih7 dua2-qai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>甚至 不結帳 就落跑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3 bo5-kiat-siau3 to-lau3-phau5 ，</JiaoLuo>
+			<TongYong>sim2-zi3 vor5-get7-siau3* diorh6-lau3-pau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>讓 醫師看病 白做工，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 i-su khoann3-penn7 peh8-cho3-kang ，</JiaoLuo>
+			<TongYong>ho2 i1-su1*-kuann3-benn2* zor3-beh6-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>醫院的呆帳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-inn7-e5 phainn2-siau3 ，</JiaoLuo>
+			<TongYong>benn2-inn2*-e5-dai1-siau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>也 跟著 快速增加。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ma7 toe3-tioh8 khoai3-sok cheng-ka 。</JiaoLuo>
+			<TongYong>ma2 due3-leh7 kuai3-sok7*-zing1-ga1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>醫院的 掛號區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-inn7-e5 koa3-ho7-khu ，</JiaoLuo>
+			<TongYong>Benn2-inn2*-e5 gua3-hor2-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>總是 大爆滿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chong2-si7 toa7-pok8-moa2 ，</JiaoLuo>
+			<TongYong>zong4-si2 dua2-bok6-vuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>不過， 經濟 不景氣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 ， keng-che3 bo5-keng2-khi3 ，</JiaoLuo>
+			<TongYong>but7-gor3*， ging1-ze3* vor5-ging4-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>竟然 有病患 能省則省，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 u7 penn7-hoan7 e7-seng2-tioh8-seng2 ，</JiaoLuo>
+			<TongYong>ging4-ren5* u2-benn2-huan2* e2-sing4*-diorh6-sing4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>看完門診 拿到 處方箋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoann3-oan5 mng5-chin2 theh8-tioh chhu2-hong-chhiam ，</JiaoLuo>
+			<TongYong>kuann3-uan5-mng5-zin4* teh6-diorh6 cu4-hong1-ciam1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>或是 拿 檢查報告 後 就落跑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ah-si7 theh8 kiam2-cha-po3-ko3 au7 to-lau3-phau5</JiaoLuo>
+			<TongYong>ia2-si2 teh6 giam4-za1-bor3-gor3* liau4-au2* diorh6-lau3-pau5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>甚至 有人 乾脆 直接 掛急診，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3 u7-lang5 kui-khi3 tit8-chiap koa3-kip-chin2 ，</JiaoLuo>
+			<TongYong>sim2-zi3 u2-lang5 gui1-ki3* dit6-ziap7* gua3-gip7-zin4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>看診後 不結帳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoann3-chin2-au7 bo5-kiat-siau3 ，</JiaoLuo>
+			<TongYong>kuann3-zin4*-au2* vor5-get7-siau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>藥也不拿 就閃人。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ioh8-a2 ma7 bo5-theh8 to-siam2-lang5 ，</JiaoLuo>
+			<TongYong>iorh6-a4* ma2-vor5-teh6* diorh6-zau4*-ki3，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>景氣太差，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-khi3-thai3-chha ，</JiaoLuo>
+			<TongYong>Ging4-ki3*-tai3-vai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>病患 不付費 落跑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-hoan7 bo5-hu3-hui3 lau3-phau5 ，</JiaoLuo>
+			<TongYong>benn2-huan2* vor5-hu3-zinn5* lau3-pau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>幾乎 每家醫院 都遭殃，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chha-put-to tak8-keng penn7-inn7 long2 tioh8-soe ，</JiaoLuo>
+			<TongYong>ca1-but7-dor1 dak6-ging1-benn2-inn2* long4-siu2-hai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>醫院呆帳 直線攀升，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-inn7 phainn2-siau3 tit8-soann3 pan-seng ，</JiaoLuo>
+			<TongYong>benn2-inn2*-dai1-siau3* dit6-suann3*-pan1-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>以 高雄榮民總醫院 這家醫院 來看，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-eng5-bin5-chong2-penn7-inn7 chit-keng penn7-inn7 lai5-khoann3 ，</JiaoLuo>
+			<TongYong>i4 gor1-hiong5*-ing5-vin5*-zong4-benn2-inn2* zit7-ging1-benn2-inn2* lai5-kuann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>根據統計，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ki3 thong2-ke3 ，</JiaoLuo>
+			<TongYong>gin1-gi3-tong4-ge3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>二ＯＯ八年 呆帳 有 六百多萬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji7-khong3-khong3-peh-ni5 phainn2-siau3 u7 lak8-pah-goa7-ban7 ，</JiaoLuo>
+			<TongYong>ri2-kong3-kong3-beh7-ni5* dai1-siau3* u2 lak6-bah7-qua2-van2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>比 二ＯＯ七年 的 呆帳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi2 ji7-khong3-khong3-chhit-ni5 e5 phainn2-siau3 ，</JiaoLuo>
+			<TongYong>bi4 ri2-kong3-kong3-cit7-ni5* e5 dai1-siau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>增加了 百分之二十八 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng-ka-liau2 pah-hun-chi ji7-chap8-peh 。</JiaoLuo>
+			<TongYong>zing1-ga1-liau4 bah7-hun1-zi1-ri2-zap6-beh7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>醫院 在 無法拒診的 情況 下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-inn7 ti7 bo5-hoat ku7-chin2 e5 cheng5-hong2-ha7 ，</JiaoLuo>
+			<TongYong>Benn2-inn2* di2 ve2-dang3-gi2-zin4*-e5 zing5-kong4* ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>掛號 醫療費用 就 一直累積，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koa3-ho7 i-liau5-hui3-iong7 to-it-tit8 lui7-chek ，</JiaoLuo>
+			<TongYong>gua3-hor2* i1-liau5-hui3-iong2* diorh6 it7-dit6-lui4-zik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>醫院 也 只能 循 法律程序，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-inn7 ma7 chi2-e7 sun5 hoat-lut8-teng5-su7 ，</JiaoLuo>
+			<TongYong>benn2-inn2* ma2 zi4-e2-dang3 i1-ziau3 huat7-lut6-ding5-su2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>寄發 催繳單，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kia3-hoat chhui-kiau2-toann ，</JiaoLuo>
+			<TongYong>gia3-huat7 cui1-giau4-duann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>把呆帳 一一追回，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka7 phainn2-siau3 it-it-tui-tng2 ，</JiaoLuo>
+			<TongYong>ga2-dai1-siau3* zit6-bit7*-zit6-bit7* tor4*-dng4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>只是 病患 都是 一拖再拖，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-si7 penn7-hoan7 long2-si7 it-thoa-chai3-thoa ，</JiaoLuo>
+			<TongYong>zi4-si2 benn2-huan2* long4-si2 it7-tua1*-zai3-tua1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>何時 能 把呆帳 全部催回，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-si5 e7-ka7 phainn2-siau3 choan5-pou7 chhui-tng2 ，</JiaoLuo>
+			<TongYong>dang1-si5* e2-dang3 ga2-dai1-siau3* zuan5-bo2* cui1-dng4*-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>醫院 實在 沒把握。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>penn7-inn7 sit8-chai7 bo5-pa2-ak 。</JiaoLuo>
+			<TongYong>benn2-inn2* sit6-zai2 vor5-ba4-ak7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

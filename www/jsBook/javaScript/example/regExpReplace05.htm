@@ -1,0 +1,146 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：表單資料的修正與驗證</h2>
+<hr>
+
+<script>
+function checkDigit(button, min, max){
+	re = new RegExp("^\\d{" + min + "," + max + "}$");
+	if (!re.test(button.value)){
+		alert("Please enter " + min + " to " + max + " digits!");
+		return (false);
+	}
+	return (true);
+}
+
+function checkPassword(button, min, max){
+	re = new RegExp("^[^\s]{" + min + "," + max + "}$");
+	if (!re.test(button.value)){
+		alert("Please enter " + min + " to " + max + " digits!");
+		return (false);
+	}
+	return (true);
+}
+
+function checkName(button) {
+	if (button.value == "") {
+		alert("Please enter your name!");
+		return (false);
+	}
+	return (true);
+}
+
+function checkEmail(button) {
+	var re1 = /^\w+@\w+\.\w{2,3}$/;
+	var re2 = /^\w+@\w+\.\w+\.\w{2,3}$/;
+	var re3 = /^\w+@\w+\.\w+\.\w+\.\w{2,3}$/;
+	if (!re1.test(button.value) && !re2.test(button.value) && !re3.test(button.value)) {
+		alert("Please enter a valid email!");
+		return (false);
+	}
+	return(true)
+}
+
+function checkComment(button) {
+	if (button.value == "") {
+		alert("Please enter your comments!");
+		return (false);
+	}
+	return (true);
+}
+
+function trimtextarea(button){
+	var str = button.value;
+	// get rid of leading and trailing white spaces
+	str = str.replace(/^[\s　]+|[\s　]+$/g, "");	// \s & 全形空白
+	// merge multiple white spaces (except new line) into one
+	str = str.replace(/[ \t\f\r　]+/g, " ");
+
+//	str = str.replace(/\n\n\s+/g, "\n\n");
+	str = str.replace(/[ \t]+\r/g, "\r");
+	str = str.replace(/\n[ \t]+/g, "\n");
+	str = str.replace(/\n[\n]+/g, "\n\n");
+	button.value = str;
+}
+
+function trimtext(button){
+	var str = button.value;
+	// get rid of leading and trailing white spaces
+	str = str.replace(/^[\s　]+|[\s　]+$/g, "");	// \s & 全形空白
+	// merge multiple white spaces into one
+	str = str.replace(/[\s　]+/g, " ");
+	button.value = str;
+}
+</script>
+
+<center>
+說明：在 onBlur 事件後，JavaScript 會以通用式來對以下表單元素的值進行修正與驗證。
+</center>
+
+<form>
+
+<p>Your English name:<br>
+<INPUT TYPE="text" NAME="EnglishName"
+	value="   Michael   J.     Fox    " onBlur="trimtext(this); checkName(this)">
+
+<P> Your email: <BR>
+<INPUT TYPE="text" NAME="email"
+	value="test@cs.nthu.edu.twww" onBlur="trimtext(this); checkEmail(this)"><br>
+
+<P> Your password (5 to 8 characters only): <BR>
+<INPUT TYPE="password" NAME="password"
+	value="123" onBlur="checkPassword(this, 5, 8)"><br>
+
+<P> Your social security number (9 digits):<br> 
+<INPUT TYPE="text" NAME="ndigit1"
+	value="123" onBlur="trimtext(this); checkDigit(this, 9, 9)"><br>
+
+<P> Lyrics:<BR>
+<table>
+<tr>
+<td>
+<textarea name=comments COLS=80 ROWS=30 onBlur="trimtextarea(this)">
+	戀人未滿
+     
+     
+
+	作詞：施人誠　編曲：鍾興民
+
+     為什麼只和你能聊一整夜　　　　　　　為什麼才道別就又想見面
+     在朋友裡面　就屬你最特別　總讓我覺得很親很貼
+     為什麼你在意誰陪我逛街　為什麼你擔心誰對我放電
+     你說你對我　比別人多一些　卻又不說是多哪一些
+
+
+
+	
+		友達以上　戀人未滿　甜蜜心煩　愉悅混亂
+		我們以後　會變怎樣　我迫不及待想知道答案
+     
+     
+     
+
+     再靠近一點點　就讓你牽手　再勇敢一點點　我就跟你走
+     你還等什麼　時間已經不多　再下去　只好只做朋友
+     再向前一點點　我就會點頭　再衝動一點點　我就不閃躲
+     不過三個字　別猶豫這麼久　　　　　　　只要你說出口　你就能擁有我
+
+     為什麼你寂寞只想要我陪　為什麼我難過只肯讓你安慰
+     我們心裡面　明明都有感覺　為什麼不敢面對
+
+     我不相信　都動了感情卻到不了
+     愛情　那麼貼心卻進不了　心底　你能不能快一點決定
+     對我說我愛你
+</textarea>
+<td valign=top>
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/vEHHenNu-Ww&hl=zh_TW&fs=1&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/vEHHenNu-Ww&hl=zh_TW&fs=1&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="349"></embed></object>
+</table>
+</form>
+
+<hr>
+</body>
+</html>

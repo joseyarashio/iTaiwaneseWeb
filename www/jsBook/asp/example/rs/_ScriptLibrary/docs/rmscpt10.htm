@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>cancel 方法</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rscancelmethod"></a>cancel 方法</h1>
+<p>
+停止非同步執行的遠端 scripting 呼叫。</p>
+<p>
+<b>語法</b></p>
+<p>
+<i>co</i>.cancel()</p>
+<p>
+<b>參數</b></p>
+<DL>
+<DT><i>co</i></DT>
+<DD>藉由執行遠端 scripting 呼叫所產生的呼叫物件。</DD>
+</DL>
+<p><b>請注意</b></p>
+<p>
+如果您不需要非同步呼叫的結果，就可以在非同步遠端 scripting 呼叫期間呼叫此方法。如果使用者的動作 (如按按鈕或要求瀏覽其它網頁) 顯示遠端 scripting 呼叫已不再有效，則這個呼叫是很有用的。</p>
+<p>
+不得取消同步遠端 scripting 呼叫。</p>
+<p>
+<b>範例</b></p>
+<pre><code>&lt;SCRIPT LANGUAGE="JavaScript" FOR="btnReport" EVENT="onclick"&gt;
+    empLookup = RSGetASPObject("../mypages/EmpLists.asp");
+    coEmpList = empLookup.GetNames(showResults);
+    txt1.value = "Getting employee names, press Cancel to stop."
+&lt;/SCRIPT&gt;
+
+&lt;SCRIPT LANGUAGE="JavaScript" FOR="btnCancel" EVENT="onclick"&gt;
+    coEmpList.cancel()
+&lt;/SCRIPT&gt;
+</code></pre>
+<p>
+<b>請參閱</b></p>
+<p>
+<a href="rmscpt6.htm">非同步呼叫遠端 scripting 方法</a></p>
+</BODY>
+</HTML>

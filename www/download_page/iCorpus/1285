@@ -1,0 +1,104 @@
+<article>
+	<id>1285</id>
+	<title>鐵釘 散布國道 十多輛車 爆胎</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>國道三號 高速公路 北上 三百五十四點二 公里，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kok-to7-sann-ho7 ko-sok-kong-lou7 chiunn7-pak sann-pah gou7-chap8-si3-tiam2-ji7 kong-li2，</JiaoLuo>
+			<TongYong>Gok7-dor2*-sann1-hor2* gor1-sok7-gong1-lo2* ziunn2-bak7* sann1-bah7-qo2-zap6-si3*-diam4-qi2 gong1-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>也就是 台南善化 路段，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah8-to-si7 Tai5-lam5 Sian7-hoa3-lou7-toann7，</JiaoLuo>
+			<TongYong>ia2-diorh6-si2 Dai5-Lam5*-Sen2-Hua3* lo2-duann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>上午 十點多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha2-khi2 chap8-tiam2-goa7，</JiaoLuo>
+			<TongYong>zai4-ki4* zap6-diam4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>突然 有 二十多輛車 先後爆胎，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tut8-jian5-u7 ji7-chap8-goa7-tai5-chhia sian-au7 pong7-lian2，</JiaoLuo>
+			<TongYong>tut6-ren5* u2 qi2-zap6-qua2-dai5-cia1* sen1-au2*-bok6-tai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>車主 開下 交流道 查看，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-chu2 khui-loh8 kau-liu5-to7 cha-khoann3，</JiaoLuo>
+			<TongYong>cia1-zu4* sai4-lorh6-ki3 gau1-liu5-dor2* ca5-kuann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>發現 輪胎裡 扎了 十多支 鐵釘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 lian2-a2-lai7 chhak8-liau2 chap8-goa7-ki thih-teng-a2，</JiaoLuo>
+			<TongYong>huat7-hen2 len4-tai1*-lai2* cak6-liau4 zap6-qua2-gi1 tih7-ding1-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>連 原本 要去救援的 拖吊車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-goan5-pun2 beh-khi3 kiu3-oan7-e5 thoa-tiau3-chhia，</JiaoLuo>
+			<TongYong>len5 quan5-bun4* veh7-ki3-giu3-uan5*-e5 tua1-diau3-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>輪胎 也 被扎破了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian2-a2 iah8-pi7 chhak8-phoa3-ah，</JiaoLuo>
+			<TongYong>len4-tai1* ma2 ki3-ho2-cak6-pua3* a3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>國道警察 調查後 發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kok-to7-keng2-chhat tiau-cha-au7 hoat-hian7，</JiaoLuo>
+			<TongYong>gok7-dor2-ging4-cat7* diau1-za1*-liau4-au2* huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>鐵釘 是 從 一輛 大貨車 上面 掉下來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thih-teng-a2 si7-tui3 chit8-tai5 toa7-hoe3-chhia bin7-teng2 lak-loh8-lai5，</JiaoLuo>
+			<TongYong>tih7-ding1-a4* si2 ui3 zit6-dai5 dua2-hue3-cia1* ding4-vin2* lak7*-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>每支 大約 五公分 的 鐵釘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tak8-ki tai7-iok gou7-kong-hun e5 thih-teng-a2，</JiaoLuo>
+			<TongYong>mui4-zit6-gi1* dai2-iok7* qo2-gong1-hun1* e5 tih7-ding1-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>散布在 高速公路 上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>san3-pou3-ti7 ko-sok-kong-lou7-teng2，</JiaoLuo>
+			<TongYong>san3-bo3-di2 gor1-sok7-gong1-lo2* ding4*-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>數量 多到 得用 好幾個 麻袋 來裝！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou3-liang7 choe7-kau3 to-ai3-eng7 kui2-a7-e5 pou3-te7 lai5-chng！</JiaoLuo>
+			<TongYong>so3-liong2* ze2-gau3 ai3-iong2 gui4*-a2-e5* mua5-de2* lai5-de4*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

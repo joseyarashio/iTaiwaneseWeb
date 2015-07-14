@@ -1,0 +1,111 @@
+<article>
+	<id>1296</id>
+	<title>賣菜阿媽 出國領獎 全身行頭 一千元 打發</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台東 賣菜阿媽 陳樹菊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tang be7-chhai3 a-ma2 Tan5-chhiu7-kiok，</JiaoLuo>
+			<TongYong>Dai5-Dang1* ve2-cai3*-a1-ma4* Dan5-Ciu2-Gik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>已經啟程 前往美國 領獎，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng khi2-teng5 chian5-ong2 Bi2-kok nia2-chiong2，</JiaoLuo>
+			<TongYong>i4-ging1-ki4-ding5* zen5-ong4-Vi4-Gok7* nia4-ziang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>不過 你知道嗎？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh li2-chai-iann2-m7？</JiaoLuo>
+			<TongYong>m2-gorh7 li4-zai1-iann4*-vo3*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>就算 要赴 紐約 時尚之都，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiu7-sng3 beh-hu3 Niu2-iok si5-siong7-chi-tou，</JiaoLuo>
+			<TongYong>Ziu2-suinn3 veh7-ki3 Niu4-Iok7* si5-siang2*-zi1-do1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>儉樸的她 還是 有堅持，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khiam7-phok-e5 i-iau2-si7 u7-kian-chhi5，</JiaoLuo>
+			<TongYong>gan4-pok7*-e5-i2* iau4-si2 u2-gen1-ci5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>陳樹菊 阿媽 決定 以 全身上下 不到 一千元 的 裝扮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tan5-chhiu7-kiok a-ma2 koat-teng7-eng7 kui-seng-khu-teng2-e7 bo5-kau3 chit8-chheng-kho3 e5 chng-thann7，</JiaoLuo>
+			<TongYong>Dan5-Ciu2-Gik7* a1-ma4* guat7-ding2 i4 gui1-sing1-ku1* ding4-ding4-e2-e2* vor5-gau3 zit6-cing1-ko1* e5 zong1-ban2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>去美國 領 這個 百大 影響人物 的 獎，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khi3-Bi2-kok nia2-chit-e5 pah-toa7-eng2-hiang2-jin5-but8 e5 chiong2，</JiaoLuo>
+			<TongYong>ki3-Vi4-Gok7* nia4 zit7-e5 bah7-dua2 ing4-hiang4-rin5-vut6* e5 ziang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>也就是 昨天 她上台北，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan-na2-tioh8-si7 choh8-jit8 i chiunn7-Tai5-pak，</JiaoLuo>
+			<TongYong>ia2-diorh6-si2 za1-huinn1* i1-ziunn2-Dai5-Bak7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>我們 在 新聞畫面 上 看到，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gun2-ti7 sin-bun5 oe7-bin7-teng2 khoann3-tioh8，</JiaoLuo>
+			<TongYong>lan4 di2 sin1-vun5-ue2-vin2* ding4* kuann3*-diorh6，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>那一身 打扮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>he-chit8-seng-khu tann2-pan7，</JiaoLuo>
+			<TongYong>hit7-sin1-dann4-ban2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>黑色外套 配 牛仔褲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ou-sek goa7-tho3 phoe3 gu5-a2-khou3，</JiaoLuo>
+			<TongYong>o1-sik7*-qua2-tor3* pue3 qu5-a4-ko3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>還有 白色 運動鞋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 peh8-sek un7-tong7-e5，</JiaoLuo>
+			<TongYong>gorh7-u2 beh6-sik7* un2-dong2-e5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>背著一個 一百九十九元 的 小包包，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phainn7-tioh8 chit8-e5 chit8-pah-kau2-chap8-kau2 e5 sio2-phainn7-a2，</JiaoLuo>
+			<TongYong>painn2-diorh6-zit6-e5* zit6-bah7-gau4-zap6-gau4-ko1* e5 sior4-bau1-bau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>陳樹菊 ㄚ嬤 她說 還是 穿 賣菜圍兜 最習慣！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tan5-chhiu7-kiok a-ma2 i-kong2 iau2-si7 chheng7 be7-chhai3 am7-ui5-a2 siong7-sip8-koan3！</JiaoLuo>
+			<TongYong>Dan5-Ciu2-Gik7* a1-ma4* i1-gong4 iau4-si2 cing2 ve2-cai3*-e5-ui5-gun5* siang2-guan3-si3*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

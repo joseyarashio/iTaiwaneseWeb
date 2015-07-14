@@ -1,0 +1,97 @@
+<article>
+	<id>1210</id>
+	<title>貨櫃車 維修廠 大火 烈焰沖天 爆裂聲不斷</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>基隆 七堵工業區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ke-lang5 Chhit-tou2-kang-giap8-khu，</JiaoLuo>
+			<TongYong>Ge1-Lang5* Cit7-Do4*-Gang1-Qiap6-Ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一家 貨櫃車 修理廠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-keng hoe3-kui7-chhia siu-li2-chhiunn2，</JiaoLuo>
+			<TongYong>zit6-ging1 hue3-gui2-cia1* siu1-li4-ciang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>晚間 六點多 發生火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>am3-si5 lak8-tiam2-goa7 hoat-seng hoe2-sio，</JiaoLuo>
+			<TongYong>am3-si5* lak6-diam4-qua2* huat7-sing1-hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>由於 廠內 有不少 易燃物，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-i5 chhiunn2-lai7 u7-boe7-chio2 gau5-in2-hoe2-e5，</JiaoLuo>
+			<TongYong>in1-ui2 ciang4-lai2* u2-vue2-zior4 i2-ren5-vut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>不斷傳出 爆裂聲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-toan7 thoan5-chhut piak-lih8-siann，</JiaoLuo>
+			<TongYong>but7-duan2-tuan5-cut7 bok6-let6-siann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>消隊隊 派出 八個分隊 灌救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-tui7 phai3-chhut peh-e5 hun-tui7 koan3-kiu3，</JiaoLuo>
+			<TongYong>siau1-hong5-dui2* pai3-cut7 beh7-e5-hun1-dui2* guan3-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>都無法 控制火勢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-bo5-hoat khong3-che3 hoe2-si3，</JiaoLuo>
+			<TongYong>long4-vor5-huat7-do2 kong3-ze3-hue4-se3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>附近民宅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hu3-kun7 jin5-ke-chhu3，</JiaoLuo>
+			<TongYong>hu2-gin2*-e5 vin5-ge1-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>停放的 機車、車輛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>theng5-khng3-e5 ou-tou2-bai2 、 chhia-liong2，</JiaoLuo>
+			<TongYong>ting5-kng3*-e5 o1-do4-vai4*、 cia1-liang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>甚至 電線桿 都受到 大火波及，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3 tian7-hoe2-thiau7 long2-siu7-tioh8 toa7-hoe2 khan-thoa，</JiaoLuo>
+			<TongYong>sim2-zi3 den2-hue4-tiau2-a4* long4-siu2-diorh6 dua2-hue4*-por1-gip6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>也造成 附近 停電 二十多分鐘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan-na2-cho7-seng5 hu3-kun7 sit-tian7 ji7-chap8-goa7-hun-cheng，</JiaoLuo>
+			<TongYong>ma2-zor2-sing5 hu2-gin2* ting5-den2 qi2-zap6-qua2-hun1-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>幸好 無人傷亡。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-kai-chai3 bo5-lang5 siong-bong5。</JiaoLuo>
+			<TongYong>hor4-gai1-zai3* vor5-lang5-siang1-vong5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

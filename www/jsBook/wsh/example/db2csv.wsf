@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<package>
+<comment>
+Saves the contents of a database table to a CSV file
+For more scripts, visit www.wshscripting.com
+</comment>
+<job id="db2csv">
+<object id="fso" progid="Scripting.FileSystemObject" events="false"/>
+<resource id="table">Your table</resource>
+<resource id="cnstr">Your connection string</resource>
+<script id="db2csv" language="VBScript">
+<![CDATA[
+
+'configuration
+Dim cnstr, table
+cnstr = GetResource("cnstr")
+table = GetResource("table")
+
+Dim fso, fl
+Set fso = WScript.CreateObject("Scripting.FilesystemObject")
+Set fl = fso.OpenTextFile(fso.GetParentFolderName(WScript.ScriptFullName) & "/" & table & ".csv", 2, True)
+
+Dim rs, i, j, tmp
+Set rs = WScript.CreateObject("ADODB.Recordset")
+rs.Open "SELECT * FROM " & table, cnstr, 3, 3
+If Not rs.EOF Then
+	For i = 1 To rs.Fields.Count
+		fl.Write rs.Fields(i-1).Name
+		If i < rs.Fields.Count Then fl.Write ","
+	Next
+	fl.Write vbCrLf
+	While Not rs.EOF
+		For i = 1 To rs.Fields.Count
+			If rs.Fields(i-1) <> "" Then
+				tmp = rs.Fields(i-1)
+				If TypeName(tmp) = "String" Then
+					fl.Write """" & Replace(rs.Fields(i-1),vbCrLf,"") & """"
+				Else
+					fl.Write rs.Fields(i-1)
+				End If
+			End If
+			If i < rs.Fields.Count Then fl.Write ","
+		Next
+		fl.Write vbCrLf
+		rs.MoveNext
+	Wend
+End If
+rs.Close
+Set rs = Nothing
+
+fl.Close
+Set fl = Nothing
+Set fso = Nothing
+
+]]>
+</script>
+</job>
+</package>

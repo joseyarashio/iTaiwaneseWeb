@@ -1,0 +1,104 @@
+<article>
+	<id>1080</id>
+	<title>發明 生理記錄器 親身體驗 甩掉 五十公斤</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>成功大學 電機工程 研究所 團隊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Seng5-kong-tai7-hak8 tian7-ki-kang-teng5 gian2-kiu3-sou2 thoan5-tui7，</JiaoLuo>
+			<TongYong>Sing5-Gong1-Dai2-Hak6* den2-gi1-gang1-ding5* qen4-giu3-so4* tuan5-dui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>研發出 一款</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gian2-hoat-chhut chit8-khoan2，</JiaoLuo>
+			<TongYong>qen5-huat7-cut7 zit6-kuan4</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>可攜式 活動與生理 訊號記錄器，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thang-chah-e5 oah8-tang7 ham seng-li2 sin3-ho7-ki3-lok8-khi3，</JiaoLuo>
+			<TongYong>e2-dang3-zah7*-e5 uah6-dong2*-gah7-sing1-li4* sin3-hor2*-gi3-lok6-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>可以 幫助民眾 監控 身心狀況，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-sai2 pang-chan7 bin5-chiong3 kam3-khong3 sim-si chong7-hong2，</JiaoLuo>
+			<TongYong>e2-dang3 bang1-zo2-vin5-ziong3* gam3-kong3 sin1-sim1-zong2-kong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>並且 記錄 熱量 堆積和消耗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7-chhiaN2 ki3-lok8 jiat8-liang7 tui-chek kap siau-hau3，</JiaoLuo>
+			<TongYong>bing2-ciann4 gi3-lok6 ret6-liang2*-e5 dui1-zik7*-gah7-siau1-honn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>控制 人的體重，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khong3-che3 lang5-e5 the2-tang7，</JiaoLuo>
+			<TongYong>kong3-ze3 lang5*-e5-te4-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>研究團隊 有一名 高姓同學，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gian2-kiu3 thoan5-tui7 chit8-mia5 seN3-Ko tong5-oh8，</JiaoLuo>
+			<TongYong>qen4-giu3*-tuan5-dui2* u2-zit6-e5* senn3-Gor1*-e5-dong5-orh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>親身 戴著 紀錄器 進行實驗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhin-sin chah-tioh8 ki3-lok8-khi3 chin3-heng5-sit8-giam7，</JiaoLuo>
+			<TongYong>cin1-sin1* pue3-dua3 gi3-lok6-ki3* zin3-hing5-sit6-qiam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>一年半 時間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-ni5-poaN3 si5-kan，</JiaoLuo>
+			<TongYong>zit6-ni5-buann3*-e5 si5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>從 原本 一百二十五 公斤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-goan5-pun2 chit8-pah-ji7-chap8-gou7 kong-kin，</JiaoLuo>
+			<TongYong>ui3 quan5-bun4* zit6-bah7-ri2-zap6-qo2 gong1-gin1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>瘦到 只剩下 七十五 公斤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>san2-kau3 chi2-chhun chhit-chap8-gou7 kong-kin，</JiaoLuo>
+			<TongYong>san4-gau3 zi4-cun1 cit7-zap6-qo2 gong1-gin1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>身材 改變之大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-chai5 kai2-pian3-chi-toa7，</JiaoLuo>
+			<TongYong>sin1-zai5* gai4-ben3*-zi1-dua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>連媽媽 都 差點 認不出他。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5 lau7-bu2 long2 chha-chit8-tiam2-a2 jin7-be7-chhut i。</JiaoLuo>
+			<TongYong>len5-ma1-ma1* long4 ca1-zit6-diam4-a4 rin2-ve2-cut7-i2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

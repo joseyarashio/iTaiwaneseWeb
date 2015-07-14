@@ -1,0 +1,125 @@
+<article>
+	<id>1640</id>
+	<title>桃園 永安漁港 車隊 困沙洲滅頂</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>剛好是 週休二日 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu2-ho2-si7 chiu-hioh-nng7-kang，</JiaoLuo>
+			<TongYong>Du4-hor4-si2 ziu1-hiu1*-nng2-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>民眾 趁著 回暖的 好天氣 出外 遊玩 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 than3-tioh8 tng2-sio-joah8-e5 ho2-thinn-khi3 chhut-goa7 chhit-tho5 ，</JiaoLuo>
+			<TongYong>vin5-ziong3* tan3-diorh6 dng4-sior1-hor1*ruah6-e5 hor4-tinn1-ki3 cut7-qua2 cit7-tor5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>十二日 中午 在 桃園縣 永安漁港 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-ji7-ho7 tiong-tau3 ti7 Tho5-hng5-koan7 Eng2-an-hi5-kang2 ，</JiaoLuo>
+			<TongYong>zap6-qi2-hor2* diong1-dau3* di2 Tor5-Huinn5-Guan2* Ing4-An1-Hi5-Gang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>有四輛車 被困在 海中沙洲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 si3-tai5-chhia pi7-khun3-ti7 hai2-tiong phu5-lun3 ，</JiaoLuo>
+			<TongYong>u2 si3-dai5-cia1 kun3-di2 hai4-diong1*-e5-sua1-ziu1* pu5-lun3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>車主 棄車 逃離 海邊 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-chu2 hiat-chhia thoat-chau2 hai2-pinn，</JiaoLuo>
+			<TongYong>cia1-zu4 het7-cia1 tuat7-zau4 hai4-binn，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>海巡人員 出動 耕耘機 救援 也 無功而返 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hai2-sun5-jin5-oan5 chhut-tong7 le5-chhan5-ki kiu3-oan7 oan5-a7 bo5-chhai2-kang ，</JiaoLuo>
+			<TongYong>hai4-sun5-rin5-uan5 cut7-dong2 le5-can5-gi1 giu3-uan2 uan5-a2 vor5-cai4-gang1 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>在 桃園 永安漁港 外面的 沙洲 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Tho5-hng5 Eng2-an-hi5-kang2 goa7-bin7-e5 phu5-lun3 ，</JiaoLuo>
+			<TongYong>di2 Thor5-hng5 Eng4-an1-hi5-gang4 qua2-vin2-e5 pu5-lun3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>一群 車隊 來到 海邊 遊玩 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tin7 chhia-tui7 lai5-kau3 hai2-pinn chhit-tho5 ，</JiaoLuo>
+			<TongYong>zit6-din2 cia1-dui2 lai5-gau3 hai4-binn1 cit7-tor5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>四輛車 一路 開到 港口 外面的 沙洲 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si3-tai5-chhia chit8-lou7 khui-kau3 kang2-khau2 goa7-bin7-e5 phu5-lun3 ，</JiaoLuo>
+			<TongYong>si3-dai5-cia1 zit6-lo2 kui1-gau3 gang4-kau4 qua2-vin2-e5 pu5-lun3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>卻因為 沙子 太軟 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-in-ui7 soa-a2 siunn-nng2 ，</JiaoLuo>
+			<TongYong>suah7-in1-ui2 sua1-a4 siunn1-nng4 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>車子 卡住 無法動彈 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia khe5-tiau5 bo5-hoat-tin2-tang7 ，</JiaoLuo>
+			<TongYong>cia1 ke5-diau5 vor5-huat7-din4-dang2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>又遇到 海水 漲潮 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-tu2-tioh8 hai2-chui2 tng2-lau5 ，</JiaoLuo>
+			<TongYong>gorh7-du4-diorh6 hai4-zui4 dng4-lau5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>最後 只好 棄車 逃跑 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-boe2 chi2-ho2 hiat-chhia lau3-phau5 ，</JiaoLuo>
+			<TongYong>siang2-vue4 zi4-hor4 het7-cia1 lau3-pau5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>眼睜睜看 車子 被 海水 淹沒 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kim-kim-khoann3 chhia pi7 hai2-chui2 im-kham3 ，</JiaoLuo>
+			<TongYong>gim1-gim1-kuann3 cia1 bi2 hai4-zui4 im1-kam3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>等到 海水 逐漸 退去 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan2-kau3 hai2-chui2 tauh8-tauh8 the3-khi3 ，</JiaoLuo>
+			<TongYong>dan4-gau3 hai4-zui4 dauh6-dauh6 te3-ki3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>才 以 人力 將 車子 推上 岸邊 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah eng7 jin5-lek8 ka7 chhia sak-chiunn7 hoann7-pinn 。</JiaoLuo>
+			<TongYong>ziah7 ing2 rin5-lik6 ga2 cia1 sak7-ziunn2 huann2-binn1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

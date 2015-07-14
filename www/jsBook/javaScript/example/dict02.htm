@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>字典物件的 Remove()、Key() 和 Item() 方法</h2>
+<hr>
+
+<script src=listDict.js></script>
+<script>
+countryOf = new ActiveXObject("Scripting.Dictionary");	// 建構一個空的字典物件
+countryOf.Add("Taipei", "Taiwan");	// 加入第 1 個對應關係
+countryOf.Add("San Francisco", "USA");	// 加入第 2 個對應關係
+countryOf.Add("Tokyo", "Japan");	// 加入第 3 個對應關係
+countryOf.Add("Seoul", "Korea");	// 加入第 4 個對應關係
+countryOf.Remove("Tokyo");		// 移除 Tokyo 鍵值（及對應的字串）
+countryOf.Key("Taipei") = "Hsinchu";	// 將 Taipei 鍵值改成 Hsinchu
+countryOf.Item("Tokyo") = "Nippon";	// 將 Tokyo 所對應的字串改成 Nippon
+listDict(countryOf, "countryOf");
+</script>
+
+<hr>
+</body>
+</html>

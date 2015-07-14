@@ -1,0 +1,28 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>定義陣列的方法</h2>
+<hr>
+
+<script src=listArray.js></script>
+<script>
+function arrayMax( ){
+	var i, max = this[0];
+	for (i=1; i<this.length; i++)
+		if (max<this[i])
+			max=this[i];
+	return(max);
+}
+Array.prototype.max = arrayMax;		// 定義 arrayMax 為陣列方法 max 所呼叫的函數
+myArray = new Array(4, 9, 2, 1);
+document.write("myArray 的元素：<br>");
+listArray(myArray, "myArray");		// 列印陣列各個元素
+document.write("myArray 的元素最大值：" + myArray.max());	// 列印陣列最大元素
+</script>
+
+<hr>
+</body>
+</html>

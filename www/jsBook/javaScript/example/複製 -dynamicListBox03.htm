@@ -1,0 +1,113 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>動態下拉式選單：三框連動（三層樹狀選項）</h2>
+<hr>
+
+<script>
+function category(name, itemList){
+	this.name=name;
+	this.itemList=itemList;
+}
+
+function dataHierarchy(){
+	// 國語歌手
+	var mandarin=new Array();
+	var i=0;
+	mandarin[i++]=new category("張學友", ["我等到花而也謝了", "一千個傷心的理由", "咖啡"]);
+	mandarin[i++]=new category("張惠妹", ["聽海", "剪愛", "原來你什麼都不要", "三天三夜"]);
+	mandarin[i++]=new category("劉德華", ["謝謝你的愛", "來生緣", "忘情水"]);
+	mandarin[i++]=new category(  "伍佰", ["浪人情歌", "樹枝孤鳥"]);
+	mandarin[i++]=new category("周華健", ["花心", "心的方向"]);
+	// 英語歌手
+	var english=new Array();
+	var i=0;
+	english[i++]=new category("Jackson", ["Beat It", "Billie Jean", "Heal The World"]);
+	english[i++]=new category("Celindion", ["My Heart Will Go On", "Hope"]);
+	// 語言類別
+	var output=new Array();
+	var i=0;
+	output[i++]=new category("國語", mandarin);
+	output[i++]=new category("英語", english);
+
+	return(output);
+}
+dataTree=dataHierarchy();
+
+// 第三個欄位被更動後的反應動作
+function onChangeColumn3(){
+	updatePath();
+}
+
+// 第二個欄位被更動後的反應動作
+function onChangeColumn2(){
+	form=document.theForm;
+	index1=form.column1.selectedIndex;
+	index2=form.column2.selectedIndex;
+	index3=form.column3.selectedIndex;
+	// Create options for column 3
+	for (i=0;i<dataTree[index1].itemList[index2].itemList.length;i++)
+		form.column3.options[i]=new Option(dataTree[index1].itemList[index2].itemList[i], dataTree[index1].itemList[index2].itemList[i]);
+	form.column3.options.length=dataTree[index1].itemList[index2].itemList.length;
+	updatePath();
+}
+
+// 第一個欄位被更動後的反應動作
+function onChangeColumn1() {
+	form=document.theForm;
+	index1=form.column1.selectedIndex;
+	index2=form.column2.selectedIndex;
+	index3=form.column3.selectedIndex;
+	// Create options for column 2
+	for (i=0;i<dataTree[index1].itemList.length;i++)
+		form.column2.options[i]=new Option(dataTree[index1].itemList[i].name, dataTree[index1].itemList[i].name);
+	form.column2.options.length=dataTree[index1].itemList.length;
+	// Clear column 3
+	form.column3.options.length=0;
+	updatePath();
+}
+
+// 修改所顯示的路徑
+function updatePath(){
+	form=document.theForm;
+	index1=form.column1.selectedIndex;
+	index2=form.column2.selectedIndex;
+	index3=form.column3.selectedIndex;
+	if ((index1>=0) && (index2>=0) && (index3>=0)) {
+		text1=form.column1.options[index1].text;
+		text2=form.column2.options[index2].text;
+		text3=form.column3.options[index3].text;
+		form.path.value=text1+" ==> "+text2+" ==> "+text3;
+	} else
+		form.path.value="";
+}
+</script>
+
+<form name="theForm">
+<table align=center border=1>
+	<tr>
+		<th>歌曲語言<th>歌星名字<th>歌曲清單
+	<tr>
+		<td align=center>
+			<select name="column1" size=10 onChange="onChangeColumn1();">
+				<script>
+				for (i=0; i<dataTree.length; i++)
+					document.writeln("<option value=\""+dataTree[i].name+"\">"+dataTree[i].name);
+				</script>
+			</select>
+		<td align=center>
+			<select name="column2" size=10 onChange="onChangeColumn2();">
+			</select>
+		<td align=center>
+			<select name="column3" size=10 onChange="onChangeColumn3();">
+			</select>
+	<tr><td colspan=3 align=center>路徑：<input type=text name=path size=60></td></tr>
+</table>
+</form>
+
+<hr>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<body>
+
+<script> 
+    function getInfo(str){ 
+    pattern = /\s*\/\/\s*(.*)$/;
+	a = pattern.exec(str);
+    //  a = /(\w+)\s+(\d+)/.exec(str); 
+      window.alert(a[1]); 
+    }
+  </script> 
+  Enter your first name and your age, and then press Enter. 
+  <form> 
+   <input type="text" id="NameAge"
+         onchange="getInfo(this.form.NameAge.value);"/> 
+  </form> 
+  
+</body>
+</html>

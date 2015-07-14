@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>自動相簿加點歌機（利用亂數點選影像及背景 MIDI 音樂）</h2>
+<hr>
+
+<script>
+imageUrl=["image/roger/all.jpg", "image/roger/fall.jpg", "image/roger/grade4.jpg", "image/roger/lake.jpg",
+	"image/roger/roger1.gif", "image/roger/roger5.jpg", "image/roger/uniform.jpg", "image/roger/wes.jpg"];
+midiUrl=["music/聽海.mid", "music/膽小鬼.mid", "music/如果雲知道.mid", "music/原來你什麼都不想要.mid", "music/tomorrow.mid"];
+
+pickedImage = imageUrl[Math.floor(Math.random()*imageUrl.length)];
+pickedMidi = midiUrl[Math.floor(Math.random()*midiUrl.length)];
+document.writeln("<embed src="+pickedMidi+" hidden=true autostart=true loop=false>");
+</script>
+
+<table align=center border=2>
+<tr><td>
+<script>document.write("<img src="+pickedImage+">")</script>
+</table>
+
+<hr>
+</body>
+</html>

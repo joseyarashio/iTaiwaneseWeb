@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>將 ASP 網頁當作物件引用</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rsreferencingasppagesasobjects"></a>將 ASP 網頁當作物件引用</h1>
+<p>
+如果您希望能夠更方便地使用遠端 scripting 呼叫 ASP 網頁上的方法，可以在客戶端 script 中建立一個對包含伺服端方法之網頁的物件引用。這樣，您就可以使用標準的 <i>object.method(&nbsp;)</i> 語法，呼叫您在伺服端網頁上公佈的方法。</p>
+<p>
+<b>若要將 ASP 網頁當作物件引用</b>
+<ul>
+<li>
+在客戶端 script 中，呼叫 <a href="rmscpt14.htm">RSGetASPObject</a> 方法，把您想引用之 ASP 網頁的 URL 和名稱當作物件傳送。此 <code>RSGetASPObject</code>  方法會傳回一個物件引用。請使用下列語法︰<pre><code><i>ASPobj</i> = RSGetASPObject(<i>url</i>)
+</code></pre>
+<p>
+其中︰
+<ul>
+<li>
+<i>ASPobj</i>&nbsp;&nbsp;&nbsp;表示以 <code>RSGetASPObject</code> 方法所建立的物件。此後，您就可以使用這個物件來引用 <i>ASPName</i>.asp 中指定的網頁。<br><br></li>
+<li>
+<i>url&nbsp;&nbsp;&nbsp;</i>為伺服端網頁的 URL，此網頁上有您想要呼叫的方法。</li>
+</ul>
+</li>
+</ul>
+<p>
+例如，假設在伺服器上有一個名為 RSMath.asp 的網頁。您就可以用下面這種以 JavaScript 寫成的陳述式來建立物件引用︰</p>
+<pre><code>rsMath = RSGetASPObject("../myPages/RSMath.asp")
+</code></pre>
+<p>
+或是用 VBScript 寫成的陳述式︰</p>
+<pre><code>set rsMath = RSGetASPObject("../myPages/RSMath.asp")
+</code></pre>
+<p>
+如果該網頁中包含一個名為 <code>Add</code>的方法，您可以使用下列以 JavaScript 寫成的語法來呼叫此方法︰</p>
+<pre><code>co = rsMath.Add(number1, number2)
+</code></pre>
+<p>
+或是用 VBScript 的語法︰</p>
+<pre><code>set co = rsMath.Add(number1, number2)
+</code></pre>
+<p>
+關於呼叫遠端 scripting 方法的相關資訊，請參閱<a href="rmscpt5.htm">同步呼叫遠端 Scripting 方法</a>和<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a>。</p>
+</BODY>
+</HTML>

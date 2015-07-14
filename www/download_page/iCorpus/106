@@ -1,0 +1,377 @@
+<article>
+	<id>106</id>
+	<title>馬英九 抗繳 健保費 利息 十六億 台北市民 買單</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 記者 林恕暉 台北報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-iu5-si5-po3 ki3-chia2 Lim5-su3-hui Tai5-pak-po3-to7</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* gi3-zia4* lim5-su3-hui1* dai5-bak7*-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北市政府 前市長 馬英九 時代，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7-cheng3-hu2 cheng5-chhi7-tiunn2 Ma2-eng-kiu2 si5-tai7 ，</JiaoLuo>
+			<TongYong>Dai5-bak7-ci2-zing3-hu4* zing5-ci2-diunn4* ma4-ing1-giu4* si5-dai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>抗繳 中央 勞健保費，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khong3-kiau2 Tiong-iang lo5-kian7-po2-hui3 ，</JiaoLuo>
+			<TongYong>kong3-giau4 diong1-iang1* lor5-gen2-bor4-hui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>積欠總額 超過 七百億元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chek-khiam3 chong2-giah8 chhiau-koe3 chhit-pah-ek ，</JiaoLuo>
+			<TongYong>zik7-kiam3-zong4-qiah6* ciau1-gue3 cit7-bah7-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>如今 台北市政府 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hian7-chu2-si5 Tai5-pak-chhi7-cheng3-hu2 piau2-si7 ，</JiaoLuo>
+			<TongYong>hen2-zu4-si5* dai5-bak7-ci2-zing3-hu4* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>明年 將 編列 一百一十億元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>me5-ni5 beh pian-liat8 chit8-pah-chap8-ek ，</JiaoLuo>
+			<TongYong>me5-ni5* e2 ben1-let6 zit6-bah7-zap6-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>攤還 勞健保費 欠款，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thoann-heng5 lo5-kian7-po2-hui3 khiam3-khoan2 ，</JiaoLuo>
+			<TongYong>tan1-huan5 lor5-gen2-bor4-hui3* kiam3-kuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>其中 光是利息 就需要 十六億元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong kan-na7 li7-sit to-su-iau3 chap8-lak8-ek ，</JiaoLuo>
+			<TongYong>gi5-diong1* gan1-na2-li2-sit7* diorh6-su1-iau3 zap6-lak6-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>台北市 市議員 簡余晏 等人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7 chhi7-gi7-oan5 Kan2-i5-oann3 teng2-lang5 ，</JiaoLuo>
+			<TongYong>dai5-bak7-ci2* ci2-qi2-quan5* gan4-i5-en3* ding4-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>今天上午 痛批，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit chai2-khi2 thong3-phe ，</JiaoLuo>
+			<TongYong>gin1-a4-rit6 zai4-ki4* dai2-lik6-pue1-ping5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>當年 台北市長 馬英九，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-ni5 Tai5-pak-chhi7-tiunn2 Ma2-eng-kiu2 ，</JiaoLuo>
+			<TongYong>dong1-ni5* dai5-bak7-ci2-diunn4* ma4-ing1-giu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>執意 與 民進黨政府 對抗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chip-koat ham Bin5-chin3-tong2-cheng3-hu2 tui3-khong3 ，</JiaoLuo>
+			<TongYong>zip7-i3 ham1 vin5-zin3-dong4*-zing3-hu4* dui3-kong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>現在 利息 卻 要 台北市民 買單， 太不合理。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hian7-chai7 li7-sit soah-ai3 Tai5-pak-chhi7-bin5 hu3-siau3 ， siunn-bo5-hap8-li2 。</JiaoLuo>
+			<TongYong>zit7-ma4* li2-sit7* suah7 ai3 dai5-bak7-ci2-vin5* ve4-duann1*， siunn1-vor5-hap6-li4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>市議員 簡余晏、 陳建銘、 李慶鋒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-gi7-oan5 Kan2-i5-oann3 、 Tan5-kian3-beng5 、 Li2-kheng3-hong ，</JiaoLuo>
+			<TongYong>Ci2-qi2-quan5* gan4-i5-en3*、 dan5-gen3-ving5*、 li4-king3-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>今天上午 召開 記者會 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit chai2-khi2 tiau3-khai ki3-chia2-hoe7 piau2-si7 ，</JiaoLuo>
+			<TongYong>gin1-a4-rit7 zai4-ki4* ziau3-kui1 gi3-zia4-hue2* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>明年 市府編列的 勞健保，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>me5-ni5 chhi7-hu2 pian-liat8 e5 lo5-kian7-po2 ，</JiaoLuo>
+			<TongYong>me5-ni5* ci2-hu4*-ben1-let6*-e5 lor5-gen2-bor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>上繳費用 需要 二百三十億元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong7-kiau2 hui3-iong7 su-iau3 nng7-pah-sann-chap8-ek ，</JiaoLuo>
+			<TongYong>siong2-giau4-hui3-iong2* su1-iau3 nng2-bah7-sann1-zap6-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>有 一百一十億元 用來 攤還</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 chit-pah chap8-ek iong7-lai5 thoann-heng5 ，</JiaoLuo>
+			<TongYong>u2 zit7-bah7-zap6-ik7* iong2-lai5 tan1-huan5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>過去 積欠中央的 勞健保費，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koe3-khi3 chek-khiam3 tiong-iang-e5 lo5-kian7-po2-hui3 ，</JiaoLuo>
+			<TongYong>gue3-ki3* zik7-kiam3-diong1-iang1*-e5 lor5-gen2-bor4-hui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>他們 詢問市府 發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in sun5-bun7 chhi7-hu2 hoat-hian7 ，</JiaoLuo>
+			<TongYong>yin1 sun5-mng2-ci2-hu4* huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>其中 光是利息，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong kan-na7 li7-sit ，</JiaoLuo>
+			<TongYong>gi5-diong1* gan1-na2-li2-sit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>就 高達 十六億元，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-koan5-kau3 chap8-lak8-ek ，</JiaoLuo>
+			<TongYong>diorh6 gor1-dat6 zap6-lak6-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>若是 以 未來八年</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-si7-iong7 bi7-lai5 peh-ni5 ，</JiaoLuo>
+			<TongYong>na2-si2 i4 vi2-lai5*-beh7-ni5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>將攤還的 利息 計算，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh thoann-heng5 e5 li7-sit ke3-sng3 ，</JiaoLuo>
+			<TongYong>ai3-tan1-huan5*-e5 li2-sit7* ge3-sng3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>市府 總共 需要 繳納</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-hu2 long2-chong2 su-iau3 kiau2-lap8 ，</JiaoLuo>
+			<TongYong>ci2-hu4* long4-zong4* su1-iau3 giau4-lap6</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>八十三點一三億元 利息 給中央，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peh-chap8-sann-tiam2-it-sann-ek li7-sit hou7 tiong-iang ，</JiaoLuo>
+			<TongYong>beh7-zap6-sann1-diam4-it7-sann1-ik7* li2-sit7* ho2-diong1-iang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>這些錢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chia-e5 chinn5 ，</JiaoLuo>
+			<TongYong>zia3-e5-zinn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>竟然 都要 市民的稅金 來買單。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng3-jian5 long2-ai3 chhi7-bin5-e5 soe3-kim lai5-hu3-siau3</JiaoLuo>
+			<TongYong>ging3-ren5* long4-ai3 ci2-vin5*-e5-sue3-gim1* lai5-ve4-duann1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>議員指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi7-oan5 chi2-chhut ，</JiaoLuo>
+			<TongYong>Qi2-quan5*-zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>台北市民、 各 機關行號，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7-bin5 、 kok-ki-koan hang5-ho7 ，</JiaoLuo>
+			<TongYong>dai5-bak7-ci2-vin5*、 gok7 gi1-guan1*-hang5-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>乖乖繳納 勞健保費，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koai-koai kiau2-lap8 lo5-kian7-po2-hui3 ，</JiaoLuo>
+			<TongYong>guai1-guai1-giau4-lap6 lor5-gen2-bor4-hui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>現在 市府 積欠中央 費用，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 chhi7-hu2 chek-khiam3 tiong-iang hui3-iong7 ，</JiaoLuo>
+			<TongYong>zit7-ma4* ci2-hu4* zik7-kiam3-diong1-iang1* hui3-iong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>卻 要 讓 台北市民 買單，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-ai3 hou7 Tai5-pak-chhi7-bin5 hu3-siau3 ，</JiaoLuo>
+			<TongYong>suah7 ai3 ho2 dai5-bak7-ci2-vin5* ve4-duann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>當年 馬英九的 錯誤政策，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-ni5 Ma2-eng-kiu2 e5 chho3-gou7 cheng3-chhek ，</JiaoLuo>
+			<TongYong>dong1-ni5* ma4-ing1-giu4*-e5 cor3-nqo2-zing3-cik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>應該 讓 馬英九 自己 買單，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng3-kai hou7 Ma2-eng-kiu2 ka-ki7 hu3-siau3 ，</JiaoLuo>
+			<TongYong>ing3-gai1 ho2 ma4-ing1-giu4* ga1-di2* ve4-duann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>馬英九 應該 公開認錯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ma2-eng-kiu2 eng3-kai kong-khai jin7-chho3 ，</JiaoLuo>
+			<TongYong>ma4-ing1-giu4* ing3-gai1 gong1-kai1-rin2-cor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>向 台北市民 道歉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hiong3 Tai5-pak-chhi7-bin5 to7-khiam ，</JiaoLuo>
+			<TongYong>hiong3 dai5-bak7-ci2-vin5* dor2-kiam1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>並且 賠償 台北市政府，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7-chhiann2 poe5-siong5 Tai5-pak-chhi7-cheng3-hu2 ，</JiaoLuo>
+			<TongYong>bing2-ciann4 bue5-siong4 dai5-bak7-ci2-zing3-hu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>八年 累計</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peh-ni5 lui7-ke3 ，</JiaoLuo>
+			<TongYong>beh7-ni5* lui2-ge3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>八十三點一三億元 的 利息損失，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peh-chap8-sann-tiam2-it-sann-ek e5 li7-sit sun2-sit ，</JiaoLuo>
+			<TongYong>beh7-zap6-sann1-diam4-it7-sann1-ik7* e5 li2-sit7-sun4-sit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>錯誤的政策，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chho3-gou7 e5 cheng3-chhek ，</JiaoLuo>
+			<TongYong>cor3-nqo2*-e5-zing3-cik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>應該 由 決策錯誤的 官員 買單。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng3-kai iu5 koat-chhek chho3-gou7-e5 koann-oan5 hu3-siau3 。</JiaoLuo>
+			<TongYong>ing3-gai1 iu5 guat7-cik7*-cor3-nqo2*-e5 guann1-quan5* ve4-duann1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>議員表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi7-oan5 piau2-si7 ，</JiaoLuo>
+			<TongYong>Qi2-quan5*-biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>市政府 為了 馬英九 抗繳 勞健保費，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-cheng3-hu2 ui7-tioh8 Ma2-eng-kiu2 khong3-kiau2 lo5-kian7-po2-hui3 ，</JiaoLuo>
+			<TongYong>ci2-zing3-hu4* ui2-liau4 ma4-ing1-giu4* kong3-giau4 lor5-gen2-bor4-hui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>總共 有 三十二塊</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chong2-u7 sann-chap8-ji7 te3 ，</JiaoLuo>
+			<TongYong>long4-zong4* u2 sann1-zap6-ri2-de3</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>市有 精華地段土地 被假扣押，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-iu2 cheng-hoa5 te7-toann7 thou2-te7 pi7 ke2-khau3-ah ，</JiaoLuo>
+			<TongYong>ci2-iu4* zing1-hua5-de2-duann2*-to4-de2* hong5*-ge4-kau3-ah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>導致 市庫 收入減少，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 chhi7-khou3 siu-jip8 kiam2-chio2 ，</JiaoLuo>
+			<TongYong>di3-su4 ci2-ko3* siu1-rip6*-giam4-zior4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=47>
+			<segmentation>市府 當年 為了 抗繳 勞健保費 提出訴訟，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-hu2 tong-ni5 ui7-tioh8 khong3-kiau2 lo5-kian7-po2-hui3 the5-chhut sou3-siong7 ，</JiaoLuo>
+			<TongYong>ci2-hu4* dong1-ni5* ui2-liau1* kong3-giau4 lor5-gen2-bor4-hui3* te5-cut7—so3-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=48>
+			<segmentation>花費 五百萬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khai-siau gou7-pah-ban7</JiaoLuo>
+			<TongYong>kai1-liau4 qo2-bah7-van2</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=49>
+			<segmentation>聘請 律師團 打官司，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pheng3-chhiann2 lut8-su-thoan5 phah-koann-si ，</JiaoLuo>
+			<TongYong>pin3-ciann4 lut6-su1-tuan5* pah7-guann1-si1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=50>
+			<segmentation>這些 損失的費用，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chia-e5 sun2-sit-e5 hui3-iong7 ，</JiaoLuo>
+			<TongYong>zia3-e5 sun4-sit7*-e5-hui3-iong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=51>
+			<segmentation>現在 都要 人民納稅的 市庫 負擔，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 long2-ai3 jin5-bin5 lap8-soe3-e5 chhi7-khou3 hu7-tam ，</JiaoLuo>
+			<TongYong>zit7-ma4* long4-ai3 rin5-vin5*-lap6-sue3*-e5 ci2-ko3* hu2-dam1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=52>
+			<segmentation>市民 替馬英九 買單 根本 相當 不合理。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-bin5 the3 Ma2-eng-kiu2 hu3-siau3 kin-pun2 siang-tong bo5-hap8-li2 。</JiaoLuo>
+			<TongYong>ci2-vin5* te3-ma4-ing1-giu4* ve4-duann1* gin1-bun4* siong1-dong1 vor5-hap6-li4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

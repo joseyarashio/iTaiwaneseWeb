@@ -1,0 +1,69 @@
+<article>
+	<id>1132</id>
+	<title>南韓 爆發 牛隻口蹄疫 肉類 停止輸出</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>南韓 爆發 八年來的 首例 牛隻 口蹄疫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-Han5 phok8-hoat peh-ni5-lai5-e5 thau5-le7 gu5-chiah khau2-toe5-ek8，</JiaoLuo>
+			<TongYong>Lam5-Han5* bok6-huat7 beh7-ni5*-lai5*-e5 de2-it7-le2* qu5-ziah7* kau4-de5-ik6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>疫區 在 距離首爾 四十五公里 的 抱川地區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ek8-khu ti7 ku7-li5 Siu2-ni2 si3-chap8-gou7 kong-li2-e5 Pho7-chhoan te7-khu，</JiaoLuo>
+			<TongYong>ik6-ku1* di2 li2 Seoul si3-zap6-qo2-gong1-li4* e5 Por2-Cuan1*-de2-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>當地 一個 乳牛場 有 六頭乳牛 感染，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-toe7 chit8-e5 ni-gu5-tiunn5 u7 lak8-thau5 ni-gu5 kam2-jiam2，</JiaoLuo>
+			<TongYong>dong1-de2* zit6-e5* ling1-qu5-diunn5* u2 lak6-ziah7-ling1-qu5* gam4-riam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>南韓 農業部 為了防止 疫情擴散，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-Han5 Long5-giap8-pou7 ui7-tioh8 hong5-chi2 ek8-cheng5 khok-san3，</JiaoLuo>
+			<TongYong>Lam5-Han5* Long5-Qiap6-Bo2* ui2-liau4-hong5-zi4 ik6-zing5*-kok7-san3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>已經採取 緊急措施，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng chhai2-chhu2 kin2-kip-chho3-si，</JiaoLuo>
+			<TongYong>i4-ging1-cai4-cu4 gin4-gip7*-cor3-si1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>將 疫區 方圓 五百公尺 範圍內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiong ek8-khu hong-oan5 gou7-pah-kong-chhioh hoan7-ui5-lai7，</JiaoLuo>
+			<TongYong>ziong1 ik6-ku1* hong1-uan5* qo2-bah7-gong1-ciorh7* e5 huan2-ui5*-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>全部的 偶蹄動物 都撲殺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-pou7-e5 siang-toe5 tong7-but8 long2-phok-sat，</JiaoLuo>
+			<TongYong>zuan5-bo2*-e5 siang1-de5*-dong2-vut6* long4-pok7-sat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>即日起 也暫停 肉品輸出。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chek-jit8-khi2 oan-na2-chiam7-theng5 bah-phin2 su-chhut。</JiaoLuo>
+			<TongYong>zik7-rit6-ki4* ma2-ziam2-ting5 vah7-pin4*-su1-cut7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

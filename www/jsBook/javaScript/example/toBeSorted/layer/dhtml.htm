@@ -1,0 +1,85 @@
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft Visual Studio 6.0">
+<TITLE></TITLE>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+var type = "IE";	//Variable used to hold the browser name
+
+BrowserSniffer();
+
+//detects the capabilities of the browser
+function BrowserSniffer() {
+	if (navigator.userAgent.indexOf("Opera")!=-1 && document.getElementById) type="OP";		//Opera
+	else if (document.all) type="IE";														//Internet Explorer e.g. IE4 upwards
+	else if (document.layers) type="NN";													//Netscape Communicator 4
+	else if (!document.all && document.getElementById) type="MO";							//Mozila e.g. Netscape 6 upwards
+	else type = "IE";		//I assume it will not get here
+}
+
+//Displays the generic browser type
+function whatBrows() {
+	window.alert("Browser is : " + type);
+}
+
+//Puts the contents of str into the layer id
+//id is the name of the layer
+//str is the required content
+//Works with all browsers except Opera
+function ChangeContent(id, str) {
+	if (type=="IE") {
+		document.all[id].innerHTML = str;
+	}
+	if (type=="NN") { 
+		document.layers[id].document.open();
+		document.layers[id].document.write(str);
+		document.layers[id].document.close();
+	}
+	if (type=="MO") {
+		document.getElementById(id).innerHTML = str;
+	}
+}
+
+//Change the color of the layer background
+//id is the name of the layer
+//color is the required color
+//Works with all browsers except NN4
+function ChangeLayerBgColor(id, color){
+	if (type=="IE") document.all[id].style.backgroundColor=color;
+	if (type=="NN") document.layer['id'].bgColor=color;
+	if (type=="MO" || type=="OP") document.getElementById(id).style.backgroundColor=color;
+}
+
+//Show and hide a layer
+//id is the name of the layer
+//action is either hidden or visible
+//Seems to work with all versions NN4 plus other browsers
+function ShowLayer(id, action){
+	if (type=="IE") eval("document.all." + id + ".style.visibility='" + action + "'");
+	if (type=="NN") eval("document." + id + ".visibility='" + action + "'");
+	if (type=="MO" || type=="OP") eval("document.getElementById('" + id + "').style.visibility='" + action + "'");
+}
+
+
+//-->
+</script>
+</HEAD>
+<BODY>
+
+<a href="javascript:void(0)" onClick="whatBrows();">Display what browser</a>
+<br><br>
+<a href="javascript:ShowLayer('Layer7','hidden')">Hide picture</a><br>
+<a href="javascript:ShowLayer('Layer7','visible')">Show picture</a><br><br>
+
+<a href="javascript:ChangeContent('Layer6','This is new content')">Change content of layer 6</a><br>
+<a href="javascript:ChangeContent('Layer6','This is some more new content')">Change content of layer 6 again</a><br><br>
+
+<a href="javascript:ChangeLayerBgColor('Layer6','#ff0000')">Change layer 6 background colour to red</a><br>
+<a href="javascript:ChangeLayerBgColor('Layer6','#00ff00')">Change layer 6 background colour to green</a><br>
+<a href="javascript:ChangeLayerBgColor('Layer6','#0000ff')">Change layer 6 background colour to blue</a><br><br>
+
+<div id="Layer6" style="position:absolute; left:209px; top:248px; width:200px; height:115px; z-index:6">This is layer 6</div>
+<div id="Layer7" style="position:absolute; left:400px; top:248px; width:200px; height:115px; z-index:7; visibility:hidden"><img src="1.jpg"></div>
+
+</BODY>
+</HTML>

@@ -1,0 +1,33 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用 AJAX 顯示伺服器的時間</h2>
+<hr>
+
+<script>
+// 用戶端的接收函數，負責以非同步方式來接收伺服器回傳的資料並顯示在網頁上
+function displayTime() {
+	if (ajax.readyState==4)
+		if (ajax.status==200)
+			document.getElementById('showResult').innerHTML = ajax.responseText;
+		else
+			alert ("伺服器發生錯誤，無法回傳資料！");
+}
+
+// 用戶端的發送函數，負責設定 AJAX 物件並觸發伺服器網頁的執行
+function getServerTime(url) {
+	ajax = new ActiveXObject("Msxml2.XMLHTTP");
+	ajax.onReadyStateChange=displayTime;	// 設定接收伺服器資料的回應函數
+	ajax.open("GET", url, true);		// 設定 ajax 物件的參數
+	ajax.send("");				// 執行 ajax
+}
+</script>
+
+<input type="button" value="使用 AJAX 顯示伺服器的時間" onClick="getServerTime('showTime.asp')">
+<div id="showResult"></div>
+
+</body>
+</html>

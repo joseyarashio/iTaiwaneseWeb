@@ -1,0 +1,356 @@
+<article>
+	<id>115</id>
+	<title>金融海嘯 中國 改革開放路途 難以平坦</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 即時新聞</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-iu5-si5-po3 chek-si5-sin-bun5</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* zik7-si5*-sin1-vun5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>中國 今天 在北京，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok kin-a2-jit ti7 Pak-kiann ，</JiaoLuo>
+			<TongYong>Diong1-gok7* gin1-a4-rit6 di2-bak7-giann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>舉行大會 紀念 中國 改革開放 三十週年。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki2-heng5 tai7-hoe7 ki3-liam7 Tiong-kok kai2-kek khai-hong3 sann-chap8-chiu-ni5 。</JiaoLuo>
+			<TongYong>gi4-hing5-dai2-hue2* gi3-liam2 diong1-gok7* gai4-gik7*-kai1-hong3* sann1-zap6-ziu1-ni5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>官方媒體 新華社 連日來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann-hong mui5-the2 Sin-hoa5-sia7 lian5-jit8-lai5 ，</JiaoLuo>
+			<TongYong>guann1-hong1-mui5-te4* sin1-hua5-sia2* len5-rit6-lai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>宣導 三十年來 中國取得的 重大成就，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soan-to7 sann-chap8-ni5-lai5 Tiong-kok chhu2-tit-e5 tiong7-tai7-seng5-chiu7 ，</JiaoLuo>
+			<TongYong>suan1-dor2 sann1-zap6-ni5*-lai5* diong1-gok7*-cu4-dit7*-e5 diong2-dai2-sing5-ziu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>但是 有學者說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 u7 hak8-chia2 kong2 ，</JiaoLuo>
+			<TongYong>dan2-si2 u2-hak6-zia4*-gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>在 全球 金融海嘯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 choan5-kiu5 kim-iong5 hai2-siau3 ，</JiaoLuo>
+			<TongYong>di2 zuan5-giu5* gim1-iong5 tsunami，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>導致 經濟遲緩 之下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 keng-che3 ban7-tun7-chi-ha7 ，</JiaoLuo>
+			<TongYong>di3-su4 ging1-ze3*-di5-huan4* zi1-ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>改革開放的 路 未來 不會平坦。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kai2-kek khai-hong3-e5-lou7 bi7-lai5 be7-peng5-sun7 。</JiaoLuo>
+			<TongYong>gai4-gik7*—kai1-hong3*-e5-lo2* vi2-lai5* ve2-bing5-sun2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>紀念 中國共產黨 十一屆 三中全會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki3-liam7 Tiong-kok-kiong7-san2-tong2 chap8-it-kai3 sann-tiong-choan5-hoe7 ，</JiaoLuo>
+			<TongYong>Gi3-liam2 diong1-gok7*-giong2-san4-dong4* zap6-it7-gai3* sam1-diong1-zuan5-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>召開 三十週年 大會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiau3-khai sann-chap8-chiu-ni5 tai7-hoe7 ，</JiaoLuo>
+			<TongYong>ziau1-kai1 sann1-zap6-ziu1-ni5* dai2-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>上午 在 人民大會堂 舉行。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha2-khi2 ti7 Jin5-bin5-tai7-hoe7-tng5 ki2-heng5 。</JiaoLuo>
+			<TongYong>zai4-ki4* di2 rin5-vin5-dai2-hue2-dng5* gi4-hing5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>中國共產黨 黨政軍 高層、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok-kiong7-san2-tong2 tong2-cheng3-kun ko-chan5 、</JiaoLuo>
+			<TongYong>Diong1-gok7*-giong2-san4-dong4* dong4-zing3-gun1* gor1-zan5*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>前領導人 及 各 省、市、區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng5-leng2-to7-jin5 kah kok-seng2 、 chhi7 、 khu ，</JiaoLuo>
+			<TongYong>zing5-ling4-dor2-rin5* gah7 gok7 sing4*、ci2*、ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>甚至 當年 改革單位的 主要 負責人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3 tong-ni5 kai2-kek tan-ui7-e5 chu2-iau3 hu7-chek-jin5 ，</JiaoLuo>
+			<TongYong>sim2-zi3 dong1-ni5* gai4-gik7-dan1-ui2*-e5 zu4-iau3 hu2-zik7-rin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>都 出席大會。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2 chhut-sek8 tai7-hoe7 。</JiaoLuo>
+			<TongYong>long4 cut7-sik6-dai2-hue2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>胡錦濤 在會中 發表講話，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hou5-gim2-to5 ti7 hoe7-tiong piau2-si7 kong2-oe7 ，</JiaoLuo>
+			<TongYong>O5-gim4-tor1* di2-hue2-diong1* huat7-biau4 dam5-ue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>中國 官方媒體 進行 現場直播。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok koann-hong mui5-the2 chin3-heng5 hian7-tiunn5 tit8-po3 。</JiaoLuo>
+			<TongYong>diong1-gok7* guann1-hong1-mui5-te4* zin3-hing5 hen2-diunn5-dit6-bor3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>一九七八年 十二月十八日 中國共產黨 在北京，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-kau2-chhit-pat-ni5 chap8-ji7-goeh8 chap8-peh-ho7 Tiong-kok-kiong7-san2-tong2 ti7 Pak-kiann ，</JiaoLuo>
+			<TongYong>It7-giu4-cit7-bat7-ni5* zap6-ri2-queh6-zap6-beh7-hor2* diong1-gok7*-giong2-san4-dong4* di2-bak7-giann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>舉行 十一屆 三中全會。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki2-heng5 chap8-it-kai3 sann-tiong choan5-hoe7 。</JiaoLuo>
+			<TongYong>gi4-hing5 zap6-it7-gai3* sam1-diong1-zuan5-hue2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>會議當中 確立 以 經濟建設 為中心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe7-gi7 tong-tiong khak-lip8 i2 keng-che3 kian3-siat ui5-tiong-sim ，</JiaoLuo>
+			<TongYong>hue2-qi2*-dang1-diong1* kak7-lip6 i4 ging1-ze3-gen3-set7* ui5-diong1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>推出 改革開放的 決策，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thui-chhut kai2-kek khai-hong3-e5 koat-chhek ，</JiaoLuo>
+			<TongYong>tui1-cut7 gai4-gik7*-kai1-hong3*-e5 guat7-cik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>揚棄 中國共產黨 前領導人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iann7-khi3 Tiong-kok-kiong7-san2-tong2 cheng5-leng2-to7-jin5 ，</JiaoLuo>
+			<TongYong>iong5-ki3 diong1-gok7*-giong2-san4-dong4* zing5-ling4-dor2-rin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>毛澤東的 「以 階級鬥爭 為綱領」 與 閉關鎖國 政策。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Mou5-tek-tong e5 「 i2 kai-kip-tou3-cheng ui5 kong-leng2 」 ham pi3-koan so2-kok-cheng3-chhek 。</JiaoLuo>
+			<TongYong>mo5-dik6-dong1*-e5 「i4 gai1-gip7-dau3-zing1* ui5-gang1-ling4*」 gah7 bi3-guan1*-sor4-gok7*-zing3-cik7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>中國官方 與 大部分 人民 對 三十年來的</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok koann-hong kam toa7-pou7-hun7 jin5-bin5 tui3 sann-chap8-ni5-lai5 e5 ，</JiaoLuo>
+			<TongYong>Diong1-gok7*-guann1-hong1* gah7 dua2-bo2-hun2 rin5-vin5* dui3 sann1-zap6-ni5*-lai5*-e5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>改革開放 成績 感到滿意，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kai2-kek khai-hong3 seng5-chek kam2-kak boan2-i3 ，</JiaoLuo>
+			<TongYong>gai4-gik7*-kai1-hong3* sing5-zik7* gam4-gak7-vuan4-i3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>認為 改革開放 徹底 改變了 中國人民的</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jim7-ui5 kai2-kek khai-hong3 thiat-te2 kai-pinn3-liau2 Tiong-kok-jin5-bin5 ，</JiaoLuo>
+			<TongYong>rin2-ui5 gai4-gik7*-kai1-hong3* tet7-de4 gai1-ben3-liau4 diong1-gok7-rin5-vin5*-e5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>生活方式 和 生活品質 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>senn-oah8-hong-sek kah senn-oah8-phin2-chit ，</JiaoLuo>
+			<TongYong>sing1-uah6-hong1-sik7* gah7 sing1-uah6-pin4-zit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>中國 也 終於 晉升 世界強國 之列。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok ia7-chong2-sng3 chin3-seng se3-kai3 kiong5-kok-chi-liat8 。</JiaoLuo>
+			<TongYong>diong1-gok7* ia2 zong4-sng3 zin3-sing1 se3-gai3*-giong5-gok7* zi1-let6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>根據 中國官方 公布的數據，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ki3 Tiong-kok koann-hong kong-pou3-e5 sou3-ki3 ，</JiaoLuo>
+			<TongYong>Gin1-gi3 diong1-gok7*-guann1-hong1* gong1-bo3*-e5-so3-gi3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>三十年來 中國經濟 年平均 增長 大約一成，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-chap8-ni5-lai5 Tiong-kok keng-che3 ni5-peng5-kin cheng-tiong2 tai7-iok chit8-siann5 ，</JiaoLuo>
+			<TongYong>sann1-zap6-ni5*-lai5* diong1-gok7*-ging1-ze3* ni5-bing5-gin1* sing5-diong4* dai2-iok7-zit6-siann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>高過 同期 世界經濟 平均三成 的 速度 ；</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koan5-koe3 kang7-ki5 se3-kai3 keng-che3 peng5-kin sann-siann5 e5 sok-tou7  ；</JiaoLuo>
+			<TongYong>guan5-gue3 gang2-gi5* se3-gai3*-ging1-ze3* bing5-gin1*-sann1-siann5* e5 sok7-do2*；</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>貿易總額 從 世界 第二十九 提升到 第三；</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bou7-ek8 chong2-giah8 tui3 se3-kai3 te7-ji7-chap8-kau2 the5-seng-kau3 te7-sann ；</JiaoLuo>
+			<TongYong>vo2-ik6-zong4-qiah6* ui3 se3-gai3* de2-ri2-zap6-gau4* te5-sing1-gau3 de2-sann1*；</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>國內生產總值 GDP 從 世界 第十 提升到 第四。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kok-lai7 seng-san2-chong2-tat8 GDP tui3 se3-kai3 te7-chap8 the5-seng-kau3 te7-si3 。</JiaoLuo>
+			<TongYong>gok7-lai2*-sing1-san4-zong4-dit6* GDP ui3 se3-gai3* de2-zap6* te5-sing1-gau3 de2-si3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>不過， 也有專家 認為，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 ， ia7-u7 choan-ka jim7-ui5 ，</JiaoLuo>
+			<TongYong>But7-gor3*， ma2-u2-zuan1-ga1 rin2-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>中國的 改革之路 過去 不順暢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok e5 kai2-kek-chi-lou7 koe3-khi3 bo5-thong-sun7 ，</JiaoLuo>
+			<TongYong>diong1-gok7*-e5 gai4-gik7*-zi1-lo2* gue3-ki3* vor5-sun2-tiong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>未來 也 不會平坦。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bi7-lai5 ia7-be7 peng5-sun7 。</JiaoLuo>
+			<TongYong>vi2-lai5* ma2-ve2-bing5-sun2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>香港 「星島日報」 引述專家 說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hiang-kang2 「 Chhinn-to2-jit8-po3 」 in2-sut8 choan-ka-kong2 ，</JiaoLuo>
+			<TongYong>Hiang1-gang4* 「sing1-dor4-rit6-bor3*」 in4-sut6-zuan1-ga1* gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>改革開放 是 從 中國元老 鄧小平，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kai2-kek khai-hong3 si7 tui3 Tiong-kok goan5-lo2 Teng7-sio2-peng5 ，</JiaoLuo>
+			<TongYong>gai4-gik7*-kai1-hong3* si2 ui3 diong1-gok7*-quan5-lor4* ding2-sior4-bing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>利用 個人威望 所推出的 政策，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>li7-iong7 ko3-jin5 ui-bong7 sou2 thui-chhut-e5 cheng3-chhek ，</JiaoLuo>
+			<TongYong>li2-iong2 gor3-rin5-ui1-vong2* so4-tui1-cut7*-e5 zing3-cik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>初期 並無 明確的 路線圖，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhou-ki5 peng7-bo5 beng5-khak lou7-soann3-tou5 ，</JiaoLuo>
+			<TongYong>co1-gi5* bing2-vor5 ving5-kak7*-e5 lo2-suann3-do5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>反而是 「摸著石頭 過河」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoan2-tian-to3-si3 「 bong-tioh8 chioh8-thau5 kio5-ho5 」 ，</JiaoLuo>
+			<TongYong>den1-dor3-si2 「vong1-diorh6-ziorh6-tau5* gue3-hor5*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>左派 時常反撲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho2-phai3 put-si5 to3-hop ，</JiaoLuo>
+			<TongYong>zor4-pai3* but7-si5* dor3-ga2-zit6-cui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>曾經 逼使 鄧小平 要用「南巡」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bat pek-su2 Teng7-sio2-peng5 ai3-iong7 「 Lam5-sun5 」 ，</JiaoLuo>
+			<TongYong>zan5-ging1* bik7-su4 ding2-sior4-bing5* ai3-iong2「lam5-sun5*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>來 確認 市場經濟的 地位，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lai5-khak-jim7 chhi7-tiunn5 keng-che3-e5 te7-ui7 ，</JiaoLuo>
+			<TongYong>lai5 kak7-rin2 ci2-diunn5-ging1-ze3*-e5 de2-ui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>堅定 改革步伐。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kian-teng7 kai2-kek kha-pou7 。</JiaoLuo>
+			<TongYong>gen1-ding2 gai4-gik7*-ka1-bo2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>在 政治改革 方面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 cheng3-ti7-kai2-kek hong-bin7 ，</JiaoLuo>
+			<TongYong>Di2 zing3-di2-gai4-gik7* hong1-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=47>
+			<segmentation>中國當局 始終 猶豫不決、 欲進還退，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok-tong-kiok8 si2-chiong tiu5-tu5-put-koat 、 be2-chin3-iau2-the3 ，</JiaoLuo>
+			<TongYong>diong1-gok7*-dong1-giok6* it7-dit6 diu5-du5*-but7-guat7*、 veh7-zin3*-gorh7-te3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=48>
+			<segmentation>三十年來 曲折坎坷、 毫無進展，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-chap8-ni5-lai5 kham2-kham2-khiat-khiat 、 long2-bo5 chin3-tian2 ，</JiaoLuo>
+			<TongYong>sann1-zap6-ni5*-lai5* kik7-zet7*-kam4-kik7 、 long4-vor5-zin3-den4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=49>
+			<segmentation>已經 成為 繼續 改革開放 的 障礙。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng chiann5-choe3 ke3-siok8 kai2-kek khai-hong3-e5 chiong3-gai7 。</JiaoLuo>
+			<TongYong>i4-ging1 ben3-sing5 ge3-siok6 gai4-gik7*-kai1-hong3*-e5 ziong3-qai2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

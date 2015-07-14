@@ -1,0 +1,21 @@
+.controls {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+    padding: 20px;
+}
+
+#waveform {
+    position: relative;
+}
+
+#progress-bar {
+    position: absolute;
+    left: 0;
+    top: 54px;
+    left: 5%;
+    width: 90%;
+}

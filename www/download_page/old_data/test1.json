@@ -1,0 +1,2 @@
+[{'Key': 'android.permission.ACCESS_CHECKIN_PROPERTIES', 'Title': '訪問檢入屬性', 'Level': 0, 'Memo': '允許對檢入服務上傳的屬性進行讀/寫訪問。普通應用程序不能使用此權限。', 'jdata': 'test data 0'}, 
+{'Key': 'android.permission.ACCESS_COARSE_LOCATION', 'Title': '大概位置', 'Level': 1, 'Memo': '訪問大概的位置源(例如蜂窝網络數據庫)以確定手機的大概位置(如果可以)。惡意應用程序可借此確定您所處的大概位置。', 'jdata': 'test data 1'}, {'Key': 'android.permission.ACCESS_COARSE_LOCATION', 'Title': '大概位置', 'Level': 1, 'Memo': '訪問大概的位置源(例如蜂窝網络數據庫)以確定手機的大概位置(如果可以)。惡意應用程序可借此確定您所處的大概位置。', 'jdata': 'test data 2'}]

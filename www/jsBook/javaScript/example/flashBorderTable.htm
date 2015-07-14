@@ -1,0 +1,36 @@
+<html>
+<body>
+
+<table border="0" width="280" id="myexample" style="border:5px solid green">
+<tr>
+<td>Insert anything you want into this table.<br>Insert anything you want into this table.<br>Insert anything you want into this table.<br></td>
+</tr>
+</table>
+<script language="JavaScript1.2">
+<!--
+
+/*
+Flashing Table Border Script- ?Dynamic Drive (www.dynamicdrive.com)
+Visit http://www.dynamicdrive.com for this script
+Credit must stay intact for use
+*/
+
+//configure interval btw flash (1000=1 second)
+var speed=500
+
+function flashit(){
+var crosstable=document.getElementById? document.getElementById("myexample") : document.all? document.all.myexample : ""
+if (crosstable){
+if (crosstable.style.borderColor.indexOf("green")!=-1)
+crosstable.style.borderColor="red"
+else
+crosstable.style.borderColor="green"
+}
+}
+setInterval("flashit()", speed)
+//-->
+</script>
+
+
+</body>
+</html>

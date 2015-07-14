@@ -1,0 +1,104 @@
+<article>
+	<id>1213</id>
+	<title>癌末病患 想回家 急需 氧氣瓶 維生</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台東 一名男子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tang chit8-mia5 cha-pou，</JiaoLuo>
+			<TongYong>Dai5-Dang1* zit6-e5* za1-bo1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>不但是 八八水災 受災戶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-na7-si7 Pat-pat-chui2-chai siu7-chai-hou7，</JiaoLuo>
+			<TongYong>m2-na2-si2 Bat7-Bat7*-zui4-zai1* siu2-zai1-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>還是 癌末患者，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-si7 gam5-boe2-hoan7-chia2，</JiaoLuo>
+			<TongYong>gorh7-si2 qam5-vue4-gi5*-e5 huan2-zia4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>只能 靠氧氣 維持生命，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-thang-kho3 sng-sou3 i5-chhi5 senn3-mia7，</JiaoLuo>
+			<TongYong>zi4-e2-dang3 kor3-sang3-so3* i5-ci5-senn3-mia2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>他 知道 自己的日子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-chai-iann2 ka-ki7-e5 jit8-chi2，</JiaoLuo>
+			<TongYong>i1 zainn1-iann4 ga1-di2*-e5-rit6-zi4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>可能 也活不久，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiam2-chhai2 oan-na2-oah8-be7-ku2，</JiaoLuo>
+			<TongYong>kor4-ling5* ia2-uah6-ve2-gu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>所以 希望 出院回家，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou2-i2 hi-bong7 thoe3-inn7 tng2-khu3，</JiaoLuo>
+			<TongYong>so4-i4 hi1-vang2 cut7-inn2* duinn4-ki3-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>度過 最後的人生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tou7-koe3 siong7-be2-e5 lin5-seng，</JiaoLuo>
+			<TongYong>do2-gue3 zue3-au2*-e5-rin5-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>不過 他 家境清寒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 i ka-keng2-san3-chhiah， </JiaoLuo>
+			<TongYong>m2-gorh7 i1 ga1-ging4*-cing1-han5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>根本 沒有錢 租氧氣瓶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-pun2 bo5-chinn5 chou sng-sou3-tang5，</JiaoLuo>
+			<TongYong>gin1-bun4* vor5-zinn5* zo1-sang3-so3-dang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>家人 希望有 社會 善心人士，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-lai7-lang5 hi-bang7-u7 sia7-hoe7 sian7-sim-jin5-su7，</JiaoLuo>
+			<TongYong>cu3-lai2-lang5* hi1-vang2-u2 sia2-hue2*-e5 sen2-sim1-rin5-su2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>能夠 伸出援手，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-thang tau3-chan3-chhiu2，</JiaoLuo>
+			<TongYong>e2-dang3 cun1-cut7-uan5-ciu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>幫他完成 最後的心願。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pang-i oan5-seng5 siong7-be2-e5 sim-goan7。</JiaoLuo>
+			<TongYong>bang1-i1-uan5-sing5 zue3-au2*-e5-sim1-quan2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

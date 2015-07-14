@@ -1,0 +1,104 @@
+<article>
+	<id>1158</id>
+	<title>周一 鋒面襲台 東北季風 增強 天氣變濕冷</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>周一 又有鋒面 侵襲台灣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pai3-it koh-u7 hong-bin7 chhim-sip8 Tai5-oan5，</JiaoLuo>
+			<TongYong>Bai3-it7* gorh7-u2-hong1-vin2* cim1-sip6-Dai5-Uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>除了 東北季風 增強，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti5-liau2 Tang-pak-kui3-hong cheng-kiong5，</JiaoLuo>
+			<TongYong>di5-liau4 dang1-bak7-gui3-hong1* zing1-giong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>氣溫 也再下降，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khi3-un oan-na2-koh ha7-kang3，</JiaoLuo>
+			<TongYong>ki3-un1* ma2-gorh7-gang3-ge2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>最近 全球的天候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choe3-kin7 choan5-kiu5-e5 thinn-si5，</JiaoLuo>
+			<TongYong>zue3-gin2* zuan5-giu5*-e5-ten1-hau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>都出現 極端化的 現象，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chhut-hian7 kek8-toan-hoa3-e5 hian7-siong7，</JiaoLuo>
+			<TongYong>long4-cut7-hen2 gik6-duan1-hua3*-e5 hen2-siang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>北半球 冷到冰凍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pak-poann3-kiu5 koann5-kau3 peng-tong3，</JiaoLuo>
+			<TongYong>bak7-buann3-giu5* guann5-gau3-bing1-dong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>包括 美國與中國，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pau-koat Bi2-kok ham Tiong-kok，</JiaoLuo>
+			<TongYong>bau1-gua1 Vi4-Gok7*-gah7-Diong1-Gok7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>各地 都是 豪雨、大雪 成災。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kok-toe7 long2-si7 toa7-chui2-hou7、toa7-seh seng5-chai。</JiaoLuo>
+			<TongYong>gok7-de2* long4-si2 hor5-u4*、dua2-seh7* sing5-zai1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>但是 南半球的 澳洲雪梨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 lam5-poann3-kiu5 e5 O3-chiu Soat-le5，</JiaoLuo>
+			<TongYong>Dan2-si2 lam5-buann3-giu5*-e5 Or3-Ziu1*-Suat7-Le5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>高溫 卻飆到 攝氏 四十三度，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ko-un soah-pio-kau3 liap-si7 si3-chap8-sann-tou7，</JiaoLuo>
+			<TongYong>gor1-un1* suah7-bior1-gau3 Celsius si3-zap6-sann1-do2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>這波熱浪，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-pho jiat8-eng2，</JiaoLuo>
+			<TongYong>zit7-por1-ret6-long2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>更導致 森林 野火不斷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh ti3-su2 chhiu7-na5 soann-hoe2 put-toan7，</JiaoLuo>
+			<TongYong>gorh7-di3-su4 som1-lim5* ia4-hue4*-but7-duan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>讓 澳洲的 消防隊員 整日匆忙。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 O3-chiu-e5 siau-hong5-tui7-oan5 kui-kang kin2-kong5。</JiaoLuo>
+			<TongYong>ho2 Or3-Ziu1-e5 siau1-hong5-dui2-uan5* gui1-gang1*-vor5-ing5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

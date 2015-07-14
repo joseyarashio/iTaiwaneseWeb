@@ -1,0 +1,104 @@
+<article>
+	<id>1252</id>
+	<title>老舊公寓 暗夜惡火 女孩 葬身火窟</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>在 高雄市的 三民區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Ko-hiong5-chhi7-e5 sam-bin5-khu，</JiaoLuo>
+			<TongYong>Di2 Gor1-Hiong5-Ci2*-e5 Sam1-Vin5-Ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>凌晨 十二點多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau3-cha2 chap8-ji7-tiam2-goa7，</JiaoLuo>
+			<TongYong>tau3-za4* zap6-qi2-diam4-qua2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>老舊公寓 一樓 發生火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lau7-ku7-kong-u2 it-lau5 hoat-seng-hoe2-sio，</JiaoLuo>
+			<TongYong>lau2-gu2-gong1-u4* it7-lau5* huat7-sing1-hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>這一家 四口，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-chit8-ke si3-khau2，</JiaoLuo>
+			<TongYong>zit7-ge1-hue4-a4* si3-e5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>單親的 吳姓父親 和 兩名女兒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toann-chhin-e5 senn3-ngou5 lau7-pe7 kap nng7-mia5 cha-bou2-kiann2，</JiaoLuo>
+			<TongYong>dan1-cin1* senn3-Nqo5*-e5-lau2-be2* gah7 nng2-e5* za1-vo4-giann4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>分別是 十一歲 和 五歲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hun-piat8-si7 chap8-it-hoe3 kap gou7-hoe3，</JiaoLuo>
+			<TongYong>hun1-bet6-si2 zap6-it7-hue3* gah7 qo2-hue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>三個人 倉皇逃出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-e5-lang5 chhenn-kong5-to5-chhut，</JiaoLuo>
+			<TongYong>sann1-e5-lang5* hiong5-gong5* zau4*-cut7*-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>八歲女孩 卻 不幸 被 燒死在 屋內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peh-hoe3 cha-bou2-gin2-a2 soah-put-heng7 pi7-sio-si2 ti7-chhu3-lai7，</JiaoLuo>
+			<TongYong>beh7-hue3*-e5 za1-vo4-qin4-a4* suah7 but7-hing2* sior1-si4-di2 cu3-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>被 消防人員 發現 的時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7 siau-hong5-jin5-oan5 hoat-hian7-e5 si5-chun7，</JiaoLuo>
+			<TongYong>ho2 siau1-hong5-rin5-uan5* huat7-hen2* e5-si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>女孩 還躺在 床舖上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-bou2-gin2-a2 iau2-to2-ti7 bin5-chhng5-teng2，</JiaoLuo>
+			<TongYong>za1-vo4-qin4-a4* gorh7-dor4-di2 vin5-cng5-ding4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>女孩的奶奶 趕到現場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-bou2-gin2-a2-e5 a-ma2 koann2-kau3-hian7-tiunn5，</JiaoLuo>
+			<TongYong>za1-vo4-qin4-a4*-e5 a1-ma4* guann4-gau3-hen2-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>看到 最疼愛的 孫女 全身焦黑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoann3-tioh8 siang7-thiann3-thang3-e5 cha-bou2-sun kui-seng-khu chhau3-ta-sek，</JiaoLuo>
+			<TongYong>kuann3-diorh6 siang2-tiann3-siorh7*-e5 za1-vo4-sun1-a4* gui1-sing1-ku1* o1-ma3-ma3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>當場 痛哭失聲。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-tiunn5 chhi-chham2-khau3-bo5-siann。</JiaoLuo>
+			<TongYong>dong1-diunn5* kau3-gah7 ve2-cut7-siann1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

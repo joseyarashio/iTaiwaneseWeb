@@ -1,0 +1,90 @@
+<article>
+	<id>1374</id>
+	<title>平交道 死亡車禍 火車大誤點</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>板橋市 與 樹林鎮 在晚間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Pang-kio5-chhi7 ham Chhiu7-na5-tin3 e5-hng-si5，</JiaoLuo>
+			<TongYong>Bang1-Gior5-Ci2* gah7 Ciu2-Na5-Din3* di2-am3-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>發生一件 平交道 死亡車禍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng chit8-kiann7 peng5-kau-to7 si2-bong5 chhia-ho7，</JiaoLuo>
+			<TongYong>huat7-sing1-zit6-giann2 bing5-gau1-dor2* si4-vong5*-cia1-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一列 台鐵電聯車 晚上 七點多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-liat8 Tai5-thih tian7-lian5-chhia am3-si5 chhit-tiam2-goa7，</JiaoLuo>
+			<TongYong>zit6-let6 Dai5-Tih7*-den2-len5-cia1* am3-si5* cit7-diam4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>經過 台北縣 樹林鎮 的 俊英街 平交道 附近，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 Tai5-pak-koan7 e5 Chhiu7-na5-tin3 Chun3-eng-koe peng5-kau-to7 hu3-kin7，</JiaoLuo>
+			<TongYong>ging1-gue3 Dai5-Bak7-Guan2* Ciu2-Na5-Din3* e5 Zun3-Ing1-Ge1* bing5-gau1-dor2* hu2-gin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>撞上一名 闖進鐵路的 女姓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e-tioh8 chit8-mia5 chong5-jip8 thih-ki-lou7 e5 lu2-seng，</JiaoLuo>
+			<TongYong>long3-diorh6-zit6-e5* zong5-rip6 tih7-gi1-lo2* e5 lu4-sing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>死者 疑似 因為 生活因素 想不開，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si2-chia2 gi5-su7 in-ui7 seng-oah8-in-sou3 siunn7-be7-khui，</JiaoLuo>
+			<TongYong>si4-zia4* qi5-su2 in1-ui2 sing1-uah6-in1-so3* siunn2-ve2-kui1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>這件 死亡事故，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-kiann7 si2-bong5-su7-kou3，</JiaoLuo>
+			<TongYong>zit7-giann2 si4-vong5*-su2-go3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>造成 台鐵 在 西部縱貫線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 Tai5-thih ti7 Se-pou7-chhiong3-koan3-soann3，</JiaoLuo>
+			<TongYong>zor2-sing5 Dai5-Tih7* di2 se1-bo2*-ziong3-guan3-suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>一度 只能夠 單線通車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-to2 chi2-e7-eng7 tan-soann3-thong-chhia，</JiaoLuo>
+			<TongYong>zit6-si5* zi4-e2-dang3 dan1-suann3*-tong1-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>將近 三十班火車 延誤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh-oa2 sann-chap8-pan hoe2-chhia ian5-gou7，</JiaoLuo>
+			<TongYong>ziong1-gin2 sann1-zap6-bang1-hue4-cia1* en5-nqo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>有 上萬旅客 受到影響。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 chiunn7-ban7 lu2-kheh siu7-tioh8 eng2-hiang2。</JiaoLuo>
+			<TongYong>u2 ziunn2-van2-lu4-keh7* siu2-diorh6-ing4-hiong4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,33 @@
+<html>
+<head>
+</head>
+<body>
+<A HREF="http://www.nthu.edu.tw" onClick='alert("Link got an event: "+ event.type); return false'>Click for link event</A>
+
+
+<p>
+The following example uses the event object in an explicitly called event handler. 
+
+<SCRIPT>
+function fun1() {
+	alert ("event.type = " + event.type);
+	alert ("event.srcElement = " + event.srcElement);
+	alert ("x position is " + event.layerX);
+	alert ("y position is " + event.layerY);
+	if (event.modifiers & event.ALT_MASK)
+		alert ("Alt key was down for event.");
+	return true;
+}
+//function listprop() {
+//	objname = "event";
+//	for (var i in event) {
+//		str=objname+".<font color=red>"+i+"</font>=<font color=green>";
+//		str=str+event[i];
+//		str=str+"</font><br>");
+//		document.writeln(str);
+//	}
+//}
+document.onmousedown = fun1;</SCRIPT>
+
+</body>
+</html>

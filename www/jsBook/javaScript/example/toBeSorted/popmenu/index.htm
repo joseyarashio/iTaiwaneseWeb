@@ -1,0 +1,40 @@
+<html>
+<head><title>MenuBar</title></head>
+<body>
+
+<SCRIPT LANGUAGE="JavaScript">
+function switchOn(){return};
+function switchOff(){return};
+function makeTop(){return};
+function popUp(i){switchOn('menu'+i);};
+function popDown(i){switchOff('menu'+i);};
+function startIt(){return};   
+</SCRIPT>
+
+<table cellspacing=0 cellpadding=0 border=0>
+<tr>
+<img src="bar1.jpg" onMouseover="makeTop(1);popUp(1,event);" onMouseout="popDown(1);">
+<tr>
+<img src="bar2.jpg" onMouseover="makeTop(2);popUp(2,event);" onMouseout="popDown(2);">
+<tr>
+<img src="bar3.jpg" onMouseover="makeTop(3);popUp(3,event);" onMouseout="popDown(3);">
+<tr>
+<img src="bar4.jpg" onMouseover="makeTop(4);popUp(4,event);" onMouseout="popDown(4);">
+</table>
+
+<table border=1>
+<tr bgcolor=red>
+<td onMouseover="makeTop(1);popUp(1,event);" onMouseout="popDown(1);">item1</td>
+<tr bgcolor=yellow>
+<td onMouseover="makeTop(2);popUp(2,event);" onMouseout="popDown(2);">item2</td>
+</table>
+
+<SCRIPT LANGUAGE="JavaScript">
+document.write("<SCRIPT LANGUAGE='JavaScript' SRC='hierSetEnv_MP.js'><\/SCRIPT>");	   	
+document.write("<SCRIPT LANGUAGE='JavaScript' SRC='hierArrays.js'><\/SCRIPT>");
+document.write("<SCRIPT LANGUAGE='JavaScript' SRC='hierMenus4d.js'><\/SCRIPT>");
+document.write("<SCRIPT LANGUAGE='JavaScript' SRC='other_MP.js'><\/SCRIPT>");
+</SCRIPT>
+
+</body>
+</html>

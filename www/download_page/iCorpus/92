@@ -1,0 +1,314 @@
+<article>
+	<id>92</id>
+	<title>不明原因 骨疼痛 當心 是骨癌</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 新聞</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-iu5-si5-po3-sin-bun5</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* sin1-vun5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>一名 小學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 sio2-hak8-seng ，</JiaoLuo>
+			<TongYong>Zit6-e5 sior4-hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>右邊膝蓋 疼痛腫脹 數個月，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiaN3-peng5 kha-thau5-u cheng2-thiaN3 kui2-na7-kou3-goeh8 ，</JiaoLuo>
+			<TongYong>ziann3-bing5* ka1-tau5-hu1* zing4-tiann3 gui4*-a2-gor3-queh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>原本 以為 是 運動傷害，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 liah8-cho3-si7 un7-tong7 siong-hai7 ，</JiaoLuo>
+			<TongYong>quan5-bun4* siunn2-gong4 si2 un2-dong2-siong1-hai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>經過診斷 發現 是 惡性腫瘤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 chin2-toan7 hoat-hian7-si7 ok-seng3 cheng2-liu5 ，</JiaoLuo>
+			<TongYong>ging1-gue3-zin4-duan2* huat7-hen2 si2 ok7-sing3*-zing4-liu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>手術 一年後 局部復發，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiu2-sut8 chit8-ni5-au7 kiok8-pou7 hok8-hoat ，</JiaoLuo>
+			<TongYong>ciu4-sut6* zit6-ni5-au2* giok6-bo2*-hok6-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>幸好 尚未轉移。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-kai-chai3 iau2-boe7 choan2-i5 。</JiaoLuo>
+			<TongYong>gai1-zai3* iau4-vue2-zuan4-i5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>成大醫院 今天提醒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Seng5-tai7-peN7-iN7 kin-a2-jit the5-chheN2 ，</JiaoLuo>
+			<TongYong>Sing5-dai2-benn2-inn2* gin1-a4-rit6* te5-cenn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>不明原因的 骨疼痛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-beng5 goan5-in-e5 kut-thiaN3 ， </JiaoLuo>
+			<TongYong>but7-ving5-quan5-in1*-e5 gut7-tau5*-tiann3*， </TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>要 當心 是骨癌。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ai3-se3-ji7 si7 kut-gam5 。</JiaoLuo>
+			<TongYong>ai3 sior4-sim1* si2-gut7-qam5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>成大醫院 核子醫學部，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Seng5-tai7-peN7-iN7 hek8-chu2 i-hak8-pou7 ，</JiaoLuo>
+			<TongYong>Sing5-dai2-benn2-inn2* hik6-zu4*-i1-hak6-bo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>醫師 姚維仁 指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-su Iau5-i5-jin5 chi2-chhut ，</JiaoLuo>
+			<TongYong>i1-su1* iau5-ui5-rin5* zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>運動人口 增加，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>un7-tong7 jin5-khau2 cheng-ka ，</JiaoLuo>
+			<TongYong>un2-dong2-rin5-kau4* zing1-ga1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>運動傷害 時見，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>un7-tong7 siong-hai7 chiap8-khoaN3 ，</JiaoLuo>
+			<TongYong>un2-dong2-siong1-hai2* ziap6-kuann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>最常見的 是，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-chiap8-khoaN3 e5 si7 ，</JiaoLuo>
+			<TongYong>siong2-diann2-kuann3*-e5 si2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>肌肉拉傷 或是 關節扭傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lau2-tioh8-kin iah8-si7 koan-chat-lau2-tioh8 ，</JiaoLuo>
+			<TongYong>guai4-diorh6-gin1* ia2-si2 guan1-zat7*-zuainn2*-diorh6，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>若是 經過休息 或是 一般醫療 還沒改善，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-si7 keng-koe3 hioh-khun3 iah8-si7 it-poaN ti7-liau5 ia7-bo5 kai2-sian7 ，</JiaoLuo>
+			<TongYong>na2-si2 ging1-gue3-hiorh7-kun3* ia2-si2 it7-buann1-i1-liau5* iau4-vor5-gai4-sen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>症狀惡化，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng3-thau5 ok-hoa3 ，</JiaoLuo>
+			<TongYong>zing3-zong2*-ok7-hua3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>尤其是 伴有 胃口不佳、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-ki5-si7 tai3-tioh8 ui7-khau2-phaiN2 、</JiaoLuo>
+			<TongYong>iu5-gi5-si2 len5-dai3-u2 ui2-kau4*-vor5-hor4*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>發燒 或是 體重減輕，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-sio iah8-si7 the2-tang7 kiam2-khin ，</JiaoLuo>
+			<TongYong>huat7-sior1* ia2-si2 te4-dang2*-giam4-kin1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>應該懷疑 有 骨癌的 可能性。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng3-kai hoai5-gi5 u7 kut-gam5 e5 kho2-leng5-seng3 。</JiaoLuo>
+			<TongYong>ing3-gai1-huai5-qi5* u2 gut7-qam5*-e5 kor4-ling5-sing3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>骨癌 分為 原發性 及 轉移性，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kut-gam5 hun-cho3 goan5-hoat-seng3 kah choan2-i5-seng3 ，</JiaoLuo>
+			<TongYong>Gut7-qam5* hun1-ui5 quan5-huat7-sing3* gah7 zuan4-i5-sing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>原發性骨癌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-hoat-seng3 kut-gam5 ，</JiaoLuo>
+			<TongYong>quan5-huat7-sing3*-gut7-qam5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>好發於 十一歲 至 十九歲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiap8-hoat-ti7 chap8-it-hoe3 kau3 chap8-kau2-hoe3 ，</JiaoLuo>
+			<TongYong>diann2 huat7-sing1-di2 zap6-it7-hue3* zi3 zap6-gau4-hue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>常見於 膝關節 附近，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiap8-khoaN3-ti7 kha-thau5-u-koan-chat hu7-kin7 ，</JiaoLuo>
+			<TongYong>diann2-diann2 senn1-di2 ka1-tau5-hu1*-guan1-zat7* hu2-gin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>初期症狀 是 局部的疼痛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhou-ki5 cheng3-thau5 si7 kiok8-pou7-e5 thiaN3 ，</JiaoLuo>
+			<TongYong>co1-gi5-zing3-zong2* si2 giok6-bo2*-e5-tang3-tiann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>因為 恰好是 好動年齡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 tu2-ho2-si7 chin-oah8-tang7 e5 ni5-leng5 ，</JiaoLuo>
+			<TongYong>in1-ui2 du4-hor4-si2 ai3-uah6-dong2*-e5 len5-ling5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>常常 被當成 運動傷害。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiaN7-tiaN7 pi7-tong3-cho3 un7-tong7 siong-hai7 。</JiaoLuo>
+			<TongYong>diann2-diann2 hong5*-dong3-zor3 un2-dong2-siong1-hai2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>轉移性骨癌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan2-i5-seng3 kut-gam5 ，</JiaoLuo>
+			<TongYong>Zuan4-i5-sing3*-gut7-qam5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>好發於 四十五歲 以上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiap8-hoat-ti7 si3-chap8-gou7-hoe3 i2-siang7 ，</JiaoLuo>
+			<TongYong>diann2 huat7-sing1-di2 si3-zap6-qo2-hue3* i4-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>病因 通常 來自 肺癌、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peN7-in thong-siong5 lai5-chu7 hi3-gam5 、</JiaoLuo>
+			<TongYong>benn2-in1* tong1-siong5* lai5-zu2 hi3-qam5*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>乳癌 與 攝護腺癌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng-gam5 ham liap-hou7-soaN3-gam5 ，</JiaoLuo>
+			<TongYong>ling1-qam5* gah7 liap7-ho2-suann3-qam5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>骨疼痛 是 最早的表現。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kut-thiaN3 si7 siong7-cha2-e5 piau2-hian7 。</JiaoLuo>
+			<TongYong>gut7-tau5*-tiann3* si2 siong2-za4*-e5-biau4-hen2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>成大醫院的 病例 中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Seng5-tai7-peN7-iN7 e5 peN7-le7-tiong ，</JiaoLuo>
+			<TongYong>Sing5-dai2-benn2-inn2*-e5 benn2-le2* diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>骨癌患者，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kut-gam5 hoan7-chia2 ，</JiaoLuo>
+			<TongYong>gut7-qam5*-huan2-zia4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>從 十歲的 小學生 至 退休的 高齡者 都有。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 chap8-hoe3 e5 sio2-hak8-seng kau3 thoe3-hiu-e5 che7-hoe3-lang5 long2-u7 。</JiaoLuo>
+			<TongYong>ui3 zap6-hue3*-e5 sior4-hak6-sing1* gau3 te3-hiu1*-e5 ze2-hue3-lang5* long4-u2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>姚維仁 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Iau5-i5-jin5 piau2-si7 ，</JiaoLuo>
+			<TongYong>Iau5-ui5-rin5* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>癌症病患，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gam5-cheng3 piN7-hoan7 ，</JiaoLuo>
+			<TongYong>qam5-zing3*-benn2-huan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>不論 是 在 治療期 或是 恢復期，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-lun7-si7 ti7 ti7-liau5-ki5 iah8-si7 hoe-hok8-ki5 ，</JiaoLuo>
+			<TongYong>but7-lun2 si2 di2 di2-liau5-gi5* ia2-si2 hue1-hok6-gi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>若是 不明原因的 疼痛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-si7 put-beng5-goan5-in e5 thiaN3 ，</JiaoLuo>
+			<TongYong>na2-si2 but7-ving5-quan5-in1*-e5 tang3-tiann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>並且 伴隨 神經症狀，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7-chhiaN2 tai3-tioh8 sin5-keng cheng3-thau5 ，</JiaoLuo>
+			<TongYong>bing2-ciann4 dai3-diorh6 sin5-ging1-zing3-zong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>應該懷疑 是 骨癌轉移，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng3-kai hoai5-gi5 si7 kut-gam5 choan2-i5 ，</JiaoLuo>
+			<TongYong>ing3-gai1-huai5-qi5* si2 gut7-qam5*-zuan4-i5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>就要 儘速就醫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tioh8-ai3 koaN2-kin2 chiu7-i ，</JiaoLuo>
+			<TongYong>diorh6-ai3 guann4-gin4-ziu2-i1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>避免 延誤 治療時機。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-bian2 ian5-gou7 ti7-liau5 si5-ki 。</JiaoLuo>
+			<TongYong>bi2-ven4 en5-qo2 di2-liau5*-si5-gi1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

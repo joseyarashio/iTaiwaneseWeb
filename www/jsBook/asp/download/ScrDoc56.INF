@@ -1,0 +1,110 @@
+[Version]
+signature="$CHICAGO$"
+AdvancedINF=2.5,"You need a new version of advpack.dll"
+
+[SourceDisksNames]
+;1="%Windows Script 5.6 版文件%",,1
+1 = %Windows Script 5.6 版文件%,Sample,0
+
+[DefaultInstall]
+Copyfiles=VBSdocFiles, InfSection
+AddReg=InstallVBSdoc
+UpdateInis=AddLink 
+CustomDestination=MyCustomDestination
+
+[DefaultInstall.NT]
+Copyfiles=VBSdocFiles, InfSection
+AddReg=InstallVBSdoc
+UpdateInis=AddLinkNT 
+CustomDestination=MyCustomDestination
+
+[Uninstall]
+BeginPrompt=BeginPromptSection
+EndPrompt=EndPromptSection
+CustomDestination=UninstallDestination
+DelFiles=VBSdocFiles
+Deldirs=RemoveFolder
+DelReg=DelRegSection
+UpdateInis=RemoveLink
+SmartReboot=I
+Cleanup=1
+
+[BeginPromptSection]
+Prompt="%BeginPrompt%"
+ButtonType=YESNO
+Title="Windows Script 5.6 版文件"
+
+[EndPromptSection]
+Prompt="%EndPrompt%"
+
+[VBSdocFiles]
+Script56.CHM
+ScrDoc56.INF
+
+[InfSection]
+ScrDoc56.inf
+
+[AddLinkNT]
+setup.ini, progman.groups,, ""group0="%ShortName%"""          
+setup.ini, group0,, """%icon1name%"",""""""%49002%\script56.chm""""""
+
+[AddLink]
+setup.ini, progman.groups,, "group0=%ShortName%"          
+setup.ini, group0,, ""%ShortName%""
+setup.ini, group0,, """%icon1name%"",""%49002%\script56.chm"",,0,"
+
+[RemoveLink]
+setup.ini, progman.groups,, "group0=%ShortName%"          
+setup.ini, group0,, ""%ShortName%""
+setup.ini, group0,, """%icon1name%"" 
+
+[DelRegSection]
+HKCR,inffile\shell\APInst
+HKCR,inffile\shell\APUninst
+HKLM,SOFTWARE\Microsoft\Scriptdoc
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Scriptdoc
+
+[InstallVBSdoc]
+HKLM,Software\Microsoft\Scriptdoc,InstallDir,,%49001%
+
+;inffine.reg
+HKCR,inffile\shell\APInst,,,"啟動安裝(&N)"
+HKCR,inffile\shell\APInst\command,,,"rundll32.exe advpack.dll,LaunchINFSection %1, DefaultInstall"
+HKCR,inffile\shell\APUninst,,,"啟動解除安裝(&U)"
+HKCR,inffile\shell\APUninst\command,,,"rundll32.exe advpack.dll,LaunchINFSection %1, UnInstall"
+
+;Register for Uninstall
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Scriptdoc,"DisplayName",,"Windows Script 5.6 版文件" 
+HKLM,SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Scriptdoc,"UninstallString",,"RunDll32 advpack.dll,LaunchINFSection %17%\scrdoc56.inf, Uninstall" 
+
+[DestinationDirs]
+VBSdocFiles=49000
+InfSection=17
+
+[MyCustomDestination]
+;need to add new LFN stuff here.
+49000,49001,49002,49003=PackageDestination49000,1
+
+[UninstallDestination]
+49000=UninstallDestination49000,5
+
+[PackageDestination49000]
+HKLM,SOFTWARE\Microsoft\VBSdoc,InstallDir,%InstallPrompt%,%DefaultDir%
+HKLM,SOFTWARE\Microsoft\VBSdoc,InstallDir,%InstallPrompt%,%DefaultDir%
+
+[UninstallDestination49000]
+HKLM,SOFTWARE\Microsoft\VBSdoc,InstallDir,%InstallPrompt%,%DefaultDir%
+
+[RemoveFolder]
+%49000%
+
+[Strings]
+AppName="Windows Script 5.6 版文件"
+InstallPrompt="您想要在哪裡安裝 Windows Script 5.6 版文件?"
+DefaultDir="C:\Program Files\Microsoft Windows Script\ScriptDocs"
+shortname="Microsoft Windows Script"
+icon1name="Windows Script 5.6 版文件"
+;prompts
+BeginPrompt="您確定要移除 Windows Script 5.6 版文件嗎?"
+EndPrompt="Windows Script 5.6 版文件已順利移除"
+LinkName = "Windows Script 5.6 版文件"

@@ -1,0 +1,83 @@
+<article>
+	<id>1251</id>
+	<title>疑似 瓦斯外洩 女童 開電風扇 引爆 灼傷不治</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>彰化縣 花壇鄉 清晨 發生 氣爆火警 意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chiong-hoa3-koan7 Hoe-toann5-hiong thau3-cha2 hoat-seng khi3-pok8 hoe2-sio-i3-goa7，</JiaoLuo>
+			<TongYong>Ziang1-Hua3-Guan2* Hue1-Duann5-Hiang1* tau3-za4* huat7-sing1 ki3-bok6-hue4-ging4*-e5 i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一名 十歲的女孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 chap8-hoe3 cha-bou2-gin2-a2，</JiaoLuo>
+			<TongYong>zit6-e5* zap6-hue3*-e5 za1-vo4-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>起床 看電視，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khi2-chhng5 khoann3-tian7-si7，</JiaoLuo>
+			<TongYong>ki4-cng5* kuann3-den2-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>隨手 開了 電風扇，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soa3-chhiu2 khui-liau2 tian7-hong，</JiaoLuo>
+			<TongYong>sui5-ciu4* kui1-liau4-den2-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>沒想到 當時 她家裏 疑似 瓦斯外洩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siunn7-tioh8 tng-si5 i-chhu3-lai7 gi5-su7 ga2-suh-goa7-siap8，</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3 hit7-dang1-zun2* i1-e5-cu3-lai2* qi5-su2 qa4-su3*-qua2-siap7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>開電風扇的 同時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khui-tian7-hong e5 tong5-si5，</JiaoLuo>
+			<TongYong>kui1-den2-hong1*-e5 dong5-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>瞬間 發生氣爆 火勢 延燒 整間房屋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sun3-kan hoat-seng khi3-pok8 hoe2-si3-ian5-sio kui-keng-chhu3，</JiaoLuo>
+			<TongYong>sun3-gan1* huat7-sing1-ki3-bok6* hue4-se3* en5-sior1 gui1-ging1-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>女孩 全身著火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-bou2-gin2-a2-e5 kui-seng-khu toh8-hoe2，</JiaoLuo>
+			<TongYong>za1-vo4-qin4-a4* gui1-sing1-ku1* dorh6-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>身體 嚴重的灼傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-the2 giam5-tiong7-e5 sio-tioh8，</JiaoLuo>
+			<TongYong>sin1-te4* qiam5-diong2-sior1-siong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>送醫急救 但是 宣告不治。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sang3-i-kip-kiu3 tan7-si7 soan-ko3-bo5-i。</JiaoLuo>
+			<TongYong>sang3-i1*-gip7-giu3* dan2-si2 suan1-gor3-vor5-i1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

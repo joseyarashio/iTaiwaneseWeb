@@ -1,0 +1,104 @@
+<article>
+	<id>1325</id>
+	<title>蔡英文 宣布 參選新北市 民進黨 五都選將 就位</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>民進黨 黨主席 選舉結果，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 tong2-chu2-sek8 soan2-ku2 kiat-ko2，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* dong4-zu4-sik6* suan4-gi4*-e5-get7-gor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在今晚 二十四日 揭曉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-e7-hng-am3 ji7-chap8-si3-ho7 hian-hiau2，</JiaoLuo>
+			<TongYong>di2-ing1-huinn1* qi2-zap6-si3-hor2* gong1-bo3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>連任成功的 民進黨主席 蔡英文，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-jim7 seng5-kong-e5 Bin5-chin3-tong2-chu2-sek8 Chhoa3-eng-bun5，</JiaoLuo>
+			<TongYong>len5-rim2*-sing5-gong1*-e5 Vin5-Zin3-Dong4*-zu4-sik6* Cua3-Ing1-Vun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>隨即鬆口 確定參選 新北市 了！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toe3-boe2-chiu7 chhui3-pang3-leng7 khak-teng7 chham-soan2 Sin-pak-chhi7 ah！</JiaoLuo>
+			<TongYong>sui5-sang1-kau4-hong1* kak7-ding2-cam1-suan4 Sin1-Bak7-Ci2* a2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>今天的 黨主席 選舉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit8-e5 tong2-chu2-sek8 soan2-ku2，</JiaoLuo>
+			<TongYong>Gin1-a4-rit6*-e5 dong4-zu4-sik6* suan4-gi4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>蔡英文 拿下 九成 超高 得票率，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chhoa3-eng-bun5 theh8-loh8 kau2-siann5 chhiau-koan5 tit-phio3-lut8，</JiaoLuo>
+			<TongYong>Cua3-Ing1-Vun5* teh6-ha2 gau4-siann5* ciau1-guan5*-e5 dit7-pior3-lut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>當選後 蔡英文 透過 發言人 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong3-soan2-au7 Chhoa3-eng-bun5 thau3-koe3 hoat-gian5-jin5 piau2-si7，</JiaoLuo>
+			<TongYong>dong3-suan4*-liau4-au2* Cua3-Ing1-Vun5* tau3-gue3 huat7-qen5-rin5* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>看到 基層 對她的 支持和勸進，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoann3-tioh8 ki-chan5 tui3-i-e5 chi-chhi5 kap khng3-chin3，</JiaoLuo>
+			<TongYong>kuann3-diorh6 gi1-zan5* dui3-i2*-e5 zi1-ci5*-gah7-kuan3-zin3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>決定 為了 民進黨 繼續打拚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koat-teng7 ui7-tioh8 Bin5-chin3-tong2 ke3-siok8-phah-piann3，</JiaoLuo>
+			<TongYong>guat7-ding2 ui2-diorh6 Vin5-Zin3-Dong4 ge3-siok6-pah7-biann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>宣布 參選 新北市；</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soan-pou3 chham-soan2 Sin-pak-chhi7；</JiaoLuo>
+			<TongYong>suan1-bo3 cam1-suan4 Sin1-Bak7-Ci2*；</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>祕書長 蘇嘉全 也確定 參選 大台中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi3-su-tiunn2 Sou-ka-choan5 oan-na2-khak-teng7 chham-soan2 toa7-Tai5-tiong，</JiaoLuo>
+			<TongYong>bi3-si1-diunn4* So1-Ga1-Zuan5* ma2-kak7-ding2 cam1-suan4 dua2-Dai5-Diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>民進黨 五大都的 選將，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 gou7-toa7-tou e5 soan2-chiong3，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* qo2-dua2-do1*-e5 suan4-ziang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>全部 攤牌就位。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-pou7 hian3-pai5 che7-ui7。</JiaoLuo>
+			<TongYong>zuan5-bo2* hen3-bai5*-ziu2-ui2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

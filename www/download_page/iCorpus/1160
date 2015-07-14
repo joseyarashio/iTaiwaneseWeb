@@ -1,0 +1,90 @@
+<article>
+	<id>1160</id>
+	<title>海地強震 第十二天 二十四歲 飯店員工 奇蹟生還</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>海地地震 第十二天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hai2-te7 te7-tang7 te7-chap8-ji7-kang，</JiaoLuo>
+			<TongYong>Hai4-De2*-de2*-dang2* de2-zap6-ri2-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>再度傳出 有 生還奇蹟！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-chai3 thoan5-chhut-u7 seng-hoan5-ki5-chek！</JiaoLuo>
+			<TongYong>gorh7-zai3-tuan5-cut7 u2 sing1-huan5*-e5-gi5-zik7*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一名 二十四歲的 海地男子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 ji7-chap8-si3-hoe3 e5 Hai2-te7-cha-pou，</JiaoLuo>
+			<TongYong>Zit6-e5 ri2-zap6-si3-hue3*-e5 Hai4-De2* za1-bo1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>受困在 當地 一間飯店的 廢墟中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu7-khun3 tong-te7 chit8-keng png7-tiam3-e5 hoe3-hi-tiong，</JiaoLuo>
+			<TongYong>siu2-kun3-di2 dong1-de2* zit6-ging1-buinn2-diam3*-e5 hui3-hi1*-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>經過 希臘救援隊 不斷挖掘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 Hi-liap8 kiu3-oan7-tui7 put-toan7-ou2，</JiaoLuo>
+			<TongYong>ging1-gue3 Hi1-Lah6-giu3-uan5-dui2* but7-duan2*-e5-o4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>終於救出 這名男子；</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chong2-sng3 kiu3-chhut chit-mia5 cha-pou，</JiaoLuo>
+			<TongYong>zong4-sng3-giu3-cut7 zit7-e5 za1-bo1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>根據 當地政府的 統計，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ki3 chai7-te7 cheng3-hu2-e5 thong2-ke3，</JiaoLuo>
+			<TongYong>gin1-gi3 dong1-de2-zing3-hu4*-e5 tong4-ge3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>這次地震 至少 造成 十一萬人 死亡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-pai2 te7-tang7 chi3-chio2 cho7-seng5 chap8-it-ban7-lang5 si2-bong5，</JiaoLuo>
+			<TongYong>zit7-bai4*-e5-de2*-dang2* zi3-zior4* zor2-sing5 zap6-it7-van2-lang5* si4-vong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>但是 海地政府 已經宣布，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh Hai2-te7-cheng3-hu2 i2-keng soan-pou3，</JiaoLuo>
+			<TongYong>m2-gorh7 Hai4-De2*-zing3-hu4* i4-ging1-suan1-bo3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>救援行動 告一段落，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiu3-oan7-heng5-tong7 ko3-chit8-toann7-loh8，</JiaoLuo>
+			<TongYong>giu3-uan5*-hing5-dong2* gor3-zit6-duann2-lorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>接下來 會 把重心 放到 重建工作 上。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soa3-loh8-lai5 e7-ka7 tiong7-sim khng3-kau3 khang-khoe3 tiong5-kian3-siong7。</JiaoLuo>
+			<TongYong>sua3*-lorh6-lai5 e2 ga2-diong2-sim1* kng3-gau3 diong5-gen3*-e5-gang1-zok7* ding4-vin2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

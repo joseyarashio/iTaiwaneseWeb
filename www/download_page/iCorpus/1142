@@ -1,0 +1,118 @@
+<article>
+	<id>1142</id>
+	<title>巷弄 賣 日本料理 店面一坪 上看 四百五十萬</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北 圓環旁的 小巷口，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak inn5-khoan5 pinn-a2-e5 sio2-hang7-a2-khau2，</JiaoLuo>
+			<TongYong>Dai5-Bak7* inn5-kuan5*-binn1*-a1*-e5 sior4-hang2-a4-kau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>有一間 台式 日本料理攤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-chit8-keng Tai5-sek Jit8-pun2-liau7-li2-tann3，</JiaoLuo>
+			<TongYong>u2-zit6-ging1 dai5-sik7* Rit6-Bun4-liau2-li4-dann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>老闆 二十多歲 創業 負債 五千萬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5-ke ji7-chap8-goa7-hoe3 chhong3-giap8 hu7-che3 gou7-chheng-ban7，</JiaoLuo>
+			<TongYong>tau5-ge1* qi2-zap6-qua2-hue3* cong3-qiap6* hu2-ze3* qo2-cing1-van2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>靠著 擺路邊攤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho3-tioh8 pai2-lou7-pinn-tann3-a2，</JiaoLuo>
+			<TongYong>kor3 bai5 lo2-binn1-dann3-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>十年 還清債務，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-ni5 heng5-chheng che3-bu7，</JiaoLuo>
+			<TongYong>zap6-ni5* hing5-cing1-ze3-vu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>還打造出 超人氣 攤位，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2 tann2-cho7-chhut chhiau-jin5-khi3 tann3-a2-ui7，</JiaoLuo>
+			<TongYong>gorh7-dann4-zor2-cut7 ciau1-rin5-ki3*-e5 dann3-ui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>現在 僅是 單日的生意，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 kan-ta-si7 chit8-kang-e5 seng-li2，</JiaoLuo>
+			<TongYong>zit7-ma4* gan1-na2* zit6-gang1*-e5-sing1-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>可以做到 十幾萬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-sai2 choe3-kau3 chap8-kui2-ban7，</JiaoLuo>
+			<TongYong>e2-sai4-zor3-gau3 zap6-gui4-van2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>另外， 還有 台北東區 二一六巷的 粉圓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-goa7，iau2-u7 Tai5-pak-tang-khu nng7-pah-chap8-lak8 hang7 e5 hun2-inn5，</JiaoLuo>
+			<TongYong>ling2-qua2*， gorh7-u2 Dai5-Bak7*-dang1-ku1* nng2-bah7-zap6-lak6-hang2* e5 hun4-inn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>老闆 也是 從 跑警察的 攤販，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5-ke ma7-si7-tui3 chau2-keng2-chhat-e5 thoann-hoan3，</JiaoLuo>
+			<TongYong>tau5-ge1* ma2-si2 ui3 zau4-ging4-cat7*-e5 tuann1-huan3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>開始 慢慢創業，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khai-si2 ban7-ban7-a2 chhong3-giap8，</JiaoLuo>
+			<TongYong>kai1-si4 van2-van2-cong3-qiap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>當初 花了 三千萬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-chhou khai-liau2 sann-chheng-ban7，</JiaoLuo>
+			<TongYong>dong1-co1* kai1-liau4 sann1-cing1-van2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>買下 二十坪 店面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>be2-loh8-lai5 ji7-chap8-penn5 tiam3-bin7，</JiaoLuo>
+			<TongYong>ve4-lorh6 qi2-zap6-ping5* diam3-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>如今 行情上億，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3-tann hang5-cheng5 chiunn7-ek，</JiaoLuo>
+			<TongYong>ru5-gim1* hang5-zing5*-ziunn2-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>每坪 已經 上看 七百萬！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>moe2-penn5 i2-keng khoann3-tiong3 chhit-pah-ban7！ </JiaoLuo>
+			<TongYong>mui4-ping5* i4-ging1 veh7-gau3 cit7-bah7-van2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

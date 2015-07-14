@@ -1,0 +1,104 @@
+<article>
+	<id>1364</id>
+	<title>駕駛酒駕 少年 騎單車 被撞飛</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>花蓮 一名 剛畢業的 國中生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hoa-lian chit8-mia5 tu2-pit-giap8-e5 kok-tiong-seng，</JiaoLuo>
+			<TongYong>Hua1-Len5* zit6-e5* du4-bit7-qiap6*-e5 gok7-diong1-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>與 同班同學 去打籃球，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kang7-pan ham tong5-hak8 khi3-phah-na5-kiu5，</JiaoLuo>
+			<TongYong>ham2 gang2-ban1*-e5-dong5-orh6* ki3-pah7-na5-giu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>回家途中 經過 交通隊門口 十字路口，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng2-khi3-tou5-tiong keng-koe3 kau-thong-tui7 mng5-khau2 sip8-ji7-lou7-khau2，</JiaoLuo>
+			<TongYong>duinn4-ki3-cu3* do5-diong1* ging1-gue3 gau1-tong1-dui2*-mui5-kau4* e5 sip6-ri2-lo2-kau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>不知道 是誰 闖紅燈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-chai-iann2 si7-siann2 chong5-ang5-teng，</JiaoLuo>
+			<TongYong>m2-zainn1-iann4 si2-siang4* cong4-ang5-ding1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>還是 小轎車駕駛 酒後開車 恍神，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-si7 sio2-kio7-chhia ka3-su2 chiu2-au7-khui-chhia cheng-sin5 soann3-sin5，</JiaoLuo>
+			<TongYong>ia2-si2 sior4-giau1-cia1*-ga3-su4* ziu4-au2*-sai4-cia1* sit7-sin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>直接撞上 黃姓 學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tit8-chiap long3-tioh8 senn3-Ng5 hak8-seng，</JiaoLuo>
+			<TongYong>dit6-ziap7*-long3-diorh6 senn3-Uinn5*-e5-hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>就這樣 連人 帶著 腳踏車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-an2-ne lian5-lang5-tai3-tioh8 kha-tah8-chhia，</JiaoLuo>
+			<TongYong>diorh6-an4-ne1* len5-lang5* dai3-diorh6 ka1-da2-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>彈飛 好幾十公尺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toann5-poe kui2-na7-chap8-kong-chhioh，</JiaoLuo>
+			<TongYong>duann5-bue1 gui4*-a2-zap6-gong1-ciorh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>後面 一輛遊覽車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>au7-bin7 chit8-tai5 iu5-lam2-chhia，</JiaoLuo>
+			<TongYong>au2-biah7* zit6-dai5-iu5-lam4-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>還 差點 衝撞上去，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-lim2-lim2-a2 long3-khi2-khi3，</JiaoLuo>
+			<TongYong>gorh7 ca1-zit6-diam4-a4 long3*-ki4-li4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>驚險過程 全被 路旁監視器 拍下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiann-hiam2-koe3-teng5 long2-pi7 lou7-pinn kam3-si7-khi3 hip-loh8，</JiaoLuo>
+			<TongYong>giann1-hiam4*-e5-gue3-ding5* long4-ho2 lo2-binn1*-e5 gam3-si2-ki3* hip7*-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>受重傷的 學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu7-tang7-siong-e5 hak8-seng，</JiaoLuo>
+			<TongYong>siu2-dang2-siang1*-e5 hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>還在 加護病房 和死神 拔河 中。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-ti7 ka-hou7-pinn7-pang5 kap si2-sin5 giu2-toa7-soh tong-tiong。</JiaoLuo>
+			<TongYong>iau4-di2 ga1-ho2-benn2-bang5* gah7-si4-sin5* qiu4-sor4-a4* dang1-diong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

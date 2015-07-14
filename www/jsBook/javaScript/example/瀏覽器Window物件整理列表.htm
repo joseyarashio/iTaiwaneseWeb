@@ -1,0 +1,523 @@
+<HTML>
+<HEAD>
+<TITLE>瀏覽器物件整理列表</TITLE>
+<META name="description" content="">
+<META name="keywords" content="">
+<META name="generator" content="CuteHTML">
+<style>
+   H1      {font:bold 16pt Tahoma;
+            background-color:#c00000;
+            color:white;border:2px solid;
+            border-color:#FF8080 #800000 #800000 #FF8080;
+            padding:1px;
+            text-align:center}
+   SPAN    {font-family:標楷體;
+            font-size:23px;
+            text-indent:20pt}
+   DIV     {font-family:新明細體;
+            font-size:16px;}   
+</style>
+</HEAD>
+<BODY>
+<H1>瀏覽器Window物件整理列表</H1>
+<SPAN id="WinPro" onmouseout="WinPro.style.color='blue'" onmouseover="WinPro.style.color='red'" style="CURSOR:hand"
+      title=按一下瀏覽內容>window物件的性質</span>
+<DIV id=WinProDetail style="DISPLAY:none; MARGIN-LEFT:15pt">
+<table border="1">
+<tr bgcolor="lightblue">
+<td><b>Properties</b></td>
+<td><b>Description</b></td>
+<td><b>中文說明</b></td>
+</tr><tr>
+<td>clientInFormation</td>
+<td>Contains information about the Web browser.</td>
+<td>存取navigator物件.</td>	
+</tr><tr>
+<td>clipboardData</td>
+<td>Provides access to predefined clipboard formats for use in editing operations.</td>
+<td>定義編輯時,剪貼簿上的資料格式.</td>
+</tr><tr>
+<td>closed</td>
+<td>Retrieves whether the referenced window is closed.</td>
+<td>指示參考窗格是否已經關閉.</td>
+</tr><tr>
+<td>dafaultStatus</td>
+<td>Sets or retrieves the default message displayed in the status bar at the bottom of the window.</td>
+<td>存取瀏覽器狀態列的預設訊息文字.</td>
+</tr><tr>
+<td>dialogArguments</td>
+<td>Retrieves the variable or array of variables passed into the modaldialog window.</td>
+<td>將已傳遞給Modal交談窗的參數以陣列方式傳回</td>
+</tr><tr>
+<td>dialogHeight</td>
+<td>Sets or retrieves the height of the modal dialog window.</td>
+<td>設定或傳回交談窗的高度</td>
+</tr><tr>
+<td>dialogLeft</td>
+<td>Sets or retrieves the left coordinate of the modal dialog window.</td>
+<td>設定或傳回交談窗的X座標.</td>
+</tr><tr>
+<td>dialogTop</td>
+<td>Sets or retrieves the top coordinate of the modal dialog window.</td>
+<td>設定或傳回交談窗的Y座標.</td>
+</tr><tr>
+<td>dialogWidth</td>
+<td>Sets or retrieves the width of the modal dialog window.</td>
+<td>設定或傳回交談窗的寬度.</td>
+</tr><tr>
+<td>document</td>
+<td>Represents the HTML document in a given browser window.</td>
+<td>代表特定瀏覽視窗中的HTML文件</td>
+</tr><tr>
+<td>event</td>
+<td>Represents the state of an event, such as the element in which the event occurred, the state of the keyboard keys, the location of the mouse, and the state of the mouse buttons.</td>
+<td>代表事件的狀態,例如:案件事件發生在哪一個元件上,滑鼠位置,滑鼠鈕按鈕的狀態,及鍵盤的狀態等.</td>
+</tr><tr>
+<td>external</td>
+<td>Allows access to an additional object model provided by host applications of the MicrosoftR Internet Explorer browser components.</td>
+<td>允許使用IE瀏覽器所提供的附加物件</td>
+</tr><tr>
+<td>frameElement</td>
+<td>Retrieves the FRAME or IFRAME object that is hosting the window in the parent document.</td>
+<td>&nbsp</td>
+</tr><tr>
+<td>history</td>
+<td>Contains information about the URLs visited by the client.</td>
+<td>傳回目前瀏覽過的URL資訊.</td>
+</tr><tr>
+<td>length</td>
+<td>Sets or retrieves the number of objects in a collection.</td>
+<td>傳回集合裡的元件數目</td>
+</tr><tr>
+<td>location</td>
+<td>Contains information about the current URL.</td>
+<td>網頁的URL位址</td>
+</tr><tr>
+<td>name</td>
+<td>Sets or retrieves the window or frame name.</td>
+<td>視窗或窗格的名稱.</td> 
+</tr><tr>
+<td>navigator</td>
+<td>Contains information about the Web browser.</td>
+<td>包含瀏覽器應用程式的資訊</td>
+</tr><tr>
+<td>offscreenBuffering</td>
+<td>Sets or retrieves whether objects are drawn offscreen before beingmade visible to the user.</td>
+<td>設定顯示物件時,是否使用背景緩衝處理</td>
+</tr><tr>
+<td>opener</td>
+<td>Sets or retrieves a reference to the window that created the current window.</td>
+<td>設定或傳回開啟目前視窗的參考視窗資訊.</td>
+</tr><tr>
+<td>parent</td>
+<td>Retrieves the parent of the window in the object hierarchy.</td>
+<td>傳回物件的上層視窗</td>
+</tr><tr>
+<td>returnValue</td>
+<td>Sets or retrieves the value returned from the modal dialog window.</td>
+<td>設定或傳回modal交談視窗的傳回值</td>
+</tr><tr>
+<td>screen</td>
+<td>Contains information about the client's screen and rendering capabilities.</td>
+<td>包含客戶端螢幕及相關顯示能力的資訊</td>
+</tr><tr>
+<td>screenLeft</td>
+<td>Retrieves the x-coordinate of the upper left-hand corner of the	browser's client area, relative to the upper left-hand corner of the screen.</td>
+<td>傳回視窗相對於整個螢幕的X座標</td>
+</tr><tr>
+<td>screenTop</td>
+<td>Retrieves the y-coordinate of the top corner of the browser's client area, relative to the top corner of the screen.</td>
+<td>傳回視窗相對於整個螢幕的Y座標</td>
+</tr><tr>
+<td>self</td>
+<td>Retrieves a reference to the current window or frame.</td>
+<td>及目前視窗或窗格的參考值</td>
+</tr><tr>
+<td>status</td>
+<td>Sets or retrieves the message in the status bar at the bottom of the window.</td>
+<td>設定或傳回狀態列的顯示文字</td>
+</tr><tr>
+<td>top</td>
+<td>Retrieves the topmost ancestor window.</td>
+<td>傳回最上層的視窗物件</td>
+</tr>
+</table>
+</DIV>
+<p>
+<SPAN id="WinMet" onmouseout="WinMet.style.color='blue'" onmouseover="WinMet.style.color='red'" style="CURSOR:hand"
+      title=按一下瀏覽內容>window物件的方法</span>
+<DIV id=WinMetDetail style="DISPLAY:none; MARGIN-LEFT:15pt">
+<table border="1">
+<tr bgcolor="lightblue">
+<td><b>Methods</b></td>
+<td><b>Description</b></td>
+<td><b>中文說明</b></td>
+</tr><tr>
+<td>alert</td>
+<td>Displays a dialog box containing an application-defined message.</td>
+<td>開啟顯示訊息交談窗.</td>
+</tr><tr>
+<td>attachEvent</td>
+<td>Binds the specified function to an event, so that the function gets called whenever the event fires on the object.</td>
+<td>&nbsp</td>
+</tr><tr>	
+<td>blur</td>
+<td>Causes the window object to lose focus and fires the onblur event.</td>
+<td>使元件失去焦點,引發onBlur事件.</td>
+</tr><tr>	
+<td>clearInterval</td>
+<td>Cancels the interval previously started using the setInterval method.</td>
+<td>取消clearInterval方法設定的計時器.</td>
+</tr><tr>
+<td>clearTimeout</td>
+<td>Cancels a time-out that was set with the setTimeout method.</td>
+<td>取消clearTimeout方法設定的計時器.</td>
+</tr><tr>
+<td>close</td>
+<td>Closes the current browser window or HTML Application (HTA).</td>
+<td>關閉目前的瀏覽器視窗或是HTA視窗.	</td>
+</tr><tr>
+<td>confirm</td>
+<td>Displays a confirmation dialog box that contains an optional message as well as OK and Cancel buttons.</td>
+<td>開啟確認訊息交談窗.</td>
+</tr><tr>
+<td>createPopup</td>
+<td>Creates a popup window.</td>
+<td>&nbsp</td>
+</tr><tr>
+<td>detachEvent</td><td>Unbinds the specified function from the event, so that the function stops receiving notifications when the event fires.</td><td>&nbsp</td>
+</tr><tr>
+<td>execScript</td><td>Executes the specified script in the provided language.</td><td>執行Script程式,預設是Jscript</td>
+</tr><tr>
+<td>focus</td><td>Causes the element to receive the focus and executes the code specified by the onfocus event.</td><td>使元件取得焦點,並引發onFocus事件.</td>
+</tr><tr>
+<td>moveBy</td><td>Moves the screen position of the window by the specified iX and iY offset values.</td><td>將視窗相對於目前的位置移動X和Y個像素.</td>
+</tr><tr>
+<td>moveTo</td><td>Moves the screen position of the upper-left corner of the window to the specified iX and iY position.</td><td>將視窗位置移至X,Y座標上.</td>
+</tr><tr>
+<td>navigate</td><td>Loads the specified URL to the current window. </td><td>載入一份文件.</td>
+</tr><tr>
+<td>open</td><td>Opens a new window and loads the document specified by a given URL, or opens a blank document if a URL is not provided. </td><td>開啟新視窗.</td>
+</tr><tr>
+<td>print</td><td>Prints the document associated with the window. </td><td>&nbsp</td>
+</tr><tr>
+<td>prompt</td><td>Displays a dialog box that prompts the user with a message and an input field. </td><td>開啟prompt輸入交談窗.</td>
+</tr><tr>
+<td>resizeBy</td><td>Changes the current size of the window by the specified x- and y-offset.</td><td>將視窗縮小X和Y個像素.</td>
+</tr><tr>
+<td>resizeTo</td><td>Sets the size of the window to the specified width and height values.</td><td>以特定的寬度和高度來設定視窗的大小.</td>
+</tr><tr>
+<td>scroll</td><td>Causes the window to scroll to the specified x- and y-offset at the upper-left corner of the window. </td><td>&nbsp</td>
+</tr><tr>
+<td>scrollBy</td><td>Causes the window to scroll relative to the current scrolled position by the specified x- and y-pixel offset.</td><td>&nbsp</td>
+</tr><tr>
+<td>scrollTo</td><td>Scrolls the window to the specified x- and y-offset. </td><td>&nbsp</td>
+</tr><tr>
+<td>setActive</td><td>Sets the window object as the current object without setting focus to the object.</td><td>&nbsp</td>
+</tr><tr>
+<td>setInterval</td><td>Evaluates an expression each time a specified number of milliseconds has elapsed.</td><td>設定在固定的時間間距,重複執行某個函式或程序.</td>
+</tr><tr>
+<td>setTimeout</td><td>Evaluates an expression after a specified number of milliseconds has elapsed.</td><td>設定等待某一段時間後,開始執行某個函式或程序.</td>
+</tr><tr>
+<td>showHelp</td><td>Displays a Help file. This method can be used with Microsoft HTML Help.</td><td>顯示一個HTML help的交談窗.</td>
+</tr><tr>
+<td>showModalDialog</td><td>Creates a modal dialog box that displays the specified HTML document.</td><td>顯示一個新的交談窗.</td>
+</tr><tr>
+<td>showModelessDialog</td><td>Creates a modeless dialog box that displays the specified HTML document.</td><td>&nbsp</td>
+</table>
+</DIV><p>
+<SPAN id="WinEve" onmouseout="WinEve.style.color='blue'" onmouseover="WinEve.style.color='red'" style="CURSOR:hand"
+      title=按一下瀏覽內容>window物件的事件</span>
+<DIV id=WinEveDetail style="DISPLAY:none; MARGIN-LEFT:15pt">
+<table border="1">
+<tr bgcolor="lightblue">
+<td><b>events</b></td>
+<td><b>Description</b></td>
+<td><b>中文說明<b></td>
+</tr><tr>	
+<td>onActivate</td><td>Fires when the window object is set as the activeElement.</td><td>&nbsp</td>
+</tr><tr>
+<td>onAfterPrint</td><td>        Fires on the window object immediately after its associated document prints or previews for printing. </td><td> 文件列印之後所發生的事件.</td>
+</tr><tr>
+<td>onBeforeDeactivate</td><td>  Fires immediately before the activeElement is changed from the current window object to another object in the parent document. </td><td>&nbsp</td>
+</tr><tr>
+<td>onBeforePrint</td><td>       Fires on the window object before its associated document prints or previews for printing. </td><td> 列印文件之前所發生的事件.</td>
+</tr><tr>
+<td>onBeforeUnload</td><td>      Fires prior to a page being unloaded.</td><td>	當網頁要被移除前發生. </td>
+</tr><tr>
+<td>onBlur</td><td>              Fires when the window object loses the input focus.</td><td>	發生在視窗失去焦點時,也就是作用視窗被切換為背景視窗時. </td>
+</tr><tr>
+<td>onControlSelect</td><td>     Fires when the user is about to make a control selection of an window object. </td><td>&nbsp</td>
+</tr><tr>
+<td>onDeactivate</td><td>        Fires when the activeElement is changed from the current window object to another object in the parent document. </td><td>	&nbsp</td>
+</tr><tr>
+<td>onError</td><td>             Fires when an error occurs during window object loading. </td><td> 載入網頁文件發生錯誤時發生.</td>
+</tr><tr>
+<td>onFocus</td><td>             Fires when the window object receives the focus. </td><td> 發生在視窗取得焦點時,也就是背景視窗被切換為作用視窗時.</td>
+</tr><tr>
+<td>onHelp </td><td>             Fires when the user presses the F1 key while the browser is the active window. </td><td>   使用者按下F1件時發生.</td>
+</tr><tr>
+<td>onLoad </td><td>             Fires immediately after the browser loads the window object.</td><td> 網頁載入瀏覽器視窗時發生.</td>
+</tr><tr>
+<td>onResize</td><td>            Fires when the size of the window object is about to change.</td><td>	 發生在使用者調整視窗大小時. </td>
+</tr><tr>
+<td>onResizeEnd</td><td>         Fires when the user finishes changing the dimensions of the window object in a control selection. </td><td> 發生在使用者完成調整視窗大小時.</td>
+</tr><tr>
+<td>onResizeStart</td><td>       Fires when the user begins to change the dimensions of the window object in a control selection.</td><td> 發生在使用者要調整視窗大小之前.</td>
+</tr><tr>
+<td>onUnload</td><td>            Fires immediately before the window object is unloaded.</td><td> 網頁文件從瀏覽視窗移除時發生,例如使用者預連往其他網站或是關閉瀏覽器視窗時./td>
+</tr>
+</table>
+</div><p>
+<SPAN id="WinCol" onmouseout="WinCol.style.color='blue'" onmouseover="WinCol.style.color='red'" style="CURSOR:hand"
+      title=按一下瀏覽內容>window物件的集合</span>
+<DIV id=WinColDetail style="DISPLAY:none; MARGIN-LEFT:15pt">
+<table border="1">
+<tr bgcolor="lightblue">
+<td><b>Collections</b></td>
+<td><b>Description</b></td>
+<td><b>中文說明</b></td>	
+</tr><tr>
+<td>frames</td><td>Retrieves a collection of all window objects defined by the given document or defined by the document associated with the given window.</td><td>傳回frame物件.</td>
+</tr>
+</table>
+</div><p>
+<SPAN id="WinHis" onmouseout="WinHis.style.color='blue'" onmouseover="WinHis.style.color='red'" style="CURSOR:hand"
+      title=按一下瀏覽內容>window.history物件</span>
+<DIV id=WinHisDetail style="DISPLAY:none; MARGIN-LEFT:15pt">
+<table border="1">
+<tr bgcolor="lightblue">
+<td><b>Properties</b></td>
+<td><b>Description</b></td>
+<td><b>中文說明</b></td>
+</tr>
+<td>length</td><td>Retrieves the number of elements in the History list.</td><td>傳回紀錄清單裡的紀錄數目.</td>
+</tr><tr bgcolor="lightblue">
+<td><b>Methods</b> </td><td> <b>Description  </b></td><td><b> 中文說明</b><td>
+</tr><tr>
+<td>back </td><td>Loads a previous URL from the History list. </td><td>  載入紀錄清單裡之前瀏覽過的第n筆URL紀錄,這個方法相當於按[上一頁]鈕.	</td>		
+</tr><tr>
+<td>forward  </td><td>Loads the next URL from the History list. </td><td>載入紀錄清單裡之前瀏覽過的第n筆URL紀錄,這個方法相當於按[下一頁]鈕. </td>
+</tr><tr>
+<td>go </td><td>  Loads a URL from the History list. </td><td>  載入當對於目前瀏覽位置之第n筆URL.</td></table>
+</tr>
+</div><p>
+<SPAN id="WinNav" onmouseout="WinNav.style.color='blue'" onmouseover="WinNav.style.color='red'" style="CURSOR:hand"
+      title=按一下瀏覽內容>window.navigator物件</span>
+<DIV id=WinNavDetail style="DISPLAY:none; MARGIN-LEFT:15pt">
+<table border="1">
+<tr bgcolor="lightblue">
+<td><b>Properties</b></td><td>          <b>Description</b> </td><td>	  <b>中文說明</b></td>
+</tr><tr>
+<td>appCodeName </td><td>       Retrieves the code name of the browser. </td><td>					 傳回瀏覽器應用程式的代號名稱,不過無論你是用IE或是Netscape Navigator,appCodeName的傳回值一率都是Mozilla.</td>
+</tr><tr>
+<td>appMinorVersion</td><td>    Retrieves the application's minor version value.</td><td> 				 傳回瀏覽器應用程式的版本編號中的小數部分.</td>
+</tr><tr>
+<td>appName</td><td>            Retrieves the name of the browser.</td><td> 						 傳回瀏覽器應用程式的名稱.</td>
+</tr><tr>
+<td>appVersion </td><td>        Retrieves the platform and version of the browser.</td><td> 				 傳回瀏覽器應用程式的版本.</td>
+</tr><tr>
+<td>browserLanguage</td><td>    Retrieves the current browser language. </td><td>					 傳回瀏覽器使用的語言.	</td>		
+</tr><tr>
+<td>cookieEnabled</td><td>      Retrieves whether client-side cookies are enabled in the browser. </td><td>		 表示瀏覽器是否啟動接受來自網路上的Cookie;傳回值為True(自動接收)或False(不自動接收).</td>	
+</tr><tr>
+<td>cpuClass</td><td>           Retrieves a string denoting the CPU class. </td><td>					 傳回使用者電腦的CPU等級.</td>
+</tr><tr>
+<td>onLine</td><td>             Retrieves whether the system is in global offline mode.</td><td> 			 偵測使用者的瀏覽器是否設定為離線瀏覽.</td>
+</tr><tr>
+<td>platform </td><td>          Retrieves the name of the user's operating system.</td><td> 				 傳回使用者使用的作業系統名稱.</td>
+</tr><tr>
+<td>systemLanguage  </td><td>   Retrieves the default language used by the operating system. </td><td>		 傳回使用者電腦使用的語言.</td>
+</tr><tr>
+<td>userAgent </td><td>         Retrieves a string equivalent to the HTTP user-agent request header.  </td><td>       傳回瀏覽器應用程式的代號和版本,也就是appCodeName和appVersion的結合.</td>
+</tr><tr>
+<td>userLanguage </td><td>      Retrieves the current user language. </td><td>					 傳回使用者目前使用的語言.</td>
+</tr><tr>
+<td>userProfile</td><td>        Provides methods that allow a script to request read access to and perform read actions on a user's profile information.</td><td> 提供Script讀取使用者資料的方法.</td>  
+</tr><tr bgcolor="lightblue">
+<td><b>Methods</b> </td><td>            <b>Description</b></td><td> 								 <b> 中文說明</b></td>
+</tr><tr>
+<td>javaEnabled </td><td>       Returns whether Java is enabled.</td><td> 						表示瀏覽器是否啟動執行java的功能,傳回值為True(啟動)或False(關閉).</td>
+</tr><tr>
+<td>taintEnabled </td><td>      Returns whether data tainting is enabled.</td><td> 				 表示是否能和Netscape Navigator相容,傳回值為True(相容)或False(不相容).</td>
+</tr><tr bgcolor="lightblue">
+<td><b>Collections</b></td><td>       <b> Description</b> </td><td><b>中文說明</b></td>
+</tr><tr>
+<td>plugins</td><td>            Retrieves a collection of all EMBED objects within the document. </td><td>           傳回所有利用&lt;EMBED&gt;標籤所插入的物件集合.</td>
+</tr>
+</table>
+</div><p>
+<SPAN id="WinLoc" onmouseout="WinLoc.style.color='blue'" onmouseover="WinLoc.style.color='red'" style="CURSOR:hand"
+      title=按一下瀏覽內容>window.location物件</span>
+<DIV id=WinLocDetail style="DISPLAY:none; MARGIN-LEFT:15pt">
+<table border="1">
+<tr bgcolor="lightblue">
+<td><b>Properties</b></td><td>         <b>Description </b></td><td>											   <b>中文說明</b></td>
+</tr><tr>
+<td>hash</td><td>              Sets or retrieves the subsection of the href property that follows the number sign (#).</td><td>        設定或傳回URL裡跟在#之後的字串.</td>
+</tr><tr>
+<td>host </td><td>             Sets or retrieves the hostname and port number of the location or URL.   </td><td>                     設定或傳回主機名稱與連結阜編號.</td>
+</tr><tr>
+<td>hostname </td><td>         Sets or retrieves the host name part of the location or URL. </td><td>				 設定或傳回名稱.</td>
+</tr><tr>
+<td>href     </td><td>         Sets or retrieves the entire URL as a string. 				</td><td>		 設定或傳回完整的URL.</td>
+</tr><tr>
+<td>pathname </td><td>         Sets or retrieves the file name or path specified by the location object. </td><td>			 設定或傳回目錄路徑,也就是主機名稱之後的字串.</td>
+</tr><tr>
+<td>port </td><td>             Sets or retrieves the port number associated with a URL. 		</td><td>			 設定或傳回連結阜編號.</td>
+</tr><tr>
+<td>protocol </td><td>         Sets or retrieves the protocol portion of a URL. 		</td><td>				 設定或傳回協定名稱.</td>
+</tr><tr>
+<td>search</td><td>            Sets or retrieves the substring of the href property that follows the question mark. </td><td>	 設定或傳回搜尋字串,也就是?之後的字串.</td>
+</tr><tr bgcolor="lightblue">
+<td><b>Methods </b></td><td>         <b>  Description</b>	</td><td>										 <b>  中文說明</b> </td>
+</tr><tr>
+<td>assign</td><td>            Loads a new HTML document.</td><td> 									 載入另一個網頁.</td>
+</tr><tr>
+<td>reload </td><td>           Reloads the current page. </td><td>									 重新載入目前的網頁.</td>
+</tr><tr>
+<td>replace  </td><td>         Replaces the current document by loading the document at the specified URL. </td><td>			 連結另一個新的網頁.</td>
+</tr>
+</table>
+</div><p>
+<SPAN id="WinEvent" onmouseout="WinEvent.style.color='blue'" onmouseover="WinEvent.style.color='red'" style="CURSOR:hand"
+      title=按一下瀏覽內容>window.event物件</span>
+<DIV id=WinEventDetail style="DISPLAY:none; MARGIN-LEFT:15pt">
+<table border="1">
+<tr bgcolor="lightblue">
+<td><b>Properties</b> </td><td> <b>Description </b> </td><td> <b>中文說明</b></td>
+</tr><tr>
+<td>altKey </td><td>              Sets or retrieves the state of the ALT key.  </td><td>					        傳回Alt鍵的狀態;傳回值為True(Alt鍵被按下)或False(Alt鍵沒有被按下)</td>
+</tr><tr>
+<td>altLeft  </td><td>             Sets or retrieves the state of the left ALT key.  </td><td>					        傳回left Alt鍵的狀態;傳回值為True(left Alt鍵被按下)或False(left Alt鍵沒有被按下)</td>
+</tr><tr>
+<td>behaviorCookie </td><td>       Retrieves a cookie identifying the rendering behavior on which this event was fired.   </td><td>    &nbsp</td>
+</tr><tr>
+<td>behaviorPart </td><td>         Retrieves a value that identifies the part of a rendering behavior on which this event was fired. 	 </td><td>			 &nbsp </td>		    							  
+</tr><tr>
+<td>button </td><td>               Sets or retrieves the mouse button pressed by the user.  </td><td>				 傳回是哪一個滑鼠鈕被按下.</td>
+</tr><tr>
+<td>cancelBubble </td><td>        Sets or retrieves whether the current event should bubble up the hierarchy of event handlers.  </td><td>			設定或傳回目前發生的事件是否要繼續在瀏覽器物件的層級架構中向上沸升.</td>
+</tr><tr>
+<td>clientX  </td><td>            Sets or retrieves the x-coordinate of the mouse pointer's position relative to the client area of the window, excluding window decorations and scroll bars. </td><td>		傳回滑鼠的X座標. </td>                     
+</tr><tr>
+<td>clientY </td><td>              Sets or retrieves the y-coordinate of the mouse pointer's position relative to the client area of the window, excluding window decorations and scroll bars. </td><td>	 傳回滑鼠的Y座標. </td>                      
+</tr><tr>
+<td>contentOverflow  </td><td>    Retrieves a value that indicates whether the document contains additional content  after processing the current LayoutRect object.</td><td>	 &nbsp  </td>                    
+</tr><tr>
+<td>ctrlKey </td><td>            Sets or retrieves the state of the CTRL key.</td><td>傳回Ctrl鍵的狀態;傳回值為True(Ctrl鍵被按下)或False(Ctrl鍵沒有被按下)</td>
+</tr><tr>
+<td>ctrlLeft </td><td>            Sets or retrieves the state of the left CTRL key.</td><td>傳回left Ctrl鍵的狀態;傳回值為True(left Ctrl鍵被按下)或False(left Ctrl鍵沒有被按下)</td>
+</tr><tr>
+<td>dataFld  </td><td>            Sets or retrieves the data column affected by the oncellchange event.</td><td> 			傳回受OnCellChange事件影響的資料欄.</td>
+</tr><tr>
+<td>dataTransfer  </td><td>       Provides access to predefined clipboard formats for use in drag-and-drop operations. </td><td>     提供可利用滑鼠拉曳,存取剪貼簿格式上預先設定格式的方式.</td>
+</tr><tr>
+<td>fromElement  </td><td>        Sets or retrieves the object from which the mouse pointer is exiting during the onmouseover and onmouseout events.</td><td>  	 傳回當onMouseover 或onMouseOut事件發生時,滑鼠游標正離開的哪個元件.  </td>                   
+</tr><tr>
+<td>keyCode </td><td>             Sets or retrieves the Unicode key code associated with the key that caused the event.</td><td>     傳回或設定按鍵的ASCII值.來引發其他事件.</td>
+</tr><tr>
+<td>nextPage   </td><td>          Retrieves the position of the next page within a print template. </td><td>				 &nbsp</td>
+</tr><tr>
+<td>offsetX   </td><td>           Sets or retrieves the x-coordinate of the mouse pointer's position relative to the object firing the event. </td><td>		傳回事件發生時,滑鼠相當於引發事件之物鍵的水平距離.</td>		      
+</tr><tr>
+<td>offsetY </td><td>             Sets or retrieves the y-coordinate of the mouse pointer's position relative to the object firing the event.	</td><td>        傳回事件發生時,滑鼠相當於引發事件之物鍵的垂直距離.</td>		       
+</tr><tr>
+<td>propertyName   </td><td>      Sets or retrieves the name of the property that changes on the event object. </td><td>		傳回目標物件因事件發生而改變的樣式名稱.</td>
+</tr><tr>
+<td>qualifier </td><td>           Sets or retrieves the name of the data member provided by a data source object. </td><td>	 傳回DSO所提供的資料欄位名稱.</td>
+</tr><tr>
+<td>reason </td><td>              Sets or retrieves the result of the data transfer for a data source object.</td><td> 	 了解DSO傳輸資料是否成功.</td>
+</tr><tr>
+<td>recordset  </td><td>          Sets or retrieves from a data source object a reference to the default record set.</td><td> 傳回一個參考DSO預設資料集的recordest物件. </td>
+</tr><tr>
+<td>repeat   </td><td>	    Retrieves whether the onkeydown event is being repeated. 				</td><td>	傳回事件是否一直重複發生.</td>
+</tr><tr>
+<td>returnValue  </td><td>	    Sets or retrieves the return value from the event. </td><td>				 設定或傳回該事件的傳回值.</td>
+</tr><tr>
+<td>saveType  </td><td>	    Retrieves the clipboard type when oncontentsave fires. 	</td><td>				 &nbsp</td>
+</tr><tr>
+<td>screenX  </td><td>	    Retrieves the x-coordinate of the mouse pointer's position relative to the user's screen.</td><td>  傳回事件發生時,滑鼠相對於螢幕左上角的x座標.</td>
+</tr><tr>
+<td>screenY  </td><td>	    Retrieves the y-coordinate of the mouse pointer's position relative to the user's screen. </td><td> 傳回事件發生時,滑鼠相對於螢幕左上角的y座標.</td>
+</tr><tr>
+<td>shiftKey  </td><td>	    Sets or retrieves the state of the SHIFT key. </td><td>					 傳回Shift鍵的狀態.傳回值為True(Shift鍵被按下)或False(Shift鍵沒有被按下).</td>
+</tr><tr>
+<td>shiftLeft </td><td> 	    Sets or retrieves the state of the left SHIFT key. 	</td><td>			 傳回left Shift鍵的狀態.傳回值為True(left Shift鍵被按下)或False(left Shift鍵沒有被按下).</td>
+</tr><tr>
+<td>srcElement  </td><td>	    Sets or retrieves the object that fired the event. </td><td>				 傳回第一個引發事件的元件.</td>
+</tr><tr>
+<td>srcFilter </td><td>           Sets or retrieves the filter object that caused the onfilterchange event to fire. </td><td>	傳回使元件發生onfilterchange事件的濾鏡.</td>
+</tr><tr>
+<td>srcUrn   </td><td>	     Retrieves the Uniform Resource Name (URN) of the behavior that fired the event. </td><td>	 傳回引發事件的Behavior之Universal Resource Name.</td>
+</tr><tr>
+<td>toElement  </td><td>	     Sets or retrieves a reference to the object toward which the user is moving the mouse pointer.</td><td> 	 在onMouseOver或onMoveOut事件裡,滑鼠游標正前往的元件. </td>                      									
+</tr><tr>
+<td>type 	 </td><td>	    Retrieves the event name from the event object. 				</td><td>		以字串傳回事件名稱,但去除開頭的"on".
+</tr><tr>
+<td>x        </td><td>             Sets or retrieves the x-coordinate, in pixels, of the mouse pointer's position relative to the parent element.	</td><td>	傳回滑鼠指標相對於父元件的x座標.</td>                     
+</tr><tr>
+<td>y 		 </td><td>    Sets or retrieves the y-coordinate, in pixels, of the mouse pointer's position relative to the parent element</td><td>	傳回滑鼠指標相對於父元件的y座標.</td>
+</tr> 		      
+</table>
+</div>
+<script language="vbscript">
+sub WinPro_OnClick()
+    if WinProDetail.style.display="none" then
+       WinProDetail.style.display="block"
+    else 
+       WinProDetail.style.display="none"
+    end if
+end sub
+sub WinMet_OnClick()
+    if WinMetDetail.style.display="none" then
+       WinMetDetail.style.display="block"
+    else 
+       WinMetDetail.style.display="none"
+    end if
+end sub
+sub WinEve_OnClick()
+    if WinEveDetail.style.display="none" then
+       WinEveDetail.style.display="block"
+    else 
+       WinEveDetail.style.display="none"
+    end if
+end sub
+sub WinCol_OnClick()
+    if WinColDetail.style.display="none" then
+       WinColDetail.style.display="block"
+    else 
+       WinColDetail.style.display="none"
+    end if
+end sub
+sub WinHis_OnClick()
+    if WinHisDetail.style.display="none" then
+       WinHisDetail.style.display="block"
+    else 
+       WinHisDetail.style.display="none"
+    end if
+end sub
+sub WinNav_OnClick()
+    if WinNavDetail.style.display="none" then
+       WinNavDetail.style.display="block"
+    else 
+       WinNavDetail.style.display="none"
+    end if
+end sub
+sub WinLoc_OnClick()
+    if WinLocDetail.style.display="none" then
+       WinLocDetail.style.display="block"
+    else 
+       WinLocDetail.style.display="none"
+    end if
+end sub
+sub WinEvent_OnClick()
+    if WinEventDetail.style.display="none" then
+       WinEventDetail.style.display="block"
+    else 
+       WinEventDetail.style.display="none"
+    end if
+end sub
+</script>
+</BODY>
+</HTML>

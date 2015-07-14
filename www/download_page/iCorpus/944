@@ -1,0 +1,97 @@
+<article>
+	<id>944</id>
+	<title>殷琪出力 達賴 訪台灣 頂樓 掛 五色天馬旗</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>民進黨 南部的 七縣市 首長，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 lam5-pou7-e5 chhit-koan7-chhi7 siu2-tiuN2，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* lam5-bo2*-e5 cit7-guan2-ci2* siu4-diunn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>聯合邀請 西藏 精神領袖 Dalai Lama 訪問台灣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-hap8 iau-chheng2 Se-chong5 cheng-sin5-leng2-siu3 Dalai Lama hong2-bun7 Tai5-oan5，</JiaoLuo>
+			<TongYong>len5-hap6-iau1-ciann4 Se1-Zong2* zing1-sin5-ling4-siu3* Dalai Lama hong4-vun2-Dai5-Uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>不過 台灣派 內部 卻有 不同的意見，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 Tai5-oan5-phai3 lai7-pou7 khiok-u7-lang5 bo5-kang5-e5 i3-kian3，</JiaoLuo>
+			<TongYong>m2-gorh7 Dai5-Uan5-pai3* lai2-bo2* suah7-u2 vor5-gang5*-e5-i3-gen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>前 行政院 祕書長 陳景峻 就認為，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng5 heng5-cheng3-iN7 pi3-su-tiuN2 Tan5-keng2-chun3 jim7-ui5，</JiaoLuo>
+			<TongYong>zing5 hing5-zing3-inn2* bi3-su1-diunn4* Dan5-Ging4-Zun3* diorh6-rin2-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>邀請 Dalai Lama 對民進黨 「短多長空」。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau-chheng2 Dalai Lama tui3 Bin5-chin3-tong2 " toan2-to-tng5-khong "。</JiaoLuo>
+			<TongYong>iau1-ciann4 Dalai Lama dui3-vin5-zin3-dong4* 「zi4-si2 ziam2-si5*-iu4-li2*」。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>Dalai Lama 已經計畫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Dalai Lama i2-keng ke3-oe7，</JiaoLuo>
+			<TongYong>Dalai Lama i4-ging1-ge3-ue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>在 這星期日 晚上 九點半，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chit-le2-pai3-jit8 am3-si5 kiau2-tiam2-poaN3，</JiaoLuo>
+			<TongYong>di2 zit7-le4-bai3-rit6* am3-si5* gau4-diam4-buann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>搭乘 華航班機 抵台灣。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>seng5-tah Hoa5-hang5 pan-ki kau3 Tai5-oan5。</JiaoLuo>
+			<TongYong>ze2 Hua5-hang5*-ban1-gi1* gau3-Dai5-Uan5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>此行 預計 停留六天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu2-heng5 u7-ke3 tiam3 lak8-kang，</JiaoLuo>
+			<TongYong>Zit7-bai4* i2-ge3* ting5-liu5-lak6-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>所有 行程費用，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou2-u7 heng5-teng5 hui3-iong7，</JiaoLuo>
+			<TongYong>so4-u2* hing5-ding5*-hui3-iong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>都是 由 篤信 藏傳佛教 的 弟子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-si7 iu5 tok-sin3 chheng2-thoan5-hut8-kau3 e5 te7-chu2，</JiaoLuo>
+			<TongYong>long4-si2 iu5 dok7-sin3 zong2-tuan5-hut6-gau3* e5* de2-zu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>台灣高鐵 董事長 殷琪 幫助 出錢出力。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5-ko-thih tang2-su7-tiuN2 In-ki5 pang-chou7 chhut-chiN5-chhut-lat8。</JiaoLuo>
+			<TongYong>Dai5-Uan5-Gor1-Tih7* dang4-su2-diunn4* In1-Gi5* bang1-zo2 cut7-zinn5*-cut7-lat6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

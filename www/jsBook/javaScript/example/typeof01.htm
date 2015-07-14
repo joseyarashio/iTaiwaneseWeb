@@ -1,0 +1,36 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>typeof() 對不同資料型態的回傳值</h2>
+<hr>
+
+<script>
+x = "This is a string";
+document.write("字串：" + typeof(x)+"<br>");
+x = 100;
+document.write("數字：" + typeof(x)+"<br>");
+x = 10==10;
+document.write("布林：" + typeof(x)+"<br>");
+function square(n){
+	return(n*n);
+}
+document.write("函數：" + typeof(square)+"<br>");
+x = new Date();
+document.write("日期：" + typeof(x)+"<br>");
+x = ["Mon", "Tue", "Wed"];
+document.write("陣列：" + typeof(x)+"<br>");
+x = {"Mon":"Game", "Tue":"Sports", "Wed":"Karaoke"};
+document.write("字典：" + typeof(x)+"<br>");
+student = new Object();
+student.name = "Timmy";
+student.age = "25";
+student.phone = "575-1114";
+document.write("自訂物件：" + typeof(student)+"<br>");
+</script>
+
+<hr>
+</body>
+</html>

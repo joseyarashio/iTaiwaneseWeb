@@ -1,0 +1,90 @@
+<article>
+	<id>1450</id>
+	<title>冰品當正餐 少女 全身虛脫</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>夏天 很多人 喜歡 吃冰消暑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>joah8-thinn chiok-choe7-lang5 hah8-i3 chiah8-peng the3-liang5，</JiaoLuo>
+			<TongYong>Ruah6-tinn1* zin1-ze2-lang5* gah7-i3 ziah6-sng1-a4* siau1-hue4-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>但是 照三餐 吃冰 就會 出大問題，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-kuh chiau3-png7-tng3 chiah8-peng tioh8-e7 chhut-toa7-bun7-toe5，</JiaoLuo>
+			<TongYong>m2-gorh7 ziau3-sann1-duinn3* ziah6-sng1-a4* diorh6-e2 cut7-dua2-vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>台北市 有一位 十七歲 少女，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7 u7-chit8-ui7 chap8-chhit-hoe3 siau3-lu2，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2* u2-zit6-ui2 zap6-cit7-hue3*-e5 siau3-lu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>正餐不吃， 天天吃冰，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiann3-tng3 m7-chiah8 ， tak8-jit8 chiah8-peng，</JiaoLuo>
+			<TongYong>ziann3-duinn3*-m2-ziah6*， dak6-gang1*-ziah6-bing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>突然覺得 胸悶、頭痛、虛脫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tut8-jian5 kam2-kak sim-thau5-cho 、 thau5-thiann3、sit-khi3-hiat，</JiaoLuo>
+			<TongYong>tut6-ren5*-gam4-gak7 hing1-kam4*-zat6-zat6*、tau5*-tiann3*、hi1-tuat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>全身無力 送醫院。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-seng-khu-bo5-lat8 sang3-penn7-inn7。</JiaoLuo>
+			<TongYong>zuan5-sin1*-vor5-lat6* sang3-benn2-inn2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>中醫師 提出警告，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiong-i-su the5-chhut keng2-ko3，</JiaoLuo>
+			<TongYong>Diong1-i1-su1* te5-cut7-ging4-gor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>吃 過量冰品 會造成 胃腸溫度 過低，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah8-koe3-liang7 peng-mih8 e7-cho7-seng5 ui7-tng5 un-tou7-koe3-ke7 ，</JiaoLuo>
+			<TongYong>ziah6 gue3-liang2-bing1-pin4* e2-zor2-sing5 ui2-dng5*-un1-do2* siunn1-gue3-ge2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>使得 體內的血液 濃稠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7-tit the2-lai7-e5 hiat-ek8 kho2-tak-tak，</JiaoLuo>
+			<TongYong>ho2 te4-lai2*-e5-hueh7* ben3-kor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>一天 吃 一碗挫冰，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-jit8 chiah8-chit8-oann2 chhoah-peng，</JiaoLuo>
+			<TongYong>zit6-gang1* ziah6 zit6-uann4-cuah7-bing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>六十歲 就有可能 出現 心肌梗塞。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lak8-chap8-hoe3 to-u7-kho2-leng5 chhut-hian7 sim-pau-iu5。</JiaoLuo>
+			<TongYong>lak6-zap6-hue3* diorh6-u2-kor4-ling5* cut7-hen2 sim1-hueh7-guinn4* tat7-diau5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

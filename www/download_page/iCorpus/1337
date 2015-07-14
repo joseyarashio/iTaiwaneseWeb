@@ -1,0 +1,76 @@
+<article>
+	<id>1337</id>
+	<title>一歲男孩 玩耍 打翻熱水 二度燙傷 昏厥</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>高雄縣 一位 一歲多大的 黃姓男孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-koan7 chit8-ui7 chit8-hoe3-goa7-toa7 e5 senn3-Ng5 cha-pou-gin2-a2，</JiaoLuo>
+			<TongYong>Gor1-Hiong5-Guan2* zit6-ui2 zit6-hue3-qua2* senn3-Uinn5*-e5 za1-bo1-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>今天 在家裏 玩耍 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit ti7-chhu3-lai7 chhit-tho5-si5，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* di2-cu3-lai2* cit7-tor5* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>不慎 打翻 滾燙的紅茶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-sin7 chhia-to2 sio-thng3-thng3-e5 ang5-te5，</JiaoLuo>
+			<TongYong>vor5-se3-qi2* cia1-dor4 sior1-tng3-tng3*-e5 ang5-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>結果 造成 男孩的身體，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 cho7-seng5 cha-pou-gin2-a2-e5 seng-khu，</JiaoLuo>
+			<TongYong>get7-gor4 zor2-sing5 za1-bo1-qin4-a4*-e5 sin1-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>右邊 有 嚴重的 二度燙傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiann3-peng5 u7-giam5-tiong7 ji7-tou7 thng3-siong，</JiaoLuo>
+			<TongYong>ziann3-bing5* u2 qiam5-diong2*-e5 nng2-do2*-tng3-siong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>痛到 幾乎昏厥，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thiann3-kau3 kiong5-beh hin5-to2，</JiaoLuo>
+			<TongYong>tiann3-gah7 giang5-veh7-hun1*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>家人 趕緊 抱著他 送醫急救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-lai7-lang5 koann2-kin2 pho7-tioh8-i sang3-i-kip-kiu3，</JiaoLuo>
+			<TongYong>cu3-lai2-lang5* guann4-gin4 por2-diorh6-i2* sang3-i1*-gip7-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>經過 醫生搶救 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 i-seng chhiunn2-kiu3 liau2-au7， </JiaoLuo>
+			<TongYong>ging1-gue3 i1-sing1*-ciunn4-giu3* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>男孩 仍然有 生命危險。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-pou-gin2-a2 iu5-oan5-u7 senn3-mia7-hui5-hiam2。</JiaoLuo>
+			<TongYong>za1-bo1-qin4-a4* iu5-quan5-u2 senn3-mia2-hui5-hiam4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

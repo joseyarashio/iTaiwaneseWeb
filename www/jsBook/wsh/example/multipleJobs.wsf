@@ -1,0 +1,19 @@
+<?XML version="1.0" ?>
+<!-- Filename: demo.wsf-->
+<package>
+  <job id="JobOne">
+    <script type="text/vbscript">
+      WScript.Echo "This is job one."
+    </script>
+  </job>
+  <job id="JobTwo">
+    <script type="text/vbscript">
+      WScript.Echo "This is job two."
+    </script>
+  </job>
+  <job id="JobThree">
+    <script type="text/vbscript">
+      WScript.Echo "This is job three."
+    </script>
+  </job>
+</package>

@@ -1,0 +1,559 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>其他 ASP 元件</title>
+<script language="JavaScript">
+function go(mylink,mywidth,myheight){
+	if (mywidth=="") {mywidth='500'}
+	if (myheight=="") {myheight='200'}
+	boardwin=window.open(mylink,'boardwin','width=' + mywidth + ',height=' + myheight +',status=no,toolbar=no,menubar=no,resizable=yes,scrollbars=yes,top=50,left=20')
+}
+
+// window.open("cashmail.htm","ad","status=no,toolbar=no,menubar=no,top=768,left=1024")
+
+</script>
+<style type="text/css">p            { font-family: 新細明體 }
+body         { font-family: 新細明體 }
+a:link       { text-decoration: none; color: #00ff80 }
+a:active     { text-decoration: none; color: red }
+a:visited    { text-decoration: none; color: #00ff80 }
+a:hover      { text-decoration: none; color: #ffffff }
+</style>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF">
+
+<font size="3">
+<p><font color="#00FFFF">〔範例程式／其他 ASP 元件〕</font><font color="#C0C0C0">作者：小莊　　日期：2001.03.03</font></p>
+</font>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" width="80%">
+    <tr>
+      <td width="100%"><font size="3">
+        <p><font color="#FFFF00" face="Fixedsys">元件名稱：dynuCOM tools</font></p>
+        <p><font face="Fixedsys"><font color="#FFFF00">出品公司：dynu </font></font></font><font face="Fixedsys"><a href="http://www.dyna.com">http://www.dynu.com</a></font></p>
+        <font size="3">
+        <p><font face="Fixedsys">　　Powerful Tools: datatime, DNS, Email, 
+        Encrypt, Exec, File, FTP, HTTP, Ping, Pop, String, Upload, Wait, Whois.</font></p>
+        </font>
+        <p>　</td>
+    </tr>
+  </table>
+  </center>
+</div>
+<hr size="1">
+<p>〔說明〕</p>
+<p><font color="#00FF00" face="Fixedsys">　　一、dynuCOM 
+元件的安裝方法</font></p>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" width="80%">
+    <tr>
+      <td width="100%"><font size="3"><font face="Fixedsys">　　將本範例解壓縮之後，把 
+        source 子目錄底下一個主要的 DLL 
+        檔案複製到系統目錄。這一個檔案名叫：dynuCOM.dll</font>
+        <p><font face="Fixedsys">　　windows 2000 的系統目錄是：c:\winnt\system32<br>
+        　　windows 98 的系統目錄是：c:\windows\system</font></p>
+        <p><font face="Fixedsys">　　進 DOS 
+        模式，到系統目錄下執行：regsvr32 dynucom.dll 即可。</font></p>
+        <p>　　本範例所附的是免費試用版。</p>
+        <p></font></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p><font color="#00FF00">　　二、元件方法、屬性</font></p>
+<div align="center">
+  <center>
+  <table border="0" cellspacing="1" width="80%">
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        dynu = server.createobject(&quot;Dynu.Exec&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">exec 元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">dynu.execute(&quot;ipconfig&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        myping = server.createobject(&quot;Dynu.Ping&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">ping 元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">dynu.ping(&quot;127.0.0.1&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        dynu = server.createobject(&quot;Dynu.DateTime&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">日期時間元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">dynu.Format(...)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">格式化日期輸出</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">dynu.StartClock()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">開始計時</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">dynu.StopClock()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">停止計時</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">dynu.ElapsedTime(...)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">格式化計時輸出</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        dynu = Server.CreateObject(&quot;Dynu.Encrypt&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">加解密元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">dynu.encrypt(txt,key)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">加密資料</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">dynu.decrypt(txt,key)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">解密資料</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        mywait = server.createobject(&quot;Dynu.Wait&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">等待元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mywait.Wait(n)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">暫停 n 秒</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        myemail = Server.CreateObject(&quot;Dynu.Email&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">郵件 SMTP 元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myemail.Host</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">代送郵件的主機</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myemail.AddAddress</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">收件人</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myemail.AddCC</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">副件收件人</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myemail.AddBcc</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myemail.Subject</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">郵件主旨</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myemail.Body</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">郵件內容</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myemail.AddAttachment</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">附加檔案</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myemail.Send()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">開始傳送</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        myemail = Server.CreateObject(&quot;Dynu.POP&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">郵件 POP3 元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.Connect(&quot;host&quot;,&quot;username&quot;, 
+        &quot;password&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">連線至郵件主機</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.GetStatistics()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">取得郵件資訊</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.NumberOfMails</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">新郵件數目</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.Retrieve(n)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">下載第 n 封信件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.GetHeader()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">檔頭</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.GetFrom()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">寄信者</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.GetDate()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">日期</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.GetReplyTo()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">回覆</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.GetSubject()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">主題</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mypop.GetBody()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">內容</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        myfile = Server.CreateObject(&quot;Dynu.FileUtil&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">檔案元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myfile.GetAttributes(filename)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">取得檔案屬性</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myfile.Open(filename)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">開啟檔案</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myfile.Read(n)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">讀取 n 個字元</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myfile.Write(text)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">寫入字串</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myfile.GetModifiedTime(filename)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">取得檔案最近修改時間</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myfile.GetSize(filename)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">取得檔案大小</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myfile.Close()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">關閉檔案</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        myftp = Server.CreateObject(&quot;Dynu.FTP&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">FTP 元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myftp.ExpressGetFile(&quot;ftp.dynu.com&quot;, 
+        &quot;dynuftp.zip&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">下載檔案</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myftp.connect(&quot;ftp.dynu.com&quot;, 
+        21, &quot;anonymous&quot;, &quot;s@s.com&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">進行連線</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myftp.GetCurrentDirectory()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">取得目前所在目錄</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myftp.ExecuteCommand(&quot;NOOP&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">送出 noop 指令</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myftp.ExecuteCommand(&quot;LIST&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">送出 list 指令</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myftp.ExecuteCommand(&quot;NLST&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">送出 nlst 指令</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myftp.ExecuteCommand(&quot;SYST&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">送出 syst 指令</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myftp.Close()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">斷線</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        myhttp = server.CreateObject(&quot;Dynu.HTTP&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">HTTP 元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myhttp.SetHeader 
+        &quot;user-agent&quot;,&quot;DynuHTTP&quot;</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myhttp.SetURL 
+        &quot;http://www.dynu.com&quot;</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myhttp.GetHeader()</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myhttp.GetURL()</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myhttp.Reset()</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myhttp.SetQueryString 
+        &quot;t=55&quot;</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myhttp.SetFormData 
+        &quot;formdata&quot;, &quot;John Doe&quot;</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myhttp.PostURL()</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        mystring = server.createobject(&quot;Dynu.StringUtil&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">字串處理元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mystring.Combine(x,y)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mystring.Insert(x, 
+        5, &quot;!&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        myup = server.CreateObject(&quot;Dynu.Upload&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">上傳元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myup.SavePath</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">存檔目錄</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myup.MaximumSize 
+        = 5000000</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">檔案大小上限</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myup.OverwriteFiles 
+        = TRUE</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">是否覆蓋</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">myup.Upload()</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">開始上傳</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        mywhois = Server.CreateObject(&quot;Dynu.Whois&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">查詢元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mywhois.Whois(&quot;microsoft.com&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mywhois.RemoveCopyright 
+        = FALSE</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mywhois.WhoisServerAddress 
+        = &quot;whois.tonic.to&quot;</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mywhois.WhoisServerPort 
+        = 43</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mywhois.IsAvailable(&quot;memory.to&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mywhois.WhoisHtml(&quot;memory.to&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        mydns = Server.CreateObject(&quot;Dynu.DNS&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">DNS 元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mydns.Lookup(&quot;dynu.com&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mydns.ReverseLookup(&quot;198.144.10.35&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mydns.GetLocalIP()</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mydns.GetLocalHost()</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mydns.IsIPValid(&quot;198.144.10.35&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mydns.Ping(&quot;dynu.com&quot;)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap bgcolor="#363636"><font face="Fixedsys" color="#FFFF00">set 
+        mycc = Server.CreateObject(&quot;Dynu.CreditCard&quot;)</font></td>
+      <td valign="top" align="left"><font face="Fixedsys">信用卡交易元件</font></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">mycc.CheckCard(&quot;5329053144000902&quot;,&quot;M&quot;, 
+        10, 2001)</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left" nowrap><font face="Fixedsys">　</font></td>
+      <td valign="top" align="left"></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p><font color="#00FF00">　　三、備註說明</font></p>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" width="80%">
+    <tr>
+      <td width="100%"><font size="3"></font><font face="Fixedsys">　<br>
+        </font></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p>　</p>
+<hr size="1">
+<p><font color="#FFFF00">〔線上測試〕</font></p>
+<center>
+<table width="80%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" align="left">
+      <form method="POST" action="aspsockets.asp">
+        <font face="Fixedsys"><a href="dynuexec.asp" target="_blank">(1) 測試 
+        dynu.exec</a></font>
+        <p><font face="Fixedsys"><a href="dynuping.asp" target="_blank">(2) 
+        測試 dynu.ping</a></font>
+        <p><font face="Fixedsys"><a href="dynudatetime.asp" target="_blank">(3) 
+        測試 dynu.datetime</a></font></p>
+        <p><font face="Fixedsys"><a href="dynuencrypt.asp" target="_blank">(4) 
+        測試 dynu.encrypt</a></font></p>
+        <font face="Fixedsys"><a href="dynuwait.asp" target="_blank">(5) 測試 
+        dynu.wait</a></font>
+        <p><font face="Fixedsys">(6) 測試 dynu.Email</font>
+        <p><font face="Fixedsys">(7)</font><font face="Fixedsys"> 測試 
+        dynu.Pop</font></p>
+        <p><font face="Fixedsys">(8)</font><font face="Fixedsys"> 測試 
+        dynu.FileUtil</font></p>
+        <p>　</p>
+        <p>　</p>
+      </form>
+    </td>
+    <td valign="top" align="left"><font face="Fixedsys">(9) 測試 dynu.FTP</font>
+      <p><font face="Fixedsys">(10) 測試 dynu.HTTP</font>
+      <p><font face="Fixedsys">(11) 測試 dynu.StringUtil</font></p>
+      <p><font face="Fixedsys">(12) 測試 dynu.Upload</font></p>
+      <font face="Fixedsys">(13) 測試 dynu.Whois</font>
+      <p><font face="Fixedsys">(14) 測試 dynu.DNS</font>
+      <p><font face="Fixedsys">(15) 測試 dynu.CreditCard<a href="dynuencrypt.asp" target="_blank"><br>
+      </a></font></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="left"><font face="Fixedsys"><input type="button" name="b3" value="下載檔案" onclick="location='dynacom.zip'"> 
+      <input type="button" value="返回前頁" name="b4" onclick="history.back()"> 
+      <input type="button" value="離開" name="b1" onclick="location='/robert/document.asp'"></font></td>
+  </tr>
+</table>
+</center>
+
+</body>
+
+</html>

@@ -1,0 +1,279 @@
+<article>
+	<id>170</id>
+	<title>自家頂樓 受 英國媒體 採訪 Freddy 說 家裏 沒有 骷髏頭</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu7-iu5-si5-po3-po3-to7</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台灣 知名樂團 「閃靈」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5 ti-beng5 gak8-thoan5 「 Siam2-leng5 」 ，</JiaoLuo>
+			<TongYong>Dai5-uan5* di1-mia5-qak6-tuan5* 「siam4-ling5*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>日前 接受 英國《Monocle》 訪問，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng5-jit8 chiap-siu7 Eng-kok 《 Monocle 》hong2-bun7 ，</JiaoLuo>
+			<TongYong>gui4-rit6-zing5* ziap7-siu2 ing1-gok7* 《Monocle》 hong4-mng2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>選擇 主唱Freddy 自家的頂樓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soan2-tek8 chu2-chhiunn3 Freddy ka-ki7-e5 lau5-boe2-chhu3 ，</JiaoLuo>
+			<TongYong>suan4-dik6 zu4-ciunn3* Freddy ga1-di2-cu3*-e5 lau5-vue4-ding4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>當 拍攝地點，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho3 hip-siong3 toe7-tiam2 ，</JiaoLuo>
+			<TongYong>zor3 hip7-siong3*-de2-diam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>Freddy笑稱，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Freddy chhio3-kong2 ，</JiaoLuo>
+			<TongYong>Freddy cior3-gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>別以為 鬼王 就要 住在地獄，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mai3-liah8-cho3 kui2-ong5 to-ai3 toa3-ti7 toe7-gak8 ，</JiaoLuo>
+			<TongYong>mai3-siunn2-gong4 gui4-ong5* diorh6-ai3 dua3-di2-de2-qak6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>我家 很正常，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan2-chhu3 chin-cheng3-siong5 ，</JiaoLuo>
+			<TongYong>quan4-dau1* zin1-zing3-siong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>沒有 骷髏頭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5 khou-lou5-thau5 ，</JiaoLuo>
+			<TongYong>vor5 lang5-tau5-gut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>頂樓 還可以 烤肉！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lau5-boe2-chhu3 iah8-e7-eng7 hang-bah ！</JiaoLuo>
+			<TongYong>lau5-vue4-ding4* gorh7-e2-sai4 hang1-vah7*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>事後 樂團Bass Doris的 素顏照片，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>su7-au7 gak8-thoan5 Bass Doris e5 sou3-gan5 siang3-phinn3 ，</JiaoLuo>
+			<TongYong>Su2-au2* qak6-tuan5* Bass Doris e5 so3-qan5*-siong3-pinn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還 登上 《Monocle》雜誌網站 首頁。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2 teng-siong7 《 Monocle 》 chap8-chi3 bang7-cham7 siu2-iah8 。</JiaoLuo>
+			<TongYong>gorh7 ding1-siong2 《Monrcle》 zap6-zi3* vang2-zam2* siu4-iah6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>閃靈主唱 Freddy，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Siam2-leng5 chu2-chhiunn3 Freddy ，</JiaoLuo>
+			<TongYong>Siam4-ling5*-zu4-ciunn3* Freddy，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>去年 總統大選 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ku7-ni5 chong2-thong2-tai7-soan2 si5 ，</JiaoLuo>
+			<TongYong>gu2-ni5* zong4-tong4*-dai2-suan4* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>曾 投身 民進黨 總統候選人 謝長廷 陣營，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bat tau5-sin Bin5-chin3-tong2 chong2-thong2-hau7-soan2-jin5 Sia7-tiong5-teng5 tin7-iann5 ，</JiaoLuo>
+			<TongYong>vat7 dau5-rip6 vin5-zin3-dong4* zong4-tong4*-hau2-suan4-rin5* zia2-diong5-ding5* din2-iann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>擔任 青年部 執行長，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tam-jim7 chheng-lian5-pou7 chip-heng5-tiunn2 ，</JiaoLuo>
+			<TongYong>dam1-rim2 cing1-len5-bo2* zip7-hing5-diunn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>這次 也 特地 向《Monocle》強調，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-pai2 ia7 choan-kang hiang3 《 Monocle 》 kiong5-tiau7 ，</JiaoLuo>
+			<TongYong>zit7-bai4* ma2 dik6-bet6 hiong3 《Monocle》 giong5-diau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>他們的歌 寫的 不是政治，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in e5 koa sia2-e5 m7-si7 cheng3-ti7 ，</JiaoLuo>
+			<TongYong>yin1-e5-gua1* sia4*-e5 m2-si2-zing3-di2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>而且 都是 台灣的故事，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiann2 long2-si7 Tai5-oan5-e5 kou3-su7 ，</JiaoLuo>
+			<TongYong>ri5-ciann4 long4-si2 dai5-uan5*-e5-go3-su2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>透過音樂，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau3-koe3 im-gak8 ，</JiaoLuo>
+			<TongYong>tau3-gue3-im1-qak6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>表達 他們想說的 事情。 </segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>piau2-tat8 in siunn7-kong2-e5 tai7-chi3 。</JiaoLuo>
+			<TongYong>biau4-dat6 yin1-siunn2-veh7-gong4*-e5 dai2-zi3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>由於 採訪當天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-u5 chhai2-hong2 tng-kang ，</JiaoLuo>
+			<TongYong>In1-ui2 cai4-hong4*-hit7-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>選在 Freddy 自己的頂樓 拍攝，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soan2-ti7 Freddy ka-ki7-e5 lau5-boe2-chhu3 hip ，</JiaoLuo>
+			<TongYong>suan4-di2 Freddy ga1-di2-cu3*-e5 lau5-vue4-ding4* hip7-siong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>Freddy 表示 他家裏 很正常，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Freddy piau2-si7 i chhu3-lai7 chin-cheng3-siong5 ，</JiaoLuo>
+			<TongYong>Freddy biau4-si2* i1-e5-cu3-lai2* zin1-zing3-siong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>一點 也不陰森，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-phi2-a2 ia7 be7-am3-sam3 ，</JiaoLuo>
+			<TongYong>zit6-diam4-a4* ma2-ve2-im1-som1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>很多人 都認為，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin-che7-lang5 long2-jim7-ui5 ，</JiaoLuo>
+			<TongYong>zin1-ze2-lang5* long4-rin2-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>鬼王 要 住在 地獄裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui2-ong5 ai3 toa3-ti7 toe7-gak8-lai7 ，</JiaoLuo>
+			<TongYong>gui4-ong5* ai3 dua3-di2 de2-qak6-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>但是 他家裡 真的 沒有 骷髏頭！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-ko3 i chhu3-lai7 chin-e5 bo5 khou-lou5-thau5 ！</JiaoLuo>
+			<TongYong>dan2-si2 i1-e5-cu3-lai2* zin1-ziann3 vor5-lang5-tau5-gut7*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>Freddy透露，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Freddy thau3-lou7 ，</JiaoLuo>
+			<TongYong>Freddy1 tau3-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>閃靈 將 在七月</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Siam2-leng5 beh-ti7 chhit-goeh8 ，</JiaoLuo>
+			<TongYong>siam4-ling5* veh7 di2-cit7-queh6*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>參加 「西藏自由 音樂會」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chham-ka 「 Se-chong5 chu7-iu5 im-gak8-hoe7 」 ，</JiaoLuo>
+			<TongYong>cam1-ga1 「se1-zong2*-zu2-iu5* im1-qak6-hue2*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>新專輯 《十殿》，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-choan-chip 《 Chap8-tian7 》 ，</JiaoLuo>
+			<TongYong>sin1-zuan1-zip7* 《zap6-den2*》，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>也同樣 在夏天 發行。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7 kang7-khoan2 ti7 joah8-thinn hoat-heng5 。</JiaoLuo>
+			<TongYong>ma2-gang2-kuan4 di2-ruah6-tinn1* huat7-hing5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>《Monocle》 幾日前 來台灣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>《 Monocle 》 kui2-kang-cheng5 lai5-Tai5-oan5 ，</JiaoLuo>
+			<TongYong>《Monocle》 gui4-gang1-zing5* lai5-dai5-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>製作 專題報導 「直擊 台灣 流行音樂」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>che3-chok choan-te5 po3-to7 「 tit8-kek Tai5-oan5 liu5-heng5-im-gak8 」 ，</JiaoLuo>
+			<TongYong>ze3-zok7 zuan1-de5*-bor3-dor2* 「dit6-gik7 dai5-uan5* liu5-hing5-im1-qak6*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>除了 訪問 閃靈樂團，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu5-liau2 hong2-bun7 Siam2-leng5-gak8-thoan5 ，</JiaoLuo>
+			<TongYong>di5-liau4 hong4-mng2 siam4-ling5-qak6-tuan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>還有 採訪 蘇打綠、 大嘴巴、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 chhai2-hong2 Sou-tann2-lek8 、 Toa7-chhui3 、</JiaoLuo>
+			<TongYong>gorh7-u2 cai4-hong4 so1-dann4-lik6*、 dua2-cui3*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>蔡依林、 星光幫、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chhoa3-i-lim5 、 Chhinn-kng-pang 、</JiaoLuo>
+			<TongYong>cua3-i1-lim5*、 cenn1-gng1-bang1*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>王偉忠 等 演藝人士。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ong5-ui2-tiong teng2 ian2-ge7 jin5-su7 。</JiaoLuo>
+			<TongYong>ong5-ui4-diong1* ding4* en4-qe2-rin5-su2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

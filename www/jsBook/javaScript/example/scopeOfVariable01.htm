@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>變數的有效範圍</h2>
+<hr>
+
+<script>
+function testScope() {
+	var x=5;	// 局部變數
+	y=5;	// 全域變數
+	document.write("Inside function:<br>");
+	document.write("x = "+x+"<br>");
+	document.write("y = "+y+"<br>");
+}
+</script>
+
+<script>
+x = 10;	// 全域變數
+y = 10;	// 全域變數
+document.write("Before invoking function:<br>");
+document.write("x = "+x+"<br>");
+document.write("y = "+y+"<br>");
+testScope();
+document.write("After invoking function:<br>");
+document.write("x = "+x+"<br>");
+document.write("y = "+y+"<br>");
+</script>
+
+<hr>
+</body>
+</html>

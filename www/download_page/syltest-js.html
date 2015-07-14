@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC"-//W3C//DTD HTML 4.0//EN" "http"//www.w3.org/TR/REC-html1140/strict.dtd">
+<html>
+<head>
+	<title>統計syllable</title>
+	<script type="text/javascript" src="../js/jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="../js/raphael.js"></script>
+	<script type="text/javascript" src="../js/morris.js"></script>
+	<script type="text/javascript" src="../js/Dictionary.js"></script>
+	<style type="text/css"> 
+	pre {
+		height: 250px;
+		overflow: auto;
+		}
+	</style> 
+</head>
+<body>
+<div id="Bar"></div>
+<script type="text/javascript">
+
+	var file_name = decodeURI(window.location.search.substring (1));//url?接檔名
+	var text = new Array();//處理後的文字陣列
+	var data = new Object();
+	var temp = new Array();
+	var syl = new Object();
+	var dic = new Dictionary();
+	//dic.Add("abc","1");
+	//alert(dic.Item("abc"));
+	function load_file(){
+		$.ajax({//開啟文字檔
+					type: "POST",
+					url: file_name,
+					dataType: "text",
+					async:false,
+					error:function(xhr){alert('error: '+file_name+".trs"+" open file failed");},//開啟失敗
+					success: function(msg){
+						splitText(msg);
+					}
+				});
+			}
+	
+	function splitText(msg){
+		var i = 0, m = 0, d = 0;
+		pre_text = msg.split(/<\?.*\?>|<!DOCTYPE.*>|<.*Trans.*>|<.*Event.*>|<.*Speaker.*>|<.*Topic.*>|<.*Section.*>|<.*Turn.*>|<.*Episode.*>|<.*Background.*>|<Sync.*>|\n/);
+		i = 0, m = 0;
+		while(i != pre_text.length){//處理文字陣列
+			if(/.+/.test(pre_text[i])){//去除空白
+				temp = pre_text[i].split(/.*\/\//);
+				var temp1 = temp.pop();
+				temp=temp1.split(/\s|-/);
+				m = 0;
+				//alert(temp1);
+				//alert(pre_text[i]);
+				while(m != temp.length)
+				{
+					
+					if (dic.ContainsKey(temp[m]))
+					{
+						//alert(temp[m]+"-"+dic.Item(temp[m]));
+						d=dic.Item(temp[m]);
+						d+=1;
+						dic.Remove(temp[m]);
+						dic.Add(temp[m],d);
+					}
+					else 
+					{
+						if (temp[m] != "")
+							dic.Add(temp[m],1);
+					}
+					m++;
+				}
+			}
+			
+			i++;
+		}
+		i = 0;
+		temp = dic.Keys();
+		while(i != temp.length){
+			//alert(temp[i]+" "+dic.Item(temp[i]));
+			//data.push('{"syllable": " '+temp[i]+' ","number":'+dic.Item(temp[i])+"}");
+			data[i]={"syllable":temp[i],"number": dic.Item(temp[i])};
+			i++;
+		}
+		alert(data[1]["syllable"]+' '+data[1]["number"]);
+		//alert(data[0]["syllable"]);
+		
+	}
+	load_file(file_name);
+	
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,188 @@
+﻿
+<ul>
+	<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/multiLang101/ryWork/夏川りみ-涙そうそう'">夏川りみ-涙そうそう</li>
+	<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/multiLang101/ryWork/t_001'">t_001</li>
+	<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/multiLang101/ryWork/e_01 Advanced Audio Blog 1 - Will Spi'">e_01 Advanced Audio Blog #1 - Will Spi</li>
+	<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/multiLang101/ryWork/j_01 Audio Blog 1 - Meet Miki - Audio'">j_01 Audio Blog #1 - Meet Miki - Audio</li>
+	<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/multiLang101/ryWork/m_01 Advanced Audio Blog 1 - Memory f'">m_01 Advanced Audio Blog #1 - Memory f</li>
+	<li><a href="#">English Novel</a></li>
+			<ul>
+				<li><a href="#">BrothersGrimm</a></li>
+					<ul>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm01'">BrothersGrimm01</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm02'">BrothersGrimm02</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm03'">BrothersGrimm03</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm04'">BrothersGrimm04</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm05'">BrothersGrimm05</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm06'">BrothersGrimm06</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm07'">BrothersGrimm07</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm08'">BrothersGrimm08</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm09'">BrothersGrimm09</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm10'">BrothersGrimm10</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm11'">BrothersGrimm11</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm12'">BrothersGrimm12</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm13'">BrothersGrimm13</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm14'">BrothersGrimm14</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm15'">BrothersGrimm15</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm16'">BrothersGrimm16</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm17'">BrothersGrimm17</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm18'">BrothersGrimm18</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm19'">BrothersGrimm19</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm20'">BrothersGrimm20</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm21'">BrothersGrimm21</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm22'">BrothersGrimm22</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm23'">BrothersGrimm23</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm24'">BrothersGrimm24</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm25'">BrothersGrimm25</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm26'">BrothersGrimm26</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm27'">BrothersGrimm27</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm28'">BrothersGrimm28</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm29'">BrothersGrimm29</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm30'">BrothersGrimm30</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm31'">BrothersGrimm31</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm32'">BrothersGrimm32</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm33'">BrothersGrimm33</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm34'">BrothersGrimm34</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm35'">BrothersGrimm35</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm36'">BrothersGrimm36</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm37'">BrothersGrimm37</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm38'">BrothersGrimm38</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm39'">BrothersGrimm39</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm40'">BrothersGrimm40</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm41'">BrothersGrimm41</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm42'">BrothersGrimm42</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm43'">BrothersGrimm43</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm44'">BrothersGrimm44</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm45'">BrothersGrimm45</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm46'">BrothersGrimm46</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm47'">BrothersGrimm47</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm48'">BrothersGrimm48</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm49'">BrothersGrimm49</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm50'">BrothersGrimm50</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm51'">BrothersGrimm51</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm52'">BrothersGrimm52</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm53'">BrothersGrimm53</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm54'">BrothersGrimm54</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm55'">BrothersGrimm55</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm56'">BrothersGrimm56</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm57'">BrothersGrimm57</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm58'">BrothersGrimm58</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm59'">BrothersGrimm59</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm60'">BrothersGrimm60</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm61'">BrothersGrimm61</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/BrothersGrimm/BrothersGrimm62'">BrothersGrimm62</li>
+					</ul>
+				<li><a href="#">Huckleberry Finn</a></li>
+					<ul>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_01'">huckleberry_finn_01</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_02'">huckleberry_finn_02</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_03'">huckleberry_finn_03</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_04'">huckleberry_finn_04</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_05'">huckleberry_finn_05</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_06'">huckleberry_finn_06</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_07'">huckleberry_finn_07</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_08'">huckleberry_finn_08</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_09'">huckleberry_finn_09</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_10'">huckleberry_finn_10</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_11'">huckleberry_finn_11</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_12'">huckleberry_finn_12</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_13'">huckleberry_finn_13</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_14'">huckleberry_finn_14</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_15'">huckleberry_finn_15</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_16'">huckleberry_finn_16</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_17'">huckleberry_finn_17</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_18'">huckleberry_finn_18</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_19'">huckleberry_finn_19</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_20'">huckleberry_finn_20</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_21'">huckleberry_finn_21</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_22'">huckleberry_finn_22</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_23'">huckleberry_finn_23</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_24'">huckleberry_finn_24</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_25'">huckleberry_finn_25</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_26'">huckleberry_finn_26</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_27'">huckleberry_finn_27</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_28'">huckleberry_finn_28</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_29'">huckleberry_finn_29</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_30'">huckleberry_finn_30</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_31'">huckleberry_finn_31</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_32'">huckleberry_finn_32</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_33'">huckleberry_finn_33</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_34'">huckleberry_finn_34</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_35'">huckleberry_finn_35</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_36'">huckleberry_finn_36</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_37'">huckleberry_finn_37</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_38'">huckleberry_finn_38</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_39'">huckleberry_finn_39</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_40'">huckleberry_finn_40</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_41'">huckleberry_finn_41</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_42'">huckleberry_finn_42</li>
+				<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/HUCKLEBERRY_FINN/huckleberry_finn_43'">huckleberry_finn_43</li>
+				
+			</ul>
+				<li><a href="#">Pride and Prejudice</a></li>
+					<ul>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_01'">PRIDE_AND_PREJUDICE_01</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_02'">PRIDE_AND_PREJUDICE_02</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_03'">PRIDE_AND_PREJUDICE_03</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_04'">PRIDE_AND_PREJUDICE_04</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_05'">PRIDE_AND_PREJUDICE_05</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_06'">PRIDE_AND_PREJUDICE_06</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_07'">PRIDE_AND_PREJUDICE_07</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_08'">PRIDE_AND_PREJUDICE_08</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_09'">PRIDE_AND_PREJUDICE_09</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_10'">PRIDE_AND_PREJUDICE_10</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_11'">PRIDE_AND_PREJUDICE_11</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_12'">PRIDE_AND_PREJUDICE_12</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_13'">PRIDE_AND_PREJUDICE_13</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_14'">PRIDE_AND_PREJUDICE_14</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_15'">PRIDE_AND_PREJUDICE_15</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_16'">PRIDE_AND_PREJUDICE_16</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_17'">PRIDE_AND_PREJUDICE_17</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_18'">PRIDE_AND_PREJUDICE_18</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_19'">PRIDE_AND_PREJUDICE_19</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_20'">PRIDE_AND_PREJUDICE_20</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_21'">PRIDE_AND_PREJUDICE_21</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_22'">PRIDE_AND_PREJUDICE_22</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_23'">PRIDE_AND_PREJUDICE_23</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_24'">PRIDE_AND_PREJUDICE_24</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_25'">PRIDE_AND_PREJUDICE_25</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_26'">PRIDE_AND_PREJUDICE_26</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_27'">PRIDE_AND_PREJUDICE_27</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_28'">PRIDE_AND_PREJUDICE_28</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_29'">PRIDE_AND_PREJUDICE_29</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_30'">PRIDE_AND_PREJUDICE_30</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_31'">PRIDE_AND_PREJUDICE_31</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_32'">PRIDE_AND_PREJUDICE_32</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_33'">PRIDE_AND_PREJUDICE_33</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_34'">PRIDE_AND_PREJUDICE_34</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_35'">PRIDE_AND_PREJUDICE_35</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_36'">PRIDE_AND_PREJUDICE_36</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_37'">PRIDE_AND_PREJUDICE_37</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_38'">PRIDE_AND_PREJUDICE_38</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_39'">PRIDE_AND_PREJUDICE_39</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_40'">PRIDE_AND_PREJUDICE_40</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_41'">PRIDE_AND_PREJUDICE_41</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_42'">PRIDE_AND_PREJUDICE_42</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_43'">PRIDE_AND_PREJUDICE_43</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_44'">PRIDE_AND_PREJUDICE_44</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_45'">PRIDE_AND_PREJUDICE_45</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_46'">PRIDE_AND_PREJUDICE_46</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_47'">PRIDE_AND_PREJUDICE_47</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_48'">PRIDE_AND_PREJUDICE_48</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_49'">PRIDE_AND_PREJUDICE_49</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_50'">PRIDE_AND_PREJUDICE_50</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_51'">PRIDE_AND_PREJUDICE_51</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_52'">PRIDE_AND_PREJUDICE_52</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_53'">PRIDE_AND_PREJUDICE_53</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_54'">PRIDE_AND_PREJUDICE_54</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_55'">PRIDE_AND_PREJUDICE_55</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_56'">PRIDE_AND_PREJUDICE_56</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_57'">PRIDE_AND_PREJUDICE_57</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_58'">PRIDE_AND_PREJUDICE_58</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_59'">PRIDE_AND_PREJUDICE_59</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_60'">PRIDE_AND_PREJUDICE_60</li>
+						<li onclick="window.location='http://120.126.16.120/cut0823-3?file=http://120.126.16.120/english_novel/Pride and Prejudice/PRIDE_AND_PREJUDICE_61'">PRIDE_AND_PREJUDICE_61</li>
+					</ul>
+				
+			</ul>
+</ul>

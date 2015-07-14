@@ -1,0 +1,111 @@
+<article>
+	<id>1550</id>
+	<title>汽車暴衝 加油島起火 燒燬機車</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>南投縣 草屯鎮 碧山路 一家加油站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-tau5-koan7 Chhau2-tun3-tin3 Phek-soann-lou7 chit8-keng ka-iu5-cham7，</JiaoLuo>
+			<TongYong>Lam5-Dau5-Guan2* Cau4-Dun5-Din3* Pik7-Suann1-Lo2* zit6-ging1-ga1-iu5-zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>十五日 上午 發生 轎車 衝撞加油島 的 意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-gou7-ho7 cha2-khi2 hoat-seng kiau7-chhia chhiong-long3 ka-iu5-to2 e5 i3-goa7，</JiaoLuo>
+			<TongYong>zap6-qo2-hor2* zai4-ki4* huat7-sing1 giau1-cia1* ciong1-long3-ga1-iu5-dor4* e5 i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一名男子 到加油站 洗完車 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 cha-pou kau3 ka-iu5-cham7 se2-oan5-chhia liau2-au7 ，</JiaoLuo>
+			<TongYong>zit6-e5* za1-bo1-lang5* gau3-ga1-iu5-zam2* se4-hor1-cia1* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>突然加速 往前 衝撞加油島，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tut8-jian5 ka-sok ong2-cheng5 chhiong-long3 ka-iu5-to2，</JiaoLuo>
+			<TongYong>tut6-ren5-gan1* ga1-sok7* hiong3-tau5-zing5* ciong1-long3-ga1-iu5-dor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>加油機 被撞倒之後 隨即 起火燃燒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-iu5-ki pi7-long3-to2 liau2-au7 toe3-boe2-chiu7 tioh8-hoe2-sio，</JiaoLuo>
+			<TongYong>ga1-iu5-gi1* hong5*-long3-dor4*-liau4-au2* diorh6 dorh6-hue4*-sior1*-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>一旁 正在加油的 機車 遭到波及 燒燬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-peng5 tu2-ti7-leh ka-iu5-e5 ou-tou2-bai2 tu2-tioh8 khan-thoa sio-hui2，</JiaoLuo>
+			<TongYong>binn1*-a1* dng1-deh7-ga1-iu5*-e5 o1-do4-vai4* siu2-diorh6-por1-gip6* sior1-hui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>還 撞傷一名 加油站員工。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-long3-tioh8-siong chit8-mia5 ka-iu5-cham7 oan5-kang。</JiaoLuo>
+			<TongYong>gorh7 long3-siong1-zit6-e5* ga1-iu5-zam2*-uan5-gang1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>加油機 被轎車 衝倒之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-iu5-ki pi7 kiau7-chhia long3-to2-liau2-au7，</JiaoLuo>
+			<TongYong>Ga1-iu5-gi1* ho2-giau1-cia1* long3-dor4*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>底下的油管 瞬間 起火燃燒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-kha-e5 iu5-kong2 sun3-kan tioh8-hoe2-sio，</JiaoLuo>
+			<TongYong>e2-ka1*-e5-iu5-gong4* sun3-gan1* dorh6-hue4*-sior1*-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>火燄 高達三公尺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe2-iam7 koan5-kau3 sann-kong-chhioh，</JiaoLuo>
+			<TongYong>hue4-iam2* guan5-gau3-sann1-gong1-ciorh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>加油站員工 和 肇事車主，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-iu5-cham7 oan5-kang kap jia2-tai7-chi3 chhia-chu2，</JiaoLuo>
+			<TongYong>ga1-iu5-zam2*-uan5-gang1* gah7 zor2-su2*-cia1-zu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>趕緊 拿滅火器 滅火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-kin2-theh8 phah-hoe2-khi3 phah-hoe2，</JiaoLuo>
+			<TongYong>guann4-gin4 teh6-vet6-hue4-ki3* pah7-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>還是 無法 撲滅火勢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-si7 bo5-hoat phok-biat8 hoe2-si3，</JiaoLuo>
+			<TongYong>iau4-si2 vor5-huat7-do2* pah7-hua1-hue4-se3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>真正 肇事原因 還要 待警方調查。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin-chiann3 jia2-tai7-chi3 goan5-in iau2-ai3-tan2 keng2-hong tiau-cha。</JiaoLuo>
+			<TongYong>zin1-ziann3*-e5 zor2-su2-quan5-in1* gorh7-ai3 dan4-ging4-hong1*-diau1-za1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>表單元素 select 的性質列表</h2>
+<hr>
+
+<b>呈現方式</b>：
+<select size=3 name="singleChoice" id=mySelectId>
+<option value="網球" selected>網球
+<option value="蝦球">蝦球
+<option value="鉛球">鉛球
+</select>
+<script>obj=document.all["mySelectId"];</script>
+<script src="utility.js"></script>
+<p><b>原始碼</b>：
+<script>sourcePrint(obj)</script>
+<p><b>性質排序列表</b>：
+<p><script>propertyPrint(obj, "obj")</script>
+
+<hr>
+</body>
+</html>

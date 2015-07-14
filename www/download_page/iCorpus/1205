@@ -1,0 +1,76 @@
+<article>
+	<id>1205</id>
+	<title>內門鄉 紫竹寺 被震垮 二樓變一樓</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>位於 高雄縣 內門鄉 的 紫竹寺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-ti7 Ko-hiong5-koan7 Loe7-mng5-hiong e5 Chi2-tek-si7，</JiaoLuo>
+			<TongYong>Di2 Gor1-Hiong5-Guan2* Lai2-Mui5-Hiang1* e5 Zi4-Dik7-Si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>也經不起 這次 規模 六點四 的 大地震，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan-na2-be7-kham-tit chit-pai2 kui-bou5 lak8-tiam2-si3 e5 toa7-te7-tang7，</JiaoLuo>
+			<TongYong>ma2-ve2-kam1-li3 zit7-bai4* gui1-vo5* lak6-diam4-si3* e5 dua2-de2*-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>不但 寺廟牌樓 有 大塊水泥 掉落，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-na7 si7-bio7 chhai2-lau5 u7 toa7-te3 ang5-mng5-thou5 lak-loh8-khi3，</JiaoLuo>
+			<TongYong>m2-na2 si2-vior2*-e5-bai5-lau5* u2 dua2-de3 ang5-mo5-to5* lak7*-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>最嚴重的 就是 活動中心 大樓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-giam7-tiong7-e5 tioh8-si7 oah8-tang7-tiong-sim toa7-lau5，</JiaoLuo>
+			<TongYong>siang2-qiam5-diong2*-e5 diorh6-si2 uah6-dong2-diong1-sim1* dua2-lau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>水泥柱 被震裂， 鋼筋外露，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ang5-mng5-thou5 pi7-chin3-pit，kng3-kin-goa7-lou7，</JiaoLuo>
+			<TongYong>ang5-mo5-to5*-e5 tiau2-a4* ki3-ho2 zin3-gah7-bit7*-ki3*， gng3-gin1* zau4*-cut7*-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>沒想到 下午 又出現 兩次餘震，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siunn7-tioh8 e5-pou koh-chhut-hian7 nng7-pai2 i5-chin3，</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3 e2-bo1* gorh7-cut7-hen2 nng2-bai4-i5-zin3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>大樓 地基與柱子 都垮了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-lau5-toe7-ki ham thiau7-a2 long2-to2-ah，</JiaoLuo>
+			<TongYong>dua2-lau5*-e5 de2-gi1*-gah7-tiau2-a4* long4-bang1*-ki3*-a3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>使得 三層樓的 活動中心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 sann-chan5-lau5-e5 oah8-tang7-tiong-sim，</JiaoLuo>
+			<TongYong>ho2 sann1-zan3-lau5*-e5 uah6-dong2-diong1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>二樓 變成了 一樓！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji7-lau5 pian3-cho3-liau2 it-lau5！</JiaoLuo>
+			<TongYong>qi2-lau5* ben3-zor3-it7-lau5*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

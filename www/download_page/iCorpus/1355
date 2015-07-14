@@ -1,0 +1,97 @@
+<article>
+	<id>1355</id>
+	<title>前一天 撥開記者 邱豐光 隔天示好 交換名片</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>昨天 一堆的媒體，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choh8-jit8 chit8-tui-e5 mui5-the2 ki3-chia2，</JiaoLuo>
+			<TongYong>Za1-huinn1* zit6-dui1*-e5-mui5-te4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>要採訪 台中市 警察局長 邱豐光，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>boeh-chhai2-hong2 Tai5-tiong-chhi7 keng2-chhat-kiok8-tiunn2 Khu-hong-kng，</JiaoLuo>
+			<TongYong>veh7-cai4-hong4 Dai5-Diong1-Ci2* ging4-cat7-giok6-diunn4* Ku1-Hong1-Gong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>被他 用擒拿術 一手撥開，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-i-eng7 khim5-na2-sut8 chit8-chhiu2-pou3-khui，</JiaoLuo>
+			<TongYong>ho2-i1 ing2-kim5-na5-sut6* zit6-ciu4*-bue4*-kui1，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>攝影記者 也 幾乎 被 推去貼牆，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>liap-iann2-ki3-chia2 oan-na2-kiong5-beh pi7-tu-khi3 tah-piah，</JiaoLuo>
+			<TongYong>liap7-iann4-gi3-zia4* ma2 giang5-veh7 ho2-i1 sak7-ki3-dah7-biah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>在電視上 播出來 以後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-tian7-si7-teng2 pou3-chhut-lai5 i2-au7，</JiaoLuo>
+			<TongYong>di2-den2-si2-ding4* bor3*-cut7*-lai5 i4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>今天 邱豐光的 態度，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit8 Khu-hong-kng e5 thai7-tou7，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* Ku1-Hong1-Gong1*-e5 tai2-do2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>可說是 一百八十度 大轉變，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thang-kong2-si7 chit8-pah-peh-chap8-tou7 toa7-choan2-pian3，</JiaoLuo>
+			<TongYong>tang1-gong4-si2 zit6-bah7-beh7-zap6-do2* dua2-zuan4-ben3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>上午 邱豐光 來到 台中市議會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha2-khi2 Khu-hong-kng lai5-kau3 Tai5-tiong-chhi7-gi7-hoe7，</JiaoLuo>
+			<TongYong>zai4-ki4* Ku1-Hong1-Gong1* lai5-gau3 Dai5-Diong1-Ci2-Qi2-Hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>一看到 來採訪的 記者，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-khoann3-tioh8 lai5-chhai2-hong2-e5 ki3-chia2，</JiaoLuo>
+			<TongYong>zit6-kuann3-diorh6 lai5-cai4-hong4*-e5 gi3-zia4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>不但 面帶笑容，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-na7 bin7-tai3-chhio3-iong5 ，</JiaoLuo>
+			<TongYong>m2-na2 vin2-dua3-cior3-iong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還 主動 和記者 換名片，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-chu2-tong7 kap ki3-chia2 oann7-mia5-chhi3，</JiaoLuo>
+			<TongYong>gorh7 zu4-dong2 ham2-gi3-zia4* uann2-mia5-pinn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>看來 是 想要 釋出善意。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoann3-lai5-si7 boeh-ai3 sek-chhut-sian7-i3。</JiaoLuo>
+			<TongYong>kuann3*-ki4-lai5 si2 siunn2-veh7 sik7-cut7-sen2-i3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

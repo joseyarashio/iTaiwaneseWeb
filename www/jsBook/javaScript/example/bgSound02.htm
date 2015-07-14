@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>動態切換音樂和背景</h2>
+<hr>
+
+<script>
+function changeBG() {
+	var imgURL = ["bg1.gif", "bg2.gif", "bg3.gif", "bg4.jpg", "bg5.gif"];
+	document.body.background = "image/" + imgURL[Math.floor(Math.random()*5)];
+}
+function changeBS() {
+	var soundURL = ["tomorrow.mid", "如果雲知道.mid", "原來你什麼都不想要.mid", "膽小鬼.mid", "聽海.mid"];
+	document.all["myMusic"].src = "music/" + soundURL[Math.floor(Math.random()*5)];
+}
+</script>
+
+<bgsound id="myMusic" src="" loop="infinite">
+<form>
+<center>
+<input type="button" value="換背景圖片" onClick="changeBG()">
+<input type="button" value="換背景音樂" onClick="changeBS()">
+</center>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>小餅乾試驗場</h2>
+<hr>
+
+<script src="cookieUtility.js"></script>
+<input type=button value=設定小餅乾 onClick="setCookie(cookieName1.value, cookieValue1.value); history.go(0)">
+Name: <input id=cookieName1> Value: <input id=cookieValue1><br>
+<input type=button value=移除小餅乾 onClick="delCookie(cookieName2.value); history.go(0)">
+Name: <input name=cookieName2><br>
+<input type=button value=查詢小餅乾 onClick="cookieValue3.value=getCookie(cookieName3.value)">
+Name: <input name=cookieName3> Value: <input name=cookieValue3>
+<h3>本網頁的小餅乾列表</h3>
+<script>listCookie();</script>
+
+<hr>
+</body>
+</html>

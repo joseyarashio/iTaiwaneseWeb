@@ -1,0 +1,125 @@
+<article>
+	<id>1266</id>
+	<title>糊塗媽媽 唱歌太忘我 三歲孩子 走失</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>苗栗市 發生 媽媽 去到KTV 唱歌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Biau5-lek8-chhi7 hoat-seng lau7-bu2 khi2-kau3 KTV chhio3-koa，</JiaoLuo>
+			<TongYong>Viau5-Lik6-Ci2* huat7-sing1 ma1-ma1* ki3-gau3 KTV ciunn3-gua1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>把兒子 弄丟，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka7 hau7-senn chhong3-phang3-kinn3，</JiaoLuo>
+			<TongYong>ga2-hau2-senn1* pang3-gen3*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>這麼離譜的 狀況，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-ni2 li5-phou2-e5 chong7-hong2，</JiaoLuo>
+			<TongYong>ziah7-ni2-li2-po4*-e5 zong2-kong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>原來是 一名 陳姓婦人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-lai5-si7 chit8-mia5 senn3-Tan5 hu7-jin5，</JiaoLuo>
+			<TongYong>quan5-lai5*-si2 zit6-e5* senn3-Dan5*-e5 hu2-rin5-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>四月十日 晚間 十點半 左右，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si3-goeh8 chap8-ho7 am3-si5 chap8-tiam2-poann3 cho2-iu7，</JiaoLuo>
+			<TongYong>si3-queh6-zap6-hor2* am3-si5* zap6-diam4-buann3* zor4-iu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>帶著 三歲兒子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhoa7-tioh8 sann-hoe3 hau7-senn，</JiaoLuo>
+			<TongYong>cua2 sann1-hue3*-e5-hau2-senn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>跟朋友 去KTV 唱歌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toe3-peng5-iu2-khi3 KTV chhio3-koa，</JiaoLuo>
+			<TongYong>gah7-bing5-iu4* ki3 KTV ciunn3-gua1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>唱得 太忘我，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhio3-kah siunn-bo5-kou3-ki2，</JiaoLuo>
+			<TongYong>ciunn3-gah7 siunn1-gue3-dau5-rip6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>不知道 自己兒子 走出包廂，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-chai-iann2 ka-ki7 hau7-sinn chau2-chhut pau-siunn，</JiaoLuo>
+			<TongYong>m2-zainn1-iann4 ga1-di2*-e5-hau2-senn1* giann5-cut7-bau1-siunn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>跑到 車水馬龍的 路邊 徘徊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chau2-kau3 chhia-chhia-tng2 e5 lou7-pinn pai5-hoai5，</JiaoLuo>
+			<TongYong>zau4-gau3 cia1* lai5-lai5-ki3-ki3*-e5 lo2-binn1* bai5-hue5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>民眾瞧見 報警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 gan2-tioh8 po3-keng2，</JiaoLuo>
+			<TongYong>vin5-ziong3*-kuann3*-diorh6 bor3-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>巡邏員警 把小孩 帶回 派出所，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sun5-lo5 oan5-keng2 ka7 gin2-a2 chhoa7-tng2 phai3-chhut-sou2，</JiaoLuo>
+			<TongYong>sun5-lor5*-e5-uan5-ging4* ga2-qin4-a4* cua2-duinn4-ki3 pai3-cut7-so4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>再透過 KTV螢幕上的 跑馬燈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-thau3-koe3 KTV eng5-bou7-teng2-e5 chau2-be2-teng，</JiaoLuo>
+			<TongYong>gorh7-tau3-gue3 KTV ing5-vo2-ding4*-e5 zau4-ve4-ding1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>播放 男孩子 走失 訊息，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pou3-hong3 cha-pou-gin2-a2 chau2-soann3 sin3-sit，</JiaoLuo>
+			<TongYong>bor3-sang3 za1-bo1-qin4-a4* zau4-vor5*-ki3* e5 sin3-sit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>這名 糊塗媽媽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-mia5 hou5-tou5 lau7-bu2，</JiaoLuo>
+			<TongYong>zit7-e5 ho5-do5*-e5-ma1-ma1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>才驚覺 自己的小孩 不見了。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-chhenn-kiann ka-ki7-e5 gin2-a2 bo5-khi3-ah。</JiaoLuo>
+			<TongYong>ziah7-ging1-gak7 ga1-di2*-e5-qin4-a4* pang3-gen3*-ki3*-a3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>預約與停止程式碼的執行：使用 setInterval() 和 clearInterval()</h2>
+<hr>
+
+<script>
+function showTime(){
+	date=new Date();
+	document.getElementById("theText").value=date.toLocaleString();
+}
+clock=setInterval("showTime()", 1000);		//每一秒更新一次
+</script>
+
+<center>
+<form>
+目前時間：<input type="text" id=theText size=30>
+<input type=button name=controlButton value="停止時鐘" onClick="clearInterval(clock)">
+</form>
+</center>
+
+<hr>
+</body>
+</html>

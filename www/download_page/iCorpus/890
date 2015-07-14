@@ -1,0 +1,125 @@
+<article>
+	<id>890</id>
+	<title>刊登 道歉啟事 鱷魚蚊香 接受退貨 </title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>知名的 老牌 鱷魚蚊香，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti-beng5 e5 lau2-pai5  Khok-hi5 bang2-a2-hiunn，</JiaoLuo>
+			<TongYong>Di1-mia5*-e5 lau2-bai5* kok6-hi5* vang4-a4-hiunn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>竟然 被環保署 驗出 含有 戴奧辛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 pi7 Khoan5-po2-su2 giam7-chhut u7-ham5 te3-o3-sin，</JiaoLuo>
+			<TongYong>ging4-ren5* ho2-huan5-bor4-su4* qiam2-cut7 u2-ham5 dioxin，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>廠商 緊急 回收下架，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiunn2-siong kin2-kip hoe5-siu loh-ke3，</JiaoLuo>
+			<TongYong>ciunn4-siang1* gin4-gip7* hue5-siu1*-lorh6-ge3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>並承諾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7 seng5-lok，</JiaoLuo>
+			<TongYong>bing2-ciann4-sing5-lok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>在禮拜一（七月 二十七日） 開始，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 le2-pai3-it（chhit-goeh ji7-chap-chhit-ho7）khai-si2，</JiaoLuo>
+			<TongYong>di2-le4-bai3-it7*（cit7-queh6 qi2-zap6-cit7-hor2*） kai1-si4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>消費者 可以 拿發票，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hui3-chia2 e7-sai2 theh hoat-phio3，</JiaoLuo>
+			<TongYong>siau1-hui3-zia4* e2-dang3 teh6-huat7-pior3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>到 當初 購買的地點 去退貨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3 tong-chho ko3-boe2 e5 toe7-tiam2 khi3 the3-hoe3，</JiaoLuo>
+			<TongYong>gau3 dong1-co1* go3-ve4*-e5-de2-diam4* ki3-te3-hue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>只是 有人 蚊香 用了半盒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-si7 u7 lang5 bang2-a2-hiunn iong7-liau2 poann3-ah，</JiaoLuo>
+			<TongYong>zi4-si2 u2-lang5 vang4-a4-hiunn1* iong2-liau4-buann3-ap7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>發票 早丟掉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-phio3 cha2 hiat-tiau7，</JiaoLuo>
+			<TongYong>huat7-pior3* za4*-diorh6-dan3-diau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>豈不是 求助無門，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kam2-m-si7 kiu5-cho7-bo5-mng，</JiaoLuo>
+			<TongYong>gam4-m2-si2 giu5-zo2*-vor5-mng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>業者 現在</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>giap-chia2 chit-ma2，</JiaoLuo>
+			<TongYong>qiap6-zia4* zit7-ma4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>在 全台灣 六家 營業所，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 choan5 Tai5-oan5 lak-keng eng5-giap-so2，</JiaoLuo>
+			<TongYong>di2 zuan5-dai5-uan5* lak6-ging1 ing5-qiap6-so4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>開放 無條件 回收產品，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khai-hong3 bo5-tiau5-kiann7 hoe5-siu san2-phin2，</JiaoLuo>
+			<TongYong>kai1-hong3 vor5-diau5-giann2* hue5-siu1-san4-pin4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>民眾 就埋怨 北中南 才六家，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 to-oan3-than3 pak-tiong-lam5 chiah lak-keng，</JiaoLuo>
+			<TongYong>vin5-ziong3* diorh6-por2-uan3* bak7-diong1-lam5* ziah7-lak6-ging1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>要 其它縣市的 消費者，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>boeh ki5-thann koan7-chhi7 e5 siau-hui3-chia2，</JiaoLuo>
+			<TongYong>ai3 gi5-tann1-guan2-ci2*-e5 siau1-hui3-zia4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>怎麼辦？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an-choann2-pan7！</JiaoLuo>
+			<TongYong>an4-zuann4-ban2*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

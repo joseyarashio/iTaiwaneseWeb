@@ -1,0 +1,100 @@
+<html>
+<head>
+<title>View data</title>
+
+<script type="text/javascript" src="data.js">
+</script>
+<script type="text/javascript">
+function loadTableData() {
+	table="";
+	x=document.getElementById("optimumScoresTable");
+	
+	for (var m = 0; m < optimumScores.length; m++) {
+		for (var n = 0; n < optimumScores[m].length; n++) {
+			table += "<a href='javascript:displayData("+m+","+n+");'>"+m+","+n+"</a>&nbsp;&nbsp;";
+		}	
+		table += "<br>";
+	}
+	
+	x.innerHTML = table;
+	
+	data="";
+	x=document.getElementById("initialInfo");
+	
+	data += "# of numbers being summed: " + maxNums;
+	data += "<br>Minimum number which you get zero points: " + thresholdValue;
+	
+	x.innerHTML = data;
+	
+}
+
+function displayData(m, n) {
+	data="";
+	x=document.getElementById("optimumScoresData");
+	
+	data += "<hr># of filled tens position: " + m;
+	data += "<br># of filled ones position: " + n;
+	data += "<br>T : Put in tens place";
+	data += "<br>O : Put in ones place";
+	data += "<br>- : No best place, or the game is lost already";
+	data += "<br><table border='1' cellspacing='0'>";
+	data += "<tr><th rowspan='2'>Current<br>Sum</th><th rowspan='2'>Optimum<br>Score</th><th colspan='6'>Best Choice for roll:</th></tr>";
+	data += "<tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th></tr>";
+	
+	for (var o = 0; o < optimumScores[m][n].length; o++) {
+		data += "<tr align='center' ><th>"+o+"</th>";
+		data += "<td>"+optimumScores[m][n][o]+"</td>";
+		for (var p = 1; p <= 6; p++) {
+			var t = "-";
+			if (bestChoices[m][n][o][p] == 1)
+				t = "O";
+			else if (bestChoices[m][n][o][p] == 10)
+				t = "T";
+			//t = bestChoices[m][n][o][p];
+
+			data += "<td>"+t+"</td>";
+		}
+		data += "</tr>";
+	}
+	data += "</table>";
+	
+	x.innerHTML = data;
+}
+</script>
+
+</head>
+<body onload="loadTableData()">
+<table border="0" width="100%"><tr><td>
+<div id="initialInfo"></div>
+<br>
+(# of filled tens position, # of filled ones position)
+<div id="optimumScoresTable" ></div>
+</td><td>
+<font size="2"><b>Optimum Value Function: score(m,n,s)</b><br>
+m: # of filled tens positions, 0 <= m <= 4<br>
+n: # of filled ones positions, 0 <= m <= 4<br>
+s: current sum of points, 0 <= s <= (4*66)<br>
+score: optimum score so far<br>
+<br>
+<b>Boundry Conditions:</b><br>
+score(4,4,s) = 0, if s > 170 OR s, if s <= 170<br>
+score(m,0,0) = 0<br>
+score(0,n,0) = 0<br>
+score(0,0,s) = 0<br>
+<br>
+<b>Recursive Formula:</b><br>
+score(m,n,s) = (1/6)*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ max(score(m-1, n, s-10), score(m, n-1, s-1)) + &nbsp;&nbsp;//roll 1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max(score(m-1, n, s-20), score(m, n-1, s-2)) + &nbsp;&nbsp;//roll 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max(score(m-1, n, s-30), score(m, n-1, s-3)) + &nbsp;&nbsp;//roll 3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max(score(m-1, n, s-40), score(m, n-1, s-4)) + &nbsp;&nbsp;//roll 4<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max(score(m-1, n, s-50), score(m, n-1, s-5)) + &nbsp;&nbsp;//roll 5<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max(score(m-1, n, s-60), score(m, n-1, s-6)) ] &nbsp;&nbsp;//roll 6<br> 
+<br>
+The best choice is determined by the which score is higher within the max funciton, given the current roll value. 
+</font></td></tr></table>
+
+<div id="optimumScoresData" ></div>
+
+</body>
+</html>

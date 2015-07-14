@@ -1,0 +1,90 @@
+<article>
+	<id>1055</id>
+	<title>麝香豬 大逛 濱海公路！</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>難得看見 這種 驚恐畫面！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lan5-tit khoaN3-tioh8 chit-khoan2 kiaN-hiong5 oe7-bin7！</JiaoLuo>
+			<TongYong>Han4-e5-kuann3-diorh6 zit7-ziong4 ho2-lang5-diorh6-giann1*-e ue2-vin2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>濱海公路 突然出現 豬隻 逛大街，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pin-hai2-kong-lou7 tut8-jian5 chhut-hian7 ti-a2 seh8-ke-lou7，</JiaoLuo>
+			<TongYong>bin1-hai4-gong1-lo2* tut6-ren5-cut7-hen2 di1-a4* seh6-ge1-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>駕駛 嚇得 猛按喇叭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka3-su2 kiaN-kah piaN3-mia7 jih8-la3-pa，</JiaoLuo>
+			<TongYong>ga3-su4-rin5* giann1-gah7 it7-dit6 rih6-la4-bah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>而 小豬們 也 被喇叭聲 嚇得亂竄，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah ti-a2 oan-na2-pi7 la3-pa-siaN kiaN-kah si3-ke3-chhng3，</JiaoLuo>
+			<TongYong>a1* se3-ziah7-di1-a4* ma2-ho2 la4-bah7-siann1* giann1-gah7-luan2-zong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>附近住家 抱怨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hu3-kin7 khia7-ke hiam3-khou2，</JiaoLuo>
+			<TongYong>hu2-gin2-kia2-ge1* por2-uan3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>飼主 在路旁 放養 大批 麝香豬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-chu2 ti7-lou7-piN pang3-chhi7 toa7-phe sia7-hiuN-ti，</JiaoLuo>
+			<TongYong>su2-zu4* di2-lo2-binn1* bang3-ci2 dua2-pue1 sia2-hiang1-di1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>豬隻 經常 在公路上 閒逛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti-a2 keng-siong5-ti7 toa7-lou7-teng2 lau-lau-seh8，</JiaoLuo>
+			<TongYong>di1-a4* diann2-diann2 di2-gong1-lo2-ding4* lua2-lua2-sor5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>有時 甚至 直接 跨越馬路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-si5 sim7-chi3 tit8-chiap poaN5-koe3-toa7-lou7，</JiaoLuo>
+			<TongYong>u2-si5* sim2-zi3 dit6-ziap7* huainn5-gue3-ve4-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>場面 驚險萬分！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiuN5-bin7 kiaN-hiam2-ban7-hun！</JiaoLuo>
+			<TongYong>diunn5-vin2* giann1-hiam4*-van2-hun1*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>相關單位 依 違反 觀光法，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong-koan-tan-ui7 an3 ui5-hoan2 koan-kong-hoat，</JiaoLuo>
+			<TongYong>Siang1-guan1-dan1-ui2* i1-ziau3 ui5-huan4 guan1-gong1-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>對飼主 開出 三萬元 罰單。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 chhi7-chu2 khui-chhut saN-ban7-kho3 hoat8-toaN。</JiaoLuo>
+			<TongYong>dui3-su2-zu4* kui1-cut7 sann1-van2-ko1* huat6-duann1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

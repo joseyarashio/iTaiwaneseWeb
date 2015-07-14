@@ -1,0 +1,28 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>檔案上傳</title>
+</head>
+
+<body>
+<form action="upload_conf.php" name="DemoForm" method="POST" enctype="multipart/form-data" onsubmit="return Final_Check( );">
+檔案：
+<input type="file" name="MyFile"><br><br>
+<input type="hidden" name="MAX_FILE_SIZE" value="49152">
+<input type="submit" value="上傳"><br><br>
+上傳檔案的大小 5GB 以內！<br><br><br><br>
+<font color="#FF0000">上傳檔案測試網頁。</font>
+</form>
+
+<script language="JavaScript">
+function Final_Check( ) {
+  // 若使用者未選取檔案時予以警告
+  if ( document.DemoForm.MyFile.value == "" ) {
+    alert ("請選取欲上傳的檔案！");
+    return false;
+  }
+  return true;
+}
+</script> 
+</body>
+</html> 

@@ -1,0 +1,104 @@
+<article>
+	<id>1327</id>
+	<title>阿伯撿蛤 遇漲潮受困 消防隊 出動救援</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>梅雨鋒面 報到，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ng5-sng-hou7 hong-bin7 po3-to3，</JiaoLuo>
+			<TongYong>Mui5-ho2*-hong1-vin2* bor3-dor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>彰化縣 消防分隊 在 王功漁港，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chiong-hoa3-koan7 siau-hong5-hun-tui7 ti7 Ong5-keng-hu5-kang2，</JiaoLuo>
+			<TongYong>Ziang1-Hua3-Guan2* siau1-hong5-hun1-dui2* di2 Ong5-Ging1*-Hi5-Gang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>進行 防災演練，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin3-heng5 hong5-chai ian2-lian7，</JiaoLuo>
+			<TongYong>zin3-hing5 hong5-zai1*-en4-len2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>沒想到 當天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siunn7-tioh8 tng-kang，</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3 dong1-rit6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>卻傳出 一名 六十歲 老阿伯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-thoan5-chhut chit8-mia5 lak8-chap8-hoe3 lau7-a-peh，</JiaoLuo>
+			<TongYong>suah7-tuan5-cut7 zit6-e5* lak6-zap6-hue3*-e5 lau2-a1-beh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>來到海邊 撿蛤仔，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lai5-kau3 hai2-pinn khioh-la5-a2，</JiaoLuo>
+			<TongYong>lai5-gau3-hai4-binn1* kiorh7-ham5*-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>沒注意到 漲潮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-chu3-i3-tioh8 moa2-lau5，</JiaoLuo>
+			<TongYong>vor5-zu3-i3-diorh6 lam2-lau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>來不及上岸 受困，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-be7-hu3 chiunn7-hoann7 siu7-khun3，</JiaoLuo>
+			<TongYong>ve2-hu3-ziunn2-huann2* siu2-kun3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>幸好 老阿伯 急中生智，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 lau7-a-peh kip-tiong-senn-ti3，</JiaoLuo>
+			<TongYong>hor4-ga1-zai3* lau2-a1-beh7* gip7-diong1*-senn1-di3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>利用 保麗龍、 蚵田架，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>li7-iong7 po2-le5-liong5 、 o5-chhan5-ke3-a2，</JiaoLuo>
+			<TongYong>li2-ing2 cor4*、 or5-ge3-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>支撐住身體 在海中 漂浮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thenn3-tiau5 sin-the2 ti7-hai2-tiong phiau-phu5，</JiaoLuo>
+			<TongYong>tenn1-diau5-sin1-te4* di2-hai4*-li3* piau1-hu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>消防 救難演練 變成 真搶救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5 kiu3-lan7-ian2-lian7 pinn3-chiann5 chin-chhiunn2-kiu3，</JiaoLuo>
+			<TongYong>siau1-hong5* giu3-lan2*-en4-len2* ben3-sing5 zin1-ciunn4-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>出動橡皮艇 救出老阿伯。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhut-tong7 chhiu7-leng-theng2 kiu3-chhut lau7-a-peh。</JiaoLuo>
+			<TongYong>cut7-dong2-ciu2-ling1-zun5* giu3-cut7-lau2-a1-beh7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

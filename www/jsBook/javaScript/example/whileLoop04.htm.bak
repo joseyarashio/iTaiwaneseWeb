@@ -1,0 +1,21 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>while 迴圈：continue 的使用</h2>
+<hr>
+
+<script>
+for (i=0; i<100; i++) {
+	a=Math.random();	// 產生一個介於 0 和 1 之間的亂數
+	if (a<=0.95)
+		continue;
+	document.write("<br>"+a);
+}
+</script>
+
+<hr>
+</body>
+</html>

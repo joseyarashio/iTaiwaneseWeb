@@ -1,0 +1,29 @@
+<html>
+<head>
+<script type="text/javascript" src="script/prototype.js"></script>
+<script type="text/javascript">
+function go() {
+	var qstr = '';
+	var params = $('paramA', 'paramB', 'paramC', 'paramD');
+	for (var p = 0; p < params.length; p++) {
+		if (qstr != '')
+			qstr += '&';
+		qstr += params[p].name + '=' + params[p].value;
+	}
+	$('paramStr').value = qstr;
+	alert(qstr);
+}
+</script>
+</head>
+<body>
+	<form>
+		­È1 :<input type="text" name="paramA" id="paramA"><br>
+		­È2 :<input type="text" name="paramB" id="paramB"><br>
+		­È3 :<input type="text" name="paramC" id="paramC"><br>
+		­È4 :<input type="text" name="paramD" id="paramD"><br><br>
+		µ²ªG:<input type="text" name="paramStr" id="paramStr" size="30">
+		<input type="button" onClick="go()" value="Go">
+	</form>
+</body>
+</html>
+

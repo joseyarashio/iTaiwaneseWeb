@@ -1,0 +1,20 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>利用 &#60xmp&#62 和 &#60/xmp&#62 來印出未經瀏覽器排版的結果</h2>
+<hr>
+
+<script>
+// 由 for 迴圈來產生 5 個由小變大的  "Hello World!"
+document.write('<xmp>');
+for (i=1; i<=5; i++)
+	document.writeln("<font size=" + i + ">Hello World!</font><br>");
+document.write('</xmp>');
+</script>
+
+<hr>
+</body>
+</html>

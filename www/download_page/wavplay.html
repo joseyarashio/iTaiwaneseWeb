@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta name="generator" content="UX Write 1.1.6 (build eb2a3ab); iOS 6.1.2">
+  <meta charset="utf-8">
+
+  <title>cut</title>
+  <script language="javascript" type="text/javascript" src=
+  "http://code.jquery.com/jquery-1.7.2.min.js">
+//�ޤJ�}��(�w�]javascript �䴩perl�Bpython�BVBScript..)
+  </script>
+  <style>
+</style>
+</head>
+
+<body>
+  <form name="myform" id="myform">
+    <audio id="media" controls="" src=
+    "http://140.109.18.117/GitRepos/finish/width=768&amp;textScale=100.mp3">
+    //FF not supported mp3 audio not supported</audio>
+	<input type="button" value="play" onclick="player()">
+
+    <div name="result" id="result" sstyle=
+    "width:70%;height:100%;border:2px #ccc dashed;padding:10px;overflow:auto;">
+    </div>
+  </form><script type="text/javascript">
+              var target = window.location.search.substring (1);
+                var text = new Array();
+                var block = document.getElementById("result");
+                text=target.split(/%10/);
+                media.src = "http://140.109.18.117"+text[0]+".mp3";
+				var NowPlay;
+                function player(){
+                        media.currentTime= text[1];
+                        media.play();
+                        NowPlay=window.setInterval(check, 1);
+                }
+                
+                function check(){
+                        current_time = media.currentTime;
+                        block.innerHTML=media.currentTime;
+                        if(current_time > text[2]){
+                                media.pause();
+                                //window.clearInterval(NowPlay);
+                        }
+                }
+                
+  </script>
+</body>
+</html>

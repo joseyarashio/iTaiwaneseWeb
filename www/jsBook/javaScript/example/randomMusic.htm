@@ -1,0 +1,63 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>自動點歌機（利用亂數點選背景 MIDI 音樂）</h2>
+<hr>
+
+<script>
+midiFile = new Array();
+songName = new Array();
+singerName = new Array();
+
+i = 0;
+midiFile[i] = "music/聽海.mid";
+songName[i] = "聽海";
+singerName[i] = "張惠妹";
+i++;
+midiFile[i] = "music/膽小鬼.mid";
+songName[i] = "膽小鬼";
+singerName[i] = "梁詠琪";
+i++;
+midiFile[i] = "music/如果雲知道.mid";
+songName[i] = "如果雲知道";
+singerName[i] = "許茹芸";
+i++;
+midiFile[i] = "music/原來你什麼都不要.mid";
+songName[i] = "原來你什麼都不要";
+singerName[i] = "張惠妹";
+i++;
+midiFile[i] = "music/tomorrow.mid";
+songName[i] = "明天你是否依然愛我";
+singerName[i] = "童安格";
+
+index = Math.floor(Math.random()*midiFile.length);
+pickedMidi = midiFile[index];
+pickedSongName = songName[index];
+pickedSingerName = singerName[index];
+document.writeln("<embed src="+pickedMidi+" hidden=true autostart=true loop=false>");
+</script>
+
+<p align=center>
+<script>
+document.write("你現在聽到的歌是<font color=green>『"+pickedSingerName+"』</font>的");
+document.write("『<font color=red>"+pickedSongName+"</font>』");
+</script>
+
+<p>
+所有的歌：
+<blockquote>
+<script>
+for (var i = 0; i < midiFile.length; i++) {
+	document.write("<font color=green>"+singerName[i]+"</font>：");
+	document.write("<font color=red>"+songName[i]+"</font>");
+	document.write(" (<a href="+midiFile[i]+">"+midiFile[i]+"</a>)<br>");
+}
+</script>
+</blockquote>
+
+<hr>
+</body>
+</html>

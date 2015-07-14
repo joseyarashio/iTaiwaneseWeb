@@ -1,0 +1,101 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>各種瀏覽器事件</h2>
+<hr>
+
+<script>
+function onLoadFcn() {
+	alert("歡迎光臨！");
+}
+function onUnloadFcn() {
+	alert("這麼快就要走啦？有空再來玩！");
+}
+function listsrc(obj) {
+	alert(obj.outerHTML);
+}
+function listprop(obj) {
+	window3=window.open('','messageWindow',
+		'scrollbars=yes,resize=yes,width=300, height=300');
+	str = "";
+	for (var i in obj)
+		if (i.indexOf("on")==0) {
+			str = str + "obj." + i + "=" + obj[i] + "<br>\n";
+		}
+	window3.document.writeln(str);
+}
+window.onload = onLoadFcn;
+window.onunload = onUnloadFcn;
+</script>
+
+<p>
+<form onsubmit="Javascript:alert('即將送出表單！'); return false">
+<table align=center border=1>
+<tr><th>事件<th>說明<th>實例<th>原始碼<th>以 "on" 開始的性質
+<tr>
+	<td>onClick</td>
+	<td>點選物件時</td>
+	<td><input type=button value="請按我！" onClick="alert('幹嘛按我？')" name=button1></td>
+	<td><a href="javascript:listsrc(document.forms[0].button1)">按此</a></td>
+	<td><a href="javascript:listprop(document.forms[0].button1)">按此</a></td>
+<tr>
+	<td>onChange</td>
+	<td>改變物件選項或字串時</td>
+	<td><input type=text value="Roger Jang" onChange="alert('不可以亂改我的名字喔！');this.value='Roger Jang'" name=text2></td>
+	<td><a href="javascript:listsrc(document.forms[0].text2)">按此</a></td>
+	<td><a href="javascript:listprop(document.forms[0].text2)">按此</a></td>
+<tr>
+	<td>onFocus</td>
+	<td>得到焦點時</td>
+	<td><input type=text onFocus="alert('很高興我又成為鎂光燈的焦點了！')" name=text3></td>
+	<td><a href="javascript:listsrc(document.forms[0].text3)">按此</a></td>
+	<td><a href="javascript:listprop(document.forms[0].text3)">按此</a></td>
+<tr>
+	<td>onBlur<td>失去焦點時</td>
+	<td><input type=text onBlur="alert('唉，又要離我而去了！')" name=text1></td>
+	<td><a href="javascript:listsrc(document.forms[0].text1)">按此</a></td>
+	<td><a href="javascript:listprop(document.forms[0].text1)">按此</a></td>
+<tr>
+	<td>onLoad</td>
+	<td>瀏覽器載入網頁時</td>
+	<td>本頁</a>
+	<td><a href="/jang/sandbox/showcode.asp?source=/jang/sandbox/javascript/tutorial_b/event.asp">按此</a>
+	<td><a href="javascript:listprop(window)">按此</a></td>
+<tr>
+	<td>onUnload</td>
+	<td>瀏覽器離開網頁時</td>
+	<td>本頁</a>
+	<td><a href="/jang/sandbox/showcode.asp?source=/jang/sandbox/javascript/tutorial_b/event.asp">按此</a>
+	<td><a href="javascript:listprop(window)">按此</a></td>
+<tr>
+	<td>onSubmit</td>
+	<td>送出表單資訊時</td>
+	<td><input type=submit></td>
+	<td><a href="/jang/sandbox/showcode.asp?source=/jang/sandbox/javascript/tutorial_b/event.asp">按此</a>
+	<td><a href="javascript:listprop(document.forms[0])">按此</a></td>
+<tr>
+	<td>onMousedown</td>
+	<td>按下滑鼠按鈕時</td>
+	<td><a href=# onmousedown="javascript:alert('滑鼠被你按下去了！')" name=link1>快按我吧！</a></td>
+	<td><a href="javascript:listsrc(document.forms[0].link1)">按此</a></td>
+	<td><a href="javascript:listprop(document.forms[0].link1)">按此</a></td>
+<tr>
+	<td>onMouseover</td>
+	<td>滑鼠移動到某個物件時</td>
+	<td><input type=button value="請輕輕的滑過我的身上！" onmouseover="alert('好癢喔！')" name=button5></td>
+	<td><a href="javascript:listsrc(document.forms[0].button5)">按此</a></td>
+	<td><a href="javascript:listprop(document.forms[0].button5)">按此</a></td>
+<tr>
+	<td>onMouseup</td>
+	<td>鬆開滑鼠按鈕時</td>
+	<td><a href=# onmouseup="javascript:alert('滑鼠被你鬆開了！')" name=link2>你還猶豫什麼？</a></td>
+	<td><a href="javascript:listsrc(document.forms[0].link2)">按此</a></td>
+	<td><a href="javascript:listprop(document.forms[0].link2)">按此</a></td>
+</table>
+</form>
+
+</body>
+</html>

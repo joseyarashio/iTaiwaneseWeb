@@ -1,0 +1,83 @@
+<article>
+	<id>1254</id>
+	<title>西施 太清涼！ 警察 「勸導」被嗆 使出過肩摔</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 警察局 中和二分局 員山派出所 一名警員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7-keng2-chhat-kiok8 Tiong-ho5-ji7-hun-kiok8 Inn5-soann-phai3-chhut-sou2 chit8-mia5 keng2-oan5，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* ging4-cat7-giok6* Diong1-Hor5*-qi2-hun1-giok6* Inn5-Suann1*-Pai3-Cut7-So4* zit6-mia5-ging4-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在 四月六日 經過 一家 檳榔攤，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 si3-goeh8 lak8-ho7 keng-koe3 chit8-keng pin-nng5-tann3，</JiaoLuo>
+			<TongYong>di2 si3-queh6-lak6-hor2* ging1-gue3 zit6-ging1 bin1-nng5-dann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>發現一名 檳榔西施 穿得 太清涼，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 chit8-mia5 pin-nng5-se-si chheng7-kah siunn-chheng-liang5，</JiaoLuo>
+			<TongYong>huat7-hen2-zit6-e5* bin1-nng5-se1-si1* cing2-gah7 siunn1-cing1-liang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>這名 檳榔西施 顏如憶 嗆聲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-mia5 pin-nng5-se-si Gan5-ju5-ek chhngh-siann，</JiaoLuo>
+			<TongYong>zit7-e5 bin1-nng5-se1-si1* Qan5-Ru5-Ik7* ciang3-siann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>在過程中 女子與警員 發生口角，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7-koe3-teng5-tiong lu2-chu2 ham keng2-oan5 hoat-seng khio2-kak，</JiaoLuo>
+			<TongYong>di2-gue3-ding5*-diong1* lu4-zu4*-gah7-ging4-uan5* huat7-sing1 qen5-qi4-ciong1-tut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>警員 一氣之下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-oan5 chit8-khi3-chi-ha7，</JiaoLuo>
+			<TongYong>ging4-uan5* zit6-ki3*-zi1-ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>竟然 使用 柔道、擒拿術 將 這名 檳榔西施 過肩摔，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 su2-iong7 jiu5-to7 、khim5-na2-sut8 chiong chit-mia5 pin-nng5-se-si koe3-keng-siak，</JiaoLuo>
+			<TongYong>ging4-ren5* su4-iong2 riu5-dor2*、kim5-na5-sut6* ga2 zit7-e5 bin1-nng5-se1-si1* gue3-ging1-siak7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>還把 這位女子 雙手反銬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-ka7 chit-ui7 lu2-chu2 siang-chhiu2 hoan2-khau3，</JiaoLuo>
+			<TongYong>gorh7-ga2 zit7-ui2-lu4-zu4* siang1-ciu4*-huan4-kau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>押回 警察局 偵訊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ah-hoe5 keng2-chhat-kiok8 cheng-sin3，</JiaoLuo>
+			<TongYong>ah7-dng4-ki3 ging4-cat7-giok6* zin1-sin3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>整個過程 都 被監視器 錄下來。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-e5 koe3-teng5 long2-pi7 kam3-si7-khi3 liok8-loh8-lai5。</JiaoLuo>
+			<TongYong>gui1-e5-gue3-ding5* long4 ho2-gam3-si2-ki3* lok6*-lorh6-lai5。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

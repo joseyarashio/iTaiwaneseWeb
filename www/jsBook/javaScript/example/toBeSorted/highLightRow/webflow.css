@@ -1,0 +1,375 @@
+
+.hh
+{
+    CURSOR: default
+}
+.hand1
+{
+    CURSOR: hand;
+    
+}
+.blueon
+{
+    BACKGROUND: #000099;
+    COLOR: #ffffff;
+    CURSOR: hand;
+    FONT-SIZE: 9pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.whiteon
+{
+    BACKGROUND: #FFFFFF;
+    COLOR: #0000FF;
+    CURSOR: hand;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.redon
+{
+    BACKGROUND: #960000;
+    COLOR: #ffffff;
+    CURSOR: hand;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.lredon
+{
+    BACKGROUND: #E19966;
+    COLOR: #960000;
+    CURSOR: hand;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.predon
+{
+    BACKGROUND: #FFFF00;
+    COLOR: #960000;
+    CURSOR: arrow;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.blueon1
+{
+    CURSOR: hand;
+    FONT-SIZE: 9pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.maroonon
+{
+    BACKGROUND: #804000;
+    COLOR: #ffffff;
+    CURSOR: hand;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.blueoff
+{
+    COLOR: #000000;
+    FONT-SIZE: 9pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.maroonoff
+{
+	BACKGROUND: #FFC896;
+    COLOR: #804000;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.redoff
+{
+    COLOR: #000000;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.red1on
+{
+    BACKGROUND: #960000;
+    COLOR: #ffffff;
+    CURSOR: hand;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: normal
+}
+.red1off
+{
+    COLOR: #000000;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: bold;
+    LINE-HEIGHT: normal
+}
+.whiteoff
+{
+    COLOR: #0000FF;
+    FONT-SIZE: 10pt;
+    FONT-STYLE: normal;
+    FONT-VARIANT: normal;
+    FONT-WEIGHT: normal;
+    LINE-HEIGHT: normal
+}
+.modicon
+{
+    LEFT: 3px;
+    POSITION: relative;
+    TOP: 2px
+}
+.modtxt
+{
+    POSITION: relative;
+    TOP: -4px
+}
+.modtxt2
+{
+    POSITION: relative;
+    TOP: 2px
+}
+.modtxt1
+{
+    POSITION: relative;
+    TOP: -8px
+}
+.pt9
+{
+    COLOR: #000000;
+    FONT-SIZE: 9pt
+}
+.button1
+{
+    FONT-SIZE: 9pt;
+    HEIGHT: 22px;
+    WIDTH: 80px
+}
+.buttons
+{
+    FONT-SIZE: 9pt;
+    HEIGHT: 20px
+}
+SELECT
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9pt
+}
+.inputtxt
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9pt;
+    HEIGHT: 20px
+}
+.arialtxt
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9pt
+}
+.icon
+{
+    BACKGROUND-COLOR: silver;
+    BORDER-BOTTOM: gray thin solid;
+    BORDER-LEFT: white 1px solid;
+    BORDER-RIGHT: gray 1px solid;
+    BORDER-TOP: white 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    FONT-FAMILY: 新細明體;
+    FONT-SIZE: 9pt;
+    HEIGHT: 20px;
+    LINE-HEIGHT: 12pt;
+    MARGIN: 0px;
+    PADDING-BOTTOM: 1px;
+    PADDING-LEFT: 3px;
+    PADDING-RIGHT: 3px;
+    PADDING-TOP: 1px;
+    TEXT-ALIGN: center;
+    TEXT-DECORATION: none
+}
+.iconover
+{
+    BACKGROUND-COLOR: silver;
+    BORDER-BOTTOM: black thin solid;
+    BORDER-LEFT: white 1px solid;
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: white 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    FONT-FAMILY: 新細明體;
+    FONT-SIZE: 9pt;
+    HEIGHT: 20px;
+    LINE-HEIGHT: 12pt;
+    MARGIN: 0px;
+    PADDING-BOTTOM: 1px;
+    PADDING-LEFT: 3px;
+    PADDING-RIGHT: 3px;
+    PADDING-TOP: 1px;
+    TEXT-ALIGN: center;
+    TEXT-DECORATION: none
+}
+.icondown
+{
+    BACKGROUND-COLOR: silver;
+    BORDER-BOTTOM: gray thin solid;
+    BORDER-LEFT: black 1px solid;
+    BORDER-RIGHT: silver 1px solid;
+    BORDER-TOP: black 1px solid;
+    COLOR: black;
+    CURSOR: hand;
+    FONT-FAMILY: 新細明體;
+    FONT-SIZE: 9pt;
+    HEIGHT: 20px;
+    LINE-HEIGHT: 15pt;
+    MARGIN: 0px;
+    PADDING-BOTTOM: 1px;
+    PADDING-LEFT: 3px;
+    PADDING-RIGHT: 3px;
+    PADDING-TOP: 1px;
+    TEXT-ALIGN: center;
+    TEXT-DECORATION: none
+}
+.icon2
+{
+}
+.iconover2
+{
+    BORDER-BOTTOM: black 1px solid;
+    BORDER-LEFT: white 1px solid;
+    BORDER-RIGHT: black 1px solid;
+    BORDER-TOP: white 1px solid
+}
+TABLE
+{
+    COLOR: #000000;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 150%
+}
+BODY
+{
+    COLOR: #000000;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 150%
+}
+.menu0
+{
+    BACKGROUND-COLOR: silver;
+    BORDER-BOTTOM: gray 1px solid;
+    BORDER-LEFT: white 1px solid;
+    BORDER-RIGHT: gray 1px solid;
+    BORDER-TOP: white 1px solid;
+    COLOR: black;
+    FONT-SIZE: 9pt;
+    HEIGHT: 21px;
+    PADDING-BOTTOM: 0px;
+    PADDING-TOP: 0px;
+    POSITION: relative;
+    TEXT-ALIGN: left;
+    WIDTH: 105%
+}
+
+A:link       { color: #0000FF; font-style: normal; text-decoration: none; cursor: hand }
+A:visited    { color: #0000FF; font-style: normal; text-decoration: none }
+A:active     { color: #F6AE33; font-style: normal; text-decoration: none }
+A:hover      { color: #F6AE33; font-style: normal; text-decoration: none }
+
+A.gg:link       { color: #FF8080; font-style: normal; text-decoration: none; cursor: hand }
+A.gg:visited    { color: #FF8080; font-style: normal; text-decoration: none }
+A.gg:active     { color: #FFFFFF; font-style: normal; text-decoration: none }
+A.gg:hover      { color: #FFFFFF; font-style: normal; text-decoration: none }
+
+A.menulinks:link  	{font-size:10pt;color:#FFFFFF;text-decoration:none;line-height:10pt;padding-top:5pt;padding-bottom:5pt;border-width:1pt 1pt 0pt 1pt; border-color:#820202;border-style:solid;width:150;}
+A.menulinks:visited	{font-size:10pt;color:#FFFFFF;text-decoration:none;line-height:10pt;padding-top:5pt;padding-bottom:5pt;border-width:1pt 1pt 0pt 1pt; border-color:#820202;border-style:solid;width:150;}
+A.menulinks:active	{font-size:10pt;color:#FFFFFF;text-decoration:none;line-height:10pt;padding-top:5pt;padding-bottom:5pt;border-width:1pt 1pt 0pt 1pt; border-color:#820202;border-style:solid;width:150;}
+A.menulinks:hover	{font-size:10pt;color:#FFFFFF;text-decoration:none; background: #820202; width:150;border-width:1pt 1pt 0pt 1pt; border-color:#820202;border-style:solid;cursor: hand;}
+
+A.menulinks1:link  		{font-size:10pt;color:#FFFFFF;text-decoration:none;line-height:10pt;padding-top:5pt;padding-bottom:5pt;border-width:1pt 0pt 0pt 0pt; border-color:#FEFCE0;border-style:solid;width:150;background: #820202;}
+A.menulinks1:visited	{font-size:10pt;color:#FFFFFF;text-decoration:none;line-height:10pt;padding-top:5pt;padding-bottom:5pt;border-width:1pt 0pt 0pt 0pt; border-color:#FEFCE0;border-style:solid;width:150;background: #820202;}
+A.menulinks1:active		{font-size:10pt;color:#FFFFFF;text-decoration:none;line-height:10pt;padding-top:5pt;padding-bottom:5pt;border-width:1pt 0pt 0pt 0pt; border-color:#FEFCE0;border-style:solid;width:150;background: #820202;}
+A.menulinks1:hover		{font-size:10pt;color:#FFFFFF;text-decoration:none; background: #820202; width:150;border-width:1pt 0pt 0pt 0pt; border-color:#FEFCE0;border-style:solid;cursor: hand;}
+
+A.menulinks2:link  		{font-size:9pt;color:#820202;text-decoration:none;line-height:10pt;padding-top:3pt;padding-bottom:3pt;border-width:0pt 3pt 0pt 3pt; border-color:#820202;border-style:solid;width:150;background: #FFFFCF}
+A.menulinks2:visited	{font-size:9pt;color:#820202;text-decoration:none;line-height:10pt;padding-top:3pt;padding-bottom:3pt;border-width:0pt 3pt 0pt 3pt; border-color:#820202;border-style:solid;width:150;background: #FFFFCF}
+A.menulinks2:active		{font-size:9pt;color:#820202;text-decoration:none;line-height:10pt;padding-top:3pt;padding-bottom:3pt;border-width:0pt 3pt 0pt 3pt; border-color:#820202;border-style:solid;width:150;background: #FFFFCF}
+A.menulinks2:hover		{font-size:9pt;color:#FFFFFF;text-decoration:none; background: #820202; width:150;border-width:0pt 3pt 0pt 3pt; border-color:#FFFFFF;border-style:solid;cursor: hand;}
+
+.subtitletxt
+{
+    FONT-SIZE: 9pt;
+    COLOR: #2F3090;
+    FONT-WEIGHT: BOLD;
+}
+.subtitlecell
+{
+	background: #2F3090;
+    FONT-SIZE: 9pt;
+    padding-top:3pt;
+    padding-bottom:3pt;
+    COLOR: #FFFFFF;
+    border-width:1pt 0pt 0pt 0pt; 
+    border-color:#AAAAAA;
+    border-style:solid;
+    FONT-WEIGHT: NORMAL;
+}
+
+.a1:link
+{
+    COLOR: #B7770E;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 14pt
+    TEXT-DECORATION: none
+}
+.a1:hover
+{
+    COLOR: #FFFFFF;
+    CURSOR: hand;
+    TEXT-DECORATION: underline
+}
+.a2
+{
+    COLOR: #ff6666;
+    FONT-SIZE: 9pt;
+    LINE-HEIGHT: 14pt
+    TEXT-DECORATION: underline
+}
+.a2:hover
+{
+    COLOR: #ffffff;
+    CURSOR: hand;
+    TEXT-DECORATION: underline
+}
+TEXTAREA
+{
+    FONT-SIZE: 9pt
+}
+INPUT
+{
+    FONT-SIZE: 9pt
+}

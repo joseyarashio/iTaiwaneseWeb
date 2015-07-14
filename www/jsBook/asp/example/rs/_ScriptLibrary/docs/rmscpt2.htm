@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>在客戶端網頁中啟動遠端 Scripting</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rsenablingremotescriptinginclientpages"></a>在客戶端網頁中啟動遠端 Scripting</h1>
+<p>
+在您使用遠端 scripting 來呼叫伺服端 script 之前，您必須將遠端 scripting 能力加入客戶端網頁。從客戶端 script 使用遠端 scripting 時所需的常式，已包含在 Rs.htm 檔案中。您必須將此檔案包含在客戶端網頁中。除此之外，您必須呼叫一個方法來啟動遠端 scripting applet。</p>
+<p>
+<b>若要啟動遠端 Scripting</b>
+<ol>
+<li>
+建立一個空的 JavaScript script 區塊，此區塊會引用 Rs.htm 檔案，如下列範例所示︰<pre><code>&lt;SCRIPT LANGUAGE="JavaScript" src="../_ScriptLibrary/RS.HTM"&gt;
+</code></pre>
+<p>
+請確認已指定 Rs.htm 檔案的正確路徑。此 script 區塊可以出現在客戶端網頁的任意位置上，但是一定要放在呼叫遠端程序之前就執行的區塊中。
+</p></li>
+<li>
+建立另一個 JavaScript script 區塊，並且在該區塊中呼叫 <a href="rmscpt12.htm">RSEnableRemoteScripting</a> 方法。依照預設，此方法假定 Rsproxy.class applet 位於伺服器或專案的虛擬根目錄下之 _ScriptLibrary 資料夾中。如果上述假定不成立的話，您就必須在方法呼叫中將路徑傳遞給 Rsproxy.class 檔案。<p>
+這個包含 RSEnableRemoteScripting 的 script 區塊必須放在文件的本文部分，因為該區塊會建立包含 Rsproxy.class 的引用之 &lt;APPLET&gt; 標籤。此標籤必須放在包含 Rs.htm 的 script 區塊之後。您也可以將該標籤緊接在 &lt;BODY&gt; 標籤之後，如下例所示︰
+<pre><code>&lt;BODY&gt;
+&lt;SCRIPT LANGUAGE="JavaScript"&gt;
+&nbsp;&nbsp;&nbsp;RSEnableRemoteScripting("../_ScriptLibrary")
+&lt;/script&gt;
+
+&lt;!-- remainder of .htm file here --&gt;
+</code></pre>
+<p>
+<b>附註</b>&nbsp;&nbsp;&nbsp;由 RSEnableRemoteScripting 所建立的 &lt;APPLET&gt; 標籤並不會出現在您的網頁中，即使您在瀏覽器中檢視網頁的原始檔也一樣。
+</li>
+</ol>
+<p>
+已啟動的含遠端 scripting 之客戶端網頁架構看起來大致如下所示︰</p>
+<pre><code>&lt;HTML&gt;
+&lt;HEAD&gt;
+&lt;TITLE&gt;遠端 Scripting 測試&lt;/TITLE&gt;
+&lt;/HEAD&gt;
+
+&lt;BODY&gt;
+&lt;SCRIPT LANGUAGE="JavaScript" src="../_ScriptLibrary/RS.HTM"&gt;&lt;/script&gt;
+&lt;SCRIPT LANGUAGE="JavaScript"&gt;
+&nbsp;&nbsp;&nbsp;RSEnableRemoteScripting("../_ScriptLibrary")
+&lt;/SCRIPT&gt;
+&lt;H1&gt;遠端 Scripting 客戶端網頁&lt;/H1&gt;
+這是遠端 scripting 客戶端網頁範例中的文字。
+&lt;/BODY&gt;
+&lt;/HTML&gt;
+</code></pre>
+<p>
+當您以上述方式設定客戶端網頁之後，就可以在伺服端網頁上新增呼叫遠端程序的 script。有關如何執行上述動作的詳細資訊，請參閱<a href="rmscpt5.htm">同步呼叫遠端 Scripting 方法</a>和<a href="rmscpt6.htm">非同步呼叫遠端 Scripting 方法</a>。有關如何設定伺服端網頁以接收遠端 scripting 呼叫的詳細資訊，請參閱<a href="rmscpt3.htm">在伺服端網頁中啟動遠端 Scripting</a>。</p>
+</BODY>
+</HTML>

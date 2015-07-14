@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>"document.images" 的性質列表</h2>
+<hr>
+<center>
+<img name=boy src=image/boy.gif border=1 onMouseOver="javascript:alert('這是小紳士！')">
+<img name=girl src=image/girl.gif border=1 onMouseOver="javascript:alert('這是小淑女！')">
+</center>
+<hr>
+
+<script src="listProp.js"></script>
+<p><h3>"document.images" 的性質列表：</h3>
+<p><script>listProp(document.images, "document.images")</script>
+<p><h3>"document.images.boy" 的性質列表：</h3>
+<p><script>listProp(document.images.boy, "document.images.boy")</script>
+
+<hr>
+</body>
+</html>

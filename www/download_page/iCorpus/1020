@@ -1,0 +1,118 @@
+<article>
+	<id>1020</id>
+	<title>象隊 發出聲明 抗議 板檢 未審先判</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>板橋地檢署 大規模 搜索 職棒簽賭案，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Pang-kio5-te7-kiam2-su2 toa7-kui-bou5 sou-sek chit-pang7 chhiam-kiau2-an3，</JiaoLuo>
+			<TongYong>Bang1-Gior5-De2-Giam4-Su4* dua2-gui1-vo5* so1-sor4 zit7-bang2*-ciam1-do4-an3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>這次 球員人數 涉入最多的 兄弟象隊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-pai2 kiu5-oan5 jin5-sou3 bak-tioh8 siong7-che7-e5 HiaN-ti7-ChhiuN7-tui7，</JiaoLuo>
+			<TongYong>zit7-bai4* giu5-uan5-rin5-so3* siap6-rip6-siang2-ze2*-e5 Hiann1-Di2-Ciunn2-Dui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>針對 板橋地檢署 的 發言，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiam-tui3 Pang-kio5-te7-kiam2-su2 e5 hoat-gian5，</JiaoLuo>
+			<TongYong>ziam1-dui3 Bang1-Gior5-De2-Giam4-Su4* e5 huat7-qen5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>二十七日 發表 公開信 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji7-chap8-chhit-ho7 hoat-piau2 kong-khai-phe piau2-si7。</JiaoLuo>
+			<TongYong>ri2-zap6-cit7-hor2* huat7-biau4 gong1-kai1-sin3* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>偵辦犯罪，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng-pan7 hoan7-choe7，</JiaoLuo>
+			<TongYong>zin1-ban2-huan2-zue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>維護 職業棒球 環境 是 檢察官的 職責，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i5-hou7 chit-giap8-pang7-kiu5 khoan5-keng2 si7 kiam2-cha-koaN e5 chit-chek，</JiaoLuo>
+			<TongYong>ui5-ho2 zit7-qiap6-bang2-giu5* huan5-ging4* si2 giam4-cat7-guann1*-e5 zit7-zik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>我們 理解並尊重，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan2 li2-kai2 peng7 chun-tiong7，</JiaoLuo>
+			<TongYong>quan4 li4-gai4* bing2-ciann4 zun1-diong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>但是 追訴犯罪 不是「目的」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 tui-sou3 hoan7-choe7 m7-si7「bok8-tek」，</JiaoLuo>
+			<TongYong>dan2-si2 dui1-so3-huan2-zue2* m2-si7「vok6-dik7*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>為什麼 承辦的 檢察官，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-siaN2-mih8 seng5-pan7 kiam2-cha-koaN，</JiaoLuo>
+			<TongYong>ui2-siann4-mih7 sing5-ban2*-e5 giam4-cat7-guann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>竟然 在 媒體面前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 ti7 mui5-the2 bin7-thau5-cheng5，</JiaoLuo>
+			<TongYong>ging4-ren5* di2 mui5-te4*-vin2-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>語帶奚落地 說： 「中華職棒 玩完了」？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oe7-chah-phi3-siuN3 e5 kong2「Tiong-hoa5-chit-pang7 khi3-liau2-liau2-ah」？</JiaoLuo>
+			<TongYong>ue2*-dua3-pinn3-siunn3*-e5 gong4 「Diong1-Hua5-Zit7-Bang2* sng4-liau4*-a3*」？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>不是 未審先判 嗎？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-si7 bi7-sim2-seng-phoaN3 bou3？</JiaoLuo>
+			<TongYong>Gam4-m2-si2 vue2-sim4*-sing1-puann3*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>沒有違反 偵查不公開 原則 嗎？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-ui5-hoan2 cheng-cha-bo5-kong-khai goan5-chek bou3？</JiaoLuo>
+			<TongYong>gam4 vor5-ui5-huan4 zin1-za1*-vor5-gong1-kai1* e5 quan5-zik7*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>對 這種 不妥當的 行為，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-chit-chiong2 bo5-tho3-tong3-e5 heng5-ui5，</JiaoLuo>
+			<TongYong>Dui3 zit7-ziong4 vor5-tor3-dong3*-e5 hing5-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>難道 不需要 對社會 有所交代 嗎？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kam2-kong2 bo5-su-iau3 tui3 sia7-hoe7 iu2-sou2-kau-tai7 bou3？</JiaoLuo>
+			<TongYong>gam4-gong4 vor5-su1-iau3 dui3-sia2-hue2* iu4-so4-gau1-dai2* sioh7*？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

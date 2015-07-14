@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC"-//W3C//DTD HTML 4.0//EN" "http"//www.w3.org/TR/REC-html1140/strict.dtd">
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Javascript</title>
+	<script language='javascript' type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js">//引入腳本(預設javascript 支援perl、python、VBScript..)</script>
+	<style type="text/css"> 
+		<!--
+		A:hover{background-color:#FFFF80}
+		A.MainMenu{text-decoration:none;font:30pt;}
+		A.SubMenu{text-decoration:none;font-weight:normal;font:30pt;} 
+		DIV.SubMenu{margin-left:20pt}
+		.cdh{color:#1F1F1F;font:50pt}
+		.ONE {font-size: 10px;color:red;}
+		.blueLyric {font-size:20px;font-weight:bold;color:blue;font-family:Arial;}
+		.normalLyric {font-size:20px;font-weight:bold;color:black;font-family:Arial;}
+		-->
+	</style> 
+	<form name="myform">
+		<select size="1" id="sysearch">
+			<option value="a">a</option>
+			<option value="b">b</option>
+			<option value="c">c</option>
+			<option value="d">d</option>
+			<option value="e">e</option>
+			<option value="f">f</option>
+			<option value="g">g</option>
+			<option value="h">h</option>
+			<option value="i">i</option>
+			<option value="j">j</option>
+			<option value="k">k</option>
+			<option value="l">l</option>
+			<option value="m">m</option>
+			<option value="n">n</option>
+			<option value="o">o</option>
+			<option value="p">p</option>
+			<option value="q">q</option>
+			<option value="r">r</option>
+			<option value="s">s</option>
+			<option value="t">t</option>
+			<option value="u">u</option>
+			<option value="v">v</option>
+			<option value="w">w</option>
+			<option value="x">x</option>
+			<option value="y">y</option>
+			<option value="z">z</option>
+		</select>
+		<input type="button" value="搜尋" onclick=searchsyllable(sysearch.value)><br>
+		<div name="result" id="result" style="width:100%;height:100%;border:2px #ccc dashed;padding:10px;overflow:auto;">
+		</div><br>
+		<div name="S_result" id="S_result" style="width:100%;height:100%;border:2px #ccc dashed;padding:10px;overflow:auto;">
+		</div>
+	</form>
+</head>
+<body>
+	<script type="text/javascript">
+		
+		var pre_text = new Array();
+		$.ajax({//開啟文字檔
+			type: "POST",
+			url: "http://dl.dropboxusercontent.com/u/9346244/word&syl_s4.txt",
+			dataType: "text",
+			async:false,
+			error:function(xhr){alert('error:'+"open file failed");},//開啟失敗
+			success: function(msg){
+				pre_text = msg.split(/\n/);
+			}
+		});
+		
+		function searchsyllable(data)
+		{
+			var i = 0,j = 0,k = 0,w= "";
+			var syl=""
+			var temp = new Array();
+			var temp1 = new Array();
+			$("#S_result").empty();
+			syl=data
+			
+			while(pre_text.length > i)
+			{
+				temp=pre_text[i].split(/\t/);
+				if(temp[0].search(syl) == 0)
+				{
+					temp1=temp[1].split(/;/);
+					$("#S_result").append("<a class='MainMenu' href='JavaScript:ShowSubMenu("+i+")'>"+temp[0]+"\t\t//"+temp1.length+"</a><br>"); 
+					k++;
+					//zun5-nih6	船 裡:54730,54732,54760,54767,212203;船 nih6:52399,52419,82669,100380,160646,177865,213367,266792,267396,327679
+					j=0;
+					w="";
+					while(temp1.length > j)
+					{
+						temp2=temp1[j].split(/:/);
+						temp3=temp2[1].split(/,/);
+						w=w+"<a class='SubMenu' target='0' href='http://dl.dropboxusercontent.com/u/9346244/讀檔測試.html?"+temp[0]+'='+temp2[0]+'='+temp2[1]+"'>"+temp2[0]+" "+temp3.length+"</a><br>";
+						j+=1;
+					}
+					$("#S_result").append("<div id='SubMenu"+i+"' class='SubMenu' style='display:none'>"+w+"</div>");
+				}
+				i+=1;
+			}
+			$("#result").append("<div id='total>"+k+"</div>");
+		}
+		
+		function ShowSubMenu(id) {
+			if (document.all["SubMenu" + id].style.display == "")
+			{
+				document.all["SubMenu" + id].style.display = "none";
+				//currentMenu = 0;
+			}
+			else
+			{
+				//if (currentMenu != 0) {document.all["SubMenu" + currentMenu].style.display = "none";}  
+				document.all["SubMenu" + id].style.display = "";
+				//currentMenu = id;
+			}
+		}
+		
+		function part_play(current){//random access
+			text=pre_text[current].split(/=/);
+			window.open("http://dl.dropboxusercontent.com/u/9346244/wavplay.html?"+text[0]+"_blank","width=350,height=120,menubar=no,toolbar=no")
+		}
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,35 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用 Exists() 和 RemoveAll() 的字典物件的方法</h2>
+<hr>
+
+<script src=listDict.js></script>
+<script>
+capitalOf = new ActiveXObject("Scripting.Dictionary");	// 建構一個空的字典物件
+capitalOf.Add("Taiwan", "Taipei");		// 加入第 1 個對應關係
+capitalOf.Add("USA", "Washington");		// 加入第 2 個對應關係
+capitalOf.Add("Korea", "Seoul");		// 加入第 3 個對應關係
+listDict(capitalOf, "capitalOf");		// 列印字典物件
+
+key="Taiwan";
+if (capitalOf.Exists(key))	// 測試 "Taiwan" 是否是字典物件 capitalOf 的鍵值
+	document.writeln("\"" + key + "\" is a key of \"capitalOf\".<br>");
+else
+	document.writeln("\"" + key + "\" is NOT a key of \"capitalOf\".<br>");
+key="Japan";
+if (capitalOf.Exists(key))	// 測試 "Japan" 是否是字典物件 capitalOf 的鍵值
+	document.writeln("\"" + key + "\" is a key of \"capitalOf\".<br>");
+else
+	document.writeln("\"" + key + "\" is NOT a key of \"capitalOf\".<br>");
+	
+capitalOf.RemoveAll();			// 刪除所有項目
+listDict(capitalOf, "capitalOf");	// 列印字典物件（應該印不出來，因為所有項目都被刪掉了！）
+</script>
+
+<hr>
+</body>
+</html>

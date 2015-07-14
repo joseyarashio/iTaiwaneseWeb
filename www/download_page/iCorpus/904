@@ -1,0 +1,97 @@
+<article>
+	<id>904</id>
+	<title>吃海鮮 手指腫　戒指 卡三小時</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 一名 高中生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 chit-mia5 ko-tiong-seng，</JiaoLuo>
+			<TongYong>Dai5-bak7-guan2* zit6-mia5 gor1-diong1-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>因為 有 過敏體質，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 u7 koe3-bin2 the2-chit，</JiaoLuo>
+			<TongYong>in1-ui2 u2 gue3-vin4-te4-zit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>吃海鮮 引發 蕁麻疹，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah hai2-sian in2-hoat chhin3-moh，</JiaoLuo>
+			<TongYong>ziah6-hai4-sen1* ki4-cin3-moh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>導致 戴了戒指的 左手 無名指，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 koa3-liau2 chhiu2-chi2 e5 to3-chhiu2 boe2-ji7-chainn2，</JiaoLuo>
+			<TongYong>di3-su4 gua3-liau4-ciu4-zi4*-e5 dor3-ciu4* vor5-mia5-zainn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>腫得 像香腸 一樣大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng2 kah chhiunn7 ian-chhiang5 kang7-khoan2 toa7，</JiaoLuo>
+			<TongYong>zing4-gah7 ciunn2-en1-ciang5* gang2-kuan4-dua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>連醫生 都沒辦法，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>liân i-seng lóng-bô-pān-hoat，</JiaoLuo>
+			<TongYong>len5-i1-sing1* long4-vor5-ban2-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>甚至 還有 截斷手指的 打算，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3 iau2-u7 chann2-tng chng2-thau5-a2 an3-sng3，</JiaoLuo>
+			<TongYong>sim2-zi3 gorh7-u2 zann4-dng2 zing4-tau5-a4* e5 pah7-sng3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>還好 消防隊員 不放棄，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 siau-hong5-tui7-oan5 bo5-hong3-khi3，</JiaoLuo>
+			<TongYong>hor4-ga1-zai3* siau1-hong5-dui2-uan5* vor5-hong3-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>前後 用了 六種器材，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng5-au7 iong7-liau2 lak-chiong2 khi3-chai5，</JiaoLuo>
+			<TongYong>zing5-au2* iong2-liau4 lak6-ziong4-ki3-zai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>花費了 三個小時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khai-liau2 sann-tiam2-cheng，</JiaoLuo>
+			<TongYong>kai1-liau4 sann1-diam4-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>才保住 這名 高中生 的 手指，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah pó-chū chit-miâ ko-tiong-seng ê chńg-thâu-á，</JiaoLuo>
+			<TongYong>ziah7-bor4-diau5 zit7-mia5 gor1-diong1-sing1* e5 zing4-tau5-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>幫他 把鋼戒指 取下來。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pang i ka7 kng3-chhiu2-chi2 chhu2-loh-lai5。</JiaoLuo>
+			<TongYong>bang1-i1 ga2-gng3-ciu4-zi4* teh6-lorh6-lai5。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

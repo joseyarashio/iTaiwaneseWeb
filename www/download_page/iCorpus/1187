@@ -1,0 +1,76 @@
+<article>
+	<id>1187</id>
+	<title>嫌犯 拒捕 衝撞員警 街頭追逐 束手就擒</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>彰化縣 北斗警方，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chiong-hoa3-koan7 Pak-tau2 keng2-hong，</JiaoLuo>
+			<TongYong>Ziang1-Hua3-Guan2* Bor4-Dau4*-ging4-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>凌晨 圍捕兩名 竊盜跟販毒 通緝犯 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thinn-beh-kng ui5-pou2 nng7-mia5 chhiap-to7 kah hoan3-tok8 thong-chhip-hoan7 si5，</JiaoLuo>
+			<TongYong>tau3-za4* ui5-bo4-nng2-mia5 cet7-dor2*-gah7-ve2-dok6* e5 tong1-cip7-huan2* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>遭到 嫌犯 開車衝撞 拒捕。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gu7-tioh8 hiam5-hoan7 khui-chhia chhiong-long3 ki7-pou2。</JiaoLuo>
+			<TongYong>ki3-ho2 hiam5-huan2* sai1-cia1*-ciong1-long3* gi2-bo4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>雙方 展開 長達 十多公里 追逐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang-hong thian2-khui tng5-kau3 chap8-kui2-kong-li2 chau2-sio-jiok </JiaoLuo>
+			<TongYong>Siang1-hong1* den4-kui1 dng5-gau3 zap6-gui4-gong1-li4* e5 sior1-rik7* </TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>警方 被迫 連開了 十二槍。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong pi7-pek lian5-khui-liau2 chap8-ji7-chheng3，</JiaoLuo>
+			<TongYong>ging4-hong1* bi2-pik7 len5-kui1-liau4 zap6-qi2-cing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>最後 歹徒 撞上 路邊護欄 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-boe2 phainn2-tou5 long3-tioh8 lou7-pinn hou7-noa5 au7，</JiaoLuo>
+			<TongYong>Siang2-vue4-a4* painn4-do5* long3-diorh6 lo2-binn1*-e5-ho2-lan5* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>還 棄車逃逸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2 khi3-chhia to5-thoat，</JiaoLuo>
+			<TongYong>gorh7 ki3-cia1*-dor5-zau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>一名員警 跳下駁坎 追捕時 受傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 oan5-keng2 thiau3-loh8 pok-kham3-a2 tui-pou2-si5 siu7-siong，</JiaoLuo>
+			<TongYong>zit6-e5-uan5-ging4* tiau3-lorh6-borh7-huann2* dui1-bo4*-si5* siu2-siong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>終於 把嫌犯 圍捕到案。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chong2-sng3 ka7 hiam5-hoan7 ui5-pou2 kau3-an3。</JiaoLuo>
+			<TongYong>zong4-suinn3 ga2-hiam5-huan2* ui5-bo4-dor3-an3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

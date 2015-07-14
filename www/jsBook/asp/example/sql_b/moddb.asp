@@ -1,0 +1,80 @@
+<%@ language="jscript" %>
+<% title = "使用 ASP 及 SQL 對資料庫進行新增、修改、刪除" %>
+<!--#include file="../head.inc"-->
+<hr>
+<% database = "student.mdb"; %>
+<% table = "Student"; %>
+
+<%
+defaultSql="UPDATE Student SET Student.Score = 60 WHERE (((Student.Score)<60))";
+revertDb=0;
+if (Request("revertDb")=="goRevertDb") {
+	fso = new ActiveXObject("Scripting.FileSystemObject");
+	fso.CopyFile("d:\\users\\jang\\books\\webprog\\06asp\\example\\sql\\student_backup.mdb", "d:\\users\\jang\\books\\webprog\\06asp\\example\\sql\\student.mdb", true);
+	revertDb=1;
+}
+SQL=Request("sql")+"";
+if ((SQL!="undefined") && (revertDb==0)) {
+	Conn = Server.CreateObject("ADODB.Connection");
+	Conn.ConnectionString = "DBQ=" + Server.MapPath(database) + ";Driver={Microsoft Access Driver (*.mdb)};Driverld=25;FIL=MS Access;";
+	Conn.Open();
+	Conn.Execute(SQL);
+	Conn.Close();
+}%>
+
+<!--#include file="listdb.inc"-->
+<h3 align=center>Table "<%=table%>" in database "<%=database%>":</h3>
+<% listdb(database, table); %>
+
+<form name="myform" method=post>
+<center>
+<textarea name=sql cols=80 rows=3>
+<% if ((SQL!="undefined") && (revertDb==0))
+	Response.write(SQL);
+else
+	Response.write("UPDATE Student SET Student.Score = 60 WHERE (((Student.Score)<60))");
+%>
+</textarea>
+<br>
+<input type=submit name=submitSQL value="執行 SQL 命令">
+<input type=hidden name=revertDb>
+<input type=button value="恢復原始資料庫" onClick="this.form.revertDb.value='goRevertDb'; this.form.submit()">
+</center>
+</form>
+
+<ul>
+<li>新增資料：
+	<ul>
+	<li>語法：<br>
+	INSERT INTO Student (欄位名稱1,欄位名稱2,...) VALUES (欄位1的資料,欄位2的資料,...)
+	<li>範例：
+		<ol>
+		<li>INSERT INTO Student (NickName, RealName, Year, Score) VALUES ('Roger', 'Roger Jang', 0, 67)
+		<li>INSERT INTO Student (RealName, Score) VALUES ('Test', 87.95)
+		</ol>
+	</ul>
+<li>修改資料：
+	<ul>
+	<li>語法：<br>
+	UPDATE 資料表名稱 SET 欄位名稱1=欄位1的資料,欄位名稱2=欄位2的資料,... WHERE 條件式
+	<li>範例：
+		<ol>
+		<li>UPDATE Student SET Year=0 WHERE Year=7
+		<li>UPDATE Student SET Student.Score = 60 WHERE (((Student.Score)<60));
+		</ol>
+	</ul>
+<li>刪除資料：
+	<ul>
+	<li>語法：<br>
+	DELETE FROM 資料表名稱 WHERE 條件式
+	<li>範例：
+		<ol>
+		<li>DELETE FROM Student WHERE SSN>=20 
+		<li>DELETE FROM Student WHERE NickName='sony'
+		</ol>
+	</ul>
+</ul>
+相關網頁：<a href="sqlin.asp">使用 ASP 及 SQL 對資料庫進行資料查詢</a>
+
+<hr>
+<!--#include file="../foot.inc"-->

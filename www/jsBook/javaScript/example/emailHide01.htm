@@ -1,0 +1,19 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用 JavaScript 來隱藏電子郵件：簡單版</h2>
+<hr>
+
+<script>
+function showEmail(user, site){
+	document.write('<a href=\"mailto:' + user + '@' + site + '\">');
+	document.write(user + '@' + site + '</a>');
+}
+</script>
+張老師的 Email 是 <script>showEmail("jang", "cs.nthu.edu.tw");</script>
+<hr>
+</body>
+</html>

@@ -1,0 +1,118 @@
+<article>
+	<id>1614</id>
+	<title>毛豆、鴨肉 並列 十大 出口廠商</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台灣 出口 大量的 農產品，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-oan5 chhut-khau2 toa7-liang7-e5 long5-san2-phin2，</JiaoLuo>
+			<TongYong>Dai5-Uan5* cut7-kau4 dai2-liong2*-e5 long5-san4-pin2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>除了 水果、蘭花，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti5-liau2 chui2-ko2 、 lan5-hoe，</JiaoLuo>
+			<TongYong>du5-liau4 zui4-gor4*、lan5-hue1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>還有 我們愛吃的 毛豆、鴨肉 等等，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 lan2 ai3-chiah8-e5 mou5-tau7 、 ah-bah teng2-teng2，</JiaoLuo>
+			<TongYong>gorh7-u2 lan4-ai3-ziah6*-e5 mo5-dau2*、ah7-vah7* ding4-ding4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>都是 台灣 十大 外銷 農產商品，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-si7 Tai5-oan5 chap8-toa7 goa7-siau long5-san2 siong-phin2，</JiaoLuo>
+			<TongYong>long4-si2 Dai5-Uan5* zap6-dua2 qua2-siau1* long5-san4-siong1-pin4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>廠商 在 農委會的 輔導之下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiunn2-siong ti7 Long5-ui2-hoe7 e5 hu3-to7-chi-ha7，</JiaoLuo>
+			<TongYong>ciunn4-siong1* di2 Long5-Ui4-Hue2*-e5 hu4-dor2*-zi1-ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>今年 一月到十月 的 出口產值，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ni5 it-goeh8 kau3 chap8-goeh8 e5 chhut-khau2 san2-tat8，</JiaoLuo>
+			<TongYong>gin1-ni5* it7-queh6*-gau3-zap6-queh6* e5 cut7-kau4*-san4-dit6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>維持 與去年 一樣多。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i5-chhi5 ham ku7-ni5 kang7-khoan2-choe7。</JiaoLuo>
+			<TongYong>i5-ci5 ham2-gu2-ni5* gang2-kuan4-ze2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>一顆顆 肥又綠 毛豆 躺在 工作台上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-liap8-liap8 pui5-koh-chhenn mou5-tau7 to2-ti7 kang-chok-tai5-siang7，</JiaoLuo>
+			<TongYong>Zit6-liap6-zit6-liap6 bui5*-gorh7-cenn1*-e5 mo5-dau2 dor4-di2 gang1-zok7-dai5*-ding4-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>從採收 到包裝，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 chhai2-siu kau3 pau-chong，</JiaoLuo>
+			<TongYong>ui3-cai4-siu1* gau3 bau1-zong，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>還要 專人 慢慢挑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah-ai3 choan-jin5 ban7-ban7-a2-keng2，</JiaoLuo>
+			<TongYong>gorh7-ai3 zuan1-lang5* van2-van2-a4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還有 這一堆 台灣 優質 海鮮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 chit8-tui Tai5-oan5 iu-chit hai2-sian，</JiaoLuo>
+			<TongYong>iau4-u2 zit6-dui1 Tai5-uan5 iu1-zit7 hai4-sen，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>又白又飽滿 的 台灣米，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-peh8-koh-pa2-jin5 e5 Tai5-oan5-bi2，</JiaoLuo>
+			<TongYong>gorh7-beh6-gorh7-ba4-rin5 e5 Tai5-uan5-vi2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>還有 美麗的 各式各樣 蘭花，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 bi2-le7-e5 kok-sek-kok-iunn7 lan5-hoe，</JiaoLuo>
+			<TongYong>iau4-u2 vi4-le2-e5 gok7-sik7-gok7-iunn2 lan5-hue，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>大批 出口到 世界各地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-phe chhut-khau2-kau3 se3-kai3-kok-te7，</JiaoLuo>
+			<TongYong>dua2-pe1 cut7-kau4-gau3 se3-gai3-gok7-de7，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>這些 農產品 讓 台灣的 農業 走入 國際。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chia-e5 long5-san2-phin2 hou7 Tai5-oan5-e5 long5-giap8 kiann5-jip8 kok-che3。</JiaoLuo>
+			<TongYong>zia1-e5 long5-san4-pin4 ho2 Tai5-uan5-e5 long5-qiap6 genn5-rip6 gok7-ze3。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

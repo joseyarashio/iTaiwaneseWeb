@@ -1,0 +1,97 @@
+<article>
+	<id>1361</id>
+	<title>母雞帶小雞 蘇貞昌 帶領包「粽」</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>民進黨 台北市長 參選人 蘇貞昌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 Tai5-pak-chhi7-tiunn2 chham-soan2-jin5 Sou-cheng-chhiong，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* Dai5-Bak7-ci2-diunn4* cam1-suan4-rin5* So1-Zin1-Ciang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>今天 母雞 帶小雞，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit8 ke-bo2 chhoa7 ke-a2-kiann2，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* ge1-vor4* cua2-ge1-a4-giann4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>跟 黨內的 議員參選人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kap tong2-lai7-e5 gi7-oan5-chham-soan2-jin5，</JiaoLuo>
+			<TongYong>gah7 dong4-lai2*-e5 qi2-uan5*-cam1-suan4-rin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一一拍攝 競選 定裝照，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-it-hip keng7-soan2 teng7-chong-siong3，</JiaoLuo>
+			<TongYong>zit6-e5*-zit6-e5* hip7 ging2-suan4* ding2-zong1-siang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>為了搶到 與 人氣王 蘇貞昌 最近的位置，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-liau2 chhiunn2-tioh8 ham jin5-khi3-ong5 Sou-cheng-chhiong siang7-kin7-e5 ui7-ti3，</JiaoLuo>
+			<TongYong>ui2-liau4-ciunn4-diorh6 ham2 rin5-ki3-ong5* So1-Zin1-Ciang1* siang2-gin2*-e5-ui2-di3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>參選人 各出奇招，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chham-soan2-jin5 kok-chhut-ki5-chiau，</JiaoLuo>
+			<TongYong>cam1-suan4-rin5* gok7-cut7-gi5-ziau1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>有的 幫忙 拿道具，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-e5 pang-bang5 theh8-ke-si，</JiaoLuo>
+			<TongYong>u2-e5* bang1-vang5 teh6-dor2-gu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>還有人 得半蹲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7-lang5 tit-khia7-be2-si3，</JiaoLuo>
+			<TongYong>gorh7-u2-lang5* ai3-buann3-ku5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>蘇貞昌 也應景地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sou-cheng-chhiong ma7-kah-keng2-e5，</JiaoLuo>
+			<TongYong>So1-Zin1-Ciang1* ma2-ing3-ging4*-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>為 每位 參選人 準備</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-tak8-ui7 chham-soan2-jin5 chun2-pi7</JiaoLuo>
+			<TongYong>ui2 mui4-zit6-ui2 cam1-suan4-rin5* zun4-bi2</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>應景的 粽子跟包子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kah-keng2-e5 chang3 kap pau-a2，</JiaoLuo>
+			<TongYong>ing3-ging4*-e5 vah7-zang3*-gah7-bau1-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>希望 大家「包中」。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi-bang7 ta-ke 「pau-tiau5」。</JiaoLuo>
+			<TongYong>hi1-vang2 dak6-ge1「bau1*-zhong4*」。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

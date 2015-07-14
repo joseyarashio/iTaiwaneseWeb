@@ -1,0 +1,111 @@
+<article>
+	<id>1301</id>
+	<title>司機 血壓飆高 計程車翻覆 卡住交通</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣的 瑞芳隧道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7-e5 Sui7-hong pong7-khang，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2*-e5 Sui2-Hong1-Sui2-Dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>發生 翻車意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng peng2-chhia i3-goa7，</JiaoLuo>
+			<TongYong>huat7-sing1 bing4-cia1*-e5-i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一名 計程車司機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 ke3-teng5-chhia-un3-chiang3，</JiaoLuo>
+			<TongYong>zit6-e5* ge3-ding5-cia1-su1-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>疑似 因為 血壓升高，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 in-ui7 hiat-ap seng-koan5，</JiaoLuo>
+			<TongYong>qi5-su2 in1-ui2 hueh7-ap7*-qia5-guan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>整個人 突然暈眩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-e5-lang5 tut8-jian5 hin5-gong5，</JiaoLuo>
+			<TongYong>gui1-e5-lang5* hiong5-hiong5*-tau5*-qong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>失控 擦撞 隧道邊的 人行道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sit-khong3 chhe3-long3 pong7-khang-pinn-e5 lin5-heng5-to7，</JiaoLuo>
+			<TongYong>sit7-kong3* ce3-diorh bong2-kang1-binn1*-e5 rin5-hing5-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>整輛車 四輪朝天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-tai5-chhia si3-lian2-hiong3-thinn，</JiaoLuo>
+			<TongYong>gui1-dai5-cia1* si3-len4*-hiang3-tinn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>翻覆在 隧道內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng2-phak ti7-pong7-khang-lai7，</JiaoLuo>
+			<TongYong>bing4-di2 bong2-kang1-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>救護人員 趕到現場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiu3-hou7-jin5-oan5 koann2-kau3-hian7-tiunn5，</JiaoLuo>
+			<TongYong>giu3-ho2-rin5-uan5* guann4-gau3-hen2-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>把 卡在車內的 司機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka7 khah8-ti7 chhia-lai7-e5 un3-chiang3，</JiaoLuo>
+			<TongYong>ga2 kah6-di2-cia1-lai2*-e5 su1-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>趕快 救出來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-kin2 kiu3-chhut-lai5，</JiaoLuo>
+			<TongYong>guann4-gin4 giu3*-cut7*-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>受到 車禍的影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu7-tioh8 chhia-ho7-e5 eng2-hiong2，</JiaoLuo>
+			<TongYong>siu2-diorh6 cia1-hor2*-e5-ing4-hiang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>沿途的交通 受阻擋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ian5-tou5-e5 kau-thong siu7-chou2-tong3，</JiaoLuo>
+			<TongYong>en5-do5*-e5-gau1-tong1* siu2-diorh6-zo4-dong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>車陣 回堵 超過 一公里。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-tin7 hoe5-that chhiau-koe3 chit8-kong-li2。</JiaoLuo>
+			<TongYong>cia1-din2* hue5-do4* ciau1-gue3 zit6-gong1-li4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

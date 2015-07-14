@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<job id="LowercaseFilenames">
+  <!--  
+        
+        This script renames all files and folders in a directory to lowercase.
+        ======================================================================
+        
+  -->
+  <script language="VBScript" src="lib/recurse.vbs" />
+  <script language="VBScript">
+  <![CDATA[
+    
+    Dim folder
+    folder = InputBox("Enter the path to the" & vbCrLf & "target folder:", "Target Folder", "C:\")
+    
+    Dim fso, fold
+    Set fso = WScript.CreateObject("Scripting.FileSystemObject")
+    Set fold = fso.GetFolder(folder)
+    Recurse fold
+    Set fold = Nothing
+    Set fso = Nothing
+    
+    MsgBox "Done!", vbExclamation, "Task Completed"
+    
+  ]]>
+  </script>
+</job>

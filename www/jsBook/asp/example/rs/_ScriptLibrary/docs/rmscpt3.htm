@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=BIG5">
+<title>在伺服端網頁中啟動遠端 Scripting</title>
+<TITLE>遠端 Scripting</TITLE></HEAD>
+<BODY BGCOLOR=#FFFFFF TEXT=#000000 dir=ltr>
+<h1><a name="rsenablingremotescriptinginserverpages"></a>在伺服端網頁中啟動遠端 Scripting</h1>
+<p>
+除了將客戶端網頁建構為可呼叫遠端 script 之外，您還必須將伺服端網頁建構為可接收遠端 script。其相關步驟如下︰
+<ul>
+<li>
+包含遠端 Scripting 伺服端程式庫，並予以啟動。<br><br></li>
+<li>
+撰寫可供客戶端網頁呼叫的函數或副程式。<br><br></li>
+<li>
+將函數或副程式當作方法般公開。</li>
+</ul>
+<p>
+依照預設，客戶端 script 所呼叫的 ASP 網頁並不會顯示在瀏覽器中&nbsp;- 而只是在伺服端上執行，再將結果傳回客戶端。因此，通常您並不需要將任何 HTML 文字納入 ASP 網頁上，只要包含 script 即可。不過，只要您啟動了遠端 scripting 伺服端程式庫，並且使用下列技巧來公開網頁上的方法，便可能得以呼叫內含 HTML 文字並能正常顯示的 ASP 網頁上之方法。</p>
+<p>
+<b>若要包含並啟動遠端 Scripting 伺服端程式庫</b>
+<ol>
+<li>
+建立一個引用 Rs.asp 檔案的伺服端 INCLUDE 陳述式，如以下範例所示︰<pre><code>&lt;!--#INCLUDE FILE="../_ScriptLibrary/RS.ASP"--&gt;
+</code></pre>
+<p>
+請確認已指定 Rs.asp 檔案的正確路徑。INCLUDE 陳述式可以出現在檔案中的任意位置。
+</p></li>
+<li>
+將呼叫插入 <a href="rmscpt11.htm">RSDispatch</a>方法中，當您從客戶端 script 呼叫伺服端 script 時，該呼叫會尋找正確的程序。呼叫的格式如下︰<pre><code>&lt;% RSDispatch %&gt;
+</code></pre>
+<p>
+此 RSDispatch 呼叫必須是該網頁上所執行的第一個伺服端 script。依照慣例，此呼叫通常放在檔案的開頭。
+</li>
+</ol>
+<p>
+完成上述起始程序之後，請建立函數或副程式，以它作為您從客戶端 script 呼叫的方法。您可以任何 scripting 語言來撰寫此程序。此程序可接受任何數目的參數，但是參數只能是字串、數字、日期或其它簡單的資料型態&nbsp;- 客戶端不得將結構化的資料 (例如物件或陣列) 視為參數來傳送。</p>
+<p>
+<b>附註</b>&nbsp;&nbsp;&nbsp;當您將參數從客戶端 script 傳送給伺服端 script 時，參數會被轉換為字串。如果您希望在伺服端方法中使用不同的資料型態，請在方法 script 內部予以轉換。</p>
+<p>
+在伺服端 script 中建立程序之後，您必須把這些程序公佈為方法。若要如此執行，您必須建立 JavaScript 公用描述物件，並列出您想公佈的方法。</p>
+<p>
+<b>若要公佈方法</b>
+<ol>
+<li>
+建立 public_description 物件，它是用以指定方法的 constructor 函數。下面範例會將 constructor 函數命名為  <code>MyServerMethods</code>:<pre><code>&lt;SCRIPT LANGUAGE="JavaScript"&gt;
+&nbsp;&nbsp;&nbsp;var public_description = new MyServerMethods();
+</code></pre>
+</li>
+<li>
+建立您在 public_description 物件中所指定的 constructor 函數。在 constructor 函數之中，指定您想公佈的方法名稱，及其對應函數或副程式名稱。您所使用的語法取決於建立方法時所使用的是 JavaScript 或 VBScript。請使用下列語法︰<pre><code>function <i>constructor</i>(){
+&nbsp;&nbsp;&nbsp;this.<i>methodName</i> = <i>functionName</i>    //JavaScript 撰寫的方法使用此語法
+
+    //VBScript 撰寫的方法則使用下列語法
+
+&nbsp;&nbsp;&nbsp;this.<i>methodName</i> = Function('<i>p1</i>','<i>p2</i>','return <i>functionName</i>(<i>p1</i>,<i>p2</i>)') 
+}</code></pre>
+<p>
+<b>附註</b>&nbsp;&nbsp;&nbsp;JavaScript 會區分大小寫，所以您必須完全依照指示來使用首字大寫。
+
+<p>
+此範例中︰
+<ul>
+<li>
+<i>methodName</i>&nbsp;&nbsp;&nbsp;將要公佈的方法名稱。<br><br></li>
+<li>
+<i>functionName&nbsp;&nbsp;&nbsp;</i>實作 <i>methodName</i> 的伺服端網頁中之函數名稱。<br><br></li>
+<li>
+<i>p1, p2&nbsp;&nbsp;</i>若有任何參數的話，列出已傳送給方法的參數清單。只有在您用 VBscript 實作此方法時，才必須使用這種外部宣告參數的方式。參數名稱必須與 constructor 函數內部的參數名稱一致，但是不一定要與方法本身所使用的參數名稱相符。如果您用 JavaScript 來實作此方法，並不需要在外部宣告參數。</li>
+</ul>
+</li>
+</ol>
+<p>下面的範例是一個完整的 ASP 網頁，其中公佈了兩個方法，<code>square</code>  和 <code>add</code>，這兩個方法可以從客戶端 script 呼叫。我們用 JavaScript 來實作 <code>square</code> 方法，用 VBScript 來實作<code>add</code>。</p>
+<pre><code>&lt;% RSDispatch %&gt;
+&lt;!--#INCLUDE FILE="../_ScriptLibrary/RS.ASP"--&gt;
+
+&lt;SCRIPT RUNAT=SERVER LANGUAGE="JavaScript"&gt;
+   var public_description = new MyServerMethods();
+   function MyServerMethods()
+   { 
+      this.square = squareNumber;
+      this.add = Function( 'n1','n2','return addNumbers(n1,n2)' );
+   }
+
+   function squareNumber(numberToSquare){
+      return numberToSquare * numberToSquare;
+   }
+&lt;/SCRIPT&gt;
+
+&lt;SCRIPT RUNAT=SERVER LANGUAGE="VBScript"&gt;
+Function addNumbers(num1, num2)
+    ' 因為這些方法被當作字串來傳送，所以會轉換資料型態
+    addNumbers = CInt(num1) + CInt(num2)
+End Function
+&lt;/SCRIPT&gt;
+</code></pre>
+</BODY>
+</HTML>

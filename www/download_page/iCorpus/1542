@@ -1,0 +1,104 @@
+<article>
+	<id>1542</id>
+	<title>騎士 誤闖月台 遭 火車輾斃</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台鐵 位於 台南縣 官田鄉 的 拔林車站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-thih ui7-ti7 Tai5-lam5-koan7 Koann-tian5-hiong e5 Pat8-na5-chhia-cham7，</JiaoLuo>
+			<TongYong>Dai5-Tih7* di2 Dai5-Lam5-Guan2* Guann1-Den2-Hiong1* e5 Bat6-Na5*-Cia1-Zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>屬於 無人看管的 簡易行車站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siok8-i5 bo5-lang5-khoann3-kou3-e5 kan2-i7-heng5-chhia-cham7，</JiaoLuo>
+			<TongYong>siok6-i5 vor5-lang5-kuann3-go3*-e5 gan4-i2*-hing5-cia1-zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>昨天 卻 發生意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choh8-jit8 soah-hoat-seng i3-goa7，</JiaoLuo>
+			<TongYong>za1-hng1* suah7 huat7-sing1-i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一位騎士 誤闖 沒設柵欄的 旅客出入口，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-ui7 khia5-chhia-e5 gou7-chong5 bo5-siat chheh-noa5-e5 lu2-kheh chhut-jip8-khau2，</JiaoLuo>
+			<TongYong>zit6-ui2-ki5-su2* qo2-cong4 vor5-set7-zah6-nua5*-e5 lu4-keh7*-cut7-rip6-kau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>機車 一路 騎上月台 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ou-tou2-bai2 chit8-lou7-khia5-chiunn7 goeh8-tai5 liau2-au7，</JiaoLuo>
+			<TongYong>o1-do4-vai4* zit6-lo2* kia5-ziunn2-quat6-dai5* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>連人帶車 跌下鐵軌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-lang5-tai3-chhia poah8-loh8 thih-ki-a2-lou7，</JiaoLuo>
+			<TongYong>len5-lang5*-dai3-cia1* buah6-gau3-tih7-gi-lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>被火車 當場輾斃，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7 hoe2-chhia tong-tiunn5 kauh-si2，</JiaoLuo>
+			<TongYong>ho2-hue4-cia1* dong1-diunn5*-gauh7-si4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>九日下午 李姓民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau2-ho7 e5-pou senn3-Li2 bin5-chiong3，</JiaoLuo>
+			<TongYong>gau4-hor2*-e2-bo1* senn3-Li4*-e5-vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>騎著機車 誤闖 拔林火車站 的 旅客出入口，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khia5-tioh8 ou-tou2-bai2 gou7-chong5 Pat8-na5-hoe2-chhia-cham7 e5 lu2-kheh chhut-jip8-khau2，</JiaoLuo>
+			<TongYong>kia5-o1-do4-vai4* qo2-cong4 Bat6-Na5*-Hue4-Cia1-Zam2* e5 lu4-keh7*-cut7-rip6-kau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>連人帶車 跌落月台，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-lang5-tai3-chhia poah8-loh8 goeh8-tai5，</JiaoLuo>
+			<TongYong>len5-lang5*-dai3-cia1* buah6-lorh6-quat6-dai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>遭到 北上的 莒光號列車 當場輾斃。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu2-tioh8 chiunn7-pak-e5 Ki2-kong-ho7 liat8-chhia tong-tiunn5 kauh-si2。</JiaoLuo>
+			<TongYong>ho2 ziunn2-bak7*-e5 Gi4-Gong1-Hor2*-let6-cia1* dong1-diunn5*-gauh7-si4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>台鐵 是否 有 人為疏失，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-thih si7-m7-si7-u7 jin5-ui5-soe-sit ，</JiaoLuo>
+			<TongYong>Dai5-Tih7* si2-m2-si2 u2 rin5-ui5*-so1-sit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>警方 還要 進一步 調查。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong iau2-beh chin3-chit8-pou7 tiau-cha。</JiaoLuo>
+			<TongYong>ging4-hong1* gorh7-ai3 zin3-zit6-bo2* diau1-za1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

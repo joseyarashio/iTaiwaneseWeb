@@ -1,0 +1,125 @@
+<article>
+	<id>1125</id>
+	<title>五歲男孩 死亡 母親泣訴 「後悔 帶孩子 打疫苗」</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>新流感 疫苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-liu5-kam2-ek8-biau5，</JiaoLuo>
+			<TongYong>Sin1-liu5-gam4* ik6-viau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>又傳出 死亡 爭議案例，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh thoan5-chhut si2-bong5 cheng-gi7 an3-le7，</JiaoLuo>
+			<TongYong>gorh7-tuan5-cut7 si4-vong5*-e5 zing1-qi2*-an3-le2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>在 台中縣 外埔鄉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Tai5-tiong-koan7 Goa7-pou-hiong，</JiaoLuo>
+			<TongYong>di2 Dai5-Diong1-Guan2* Qua2-Bo1-Hiang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一名 五歲的 沈姓男孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 gou7-hoe3-e5 senn3-Sim2 cha-pou-gin2-a2，</JiaoLuo>
+			<TongYong>zit6-e5* qo2-hue3* senn3-Sim4*-e5 za1-bo1-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>在 接種完 國光疫苗 二十七天 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 cheng3-chu-oan5 Kok-kong-ek8-biau5 ji7-chap8-chhit-kang au7，</JiaoLuo>
+			<TongYong>di2 zu3-uan5 Gok7-Gong1*-ik6-viau5* ri2-zap6-cit7-gang1* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>因為 出現 敗血症，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 chhut-hian7 pai7-hiat-cheng3，</JiaoLuo>
+			<TongYong>in1-ui2 cut7-hen2 bai2-hueh7-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>併發 多重器官 衰竭 死亡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng3-hoat to-tiong7-khi3-koan-soe-kheh8 si2-bong5，</JiaoLuo>
+			<TongYong>bing3-huat7 dor1-ding5-ki3-guan1* suai1-geh6* si4-vong5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>家屬 質疑 和疫苗 有關，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-siok8 chit-gi5 ham ek8-biau5 iu2-koan，</JiaoLuo>
+			<TongYong>ga1-siok6* zit7-qi5 ham2-ik6-viau5* u2-guan1-he2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>死者的母親 在 議員陪同 下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si2-chia2-e5 bo2-chhin ti7 gi7-oan5 poe5-tong5-ha7，</JiaoLuo>
+			<TongYong>si4-zia4*-e5-ma1-ma1* di2 qi2-uan5*-bue5-dong5* zi1-ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>對媒體 召開 記者會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 mui5-the2 tiau3-khai-ki3-chia2-hoe7，</JiaoLuo>
+			<TongYong>dui3-mui5-te4* ziau1-kai1 gi3-zia4-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>聲淚俱下 哭求，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siann-lui7-ku7-ha7 khau3-kiu5，</JiaoLuo>
+			<TongYong>na4-gong4*-na4-kau3* iau1-giu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>查明 孩子死因，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-beng5 gin2-a2 si2-in，</JiaoLuo>
+			<TongYong>ca5-ving5 qin4-a4*-e5-si4-in1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>孩子的媽媽 還說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gin2-a2-e5 ma-ma iau2-kong2，</JiaoLuo>
+			<TongYong>qin4-a4*-e5-ma1-ma1* gorh7-gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>自己的孩子 明明 不想打，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-ki7-e5 gin2-a2 beng5-beng5 bo5-siunn7-beh-chu，</JiaoLuo>
+			<TongYong>ga1-di2*-e5-qin4-a4* ving5-ving5* vor5-siunn2-veh7-zu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>她 卻 帶孩子 去打，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i soah chhoa7 gin2-a2 khi3-chu，</JiaoLuo>
+			<TongYong>i1 suah7 cua2-qin4-a4* ki3-zu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>她 真的 很 後悔自責。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i chin-e5 chiok-hio7-hoe2 chu7-chek。</JiaoLuo>
+			<TongYong>i1 zin1-ziann3 ziok7 hior2-hue4*-zu2-zik7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

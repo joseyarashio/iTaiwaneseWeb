@@ -1,0 +1,17 @@
+<!-- Copy this code into the HEAD part of your HTML file -->
+
+<META HTTP-EQUIV="Refresh" CONTENT="5;URL=http://www.url.com">
+
+<!-- or it can be done with a onLoad event handler. -->
+
+<!-- Copy this code inside the BODY part of your HTML file -->
+
+<BODY onLoad=window.setTimeout("location.href='http://www.url.html'",10000)>
+
+<!--
+Java Script Refresh can be done with either Java Script or a META tag.
+The META tag contains three parts: what to do (refresh), when (in sec), and where (URL).
+The single line goes into the <HEAD> part of your <HTML> file.
+The Java Script contains two parts: where (location.href) and when (in msec).
+The Java Script goes inside the <BODY> tag of your <HTML> file. 
+-->

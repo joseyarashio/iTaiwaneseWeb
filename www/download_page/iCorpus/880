@@ -1,0 +1,83 @@
+<article>
+	<id>880</id>
+	<title>鋼釘 刺穿心臟　裝潢工人 奇蹟救活</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>高雄市 一名 裝潢工人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7 chit-mia5 chong-hong5 kang-lang5，</JiaoLuo>
+			<TongYong>Gor1-hiong5-ci2* zit6-mia5 zong1-hong5*-gang1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>真的是 大難不死，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sit-chai7-si7 toa7-lan7-put-si2，</JiaoLuo>
+			<TongYong>zin1-ziann3-si2 dai2-lan2*-but7-su4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>他 在 使用釘槍 裝潢 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i ti7 su2-iong7 teng-chheng3 chong-hong5 si5，</JiaoLuo>
+			<TongYong>i1 di2 su4-iong2-ding1-cing3* zong1-hong5* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一不小心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-bo5-se3-ji7，</JiaoLuo>
+			<TongYong>zit6-vor5-se3-qi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>釘槍 竟然 射到 心臟裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teng-chheng3 keng2-jian5 sia7-kau3 sim-chong7-lai7，</JiaoLuo>
+			<TongYong>ding1-cing3* ging4-ren5* sia2-gau3 sim1-zong2-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>六公分 鋼釘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lak-kong-hun kng3-teng，</JiaoLuo>
+			<TongYong>lak6-gong1-hun1* gng3-ding1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>卡在 心臟 左心室，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kha2-ti7 sim-chong7 cho2-sim-sek，</JiaoLuo>
+			<TongYong>ka2-di2 sim1-zong2* zor4-sim1-sik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>原本 以為 小命不保，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 i2-ui7 sio2-mia7-put-po2，</JiaoLuo>
+			<TongYong>quan5-bun4* i4-ui5 sior4-mia2*-but7-bor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>沒想到 送醫急救 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siunn7-kau3 sang3-i kip-kiu3-au7，</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3 sang3-i1*-gip7-giu3* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>非常好運地 撿回一命。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hui-siong5 ho2-un7 e5 khioh-hoe5 chit-mia7。</JiaoLuo>
+			<TongYong>hui1-siong5-hor4-un2*-e5 kiorh7-hue5-zit6-mia2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

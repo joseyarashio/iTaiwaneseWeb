@@ -1,0 +1,195 @@
+<article>
+	<id>898</id>
+	<title>彰化 花椰菜苗 缺水 三成長不大</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>雨量不多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho7-liong3 bo5-choe7，</JiaoLuo>
+			<TongYong>Ho2-liong2*-vor5-ze2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>已經開始 影響到 農作物 生長 了！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng khai-si2 eng2-hiang2-tioh long5-chok-but seng-tiong2 ah！</JiaoLuo>
+			<TongYong>i4-ging1-kai1-si4 ing4-hiang4-diorh6 long5-zok7-vut6* sing1-diong4* a3*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>彰化縣 埔鹽鄉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chiong-hoa3-koan7 Po-iam5-hiong，</JiaoLuo>
+			<TongYong>Ziang1-hua3-guan2* bo1-iam5-hiang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>是 花椰菜的 主要產地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 hoe-chhai3 e5 chu2-iau3 san2-te7，</JiaoLuo>
+			<TongYong>si2 cai3-hue1*-e5 zu4-iau3-san4-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>不過 卻有 二、三成的 菜苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 u7 nng-sann-siann5 e5 chhai3-chai，</JiaoLuo>
+			<TongYong>m2-gorh7 suah7-u2 nng2、sann1-siann5*-e5 cai3-zai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>可能 因為 天氣太熱，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5 in-ui7 thinn-khi3 siunn-jiat，</JiaoLuo>
+			<TongYong>kor4-ling5* in1-ui2 tinn1-ki3*-siunn1-ruah6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>水分 吸收不足，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chui2-hun7 khip-siu put-chiok，</JiaoLuo>
+			<TongYong>zui4-hun2* kip7-siu1-but7-ziok7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>根本 長不大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kun-pun2 toa7-be7-khi2-lai5，</JiaoLuo>
+			<TongYong>gun1-bun4* dua2-ve2-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>菜農 很苦惱，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhai3-long5 chin-kho2-nau2，</JiaoLuo>
+			<TongYong>cai3-long5* zin1-ko4-nau4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>擔心 今年的收成，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tam-sim kin-ni5 e5 siu-seng5，</JiaoLuo>
+			<TongYong>huan5-lor4 gin1-ni5*-e5-siu1-sing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>會 受到影響。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7 siu7-tioh eng2-hiang2。</JiaoLuo>
+			<TongYong>e2 siu2-diorh6-ing4-hiang4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>連日來的 大熱天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-jit lai5 e5 toa7-joah-thinn，</JiaoLuo>
+			<TongYong>Len5-rit6-lai5*-e5 sior1-ruah6-tinn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>讓 彰化 埔鹽地區的 花椰菜 產地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho7 Chiong-hoa3 Po-iam5 toe7-khu e5 hoe-chhai3 san2-te7，</JiaoLuo>
+			<TongYong>ho2 ziang1-hua3* bo1-iam5-de2-ku1*-e5 cai3-hue1*-san4-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>已經出現 一整排的 枯葉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng chhut-hian7 kui-pai5 e5 ta-hioh，</JiaoLuo>
+			<TongYong>i4-ging1-cut7-hen2 gui1-bai5*-e5-da1-hiorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>菜農 頂著 大太陽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhai3-long5 tu2-tioh toa7-jit-thau5，</JiaoLuo>
+			<TongYong>cai3-long5* dann1-diorh6 dua2-rit6-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>在菜園裡 做工，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chhai3-hng-lai7 cho3-sit-thau5，</JiaoLuo>
+			<TongYong>di2-cai3-hng5*-lai2* zor3-sit7-tau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>不過 每走幾步，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 mui2 kiann5-kui2-po7</JiaoLuo>
+			<TongYong>m2-gorh7 mui4-giann5-gui4-bo2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>就會看到，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to e7 khoann3-tioh，</JiaoLuo>
+			<TongYong>diorh6-e2-kuann3-diorh6，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>原本 應該 乳白色 的 花椰菜，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 eng-kai ni-peh-sek e5 hoe-chhai3，</JiaoLuo>
+			<TongYong>quan5-bun4* ing3-gai1 ling1-beh6-sik7* e5 cai3-hue1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>因為 缺少水分，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 khiam3-chio2 chui2-hun7，</JiaoLuo>
+			<TongYong>in1-ui2 kiam3-zior4-zui4-hun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>也 都 已經枯黃，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah-long2 i2-keng ta-ng，</JiaoLuo>
+			<TongYong>ma2 long4 i4-ging1-da1-ng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>估計 一分地的 菜園，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ko2-ke3 chit-hun-toe7 e5 chhai3-hng，</JiaoLuo>
+			<TongYong>go1-ge3* zit6-hun1-de2*-e5 cai3-hng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>就有 二、三成的 菜苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to u7 nng-sann-siann5 e5 chhai3-chai，</JiaoLuo>
+			<TongYong>diorh6-u2 nng2-sann1-siann5*-e5 cai3-zai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>長不大，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-be7-khi2-lai5，</JiaoLuo>
+			<TongYong>dua2-ve2-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>看天吃飯的 農民，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoann3 thinn chiah-png e5 long5-bin5，</JiaoLuo>
+			<TongYong>kuann3-tinn1*-ziah6-bng2*-e5 long5-vin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>今年 恐怕 又不好過。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ni5 khiong2-kiann koh bo5-ho2-koe3。</JiaoLuo>
+			<TongYong>gin1-ni5* kiong4-giann1 gorh7-vor5-hor4-gue3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

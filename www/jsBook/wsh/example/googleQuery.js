@@ -1,0 +1,11 @@
+query = "孤掌難鳴";
+url = "http://www.google.com.tw/search?hl=zh-TW&q="+query+"&meta=";
+objHttp = new ActiveXObject("Microsoft.XMLHTTP");
+objHttp.open("GET", url, false, "");
+objHttp.send();
+content = objHttp.responseText;
+//WScript.Echo(content);
+re = new RegExp("約有<b>(.*?)</b>項符合", "");
+found = content.match(re);
+count=RegExp.$1;
+WScript.Echo(count);

@@ -1,0 +1,295 @@
+<html>
+<head>
+<title>Blackjack</title>
+<style type="text/css">
+body {background-color: rgb(0,128,0);
+		color: white;}
+span {color: white;
+		font-size: 150%;}
+</style>
+
+<script type="text/javascript">
+//AJAX start
+
+function getStats() { 
+	xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null) {
+  		alert ("Your browser does not support AJAX!");
+  		return;
+  	} 
+	var url="track.asp";
+	url = url + "?game=blackjack"; //game
+	url = url + "&sid=" + Math.random();
+	xmlHttp.onreadystatechange=stateChanged;
+	xmlHttp.open("GET",url,true);
+	xmlHttp.send(null);
+}
+
+function trackStats(winner, computerscore, playerscore) { 
+	xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null) {
+  		alert ("Your browser does not support AJAX!");
+  		return;
+  	} 
+	var url="track.asp";
+	url = url + "?game=blackjack"; //game
+	url = url + "&winner=" + winner; //winner
+	url = url + "&playerscore=" + playerscore; //player score
+	url = url + "&computerscore=" + computerscore; //computer score
+	url = url + "&sid=" + Math.random();
+	xmlHttp.onreadystatechange=stateChanged;
+	xmlHttp.open("GET",url,true);
+	xmlHttp.send(null);
+}
+
+function GetXmlHttpObject() {
+	var xmlHttp=null;
+	try {
+  		// Firefox, Opera 8.0+, Safari
+  		xmlHttp=new XMLHttpRequest();
+  	} catch (e) {
+  	// Internet Explorer
+  		try {
+    		xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+ 		} catch (e) {
+    		xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+    	}
+  	}
+	return xmlHttp;
+}
+
+function stateChanged() { 
+	if (xmlHttp.readyState==4) { 
+		respString = new String(xmlHttp.responseText)
+		splitString = respString.split(",")
+		var pWins = new Number(splitString[0]);
+		var pScore = new Number(splitString[1]);
+		var cWins = new Number(splitString[2]);
+		var cScore = new Number(splitString[3]);
+		
+		var playerPercentWins = Math.round(pWins / (pWins + cWins) * 100);
+		var computerPercentWins = Math.round(cWins / (pWins + cWins) * 100);
+		document.getElementById("playerWins").innerHTML = pWins + " (" + playerPercentWins + "%)";
+		document.getElementById("playerScore").innerHTML = Math.round(pScore * 1000) / 1000;
+		document.getElementById("dealerWins").innerHTML = cWins + " (" + computerPercentWins + "%)";
+		document.getElementById("dealerScore").innerHTML = Math.round(cScore * 1000) / 1000;
+	}
+}
+
+//AJAX end
+
+suit = ["d", "c", "h", "s"];
+deck = new Array();
+dealer = new Array();
+player = new Array();
+
+function newGame() {
+	deck = new Array();
+	dealer = new Array();
+	player = new Array();
+	document.getElementById('playerTotal').innerHTML = 0;
+	document.getElementById('dealerTotal').innerHTML = 0;
+	document.getElementById('playerHand').innerHTML = "";
+	document.getElementById('dealerHand').innerHTML = "";
+	document.tasks.draw.disabled = "";
+	document.tasks.draw.disabled = "";
+	genCard();
+	startGame();
+}
+
+function genCard() {
+	var i = 0;
+	for (var s = 0; s <= 3; s++) {
+		for (var c = 1; c <= 13; c++) {
+			deck[i]=new Image();
+			if (c <= 10)
+				deck[i].alt = c;
+			else
+				deck[i].alt = 10;
+			deck[i].src = "cards/" +suit[s] + c + ".gif";
+			i++;
+		}
+	}
+}
+genCard();
+
+function getSum(hand) {
+	var sum = new Number(0);
+	var numOfAces = new Number(0);
+	for (var i = 0; i < hand.length; i++) {
+		var card = new Number(hand[i]);
+		sum += card;
+		
+		if (card == 1)
+			numOfAces++;
+	}
+	while (numOfAces > 0) {
+		if (sum+10 <= 21)
+			sum += 10;
+		numOfAces--;
+	}
+	return sum;
+}
+
+function drawCard(who) {
+	var hand;
+	var total;
+	var cards;
+	if (who == 'player') {
+		hand = "playerHand";
+		total = "playerTotal";
+		cards = player;
+	} else {
+		hand = "dealerHand";
+		total = "dealerTotal";
+		cards = dealer;
+	}
+	var cardNth = Math.ceil(Math.random()*deck.length);
+	ret = deck[cardNth-1];
+	while (ret == null) {
+		cardNth = Math.ceil(Math.random()*deck.length);
+		ret = deck[cardNth-1];
+	}
+	deck[cardNth-1] = null;
+	
+	document.getElementById(hand).innerHTML += "<img src='"+ ret.src +"'/>";
+	cards[cards.length] = ret.alt;
+	
+	var sum = getSum(cards);
+	document.getElementById(total).innerHTML = sum;
+	
+	if (who == 'player' && cards.length < 2) { // player draw 2 cards
+		drawCard('player');
+	} else if (who == 'player' && sum >= 21) { //you win if 21, otherwise you lose
+		document.tasks.draw.disabled = "disabled";
+		document.tasks.stay1.disabled = "disabled";	
+		trackScore();
+	} else if (who == 'dealer' && cards.length == 1) { //dealer gets 1 card
+		return;	
+	} else if (who == 'dealer' && sum < 17) { //delaer draws until >= 17
+		setTimeout("drawCard('dealer')",300);
+		//drawCard('dealer');
+	} else if (who == 'dealer') { //player is done
+		document.tasks.stay1.disabled = "disabled";
+		trackScore();
+	}
+}
+
+function trackScore() {
+	var playerTotal = new Number(document.getElementById('playerTotal').innerHTML);
+	var dealerTotal = new Number(document.getElementById('dealerTotal').innerHTML);
+	var winner = "";
+	
+	if (dealerTotal == playerTotal) {
+		winner = "No winner";
+			
+	} else if (playerTotal < 21 && (playerTotal > dealerTotal)) {
+		document.getElementById("playerScore").innerHTML =
+				new Number(document.getElementById("playerScore").innerHTML)+ 1;
+		winner = "Player";
+		
+	} else if (playerTotal == 21) {
+		document.getElementById("playerScore").innerHTML =
+				new Number(document.getElementById("playerScore").innerHTML)+ 1;
+		winner = "Player";
+		
+	} else if (playerTotal > 21) {
+		document.getElementById("dealerScore").innerHTML =
+				new Number(document.getElementById("dealerScore").innerHTML)+ 1;
+		winner = "Computer";	
+			
+	} else if (dealerTotal > 21) {
+		document.getElementById("playerScore").innerHTML =
+				new Number(document.getElementById("playerScore").innerHTML)+ 1;
+		winner = "Player";
+			
+	} else {
+		document.getElementById("dealerScore").innerHTML =
+				new Number(document.getElementById("dealerScore").innerHTML)+ 1;
+		winner = "Computer";
+	}
+	trackStats(winner, dealerTotal, playerTotal);
+	
+	var msg = "";
+	if (winner == "Computer")
+		msg = "You lose!";
+	else if (winner == "Player")
+		msg = "You win!";
+	else 
+		msg = "No winner.";
+	
+	document.tasks.newGame1.disabled = "";
+	if (confirm(msg + " Do you want to play again?"))
+		newGame();
+	
+}
+
+function stay2() {
+	document.tasks.draw.disabled = "disabled";
+	drawCard('dealer');
+}
+
+function startGame() {
+	document.tasks.newGame1.disabled = "disabled";
+	document.tasks.draw.disabled = ''; 
+	document.tasks.stay1.disabled = ''; 
+	drawCard('dealer');
+	drawCard('player');
+}
+</script>
+</head>
+<body onLoad="startGame();getStats();">
+<center>
+<span><h1><u>Blackjack Game</u></h1></span>
+
+<table width="700" border="0" cellspacing="10"><tr>
+<td width="50%">
+<span>Player: (Total: </span>
+<span id="playerTotal">0</span>
+<span>)</span>
+<div id="playerHand">
+</div>
+</td>
+
+<td width="50%">
+<span>Computer: (Total: </span>
+<span id="dealerTotal">0</span>
+<span>)</span>
+<div id="dealerHand">
+</div>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<form name="tasks">
+<input name="newGame1" type="button" value="New Game" onClick="newGame();"/>
+<input name="draw" type="button" value="Draw Card" tabindex="0" onClick="drawCard('player');"/>
+<input name="stay1" type="button" value="Stay" onClick="stay2();"/>
+</form>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<span>Average Total: </span><span id="playerScore">0</span><br>
+<span>Wins: </span><span id="playerWins">0</span>
+</td><td>
+<span>Average Total: </span><span id="dealerScore">0</span><br>
+<span>Wins: </span><span id="dealerWins">0</span>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+Rules:<br>
+ - Try to get the greatest total that is 21 or less. <br>
+ - J, Q, and K are 10 points, and A is 1 or 11 points. <br>
+</td>
+</tr>
+</table>
+
+</center>
+</body>
+</html>

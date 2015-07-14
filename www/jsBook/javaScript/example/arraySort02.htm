@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>陣列的方法：如何定義 sort() 的比較函數</h2>
+<hr>
+
+<script>
+// 定義一個比較函數
+function comparisonFunction(a, b){   
+	return(a-b);
+}
+myArray = ["80", "9", "700", 40, 1, 5, 200];
+document.write("原始陣列：" + myArray +"<br>")
+document.write("依字串排序的結果：" + myArray.sort() +"<br>")
+document.write("依數值排序的結果：" + myArray.sort(comparisonFunction) +"<br>")
+</script>
+
+<hr>
+</body>
+</html>

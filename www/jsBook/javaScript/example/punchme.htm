@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta http-equiv="Refresh" content="3">
+</head>
+
+<body>
+<h2 align=center>利用亂數合成訊息，並自動更新（3 秒更新一次）</h2>
+<hr>
+
+<script>
+text1 = new Array();
+i = 0;
+text1[i++] = "Hey you geek, ";
+text1[i++] = "Hey buddy, ";
+text1[i++] = "See if you dare to ";
+text1[i++] = "To reboot the computer, ";
+text1[i++] = "To save the world, ";
+text1[i++] = "To get the highest score in the class, ";
+text1[i++] = "同學們, ";
+
+text2 = new Array();
+i = 0;
+text2[i++] = "punch me!";
+text2[i++] = "press me!";
+text2[i++] = "push me!";
+text2[i++] = "hit me with your best shot!";
+text2[i++] = "按我一下吧!";
+text2[i++] = "揍我一拳吧!";
+
+document.write("<h3 align=center>");
+document.write("<font face='Helvetical,Arial' color='#408080'><I>");
+document.write(text1[Math.floor(Math.random()*text1.length)]+text2[Math.floor(Math.random()*text2.length)]);
+document.write("</I></font>");
+document.write("</h3>");
+</script>
+
+<center>
+<img src="image/roger/roger4.jpg" onMouseDown="this.src='image/roger/newroger.jpg'"
+onMouseUp="this.src='image/roger/roger4.jpg'">
+</center>
+
+</body>
+</html>

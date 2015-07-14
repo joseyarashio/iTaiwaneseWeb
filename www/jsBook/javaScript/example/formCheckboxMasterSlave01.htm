@@ -1,0 +1,17 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>傳送兩個核記欄位的訊息：使用相對路徑 this.form</h2>
+<hr>
+
+<form>
+	<input type=checkbox name=box1 checked>
+	<input type=button value="=====>" onClick="this.form.box2.checked=this.form.box1.checked">
+	<input type=checkbox name=box2>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,97 @@
+<article>
+	<id>1083</id>
+	<title>透天厝 疑似 瓦斯外洩 開熱水器 惹禍</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>高雄市 晚上 驚傳氣爆，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7 am3-si5 kiaN-thoan5 khi3-phok8，</JiaoLuo>
+			<TongYong>Gor1-Hiong5-Ci2* am3-si5* ging1-tuan5-ki3-pok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一棟 三樓透天厝 傳出 爆炸聲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tong3 saN-lau5-thau3-thiN-chhu3 thoan5-chhut pok8-cha3-siaN，</JiaoLuo>
+			<TongYong>zit6-dong3 sann1-lau5*-tau3-tinn1-cu3* tuan5-cut7 bok6-za3-siann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>隨後 二樓 開始冒煙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toe3-boe2 ji7-lau5 khai-si2 chheng3-ian，</JiaoLuo>
+			<TongYong>ren5-au2* ri2-lau5* kai1-si4-cing3-en1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>警消人員 趕到現場 灌救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-siau-jin5-oan5 koaN2-kau3-hian7 koan3-kiu3，</JiaoLuo>
+			<TongYong>ging4-siau1-rin5-uan5* guann4-gau3-hen2-diunn5* guan3-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>不到 半小時 就 將火勢 撲滅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-kau3-poaN3-tiam2-cheng to-chiong hoe2-si3-phah-hoa，</JiaoLuo>
+			<TongYong>vor5-gau3 buann3-diam4-zing1* diorh6 ga2-hue4-se3* pah7-hua1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>住在屋內 一對情侶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa3-ti7 chhu3-lai7 chit8-tui3 cheng5-phoaN7，</JiaoLuo>
+			<TongYong>dua3-di2-cu3-lai2*-e5 zit6-dui3-zing5-li2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>男方 抱著 女朋友 逃到外頭 求救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lam5-hong pho7-tioh8 lu2-peng5-iu2 to5-kau3 goa7-thau5 hoah-kiu3-lang5，</JiaoLuo>
+			<TongYong>za1-bo1*-e5 por2-diorh6 li4-bing5-iu4* zau4-gau3-qua2-kau4 huah7-giu3-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>女子重傷 還在急救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>li2-chu2 tang7-siong iau2-ti7-kip-kiu3，</JiaoLuo>
+			<TongYong>li4-zu4*-dang2-siong1* gorh7-deh7-gip7-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>根據 警消 初步研判，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ki3 keng2-siau chhou-pou7-gian2-phoaN3，</JiaoLuo>
+			<TongYong>gin1-gi3 ging4-siau1* co1-bo2-qen5-puann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>一樓的 瓦斯桶 疑似漏氣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-lau5-e5 ga2-suh-thang2 gi5-su7 lau3-khi3，</JiaoLuo>
+			<TongYong>it7-lau5*-e5 qa4-su3-tang4* qi5-su2-lau2-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>當時 那名女子 打開 熱水器 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-si5 hit-mia5 li2-chu2 phah-khui jiat8-chui2-khi3 au7，</JiaoLuo>
+			<TongYong>dong1-si5* hit7-ui2-li4-zu4* pah7-kui1 ret6-zui4-ki3* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>剛要洗澡 結果 造成意外。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu2-beh se2-sin-khu kiat-ko2 cho7-seng5-i3-goa7。</JiaoLuo>
+			<TongYong>du4-veh7 se4-hun1-su1* get7-gor4 zor2-sing5-i3-qua2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

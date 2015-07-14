@@ -1,0 +1,174 @@
+<article>
+	<id>1076</id>
+	<title>馬英九 輔選 每天 花 三百七十一萬</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7 sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>中國國民黨 的 主席 馬英九 在輔選，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok-kok-bin5-tong2 e5 chu2-sek8 Ma2-Eng-Kiu2 ti7-hu3-soan2，</JiaoLuo>
+			<TongYong>Diong1-Gok7*-Gok7-Vin5-Dong4* e5 zu4-sik6* Ma4-Ing1-Giu4* deh7-hu4-suan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>不只 爆出 特權爭議，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-na7 piak-chhut tek8-koan5 cheng-gi7，</JiaoLuo>
+			<TongYong>m2-na2 biak7-cut7 dik6-guan5*-zing1-qi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>還 大花 人民 納稅錢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-toa7-khai jin5-bin5 lap8-soe3-chiN5，</JiaoLuo>
+			<TongYong>gorh7 dua2-kai1 rin5-vin5*-e5 lap6-sue3-zinn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>民進黨團 幫他 算一算，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2-thoan5 pang-i sng3-sng3-leh，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4-Tuan5* bang1-i1 sng3-sng3-leh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>僅僅是 十一月 二十九日 一天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kan-na7-si7 chap8-it-goeh8 ji7-chap8-kau2-ho7 kui-kang，</JiaoLuo>
+			<TongYong>gan1-na2*-si2 zap6-it7-queh6 ri2-zap6-gau4-hor2* zit6-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>從交通 到 憲警人員 加班 花費，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-kau-thong kau3 hian3-keng2-jin5-oan5 ka-pan khai-siau，</JiaoLuo>
+			<TongYong>ui3-gau1-tong1* gau3 hen3-ging4-rin5-uan5* ga1-ban1* e5 hui3-iong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>估計 要 三百七十一萬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kou2-ke3-ai3 saN-pah-chhit-chap8-it-ban7，</JiaoLuo>
+			<TongYong>go4-ge3* ai3 sann1-bah7-cit7-zap6-it7-van2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>民進黨團 要求 這筆錢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2-thoan5 iau-kiu5 chit-pit-chiN5，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4-Tuan5* iau1-giu5 zit7-bit7-zinn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>應該 要用 中國國民黨 黨產 支付。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng3-kai ai3-eng7 Tiong-kok-kok-bin5-tong2 tong2-san2 chi-hu3。</JiaoLuo>
+			<TongYong>ing3-gai1 ai3-ing2 Diong1-Gok7*-Gok7-Vin5-Dong4* dong4-san4* zi1-hu3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>星期假日的 馬英九，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>le2-pai3-ka3-jit8 e5 Ma2-Eng-Kiu2，</JiaoLuo>
+			<TongYong>Le4-bai3-ga3-rit6*-e5 Ma4-Ing1-Giu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>上午 先 飛到金門 輔選，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha2-khi2 seng-poe-kau3 Kim-mng5 hu3-soan2，</JiaoLuo>
+			<TongYong>zai4-ki4 sing1 bue1-gau3-Gim1-Mui5* hu4-suan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>下午 回到雲林 站台，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-pou hoe5-kau3 Hun5-lim5 khia7-tai5，</JiaoLuo>
+			<TongYong>e2-bo1* dng4-gau3-Hun5-lim5* kia2-dai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>晚上 又 衝到宜蘭，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>am3-si5 koh-chhiong-kau3 Gi5-lan5，</JiaoLuo>
+			<TongYong>am3-si5* gorh7 ciong1-gau3-Qi5-Lan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>一整天 奔波，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-kui-kang chau2-chong5，</JiaoLuo>
+			<TongYong>gui1-gang1*-bun1-por1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>花費 很驚人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khai-siau chin-kiaN-lang5，</JiaoLuo>
+			<TongYong>kai1-siau1* zin1-giann1*-lang5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>民進黨團 幫馬英九 算一算，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2-thoan5 pang Ma2-Eng-Kiu2 sng3-sng3-leh，</JiaoLuo>
+			<TongYong>Bin5-Zin3-Dong4-Tuan5* bang1-Ma4-Ing1-Giu4* sng3-sng3*-leh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>空軍一號 專機 動用 三小時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khong-kun-it-ho7 choan-ki tong7-iong7 saN-tiam2-cheng，</JiaoLuo>
+			<TongYong>kong1-gun1*-it7-hor2* zuan1-gi1* dong2-ing2 sann1-diam4-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>就要 一一四萬 費用，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-ai3 chit8-pah-chap8-si3-ban7 hui3-iong7，</JiaoLuo>
+			<TongYong>diorh6-ai3 zit6-bah7-zap6-si3-van2* e5 hui3-ing2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>動用 警察憲兵 國安人員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong7-iong7 keng2-chhat hian3-peng kok-an-jin5-oan5，</JiaoLuo>
+			<TongYong>dong2-ing2 ging4-cat7*-hen3-bing1* gok7-an1-rin5-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>日薪 便當費 加班費 加一加，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jit8-sin pian7-tong-hui3 ka-pan-hui3 ka-ka-leh，</JiaoLuo>
+			<TongYong>rit6-sin1* ben2-dong1-hui3* ga1-ban1-hui3* ga1-ga1*-leh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>估計 竟然 要花上 三七一萬，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kou2-ke3 keng2-jian5 ai3-khai-chiuN7 saN-pah-chhit-chap8-it-ban7，</JiaoLuo>
+			<TongYong>go4-ge3* ging4-ren5* ai3-kai1-gau3 sann1-bah7-cit7-zap6-it7-van2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>就是沒有 中國國民黨 的 立委 跳出來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-si7-bo5 Tiong-kok-kok-bin5-tong2-e5 lip8-ui2 thiau3-chhut-lai5，</JiaoLuo>
+			<TongYong>diorh6-si2-vor5 Diong1-Gok7*-Gok7-Vin5-Dong4* e5 lip6-ui4* tiau3*-cut7*-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>要求修法 來限制 這種情形。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau-kiu5 siu-hoat lai5-han7-che3 chit-chiong2 cheng5-heng5。</JiaoLuo>
+			<TongYong>iau1-giu5-siu1-huat7* lai5-han2-ze3 zit7-ziong4-zing5-hing5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,82 @@
+<HTML>
+<HEAD>
+<TITLE>SIMPLE CLIENT</TITLE>
+</HEAD>
+
+<BODY>
+<script language="JavaScript" src="../rs.htm"></script>
+<script language="JavaScript">RSEnableRemoteScripting("..");</script>
+
+<h2>Simple Remote Scripting Example</h2>
+
+<br>
+The following buttons invoke remote scripting calls to an ASP server.
+<br>
+<form>
+<br><br><input type=button name=btnRSExecute value="RSExecute Method1" onclick="handleRSExecute()" style="width:250;height:25">
+<br><br><input type=button name=btnRSExecuteAsynch value="RSExecute Method1 (async)" onclick="handleRSExecuteAsync()" style="width:250;height:25">
+<br><br><input type=button name=btnRSGetASPObject value="aspObject = RSGetASPObject" onclick="handleRSGetAspObject()" style="width:250;height:25">
+<br><br><input type=button name=btnASPObject value="aspObject.Method2 (async)" onclick="handleAspObject()" style="width:250;height:25">
+<br><br><input type=button name=btnInvalidCall value="RSExecute Invalid Method3" onclick="handleInvalidCall()" style="width:250;height:25">
+
+<SCRIPT LANGUAGE="javascript">
+
+	var serverURL = "simple.asp";
+	var aspObject;
+
+	function myCallBack(co)
+	{
+		alert("CALLBACK\n\n" +
+				"status = " + co.status + "\n\n" +
+				"message = " + co.message + "\n\n" +
+				"context = " + co.context + "\n\n" +
+				"data = " + co.data + "\n\n" +
+				"return_value = " + co.return_value);
+	} 
+
+	function errorCallBack(co)
+	{
+		alert("ERROR_CALLBACK\n\n" +
+				"status = " + co.status + "\n\n" +
+				"message = " + co.message + "\n\n" +
+				"context = " + co.context + "\n\n" +
+				"data = " + co.data);
+	}
+
+	function handleRSExecute()
+	{
+		var co = RSExecute(serverURL,"Method1");
+		myCallBack(co);	
+	}
+
+	function handleRSExecuteAsync()
+	{
+		RSExecute(serverURL,"Method1",myCallBack,"RSExecute");
+	}
+
+	function handleRSGetAspObject()
+	{
+		aspObject = RSGetASPObject(serverURL);
+		var msg = "aspObject public_description\n";
+		for (name in aspObject)
+			msg += "   " + name + "\n";
+		alert(msg);
+	}
+
+	function handleAspObject()
+	{
+		aspObject.Method2(myCallBack,errorCallBack,"aspObject");
+	}
+
+	function handleInvalidCall()
+	{
+		var co = RSExecute(serverURL,"Method3",myCallBack,errorCallBack,"Invalid RSExecute");
+	}
+
+</SCRIPT>
+
+</form>
+
+
+</BODY>
+</HTML>

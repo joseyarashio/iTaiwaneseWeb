@@ -1,0 +1,104 @@
+<article>
+	<id>984</id>
+	<title>男子 頭夾欄杆 消防隊員 前往搶救</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>昨天晚間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choh8-jit8 e5-am3-si5 ，</JiaoLuo>
+			<TongYong>Za1-hng1*-am3-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在 台東縣的 池上鄉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Tai5-tang-koan7 e5 Ti5-siong7-hiong，</JiaoLuo>
+			<TongYong>di2 Dai5-Dang1-Guan2*-e5 Di5-Siang2-Hiang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>發生了 一件 讓人 想不透 的 意外 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng-liau2 chit8-kiaN7 hou7-lang5 siuN7-be7-thau3 e5 i3-goa7 ，</JiaoLuo>
+			<TongYong>huat7-sing1-liau4 zit6-giann2 ho2-lang5 siunn2-ve2-hiau4* e5 i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一名 坐著輪椅的 男子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 che7-tioh8 lun5-i2 e5 lam5-chu2 ，</JiaoLuo>
+			<TongYong>zit6-e5 ze2-diorh6-lun5-i4*-e5 za1-bo1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>在 跌倒之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 poah8-to2 liau2-au7 ，</JiaoLuo>
+			<TongYong>di2 buah6-dor4*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>頭部 卻 意外的</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5-pou7 khiok i3-goa7-e5 ，</JiaoLuo>
+			<TongYong>tau5* suah7 i3-qua2*-e5</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>被 卡在 大水溝的 欄杆 裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7 kha7-ti7 toa7-chui2-kau1-e5 lan5-kan1 lai7，</JiaoLuo>
+			<TongYong>ki3-ho2 ka2-di2 dua2-zui4-gau1*-e5-guainn1* lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>消防隊 出動了 將近 二十人 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-tui7 chhut-tong7-liau2 chiong-kun7 ji7-chap8-lang5 ，</JiaoLuo>
+			<TongYong>siau1-hong5-dui2* cut7-dong2-liau4 ziong1-gin2 ri2-zap6-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>花了 快要 三十分鐘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>eng7-liau2 tih-beh saN-chap8 hun-cheng，</JiaoLuo>
+			<TongYong>ing2-liau4 dih7-veh7 sann1-zap6-hun1-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>才 將 這名男子 救出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah chiong chit-mia5 lam5-chu2 kiu3-chhut ，</JiaoLuo>
+			<TongYong>ziah7 ga2 zit7-e5 za1-bo1-lang5* giu3*-cut7*-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>幸好 男子救出 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-ka-chai3 lam5-chu2 kiu3-chhut-au7 ，</JiaoLuo>
+			<TongYong>hor4-ga1-zai3 za1-bo1-lang5* giu3*-cut7*-lai5 liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>除了 身體 較為虛弱 之外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti5-liau2 seng-khu khah lam2-sin chi-goa7 ，</JiaoLuo>
+			<TongYong>di5-liau4 sing1-te4* kah7-hi1-riok6* i4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>並沒有 生命的危險。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7-bo5 seN3-mia7-e5 gui5-hiam2 。</JiaoLuo>
+			<TongYong>bing2-vor5 senn3-mia2*-e5-hui5-hiam4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

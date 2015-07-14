@@ -1,0 +1,104 @@
+<article>
+	<id>888</id>
+	<title>石門水庫 鬧水荒 下月底 桃園 恐限水</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>連日來 乾旱，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-jit-lai5 kan-han7，</JiaoLuo>
+			<TongYong>Len5-rit6-lai5* kor3-huann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>讓 全台灣的 水庫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho7 choan5 Tai5-oan5 e5 chui2-kho3，</JiaoLuo>
+			<TongYong>ho2 zuan5-dai5-uan5*-e5 zui4-ko3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>都出現 水荒現象，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2 chhut-hian7 chui2-hng hian7-siong7，</JiaoLuo>
+			<TongYong>long4-cut7-hen2 kiam3-zui4*-hen2-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>尤其是 桃園的 石門水庫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-ki5 si7 Tho5-hng e5 Chioh-mng chui2-kho3，</JiaoLuo>
+			<TongYong>iu5-gi5-si2 tor5-hng5*-e5 ziorh6-mng5-zui4-ko3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>七月份的 降雨量，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhit-goeh-hun7 e5 kang3-ho7-liong3，</JiaoLuo>
+			<TongYong>cit7-queh6-hun2*-e5 gang3-ho2-liong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>只有 過去的十三％，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-u7 koe3-khi3 e5 pah-hun-chi chap-sann，</JiaoLuo>
+			<TongYong>zi4-u2 gue3-ki3*-e5 zap6-sann1-pa1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>水利署 不排除 在八月底，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chui2-li7-su2 bo5-pai5-ti5 ti7 peh-goeh-te2，</JiaoLuo>
+			<TongYong>zui4-li2-su4* vor5-bai5-du5* di2-beh7-queh6-de4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>就要 針對 大桃園 地區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-beh chiam-tui3 toa7 Tho5-hng toe7-khu，</JiaoLuo>
+			<TongYong>diorh6-veh7 ziam1-dui3 dua2-tor5-hng5* de2-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>停止 農業供水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>theng5-chi2 long5-giap kiong-chui2，</JiaoLuo>
+			<TongYong>ting5-zi4 long5-qiap6-giong1-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>中南部的 情形 雖然 好一點，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiong-lam5-po7 e5 cheng5-heng5 sui-jian5 ho2-chit-koa2-a2，</JiaoLuo>
+			<TongYong>diong1-lam5-bo2*-e5 zing5-hing5* sui1-ren5* kah7-hor4*-zit6-gua4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>但 降雨量 都 明顯減少，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7 kang3-ho7-liong3 long2 beng5-hian2 kiam2-chio2，</JiaoLuo>
+			<TongYong>dan2-si2 gang3-ho2-liong2* long4 ving5-hen4-giam4-zior4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>要是 八月份 降雨 再不夠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-si7 peh-goeh--hun7 kang3-ho7 koh bo5-kau3，</JiaoLuo>
+			<TongYong>na2-si2 beh7-queh6-hun2* gang3-ho2* gorh7-vor5-gau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>恐怕 會衝擊到 各地的 民生用水。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khiong2-kiann e7 chhiong-kek-tioh kok-te7 bin5-seng iong7-chui2。</JiaoLuo>
+			<TongYong>kiong4-giann1 e2-ciong1-gik7-diorh6 gok7-de2*-e5 vin5-sing1-iong2-zui4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

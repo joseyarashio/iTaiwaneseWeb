@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>"document" 的性質列表</h2>
+<hr>
+<a href="http://www.nthu.edu.tw">清大首頁</a><br>
+<a href="http://www.nctu.edu.tw">交大首頁</a><br>
+<a href="http://www.ntu.edu.tw">台大首頁</a>
+<hr>
+
+<script src="listProp.js"></script>
+<p><h3>"document" 的性質列表：</h3>
+<p><@script>listProp(document, "document")</script>
+
+<script>
+var i,origLength;
+origLength = document.all.length;
+document.write('document.all.length='+origLength+"<br />");
+for (i = 0; i < origLength; i++){
+	document.write("document.all["+i+"]="+document.all[i].tagName+"<br />");
+}
+</script>
+
+
+<hr>
+</body>
+</html>

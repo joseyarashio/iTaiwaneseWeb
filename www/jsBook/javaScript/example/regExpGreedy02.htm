@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式的「越左越貪」比對方式</h2>
+<hr>
+
+<script>
+str = "a xx b xxx b xxxx d";
+document.write("str = "+str+"<br>");
+document.write("越左越貪：<br>");
+re = /a(.*)b(.*)d/;
+document.write("re = "+re+"<br>");
+found = str.match(re);
+document.write("RegExp.$1 = "+RegExp.$1+", RegExp.$2 = "+RegExp.$2+"<br>");
+document.write("推翻越左越貪：<br>");
+re = /a(.*?)b(.*)d/;
+document.write("re = "+re+"<br>");
+found = str.match(re);
+document.write("RegExp.$1 = "+RegExp.$1+", RegExp.$2 = "+RegExp.$2+"<br>");
+</script>
+
+<hr>
+</body>
+</html>

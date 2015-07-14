@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+<body>
+<h2 align=center>鍵盤事件：作弄人的網頁</h2>
+<hr>
+
+<script>
+function encrypt(){
+	event.keyCode-=1;
+}
+function check(){
+	if (testField.value=="I am a pig")
+		alert("答對了！");
+}
+</script>
+請由鍵盤輸入「J!bn!b!qjh」：
+<p>
+<input id=testField onKeyPress="encrypt()" onKeyUp="check()">
+
+<hr>
+</body>
+</html>

@@ -1,0 +1,132 @@
+<article>
+	<id>1304</id>
+	<title>高鐵駕駛 昏睡 飆速 三百公里 乘客驚險</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>一天 十萬人 搭乘 的 台灣高鐵，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-kang chap8-ban7-lang5 seng5-tah-e5 Tai5-oan5-ko-thih，</JiaoLuo>
+			<TongYong>Zit6-gang1* zap6-van2-lang5* ze2-cia1* e5 Dai5-Uan5-Gor1-Tih7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>傳出 駕駛 開到一半，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thoan5-chhut ka3-su2 khui-kau3-chit8-poann3，</JiaoLuo>
+			<TongYong>tuan5-cut7 ga3-su4* sai4-gau3-zit6-buann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>竟然睡著 的 驚險意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 khun3-khi3-e5 kiann-hiam2-i3-goa7，</JiaoLuo>
+			<TongYong>ging3-ren5*-kun3*-ki3* e5 giann1-hiam4*-i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>這 是 一名 男駕駛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-si7 chit8-mia5 cha-pou-ka3-su2，</JiaoLuo>
+			<TongYong>ze1* si2 zit6-mia5 za1-bo1-ga3-su4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>因為 有 睡眠障礙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7-u7 khun3-bin5-koa3-gai7，</JiaoLuo>
+			<TongYong>in1-ui2 u2 kun3-vin5*-ziang3-qai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>長期服用 安眠藥，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng5-ki5-hok8-iong7 an-bin5-ioh8，</JiaoLuo>
+			<TongYong>dng5-gi5*-hok6-ing2 an1-vin5-iorh8，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>沒想到 上個月，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-siunn7-kau3 teng2-ko3-goeh，</JiaoLuo>
+			<TongYong>vor5-siunn2-gau3 ding4-gor3-queh，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>有一次 他 開車 開到一半，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-chit8-pai2 i khui-chhia khui-kau3-chit8-poann3，</JiaoLuo>
+			<TongYong>u2-zit6-bai4* i1 sai4-cia1* sai4-gau3-zit6-buann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>卻 突然昏睡 意識不清，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah tut8-jian5 hun-sui7 i3-sek-be7-chheng，</JiaoLuo>
+			<TongYong>suah7 tut6-ren5* kun3-dang2-vin5* i3-sik7*-but7-cing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>列車長 趕到後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>liat8-chhia-tiunn2 koann2-kau3-au7，</JiaoLuo>
+			<TongYong>let6-cia1-diunn4* guann4-gau3-ui2* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>才 趕緊轉為 自動駕駛 系統，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-koann2-kin2 choan2-ui5 chu7-tong7-ka3-su2 he7-thong2，</JiaoLuo>
+			<TongYong>ziah7 guann4-gin4-zuan4-ui5 zu2-dong2-ga3-su4* he2-tong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>但是 時間 長達 十三分鐘，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 si5-kan tng5-tat8 chap8-sann-hun-cheng，</JiaoLuo>
+			<TongYong>dan2-si2 si5-gan1* dng5-dat6 zap6-sann1-hun1-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>高鐵 在 時速 三百公里 的 狀態下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-thih ti7-si5-sok sann-pah-kong-li2 e5 chong7-thai3-ha7，</JiaoLuo>
+			<TongYong>gor1-tih7* di2 si5-sok7* sann1-bah7-gong1-li4* e5 zong2-tai3*-zi1-ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>出現 無人駕駛 狀況，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhut-hian7 bo5-lang5-ka3-su2 chong7-hong2，</JiaoLuo>
+			<TongYong>cut7-hen2 vor5-lang5-ga3-su4*-e5 zong2-kong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>讓旅客 痛批，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7-lu2-kheh thong3-phoe，</JiaoLuo>
+			<TongYong>ho2-li4-keh7* giong5-let6-pe1-ping5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>實在 太誇張，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sit8-chai7 siunn-phong3-hong，</JiaoLuo>
+			<TongYong>sit6-zai2 siunn1-li2-po4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>根本是 拿人命 開玩笑。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kun-pun2-si7 theh8 jin5-beng7 kun2-sng2-chhio3。</JiaoLuo>
+			<TongYong>gin1-bun4*-si2 teh6-lang5-mia2* gong4-sng4-cior3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

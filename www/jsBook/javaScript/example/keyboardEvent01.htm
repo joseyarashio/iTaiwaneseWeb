@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+<body>
+<h2 align=center>鍵盤事件：基本測試</h2>
+<hr>
+
+<script>
+function keyFunction() {
+	alert("Key code = " + event.keyCode);
+	if (event.keyCode==27) {
+		alert("Esc 的內建功能已被取消！");
+		return false;
+	} else if (event.keyCode==8) {
+		alert("Backspace 的內建功能已被取消！");
+		return false;
+	} else if (event.keyCode==9) {
+		alert("Tab 的內建功能已被取消！");
+		return false;
+	} else if (event.keyCode==71) {
+		document.location="http://www.google.com";
+	}
+}
+document.onkeydown=keyFunction;
+</script>
+
+請按下鍵盤任意鍵，以顯示按鍵代碼！請注意，下列按鍵的內建功能已被取消：
+<ul>
+<li>Esc
+<li>Tab
+<li>Backspace
+</ul>
+此外，"g" 鍵有特殊功能！
+
+<hr>
+</body>
+</html>

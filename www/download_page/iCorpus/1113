@@ -1,0 +1,97 @@
+<article>
+	<id>1113</id>
+	<title>強風吹進 一氧化碳 新竹 國一男生 死亡</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>天氣 儘管 已經回暖，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thinn-khi3 chin7-koan2 i2-keng tng2-sio-joah8，</JiaoLuo>
+			<TongYong>Tinn1-ki3* sui1-ren5* i4-ging1-hue5-luan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>不過 今天凌晨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 kin-a2-jit thinn-beh-kng，</JiaoLuo>
+			<TongYong>m2-gorh7 gin1-a4-rit6* tau3-za4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>在 新竹 竹北地區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Sin-tek Tek-pak-te7-khu，</JiaoLuo>
+			<TongYong>di2 Sin1-Dik7* Dik7-Bak7*-de2-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>還是 發生了 一氧化碳 中毒死亡 的 意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-si7 hoat-seng-liau2 it-iong5-hoa3-thoann3 tiong3-tok8 si2-bong5-e5 i3-goa7，</JiaoLuo>
+			<TongYong>iau4-si2 huat7-sing1-liau4 it7-iang4-hua3-tan3* diong3-dok6*-si4-vong5* e5 i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>死者 是 一名 國中一年級 的 男學生。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si2-chia2 si7 chit8-mia5 kok-tiong it-ni5-kip-e5 cha-pou-hak8-seng。</JiaoLuo>
+			<TongYong>si4-zia4* si2 zit6-e5 gok7-diong1*-it7-ni5*-e5 za1-bo1-hak6-sing1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>雖然 命案現場的 屋內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5 mia7-an3 hian7-tiunn5-e5 chhu3-lai7，</JiaoLuo>
+			<TongYong>Sui1-ren5* mia2-an3*-hen2-diunn5*-e5 cu3-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>陽台的 採光罩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iang5-tai5-e5 chhai2-kng-tau3，</JiaoLuo>
+			<TongYong>iang5-dai5*-e5 cai4-gong1-da3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>還有 開了 一扇窗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 khui-liau2 chit8-sinn3-thang-a2，</JiaoLuo>
+			<TongYong>iau4-u2 kui1-liau4 zit6-sinn3-tang1-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>不過 警方懷疑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 keng2-hong hoai5-gi5，</JiaoLuo>
+			<TongYong>m2-gorh7 ging4-hong1*-huai5-qi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>可能是 強風 正好 把 熱水器的 一氧化碳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5-si7 kiong5-hong tu2-ho2-ka7 sio-chui2-khi3 e5 it-iong5-hoa3-thoann3，</JiaoLuo>
+			<TongYong>kor4-ling5-si2 giong5-hong1* du4-hor4 ga2 ret6-zui4-ki3*-e5 it7-iang4-hua3-tan3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>反向 吹進 男學生的 房間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoan2-hiong3 chhoe-chin3 cha-pou-hak8-seng-e5 pang5-keng，</JiaoLuo>
+			<TongYong>huan4-hiong3* cue1-rip6 za1-bo1-hak6-sing1*-e5 bang5-ging1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>才會釀成 這場悲劇。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-e7 liong7-seng5 chit-tiunn5-pi-kiok8。</JiaoLuo>
+			<TongYong>ziah7-e2-liang2-sing5 zit7-diunn5-bi1-gik6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,125 @@
+<article>
+	<id>1528</id>
+	<title>小心強波器 干擾鎖門 歹徒 入車內行竊</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>開車族 請當心了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khui-chhia-chok8 chhiann2-se3-ji7-ah，</JiaoLuo>
+			<TongYong>Sai4-cia1*-e5-lang5* ciann4-se3-qi2*-lo3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>有 不肖歹徒 利用「強波器」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 put-siau3-phainn2-tou5 li7-iong7「 kiong5-pho-khi3」，</JiaoLuo>
+			<TongYong>u2 but7-siau3-painn4-do5* li2-iong2「giong5-por1-ki3*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>發射 無線電波 干擾 車主的 遙控器，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-sia7 bo5-soann3-tian7-pho kan-jiau2 chhia-chu2-e5 iau5-khong3-khi3，</JiaoLuo>
+			<TongYong>huat7-sia2 vor5-suann3-den2-por1* gan1-riau4 cia1-zu4*-e5 iau5-kong3-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>讓車門 無法上鎖 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 chhia-mng5 so2-be7-tiau5 liau2-au7，</JiaoLuo>
+			<TongYong>ho2-cia1-mng5* vor5-huat7-do2* sor4*-ki4-lai5 liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>嫌犯 再 伺機 潛入車內 行竊財物，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hiam5-hoan7 chiah-tan2-ki-hoe7 bi7-jip8-khi3 chhia-lai7 thau-theh8 chai5-but8，</JiaoLuo>
+			<TongYong>hiam5-huan2* ziah7 su2-gi1* rip6-ki3-cia1-lai2* tau1-teh6-zai5-vut6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>台中市的 警方 經過 長期跟監，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-chhi7-e5 keng2-hong keng-koe3 tng5-ki5-kam3-toe3，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Ci2*-e5 ging4-hong1* ging1-gue3 dng5-gi5*-gin1-zong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>逮捕了 涉案的 林姓男子。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tai7-pou2-liau2 siap8-an3-e5 senn3-Lim5 cha-pou。</JiaoLuo>
+			<TongYong>liah6-diorh6 siap6-an3*-e5 senn3-Lim5*-lam5-zu4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>這種 掌上型的 強波器，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-khoan2 chiang2-tiong-heng5 e5 kiong5-pho-khi3，</JiaoLuo>
+			<TongYong>Zit7-kuan4 ziong4-siong2-hing5*-e5 giong5-por1-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>靠著 兩根短天線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho3-tioh8 nng7-ki te2-thian-soann3，</JiaoLuo>
+			<TongYong>kor3 nng2-gi1-de4-ten1-suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>發射出 無線電波，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-sia7-chhut bo5-soann3-tian7-pho，</JiaoLuo>
+			<TongYong>huat7-sia2-cut7 vor5-suann3-den2-por1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>電波 一接近汽車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tian7-pho chit8-oa2-kin7 khi3-chhia，</JiaoLuo>
+			<TongYong>den2-por1* zit6-ziap7-gin2-ki3-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>就 讓遙控器 立刻 失去功能，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-hou7 iau5-khong3-khi3 sui5-sit-khi3 kong-leng5，</JiaoLuo>
+			<TongYong>diorh6 ho2-iau5-kong3-ki3* sui5 sit7-ki3-gong1-ling5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>車主 就算 按到 手抽筋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-chu2 chiu7-sng3 jih8-kau3 chhiu2-kiu3-kin，</JiaoLuo>
+			<TongYong>cia1-zu4* diorh6-sng3 rih6-gau3 ciu4*-giu3-gin1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>車門 就是 無法上鎖，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhia-mng5 to-si7 so2-be7-tiau5，</JiaoLuo>
+			<TongYong>cia1-mng5* diorh6-si2 vor5-huat7-do2* sor4*-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>強波器 落入 歹徒手中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiong5-pho-khi3 loh8-jip8 phainn2-tou5 chhiu2-tiong，</JiaoLuo>
+			<TongYong>giong5-por1-ki3* lorh6-rip6 painn4-do5*-ciu4-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>變成 行竊財物的 不法幫兇。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pinn3-chiann5 thau-theh8 chai5-but8-e5 put-hoat-pang-hiong。</JiaoLuo>
+			<TongYong>ben3-sing5 tau1-teh6-zai5-vut6*-e5 but7-huat7*-bang1-hiong1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,132 @@
+<article>
+	<id>1516</id>
+	<title>名叫便當 賣便當 注定 吃這行飯</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>在 台北縣的 板橋市，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Tai5-pak-koan7 e5 Pang-kio5-chhi7，</JiaoLuo>
+			<TongYong>Di2 Dai5-Bak7-Guan2*-e5 Bang1-Gior5-Ci2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>有一個 便當店老闆 的 姓名 很有趣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-chit8-e5 pian7-tong-tiam3 thau5-ke-e5 senn3-mia5 chin-chhu3-bi7，</JiaoLuo>
+			<TongYong>u2-zit6-e5* ben2-dong1-diam3*-tau5-ge1* e5 senn3-mia5* zin1-cu3-vi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>他 叫做 洪便當，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-kio3-cho3 Ang5-pian7-tong，</JiaoLuo>
+			<TongYong>i1 gior3-zor3 Ang5-Ben2-Dong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>姓名 叫便當 賣便當，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>senn3-mia5-kio3 pian7-tong be2-pian7-tong，</JiaoLuo>
+			<TongYong>senn3-mia5* gior3-ben2-dong1* ve2-ben2-dong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>讓客人 印象深刻，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7-lang5-kheh in3-siong7 chhim-khek，</JiaoLuo>
+			<TongYong>ho2-lang5-keh7* in3-siong2*-cim1-kik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>不過， 也有人 不相信，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-koh ， oan5-a7-u7-lang5 bo5-siang-sin3，</JiaoLuo>
+			<TongYong>m2-gorh7*， ma2-u2-lang5 m2-siong1-sin3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>怎麼會 這麼剛好，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na2-e7 chiah-ni2 tu2-tu2-ho2，</JiaoLuo>
+			<TongYong>na3-e2 ziah7-ni2-du4-hor4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>老闆說， 名字 叫便當，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5-ke-kong2 ， senn3-mia5-kio3 pian7-tong，</JiaoLuo>
+			<TongYong>tau5-ge1*-gong4， mia5-ri2* gior3-ben2-dong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>長大以後 還 開便當店，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-han3-i2-au7 iau2-khui pian7-tong-tiam3，</JiaoLuo>
+			<TongYong>dua2-han3*-i4-au2* gorh7 kui1-ben2-dong1-diam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>是 機緣巧合，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 ki-ian5-kha2-hap8，</JiaoLuo>
+			<TongYong>si2 gi1-en5*-ka4-hap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>洪便當 他 覺得 是 命中注定，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ang5-pian7-tong i-kam2-kak-si7 mia7-tiong-chu3-tiann7，</JiaoLuo>
+			<TongYong>Ang5-Ben2-Dong1* i1 gam4-gak7 si2 mia2-diong1*-zu3-diann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>就是 要 吃這一行飯。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tioh8-si7-beh chiah8-chit-hang5-png7。</JiaoLuo>
+			<TongYong>diorh6-si2 veh7 ziah6-zit7-hang5-bng2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>老闆 秀出身分證，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5-ke tian2-chhut sin-hun7-cheng3，</JiaoLuo>
+			<TongYong>tau5-ge1* den4-cut7-sin1-hun2-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>證明 自己 貨真價實，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng3-beng5 ka-ki7 chin-chai5-sit8-liau7，</JiaoLuo>
+			<TongYong>zing3-ving5 ga1-di2* kak7-kak7-sit6-sit6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>姓名 就叫做 便當，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>senn3-mia5 tioh8-kio3-cho3 pian7-tong，</JiaoLuo>
+			<TongYong>senn3-mia5* diorh6-gior3-zor3 ben2-dong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>這樣的名字 好記 是好記，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an2-ne-e5 mia5 ho2-ki3-si7-ho2-ki3，</JiaoLuo>
+			<TongYong>an4-ne1*-e5-mia5* hor4-gi3* si2-hor4-gi3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>但是 鬧過的笑話 可不少。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-kuh nau7-koe3-e5 chhio3-khoe ma7-be7-chio2。</JiaoLuo>
+			<TongYong>m2-gorh7 nau2*-gue3*-e5-cior3-kue1* ma2-ve2-zior4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

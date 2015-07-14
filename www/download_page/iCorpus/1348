@@ -1,0 +1,97 @@
+<article>
+	<id>1348</id>
+	<title>女子 闖入 台北捷運 軌道 遭撞擊 緊急 送醫急救</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北市 西門 捷運站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chhi7 Se-mng5 chiat8-un7-cham7，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Ci2* Se1-Mng5* zet6-un2-zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>六月六日 下午 發生 一起意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lak8-goeh8 lak8-ho7 e5-pou hoat-seng chit8-khi2-i3-goa7，</JiaoLuo>
+			<TongYong>lak6-queh6-lak6-hor2* e2-bo1* huat7-sing1 zit6-giann2-i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一名 三十四歲的 女性，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 sann-chap8-si3-hoe3 e5 lu2-seng3，</JiaoLuo>
+			<TongYong>zit6-e5* sann1-zap6-si3-hue3*-e5 lu4-sing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>在 列車進站 時 突然 闖入軌道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 liat8-chhia chin3-cham7-si5 tut8-jian5 chong5-jip8 thih-ki-a2-lou7，</JiaoLuo>
+			<TongYong>di2 let6-cia1*-zin3-zam2* si5* dut6-ren5* zong5-rip6-gui4-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>導致 她 頭部重創，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2-i thau5-khak siu7-chhong3，</JiaoLuo>
+			<TongYong>di3-su4 i1 tau5-kak7*-dang2-siong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>緊急 送往 和平醫院，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin2-kip sang3-ong2 Ho5-peng5-penn7-inn7，</JiaoLuo>
+			<TongYong>gin4-gip7 sang3-ong4 Hor5-Bing5-Benn2-Inn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>目前 還在 搶救當中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok8-cheng5 iau2-ti7 chhiunn2-kiu3 tong-tiong，</JiaoLuo>
+			<TongYong>vok6-zing5* gorh7-deh7 ciunn4-giu3*-dang1-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>而 這起意外 也影響 捷運班次，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah-chit8-khi2 i3-goa7 oan-na2-eng2-hiang2 chiat8-un7 pan-chhu3，</JiaoLuo>
+			<TongYong>a1* zit6-giann2-i3-qua2 ma2-ing4-hiong4 zet6-un2-ban1-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>善導寺站 往 西門站 單線通車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sian7-to2-cham7 ong2 Se-mng5-cham7 tan-soann3-thong-chhia，</JiaoLuo>
+			<TongYong>Sen2-Dor2-Si2-Zam2* ong4 Se1-Mng5-Zam2* dan1-suann3*-tong1-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>為了 疏通旅客，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-tioh8 sou-thong lu2-kheh，</JiaoLuo>
+			<TongYong>ui2-liau4 so1-tong1*-lu4-keh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>捷運公司 提供 免費接駁車 服務，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiat8-un7-kong-si the5-kiong bian2-hui3 chiap-lau5-chhia hok8-bu7，</JiaoLuo>
+			<TongYong>zet6-un2-gong1-si1* te5-giong1 ven4-hui3*-ziap7-un2-cia1* hok6-vu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>讓 往來 台北車站 與 板橋新埔 的人 搭。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 ong2-lai5 Tai5-pak-chhia-cham7 ham Pang-kio5 Sin-pou e5 lang5 che7。</JiaoLuo>
+			<TongYong>ho2 ong4-lai5 Dai5-Bak7-Cia1-Tau5* gah7 Bang1-Gior5*-Sin1-Bo1* e5-lang5* ze2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

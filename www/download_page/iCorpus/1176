@@ -1,0 +1,83 @@
+<article>
+	<id>1176</id>
+	<title>上班尖峰 突然跳電！ 台北捷運 停擺 三十分鐘</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>今天 一整天 下來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit chit8-kui-kang-loh8-lai5，</JiaoLuo>
+			<TongYong>Gin1-a4-rit6* gui1-gang1*-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台北捷運 出了 兩次狀況，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-chiat8-un7 chhut-liau2 nng7-pai2 chong7-hong2，</JiaoLuo>
+			<TongYong>Dai5-Bak7*-Zet6-Un2* cut7-liau4 nng2-bai4-zong2-kong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>一次 是內湖線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-pai2-si7 Lai7-ou5-soaN3，</JiaoLuo>
+			<TongYong>zit6-bai4* si2-Lai2-O5-Suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>一次 是板南線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-pai2-si7 Pang-lam5-soaN3，</JiaoLuo>
+			<TongYong>zit6-bai4* si2-Bang1-Lam5-Suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>八日 內湖線的 情況，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peh-ho7 Lai7-ou5-soaN3 e5 cheng5-hong2，</JiaoLuo>
+			<TongYong>beh7-hor2* Lai2-O5-Suann3*-e5 zing5-kong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>發生在 早上 八點多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng ti7 cha2-khi2 peh-tiam2-goa7，</JiaoLuo>
+			<TongYong>huat7-sing1-di2 zai4-ki4* beh7-diam4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>當時 正是 上班的 尖峰時刻，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-si5 toh8-tioh8 siong7-pan-e5 chiam-hong si5-khek，</JiaoLuo>
+			<TongYong>dong1-si5* dng1-si2 siong2-ban1*-e5 ziam1-hong1-si5-kik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>木柵段 卻 突然跳電，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bak8-sa-toann7 soah-tut8-jian5 thiau3-tian7，</JiaoLuo>
+			<TongYong>Vak6-Sa1-duann2* suah7 tut6-ren5*-tiau3-den2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>造成 十幾輛列車 動彈不得，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 chap8-joa7-tai5 liat8-chhia be7-tin2-be7-tang7，</JiaoLuo>
+			<TongYong>zor2-sing5 zap6-gui4-dai5-let6-cia1* ve2-din4-ve2-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>數千人 受影響。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou3-chheng-lang5 siu7-tioh8 eng2-hiong2。</JiaoLuo>
+			<TongYong>gui4*-a2-cing1-lang5* siu2-diorh6-ing4-hiang4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

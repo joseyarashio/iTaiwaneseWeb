@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>for-in 迴圈</h2>
+<hr>
+
+<script>
+// 建立具有一些屬性的物件。
+student = new Object();
+student.name = "Timmy";
+student.age = "25";
+student.phone = "575-1114";
+
+// 列舉物件中的所有屬性
+for (prop in student)
+    document.write("<br>student." + prop + " = " + student[prop]);
+
+</script>
+
+<hr>
+</body>
+</html>

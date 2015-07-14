@@ -1,0 +1,118 @@
+<article>
+	<id>1056</id>
+	<title>國中生 H1N1疫苗 開始打 三十六人 不適送醫</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>新流感 疫苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-liu5-kam2 ek8-biau5，</JiaoLuo>
+			<TongYong>Sin1-liu5-gam4* ik6-viau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>繼小學生 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soa3 sio2-hak8-seng liau2-au7，</JiaoLuo>
+			<TongYong>di2-sior4-hak6-sing1* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>輪到 國中生 開始打，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lun5-tioh8 kok-tiong-seng khai-si2-chu3，</JiaoLuo>
+			<TongYong>lun5-diorh6 gok7-diong1-sing1* kai1-si4-zu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>儘管， 不少人 對疫苗 有存疑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin7-koan2，be7-chio2-lang5 tui3 ek8-biau5 u7-chun5-gi5，</JiaoLuo>
+			<TongYong>sui1-ren5*， ve2-zior4-lang5* dui3-ik6-viau5* u2-zun5-qi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>仍有 大約 九成家長 同意，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-u7 tai7-iok kau2-siaN5 ka-tiuN2 tong5-i3，</JiaoLuo>
+			<TongYong>iu5-quan5-u2 dai2-iok7* gau4-siann5*-e5-ga1-diunn4* dong5-i3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>預估 會有 九十六萬名 國中生 打疫苗，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i7-kou2 e5-u7 kau2-chap8-lak8-ban7-mia5 kok-tiong-seng chu3-ek8-biau5，</JiaoLuo>
+			<TongYong>i2-go1* e5-u2 gau4-zap6-lak6-van2-e5 gok7-diong1-sing1* zu3-ik6-viau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>第一天， 全台灣 就有 百所學校，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>te7-it-kang，chong2-Tai5-oan5 to-u7 pah-goa7-keng-hak8-hau7，</JiaoLuo>
+			<TongYong>de2-it7-gang1*， zuan5*-Dai5-Uan5* diorh6-u2 zit6-bah7-ging1 hak6-hau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>同一時間 打針，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kang7-si5-kan chu3-sia7，</JiaoLuo>
+			<TongYong>gang2-zit6-si5-gan1* zu3-sia2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>不過 也有 包括 台北縣、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 oan-na2-u7 pau-koat Tai5-pak-koan7，</JiaoLuo>
+			<TongYong>m2-gorh7 ma2-u2 bau1-gua1 Dai5-Bak7-Guan2*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>台中縣市、 屏東縣 等 多所學校，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-koan7-chhi7、Pin5-tang-koan7 teng2 choe7-keng-hak8-hau7，</JiaoLuo>
+			<TongYong>Dai5-Diong1-guan2-ci2*、 Bin5-Dong1-Guan2* ding4-ding4* gui4*-a2-ging1 hak6-hau2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>學生 出現 頭暈、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hak8-seng chhut-hian7 thau5-hin5，</JiaoLuo>
+			<TongYong>hak6-sing1* cut7-hen2 tau5*-qong5*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>身體不適 的 暈針現象，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-the2-bo5-tu2-ho2 e5 hin5-chiam hian7-siong7，</JiaoLuo>
+			<TongYong>sin1-te4* vor5-song4-kuai3* e5 hin5-ziam1*-hen2-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>經過休息 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 hioh-khun3-liau2-au7，</JiaoLuo>
+			<TongYong>ging1-gue3-hiorh7-kun3* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>或是 送醫治療，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ah-si7 sang3-i-ti7-liau5，</JiaoLuo>
+			<TongYong>ia2-si2 sang3-i1*-di2-liau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>都 沒有大礙。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-bo5-gai7-tioh8。</JiaoLuo>
+			<TongYong>long4-vor5-dua2-qai2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,97 @@
+<article>
+	<id>1383</id>
+	<title>失火了 小兄妹 躲桌下 家人 遍尋不著 急到哭</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台中縣 沙鹿鎮 一棟民宅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-koan7 Soa-lak8-tin3 chit8-tong3 bin5-ke-chhu3，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Guan2* Sua1-Lak6-Din3* zit6-dong3 vin5-ge1-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>發生火災 整棟 燒起來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng hoe2-chai kui-tong3 sio-khi2-lai5，</JiaoLuo>
+			<TongYong>huat7-sing1-hue4-zai1* gui1-dong3* sior1*-ki4-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>家人 原本以為，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-lai7-lang5 goan5-pun2 liah8-cho3，</JiaoLuo>
+			<TongYong>cu3-lai2-lang5* quan5-bun4*-i4-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>這對 小兄妹，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-tui3 sio2-hiann-moe7，</JiaoLuo>
+			<TongYong>zit7-dui3 sior4-hiann1-mue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>受困在 二樓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siu7-khun3-ti7 ji7-lau5，</JiaoLuo>
+			<TongYong>siu2-kun3-di2 qi2-lau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>冒險上樓 找半天 找不到，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mou7-hiam2 chiunn7-lau5 chhoe7-poann3-kang chhoe7-bo5-tioh8，</JiaoLuo>
+			<TongYong>mo2-hiam4*-ziunn2-lau5* cue2-buann3-bo1* cue2-vor5-diorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>後來 消防隊員 發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>au7-lai5 siau-hong5-tui7-oan5 hoat-hian7，</JiaoLuo>
+			<TongYong>au2*-lai5 siau1-hong5-dui2-uan5* huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>原來 小兄妹 躲在 一樓的 茶桌底下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-lai5 sio2-hiann-moe7 bih-ti7 it-lau5-e5 te5-toh-a2 e7-kha，</JiaoLuo>
+			<TongYong>quan5-lai5* sior4-hiann1-mue2* vih7-di2 it7-lau5*-e5 de5-dorh7-a4* e2-ka1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>逃過 這一劫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chau2-koe3 chit-chit8-kiap，</JiaoLuo>
+			<TongYong>dor5-gue3-zit7-giap7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>家屬 情緒激動 之下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-siok8 sim-cheng5 kek-tong7-chi-ha7，</JiaoLuo>
+			<TongYong>ga1-siok6* zing5-su2*-gik7-dong2* zi1-ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>急到 哭出來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kip-kah khau3-chhut-lai5，</JiaoLuo>
+			<TongYong>diorh6-gip7-gau3 kau3*-cut7*-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>趕緊 把小孩 抱出去。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koann2-kin2-ka7 gin2-a2 pho7-chhut-khi3。</JiaoLuo>
+			<TongYong>guann4-gin4 ga2-qin4-a4* por2*-cut7*-ki3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

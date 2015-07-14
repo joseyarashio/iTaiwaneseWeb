@@ -1,0 +1,183 @@
+<!-- Copy this code into the BODY part of your HTML file -->
+<html>
+<head>
+<STYLE TYPE="text/css">
+<!--
+
+/*
+ Instructions:
+ For every menu category you want you need to add another #menuX and a #lowermenuX,
+ where X is the next number. It needs to be exactly like the ones below. This example
+ has 3 categories. 
+*/
+
+#menu1	{position:absolute; visibility:hidden;}
+#lowermenu1 {position:absolute; visibility:hidden;}
+
+#menu2	{position:absolute; visibility:hidden;}
+#lowermenu2 {position:absolute; visibility:hidden;}
+
+#menu3	{position:absolute; visibility:hidden;}
+#lowermenu3 {position:absolute; visibility:hidden;}
+
+
+/*
+This is where you change "Menu Title" and "Drop Down Link" attributes.
+*/
+.menuTitleClass {font-family:arial,verdana; text-decoration:none; font-weight:default; cursor:default; color:white}
+.menuLinkClass {font-family:arial,verdana; text-decoration:none; color:white}
+//-->
+</STYLE>
+</head>
+
+
+<SCRIPT LANGUAGE="javascript">
+<!--
+<!--  This script is available at www.codespy.com  -->
+
+/*
+The placement of the menu, starting from the left top corner.
+*/
+pixelDown=150;
+pixelLeft=130;
+
+/*
+The "Menu Titles" height and width in pixels.
+*/
+layerWidth=87;
+layerHeight=20;
+
+// #########################################
+// ## DO NOT CHANGE THIS VARIABLES!!!!!!!!!!!
+   layerName="menu";
+   layerName2="lowermenu";
+   closeTime=400;
+// #########################################
+
+/* 
+The color of the "Title" and the "Drop Down Menus"
+*/
+TitleColor="black";
+menuColor="black";
+
+/*
+This feature only works on Internet Explorer 4 and above. The lower menu changes color
+when the mouse is over.
+*/
+menuColorMouseOver="silver";
+
+
+
+/*
+Here is where you name the "Menu Titles." Remember to have the same number of titles
+as you have menus, which you defined on top.
+*/
+menuTitles=new Array("Links","Tools","Scripts");
+
+/*
+Here is where you create the links on the menu. Menu 1 is the first item i.e. "Links"
+and so forth. You can add as many sublevels as you want.
+*/
+menu1menuTitles=new Array("Yahoo",	"Excite");
+menu1Links=new Array(	"http://www.yahoo.com",	"http://www.excite.com");
+
+menu2menuTitles=new Array("Java Script",	"Codespy");
+menu2Links=new Array(	"http://www.javascriptsource.com",	"http://www.codespy.com");
+
+menu3menuTitles=new Array("CGI Scripts",		"ASP Scripts");
+menu3Links=new Array(  "http://www.cgi-resources.com",	"http://www.aspin.com");
+
+// #################################################################################
+// ## DO NOT CHANGE OR TOUCH THESE VARIABLES IF YOU DON'T KNOW WHAT YOU ARE DOING ##
+// #################################################################################
+
+styleForTDelement="";
+if (document.all)
+	styleForTDelement="STYLE=\"cursor: hand\"";
+
+numLayer=menuTitles.length;
+function displayMenu(){
+	for (i=1; i<=numLayer; i++){
+		writeThis="";
+		writeThis+=("<DIV ID='"+layerName+""+i+"' onMouseOver=\"showMenu('"+layerName2+""+i+"')\" onMouseOut=\"hidemenuTimer('"+layerName2+""+i+"')\">")
+		writeThis+=("<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=\""+layerWidth+"\" HEIGHT=\""+layerHeight+"\" BGCOLOR=\""+TitleColor+"\">");
+		writeThis+=("<TR><TD><A HREF=\"javascript:void(0)\" onMouseOver=\"showMenu('"+layerName2+""+i+"')\" onMouseOut=\"hidemenuTimer('"+layerName2+""+i+"')\" CLASS='menuTitleClass'>"+menuTitles[i-1]+"</A></TD></TR>");
+		writeThis+=("</TABLE></DIV>")
+
+		writeThis+=("<DIV ID='"+layerName2+""+i+"' onMouseOver=\"showMenu('"+layerName2+""+i+"')\" onMouseOut=\"hidemenuTimer('"+layerName2+""+i+"')\">")
+		writeThis+=("<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=\""+layerWidth+"\" BGCOLOR=\""+menuColor+"\">");
+		numLowerMenu=eval("menu"+i+"menuTitles.length")
+		for (j=0; j<numLowerMenu; j++){
+			writeThis+=("<TR><TD "+styleForTDelement+" onClick=\"self.location.href='"+eval("menu"+i+"Links["+j+"]")+"'\" onMouseOver=\"this.style.backgroundColor='"+menuColorMouseOver+"'\" onMouseOut=\"this.style.backgroundColor=''\"><A HREF=\""+eval("menu"+i+"Links["+j+"]")+"\" onMouseOver=\"showMenu('"+layerName2+""+i+"')\" onMouseOut=\"hidemenuTimer('"+layerName2+""+i+"')\" CLASS='menuLinkClass'>"+eval("menu"+i+"menuTitles["+j+"]")+"</A></TD></TR>")
+		}
+		writeThis+=("</TABLE></DIV>")
+		document.write(writeThis);
+	}
+}
+
+function placeMenu(){
+	for (i=1; i<=numLayer; i++){
+		if (document.all)
+			beginLayer=document.all[layerName+i].style;
+		else
+			beginLayer=document.layers[layerName+i];
+		beginLayer.width=layerWidth
+		beginLayer.height=layerHeight
+		beginLayer.top=pixelDown
+		beginLayer.left=pixelLeft+layerWidth*(i-1);
+		beginLayer.visibility="visible";
+
+		if (document.all)
+			beginLayer=document.all[layerName2+i].style;
+		else
+			beginLayer=document.layers[layerName2+i];
+		beginLayer.width=layerWidth
+		beginLayer.top=pixelDown+layerHeight
+		beginLayer.left=pixelLeft+layerWidth*(i-1);
+		beginLayer.visibility="hidden";
+	}
+}
+
+function showMenu(which){
+	hideOthers(which);
+	willHideMenu=false;
+	if (document.all)
+		beginLayer=document.all[which].style;
+	else
+		beginLayer=document.layers[which];
+	beginLayer.visibility="visible";
+}
+
+function hidemenuTimer(which){
+	hideOthers(which);
+	willHideMenu=true;
+	setTimeout("hidemenu('"+which+"')", closeTime);
+}
+
+function hidemenu(which){
+	if (document.all)
+		beginLayer=document.all[which].style;
+	else
+		beginLayer=document.layers[which];
+
+	if (willHideMenu)
+		beginLayer.visibility="hidden";
+}
+
+function hideOthers(which){
+	for (i=1; i<=numLayer; i++)
+		if (which!=layerName2+i){
+			if (document.all)
+				beginLayer=document.all[layerName2+i].style;
+			else
+				beginLayer=document.layers[layerName2+i];
+			beginLayer.visibility="hidden";
+		}
+}
+
+if (parseInt(navigator.appVersion)>=4){
+	displayMenu();
+	placeMenu();
+}
+//-->
+</SCRIPT>

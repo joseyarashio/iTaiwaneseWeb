@@ -1,0 +1,118 @@
+<article>
+	<id>887</id>
+	<title>南部 二期稻作 正在插秧 農民 憂限水</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>南部水庫 供水吃緊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lam5-po7 chui2-kho3 kiong-chui2 an5-khang，</JiaoLuo>
+			<TongYong>Lam5-bo2-zui4-ko3* giong1-zui4*-zin-an5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一旦 真的 實施限水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tan3 cheng3-keng sit-si han7-chui2，</JiaoLuo>
+			<TongYong>it7-dan3* zin1-ziann3 sit6-si1-han2-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>靠 烏山頭水庫 灌溉用水 的 農民們，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho3 O-soann-thau5-chui2-kho3 koan3-khai3 iong7-chui2 e5 long5-bin5-in，</JiaoLuo>
+			<TongYong>kor3 o1-suann1-tau5*-zui4-ko3* guan3-gai3*-iong2-zui4* e5 long5-vin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>開始憂愁 了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khai-si2 iu-chhiu5-ah，</JiaoLuo>
+			<TongYong>kai1-si4-iu1-ciu5* a2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>因為 目前</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 bok-cheng5，</JiaoLuo>
+			<TongYong>in1-ui2 vok6-zing5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>正是 二期稻作 插秧時節，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiann3-si7 chap-goeh-tang po3-tiu7-a2 si5-choeh，</JiaoLuo>
+			<TongYong>ziann3-si2 qi2-gi5-diu2-zok7* bo3-can5*-si5-zeh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>農民 插秧時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long5-bin5 po3-tiu7-a2 si5，</JiaoLuo>
+			<TongYong>long5-vin5* bo3-can5*-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>特別需要 用水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tek-piat su-iau3 iong7-chui2，</JiaoLuo>
+			<TongYong>dik6-bet6-su1-iau3 ing2-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>因此 種冠軍米的 崑濱伯 建議，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-chhu2 cheng3 koan3-kun-bi2 Khun-pin-peh kian3-gi7，</JiaoLuo>
+			<TongYong>so4-i4 zing3-guan1-gun1-vi4*-e5 kun1-bin1-beh7* gen3-qi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>等到 稻作 生長期，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan2-kau3 tiu7-chok seng-tiong2-ki5，</JiaoLuo>
+			<TongYong>dan4-gau3 diu2-zok7* sing1-diong4-gi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>可以 採 輪流供水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-eng7 chhai2 lun5-liu5 kiong-chui2，</JiaoLuo>
+			<TongYong>e2-dang3 cai4 lun5-liu5-giong1-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>水庫的水 省點用，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chui2-kho3 e5 chui2 khiam7-khiam7-a2 iong7，</JiaoLuo>
+			<TongYong>zui4-ko3*-e5-zui4* kiam2-kiam2-a4-ing2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>農民 一定 全力配合，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long5-bin5 it-teng7 choan5-le phoe3-hap，</JiaoLuo>
+			<TongYong>long5-vin5* it7-ding2 zuan5-lik6-pue3-hap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>否則 全部 停止供水，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-bo5 theng5-chi2 choan5-po7 kiong-chui2，</JiaoLuo>
+			<TongYong>na2-vor5* zuan5-bo2* ting5-zi4-giong1-zui4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>今年 二期稻作 馬上 受影響。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ni5 chap-goeh-tang ma2-siong7 siu7-eng2-hiong2。</JiaoLuo>
+			<TongYong>gin1-ni5* qi2-gi5-diu2-zok7* ma4-siong2* siu2-ing4-hiang4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

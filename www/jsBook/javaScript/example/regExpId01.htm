@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：簡易身份證字號驗證</h2>
+<hr>
+
+<script>
+function checkID(string) {
+	re = /^[A-Z]\d{9}$/;
+	if (re.test(string))
+		alert("成功！符合「" + re + "」的格式！");
+	else
+		alert("失敗！不符合「" + re + "」的格式！");
+}
+</script>
+身份證字號（第一個英文字母需大寫）：<input id=idNumber value=A12345678>
+<input type=button value="驗證" onClick="checkID(idNumber.value)">
+
+<hr>
+</body>
+</html>

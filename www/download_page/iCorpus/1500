@@ -1,0 +1,90 @@
+<article>
+	<id>1500</id>
+	<title>蘆洲郵局 新大樓 空置 浪費月租</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 蘆洲市 的 蘆洲郵局 因為 房舍老舊，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 Lou5-chiu-hiong e5 Lou5-chiu-iu5-kiok8 in-ui7 pang5-sia3 lau7-ku7，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* Lo5-Ziu1-Ci2* e5 Lo5-Ziu1*-Iu5-Giok6* in1-ui2 bang5-sia3*-lau2-gu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>兩年半前 搬遷 租用 附近房屋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-ni5- poann3-cheng5 soa2-ui7 chou-iong7 hu3-kin7 chhu3-theh8，</JiaoLuo>
+			<TongYong>nng2-ni5-buann3-zing5* buann1-cen1* zo1-ing2 hu2-gin2*-e5-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>原址 重建新大樓，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-chi2 teng5-khi2 sin-toa7-lau5，</JiaoLuo>
+			<TongYong>quan5-zi4* ding5-gen3-sin1-dua2-lau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>但是 今年六月 完工後 申請 使用執照，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-kuh kin-ni5 lak8-goeh8 oan5-kang-au7 sin-chheng2 su2-iong7-chip-chiau3，</JiaoLuo>
+			<TongYong>m2-gorh7 gin1-ni5*-lak6*-queh6 uan5-gang1*-liau4-au2* sin1-cing4 su4-ing2*-zip7-ziau3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>到現在 卻 遲遲 無法驗收，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3-chit-ma2 soah-ti5-ti5 bo5-hoat-giam7-siu，</JiaoLuo>
+			<TongYong>gau3-zit7-ma4* suah7 it7-dit6 vor5-huat7-do2* qiam2-siu1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>讓新大樓 一直空置，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 sin-toa7-lau5 it-tit8-pang3-khang-keng，</JiaoLuo>
+			<TongYong>ho2-sin1-dua2-lau5* it7-dit6-bang3-kang1-siann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>蘆洲市郵局 的 人員 解釋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lou5-chiu-chhi7-iu5-kiok8 e5 jin5-oan5 kai2-soeh，</JiaoLuo>
+			<TongYong>Lo5-Ziu1-Ci2*-Iu5-Giok6* e5 rin5-uan5* gai4-sueh7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>是因為 電力 還沒 配置完成，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7-in-ui7 tian7-lek8 iau2-bo5 phoe3-tah-oan5-seng5，</JiaoLuo>
+			<TongYong>si2-in1-ui2 den2-lik6* iah7-vue2 pue3-di3*-uan5-sing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>目前 郵局人員 分兩處 辦公，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok8-cheng5 iu5-kiok8 jin5-oan5 pun-nng7-ui7 pan7-kong，</JiaoLuo>
+			<TongYong>vok6-zing5* iu5-giok6-rin5-uan5* hun1-nng2-ui2* ban2-gong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>一個月 得付 十多萬的 租金，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-kou3-goeh8 tioh8-hu3 chap8-goa7-ban7 e5 chou-kim，</JiaoLuo>
+			<TongYong>zit6-gor3-queh6* diorh6-ai3-hu3 zap6-qua2-van2*-e5 zo1-gim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>實在是 浪費 大家的錢。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sit8-chai7-si7 long7-hui3 tak8-ke-e5-chinn5。</JiaoLuo>
+			<TongYong>sit6-zai2*-si2 long2-hui3 dak6-ge1-e5-zinn5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

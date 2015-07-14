@@ -1,0 +1,164 @@
+<TITLE> Select Slide </TITLE>
+<script language="JavaScript">
+<!--
+// by Wen Jeng Chou (WJCHOU)  08/24/1996
+// nthu ccc
+// wjchou@cc.nthu.edu.tw
+//
+Index = 0;
+Index_tmp = 0;
+ActionArray = new Array()
+ix=0
+
+ActionArray[ix++]="Title;title.asp"
+ActionArray[ix++]="Roger;roger.asp"
+ActionArray[ix++]="Syllabus;syllabus.asp"
+ActionArray[ix++]="--- Part I ---;part1.asp"
+ActionArray[ix++]="Portal Sites;portal.asp"
+ActionArray[ix++]="Browsers;browser1.asp"
+ActionArray[ix++]="Before Using Browsers;browser2.asp"
+ActionArray[ix++]="Search Engines;search1.asp"
+ActionArray[ix++]="Search Engines List 1;search2.asp"
+ActionArray[ix++]="Search Engines List 2;search3.asp"
+ActionArray[ix++]="Related Search;search4.asp"
+ActionArray[ix++]="Related Issues;issue.asp"
+ActionArray[ix++]="Q & A;question.asp"
+ActionArray[ix++]="Exercise 1;exer1.asp"
+ActionArray[ix++]="--- Part II ---;part2.asp"
+ActionArray[ix++]="Introduction to HTML;html1.asp"
+ActionArray[ix++]="HTML Tutorial;html2.asp"
+ActionArray[ix++]="HTML Tidbits;html3.asp"
+ActionArray[ix++]="Introduction to HTTP;http1.asp"
+ActionArray[ix++]="Message Passing in HTTP;http2.asp"
+ActionArray[ix++]="Message Passing in HTTP;http3.asp"
+ActionArray[ix++]="Emulating HTTP Manually;http4.asp"
+ActionArray[ix++]="Introduction to Web Programming;webprog.asp"
+ActionArray[ix++]="Introduction to Client-side Scripts;c-side1.asp"
+ActionArray[ix++]="Features of JavaScript;c-side2.asp"
+ActionArray[ix++]="JavaScript Capabilieies;c-side3.asp"
+ActionArray[ix++]="Examples/Applications of JavaScript;c-side4.asp"
+ActionArray[ix++]="Introduction to Server-side Scripts;s-side1.asp"
+ActionArray[ix++]="Features of ASP;s-side2.asp"
+ActionArray[ix++]="Examples/Applications of ASP;s-side3.asp"
+ActionArray[ix++]="Introduction to CGI;cgi1.asp"
+ActionArray[ix++]="CGI without Option;cgi2.asp"
+ActionArray[ix++]="CGI with Options;cgi3.asp"
+ActionArray[ix++]="Examples/Applications of CGI;cgi4.asp"
+ActionArray[ix++]="Q & A;question.asp"
+ActionArray[ix++]="Exercise 2;exer2.asp"
+ActionArray[ix++]="--- Part III ---;part3.asp"
+ActionArray[ix++]="Internet Research;rsrch1.asp"
+ActionArray[ix++]="Research Classification;rsrch2.asp"
+ActionArray[ix++]="Impacts on Research;rsrch3.asp"
+ActionArray[ix++]="Demos;demo.asp"
+
+function extractAction () {
+  var Semi = ActionArray[Index].indexOf (";") ;
+  var Temp = ActionArray[Index].substring (Semi+1, ActionArray[Index].length);
+  return (Temp);
+}
+
+function extractUrl () {
+  var Semi = ActionArray[Index].indexOf (";") ;
+  var Temp = ActionArray[Index].substring (0, Semi);
+  return (Temp);
+}
+
+function change_URL(entryField) {
+ var Sname = entryField.name;
+ var load_status = true;
+ if (Sname == "selectCmd") {
+     Index_tmp = Index;
+     Index = document.chg.selectGroup.selectedIndex;
+     }
+
+ if (Sname == "winCmd") {
+     Index_tmp = Index;
+     Index = document.chg.selectGroup.selectedIndex;
+     msg=open(extractAction (),"WindowName","toolbar=no,directories=no,menubar=no,scrollbars=yes");
+     Index = Index_tmp;
+     return (true);
+     }
+
+ if (Sname =="Up") {
+     Index_tmp = Index;
+     Index -= 1
+     if (Index < 0 ) {
+         if (confirm("已到頂頭!! 您確定要循環呈現嗎？"))
+           Index=ActionArray.length -1
+         else {
+           Index=0
+           load_status = false
+            }
+      }
+    }
+
+ if (Sname =="Down") {
+     Index_tmp = Index;
+     Index += 1
+     if (Index > ActionArray.length-1 ) {
+         if (confirm("已到底部!! 您確定要循環呈現嗎？"))
+           Index=0
+         else {
+           Index=ActionArray.length -1
+           load_status = false
+            }
+      }
+    }
+
+ if (Sname =="Back") {
+     Index = Index_tmp;
+     }
+//  alert("new url= " + extractAction ())
+  if (load_status) {
+     document.chg.currSlide.value=extractUrl();
+     document.chg.currUrl.value=extractAction();
+     parent.guide.location = extractAction ();
+   }
+  return (true);
+
+}
+//
+
+function loadDoc() {
+        document.chg.currSlide.value=extractUrl();
+        document.chg.currUrl.value=extractAction();
+        parent.guide.location = extractAction ();
+        return (true);
+}
+
+//   -->
+</script>
+</head>
+
+<body  onLoad="loadDoc()" bgcolor=blue >
+<form name="chg">
+<table  border=0>
+<tr>
+<td>
+<select NAME="selectGroup">
+<script>
+	for (Count = 0; Count < ActionArray.length; Count++) {
+		Semi = ActionArray[Count].indexOf (";") 
+		Temp = (Count+1) + ". " + ActionArray[Count].substring (0, Semi)
+		document.write ("<OPTION>"+Temp)
+	}
+</script>
+</select>
+</td>
+<td>
+<input type="button" name="selectCmd" value="跳至" onClick="change_URL(this)">
+<input type="button" name="winCmd" value="新視窗" onClick="change_URL(this)">
+<input type="button" name="Up" value="上一張" onClick="change_URL(this)">
+<input type="button" name="Down" value="下一張" onClick="change_URL(this)">
+<input type="button" name="Back" value="回原位" onClick="change_URL(this)">
+</td>
+</tr>
+<tr>
+<td><input type="text" name=currSlide size=25 value=""></td>
+<td><input type "text" name=currUrl   size=40 value=""></td>
+</tr>
+</table>
+
+</form>
+</body>

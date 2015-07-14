@@ -1,0 +1,17 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>傳送兩個文字欄位的訊息：使用 this.form</h2>
+<hr>
+
+<form>
+	<input type=text name=text1 value="送到右邊的預設訊息">
+	<input type=button value="=====>" onClick="this.form.text2.value=this.form.text1.value">
+	<input type=text name=text2>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,118 @@
+<article>
+	<id>1103</id>
+	<title>陳雲林來 封 台中港路 影響 十萬輛車次</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>江陳會 即將 在台中市 豋場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kang-Tan5-hoe7 tit-beh ti7 Tai5-tiong-chhi7 chiunn7-tiunn5，</JiaoLuo>
+			<TongYong>Gang1-Dan5-hue2* dih7-veh7 di2-Dai5-Diong1-Ci2* ding1-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>會談地點 選在 交通要道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe7-tam5 te7-tiam2 soan2-ti7 kau-thong iau3-to7，</JiaoLuo>
+			<TongYong>hue2-dam5*-e5-de2-diam4* suan4-di2 gau1-tong1-iau3-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>台中港路旁 的 裕元花園酒店，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-kang2 lou7-pinn-a2-e5 Ju7-goan5-hoe-hng5-chiu2-tiam3，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Gang4-Lo2* binn1*-a4* e5 Ru2-Quan5*-Hue1-Hng5*-Ziu4-Diam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>警方 沿著 周邊道路 劃出 交通管制區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong ian5-tioh8 chiu-pinn-to7-lou7 oe7-chhut kau-thong-koan2-che3-khu，</JiaoLuo>
+			<TongYong>ging4-hong1* en5-diorh6 ziu1-binn1-dor2-lo2* ue2-cut7 gau1-tong1-guan4-ze3-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>再 依 群眾 遊行抗爭的 狀況，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-an3 kun5-chiong3-iu5-heng5 khong3-cheng-e5 chong7-hong2，</JiaoLuo>
+			<TongYong>gorh7 i1-ziau3 gun5-ziong3* iu5-hing5*-kong3-zing1*-e5 zong2-hong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>分成 三級管制，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hun-cho3 sann-kip koan2-che3，</JiaoLuo>
+			<TongYong>hun1-zor3 sann1-gip7*-guan4-ze3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>甚至 不惜 封閉 車流量大的 台中港路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3-bo5-sioh hong-pi3 chhia-liu5-liang7-toa7 e5 Tai5-tiong-kang2-lou7，</JiaoLuo>
+			<TongYong>sim2-zi3 vor5-siorh7 hong1-bi3 cia1-liu5-liang2*-dua2*-e5 Dai5-Diong1-Gang4-Lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>要求 所有的人 全部改道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau-kiu5 sou2-u7-e5-lang5 long2-chong2 kai2-to7，</JiaoLuo>
+			<TongYong>iau1-giu5 so4-u2*-e5-lang5* long4-zong4-gai4-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>光是 一天下來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na3-si7 kui-kang-loh8-lai5，</JiaoLuo>
+			<TongYong>gan1-na2* zit6-gang1*-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>至少 會影響 十萬輛 以上 的 車次，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi3-chio2-e7 eng2-hiang2 chap8-ban7-tai5 i2-siang7 chhia-choa7，</JiaoLuo>
+			<TongYong>zi3-zior4* e2-ing4-hiang4 zap6-van2-dai5* i4-siang2* e5 cia1-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>民眾 抱怨表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 hiam3-khou2 piau2-si7，</JiaoLuo>
+			<TongYong>vin5-ziong3* but7-vuan4*-biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>馬英九政府 為了 陳雲林 封路管制，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ma2-Eng-Kiu2-cheng3-hu2 ui7-tioh8 Tan5-Hun5-Lim5 hong-lou7-koan2-che3，</JiaoLuo>
+			<TongYong>Ma4-Ing1-Giu4-zing3-hu4* ui2-diorh6 Dan5-Hun5-Lim5* hong1-lo2*-guan4-ze3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>上班上課 都受影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-pan siong7-kho3 long2-siu7-eng2-hiang2，</JiaoLuo>
+			<TongYong>siong2-ban1*-siong2-kor3* long4-siu2-ing4-hiang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>實在是 很擾民，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sit8-chai7-si7 chin-jiau2-bin5，</JiaoLuo>
+			<TongYong>sit6-zai2-si2 zin1-riau4-vin5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>還說什麼 苦民所苦。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-kong2-siann2-mih khou2-bin5-sou2-khou2。</JiaoLuo>
+			<TongYong>gorh7-gong4-siann4-mih7 ko4-vin5*-so4-ko4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,10 @@
+<?XML version="1.0" ?>
+<!-- Filename: demo.wsf-->
+<package>
+  <job>
+    <reference object="ADODB.Recordset"/>
+    <script language="JScript">
+      WScript.Echo("adUseClient = " + CStr(adUseClient));
+    </script>
+  </job>
+</package>

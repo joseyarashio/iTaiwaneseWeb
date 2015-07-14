@@ -1,0 +1,103 @@
+<!doctype html>
+<head>
+<script type="text/javascript" src="../js/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="../js/raphael.js"></script>
+<script type="text/javascript" src="../js/morris.js"></script>
+<style type="text/css"> 
+pre {
+  height: 300px;
+  overflow: auto;
+}
+</style> 
+<?php
+if(@$_POST["submit"]=="篩選"){
+	echo $_POST["item2"];
+	}
+?>
+<form method="post" name="myform">
+		篩選<br>韻母:
+		<select size="1" name="item1" id="sysearch">
+			<option value="all">-單韻母-</option>
+			<option value="a">a</option>
+			<option value="i">i</option>
+			<option value="u">u</option>
+			<option value="e">e</option>
+			<option value="er">er</option>
+			<option value="o">o</option>
+			<option value="all">-複韻母-</option>
+			<option value="ai">ai</option>
+			<option value="au">au</option>
+			<option value="ia">ia</option>
+			<option value="iu">iu</option>
+			<option value="io">io</option>
+			<option value="iau">iau</option>
+			<option value="oa">oa</option>
+			<option value="oi">oi</option>
+			<option value="oe">oe</option>
+			<option value="oai">oai</option>
+			<option value="ua">ua</option>
+			<option value="ui">ui</option>
+			<option value="ue">ue</option>
+			<option value="uai">uai</option>
+		</select>
+		<select size="1" name="item2" id="sysearch">
+			<option value="">無</option>
+			<option value="p">-p</option>
+			<option value="t">-t</option>
+			<option value="k">-k</option>
+			<option value="h">-h</option>
+		</select>
+		<select size="1" name="item3" id="sysearch">
+			<option value="all">all</option>
+			<option value="50">50</option>
+			<option value="100">100</option>
+			<option value="150">150</option>
+			<option value="200">200</option>
+		</select>
+		<input name="submit" type="submit" value="篩選"><br>
+		<div id="Bar"></div>
+		
+	</form>
+<body>
+	<script type="text/javascript">
+	$(function(){
+		var data =[
+			{"syllable": " lip2 ","number": 4 },
+			{"syllable": " rip3 ","number": 2 },
+			{"syllable": " lip3 ","number": 2 },
+			{"syllable": " gip2 ","number": 2 },
+			{"syllable": " zip1 ","number": 1 },
+			{"syllable": " vip3 ","number": 1 },
+			{"syllable": " rip ","number": 1 },
+			{"syllable": " qip3 ","number": 1 },
+			{"syllable": " qip2 ","number": 1 },
+			{"syllable": " gip1 ","number": 1 },
+];
+	Morris.Bar({
+		  element: 'Bar',
+		  data: data, 
+		  xkey: 'syllable',
+		  ymax: 'auto',
+		  ykeys: ['number'],
+		  labels: ['syllable','number']
+		});
+	});
+</script>
+<body>
+	<div id="Bar"></div>
+	<pre id="code" class="prettyprint linenums">
+<a href="http://140.109.18.117/GitRepos/finish/DaAi/vvrs01-20130301%20(20130316)-0416.trs">http://140.109.18.117/GitRepos/finish/DaAi/vvrs01-20130301%20(20130316)-0416.trs</a>
+<a href="http://140.109.18.117/GitRepos/finish/DaAi/vvrs04-20130309(0324)-20130420.trs">http://140.109.18.117/GitRepos/finish/DaAi/vvrs04-20130309(0324)-20130420.trs</a>
+<a href="http://140.109.18.117/GitRepos/finish/DaAi/vvrs07-20130308(0404)-0422.trs">http://140.109.18.117/GitRepos/finish/DaAi/vvrs07-20130308(0404)-0422.trs</a>
+	 lip2  :  4 
+	 rip3  :  2 
+	 lip3  :  2 
+	 gip2  :  2 
+	 zip1  :  1 
+	 vip3  :  1 
+	 rip  :  1 
+	 qip3  :  1 
+	 qip2  :  1 
+	 gip1  :  1 
+</pre>
+</body>

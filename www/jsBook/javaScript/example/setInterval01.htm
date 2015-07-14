@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>預約程式碼的執行：使用 setInterval()</h2>
+<hr>
+
+<script>
+function showTime(){
+	date=new Date();
+	document.getElementById("theText").value=date.toLocaleString();
+}
+setInterval("showTime()", 1000);		//每一秒更新一次
+</script>
+
+<center>
+<form>
+目前時間：<input type="text" id=theText size=30>
+</form>
+</center>
+
+<hr>
+</body>
+</html>

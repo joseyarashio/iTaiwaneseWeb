@@ -1,0 +1,39 @@
+<html>
+<body>
+<h2 align=center>簡易馬錶</h2>
+<hr>
+
+<script language=javascript>
+function go(){
+	switch(myButton.value){
+		case "開始計時":
+			date1=new Date();				// 取得目前時間
+			timeDisplay.value="計時中...";		// 設定時間顯示為 計時中...
+			myButton.value="停止計時";			// 將按鈕文字改為「停止計時」
+			break;
+		case "停止計時":
+			date2=new Date();				// 取得目前時間
+			timeDiff=(date2.getTime()-date1.getTime())/1000;// 時間差距，以秒為單位
+			timeDisplay.value=timeDiff;		// 設定時間顯示
+			myButton.value="歸零";			// 將按鈕文字改為「歸零」
+			break;
+		case "歸零":
+			timeDisplay.value="00:00:00";		// 設定時間顯示為 00:00:00
+			myButton.value="開始計時";			// 將按鈕文字改為「開始計時」
+			break;
+		default:
+			alert("Error!");
+			break;
+	}
+}
+</script>
+
+<center>
+<form>
+<input type="button" id="myButton" value="開始計時" width=10 onClick="go()">
+<p>經過時間：<input type=text id="timeDisplay" value="00:00:00">秒
+</form>
+</center>
+
+</body>
+</html>

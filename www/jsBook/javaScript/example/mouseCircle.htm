@@ -1,0 +1,49 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<html>
+
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body onmousedown="DrawCircle(event.clientX, event.clientY, 100)">
+
+<script>
+function plot(x, y){
+    var div = document.createElement("div");
+	div.style.position = "absolute";
+	div.style.height = "1px";
+	div.style.width = "1px";
+	div.style.left = x + "px";
+	div.style.top = y + "px";
+	div.style.fontSize = "1px";
+	div.innerHTML = " ";
+	div.style.padding = "0px";
+	div.style.margin = "0px";
+	div.style.background = "black";
+	div.style.clip = "rect(0,1,1,0)"
+	document.body.appendChild(div);
+}
+
+function DrawCircle(x, y, r){
+	for (var i = 0; i < (r/Math.sqrt(2)); i++){
+		var j = Math.sqrt(Math.pow(r,2) - Math.pow(i,2));
+		if (Math.ceil(j)-j > j-Math.floor(j)) {
+			j = Math.floor(j);
+		} else {
+			j = Math.ceil(j);
+		}
+		plot(x+i, y+j);
+		plot(x+i, y-j);
+		plot(x-i, y+j);
+		plot(x-i, y-j);
+		plot(x+j, y+i);
+		plot(x+j, y-i);
+		plot(x-j, y+i);
+		plot(x-j, y-i);
+	}
+}
+
+
+</script>
+</body>
+</html>

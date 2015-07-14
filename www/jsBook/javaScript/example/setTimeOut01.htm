@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>預約和取消程式碼的執行：預約一次</h2>
+<hr>
+
+<script>
+function clickCallback(){
+	document.theForm.theButton.value="三秒鐘後引爆...";
+	setTimeout("alert('轟！！！'); document.theForm.theButton.value='丟手榴彈'", 3*1000);
+}
+</script>
+
+<center>
+<form name="theForm">
+<input type="button" name=theButton value="丟手榴彈" onClick="clickCallback()">
+</form>
+</center>
+
+<hr>
+</body>
+</html>

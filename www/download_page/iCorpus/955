@@ -1,0 +1,251 @@
+<article>
+	<id>955</id>
+	<title>李登輝 訪問日本 王文洋 自行 前往會合</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 綜合報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7 sin-bun5 chong-hap8 po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* zong1-hap6-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>前總統 李登輝 伉儷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng5-chong2-thong2 Li2-teng-hui ang-a2-bou2，</JiaoLuo>
+			<TongYong>Zing5-zong4-tong4* Li4-Ding1-Hui1* ang1-a4-vo4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>四日早上 搭上 十點的班機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si3-ho7 cha2-khi2 che7-tioh8 chap8-tiam2-e5 pan-ki，</JiaoLuo>
+			<TongYong>si3-hor2*-zai4-ki4* ze2-diorh6 zap6-diam4*-e5-ban1-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>前往日本 訪問，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chian5-ong2 Jit8-pun2 hong2-bun7，</JiaoLuo>
+			<TongYong>zen5-ong4-Rit6-Bun4* hong4-vun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>不過， 預定同行的 王文洋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3，u7-teng7 choe3-tin7-kiaN5-e5 Ong5-bun5-iuN5，</JiaoLuo>
+			<TongYong>m2-gorh7， i2-ding2 zue3-din2-ki3*-e5 Ong5-Vun5-Iunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>並沒有 出現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7-bo5 chhut-hian7，</JiaoLuo>
+			<TongYong>bing2-vor5-cut7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>根據了解，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kun-ku3 liau2-kai2，</JiaoLuo>
+			<TongYong>gin1-gi3-liau4-gai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>王文洋 是 自行 從美國 搭飛機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ong5-bun5-iuN5 si7 ka-ki7 tui3 Bí-kok che7-hui-ki，</JiaoLuo>
+			<TongYong>Ong5-Vun5-Iunn5* si2 ga1-di2* ui3-Vi4-Gok7* ze2-hui1-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>到日本 和 李前總統 會合，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3 Jit8-pun2 ham Li2-cheng5-chong2-thong2 hoe7-hap8，</JiaoLuo>
+			<TongYong>gau3-Rit6-Bun4* ham2 Li4-zing5-zong4-tong4* hue2-hap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>對於 台塑家族 爭遺產，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-i5 Tai5-sok ka-chok8 cheng-ui5-san2，</JiaoLuo>
+			<TongYong>dui3-i5 Dai5-Sok7-ga1-zok6* zing1-ui5-san4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>或是 Dalai Lama 訪問台灣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hek8-si7 Dalai Lama hong2-bun7 Tai5-oan5，</JiaoLuo>
+			<TongYong>ia2-si2 Dalai Lama hong4-vun2-Dai5-Uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>李登輝 一概 以不知道 來回應。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Li2-teng-hui it-khai3 eng7 m7-chai lai5-hoe5-eng3。</JiaoLuo>
+			<TongYong>Li4-Ding1-Hui1* it7-kai3* i4-m2-zainn1-iann4* lai5-hue5-ing3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>前總統 李登輝 和 曾文惠 伉儷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng5-chong2-thong2 Li2-teng-hui ham Chan-bun5-hui7 ang-a2-bou2，</JiaoLuo>
+			<TongYong>Zing5-zong4-tong4* Li4-Ding1-Hui1* ham2 Zan1-Vun5-Hui2* ang1-a4-vo4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>可以說是 有同心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-sai2 kong2 si7 u7-kang7-sim，</JiaoLuo>
+			<TongYong>e2-sai4-gong4-si2 u2-gang2-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>穿著 灰色系的 西裝和套裝，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chheng7-tioh8 he-sek-he7 e5 se-chong ham tho3-chong，</JiaoLuo>
+			<TongYong>cing2-diorh6 pu4-sik7-he2*-e5 se1-zong1*-gah7-tor3-zong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>而且 掛著墨鏡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiaN2 khoa3-tioh8 ou-bak8-kiaN3，</JiaoLuo>
+			<TongYong>ri5-ciann4 kua3-diorh6 o1-vak6-giann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>走進 桃園機場 二航廈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiaN5-jip8 Tho5-hng5-ki-tiuN5 ji7-hang5-ha7，</JiaoLuo>
+			<TongYong>giann5-rip6 Tor5-Hng5-Gi1-Diunn5* de2-ri2-hang5-ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>不管是 Dalai Lama 訪問台灣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-koan2 si7 Dalai Lama hong2-bun7 Tai5-oan5，</JiaoLuo>
+			<TongYong>but7-guan4-si2 Dalai Lama hong4-vun2-Dai5-Uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>內閣改組，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lōe-koh kái- chó，</JiaoLuo>
+			<TongYong>lue2-gorh7*-gai4-zo1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>還是 台塑 家產爭奪，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-si7 Tai5-sok ka-chok8 ui5-san2 cheng-toat， </JiaoLuo>
+			<TongYong>ia2-si2 Dai5-Sok7* ga1-san4*-zing1-duat6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>李登輝 都以 不知道</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Li2-teng-hui long2-eng7 m7-chai，</JiaoLuo>
+			<TongYong>Li4-Ding1-Hui1* long4-i4 m2-zainn1-iann4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>沒意見 來回應。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-i3-kian3 lai5-hoe5-eng3。</JiaoLuo>
+			<TongYong>vor5-i3-gen3* lai5-hue5-ing3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>原本說 要同行 的 王文洋，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2-kong2 boeh choe3-tin7-kiaN5-e5 Ong5-bun5-iuN5，</JiaoLuo>
+			<TongYong>Quan5-bun4* gong4 veh7-zue3-din2-ki3* e5 Ong5-Vun5-Iunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>也沒有 現身，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah bo5 hian7-sin，</JiaoLuo>
+			<TongYong>ma2-vor5-hen2-sin1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>根據了解，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kun-ku3 liau2-kai2，</JiaoLuo>
+			<TongYong>gin1-gi3-liau4-gai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>王文洋 臨時決定，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ong5-bun5-iuN5 lim5-si5 koat-teng7 ，</JiaoLuo>
+			<TongYong>Ong5-Vun5-Iunn5* lim5-si5-guat7-ding2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>自行 從美國 搭機 到東京 會合，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka-ki7 tui3 Bí-kok che7-hui-ki kau3 Tang-kiaN hoe7-hap8，</JiaoLuo>
+			<TongYong>ga1-di2* ui3-Vi4-Gok7* ze2-hui1-gi1* gau3-Dang1-Giann1* hue2-hap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>李登輝 雖然 守口如瓶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Li2-teng-hui  sui-jian5 siu2-khau2-ju5-pan5，</JiaoLuo>
+			<TongYong>Li4-Ding1-Hui1* sui1-ren5* kau4-hong1*-zin1-an5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>媒體 還是 想要追問。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mui5-the2 iah-si7  boeh-ai3 tui-mng。</JiaoLuo>
+			<TongYong>mui5-te4* iau4-si2 siunn2-veh7-dui1-mng2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>這趟 日本行，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-choa7 Jit8-pun2-heng5，</JiaoLuo>
+			<TongYong>Zit7-zua2 Rit6-Bun4-hing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>李登輝 將發表</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Li2-teng-hui chiong hoat-piau2，</JiaoLuo>
+			<TongYong>Li4-Ding1-Hui1* ziong1-huat7-biau4</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>國家的 驕傲和希望 的 演說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Kok-ka-e5 kiau-ngo7 kap hi-bong7 e5 ian2-soat，</JiaoLuo>
+			<TongYong>gok7-ga1*-e5 giau1-ngo2*-gah7-hi1-vang2* e5 en4-suat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>而且 也將 利用時間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiann2 iah-chiong li7-iong7 si5-kan，</JiaoLuo>
+			<TongYong>ri5-ciann4 ma2-veh7 li2-iong2-si5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>會見 日本政壇 上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe7-kian3 Jit8-pun2 cheng3-toann5-siong7，</JiaoLuo>
+			<TongYong>hue2-gen3 Rit6-Bun4-zing3-duann5* siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>兩大黨的 高層人士。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng-toa7-tong2 e5 ko-chan5 jin5-su7。</JiaoLuo>
+			<TongYong>nng2-dua2-dong4*-e5 gor1-zan5-rin5-su2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

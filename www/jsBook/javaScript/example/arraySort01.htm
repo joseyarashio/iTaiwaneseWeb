@@ -1,0 +1,22 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>陣列的方法：sort() 和 reverse()</h2>
+<hr>
+
+<script src=listArray.js></script>
+<script>
+myArray = ["First", "3.1415926", "Third", 4];
+document.writeln("<p>原來的陣列：<br>");
+listArray(myArray, "myArray");
+document.writeln("<p>排序後的陣列：<br>");
+listArray(myArray.sort(), "myArray");
+document.writeln("<p>反排後的陣列：<br>");
+listArray(myArray.reverse(), "myArray");
+</script>
+<hr>
+</body>
+</html>

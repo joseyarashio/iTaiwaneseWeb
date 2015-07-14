@@ -1,0 +1,188 @@
+<article>
+	<id>1021</id>
+	<title>古厝交錯 左營舊城 古早意濃</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 李岳樺、 廖錦雄 高雄市 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 Li2-gak8-hoa5、Liau7-gim2-hiong5 Ko-hiong5-chhi7 po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* Li4-Qak6-Hua5*、 Liau2-Gim4-Hiong5* Gor1-Hiong5-Ci2* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>高雄市 左營舊城 是 台灣 第一座城，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7 Cho2-iaN5-ku7-siaN5 si7 Tai5-oan5 te7-it-cho7-siaN5，</JiaoLuo>
+			<TongYong>Gor1-Hiong5-Ci2* Zor4-Iann5*-gu2-siann5* si2 Dai5-Uan5* de2-it7-zor2-siann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在 左營的 舊部落裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Cho2-iaN5 e5 ku7-pou7-lok8 lai7，</JiaoLuo>
+			<TongYong>di2 Zor4-Iann5*-e5 gu2-bo2-lorh6*-li3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>目前 還保留了 一百多間的 古厝，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok8-cheng5 iau3 po2-liu5-liau2 chit8-pah-goa7-keng e5 kou2-chhu3，</JiaoLuo>
+			<TongYong>vok6-zing5* gorh7-bor4-liu5-liau4 zit6-bah7-qua2-ging1*-e5 go4-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>厝與厝 之間 形成迷宮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-ham-chhu3 chi-kan heng5-seng5 be5-kiong，</JiaoLuo>
+			<TongYong>cu3*-gah7-cu3* zi1-gan1* hing5-sing5-ve5-giong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>走進去 探訪 還會發現</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiaN5-jip8-khi3 tham3-hong2 iau3-e7 hoat-hian7，</JiaoLuo>
+			<TongYong>giann5-rip6-ki3 tam3-hong4* gorh7-e2-huat7-hen2</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>歌舞秀場 天王 豬哥亮 的 家。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koa-bu2-tiuN5 thian-ong5 Ti-ko-liang7 e5-chhu3。</JiaoLuo>
+			<TongYong>gua1-vu4-siu3-diunn5* ten1-ong5* Di1-Gor1-Liang2* e5 cu3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>站在 左營的 舊部落，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khia7-ti7 Cho2-iaN5-e5 ku7-pou7-lok8，</JiaoLuo>
+			<TongYong>Kia2-di2 Zor4-Iann5*-e5 gu2-bo2-lorh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>就好像 走進 時光隧道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-na2-chhiuN7 kiaN5-jip8 si5-kong pong7-khang，</JiaoLuo>
+			<TongYong>diorh6-na4-ciunn2 giann5-rip6 si5-gong1-sui2-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>傳統的 三合院 古厝，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thoan5-thong2-e5 saN-hap8-iN7 kou2-chhu3，</JiaoLuo>
+			<TongYong>tuan5-tong4*-e5 sann1-hap6-inn2* go4-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>錯落在 巷弄之間，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soaN2-chhap-ti7 hang7-long7-chi-kan，</JiaoLuo>
+			<TongYong>cor3-lorh6-di2 hang2-long2*-zi1-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>就像是 在走迷宮 一樣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-chhiuN7-si7 ti7 kiaN5-be5-kiong kang7-khoan2，</JiaoLuo>
+			<TongYong>diorh6-ciunn2-si2 dih7-giann5-ve5-giong1* gang2-kuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>趣味的 就是，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhu3-bi7-e5 tioh8-si7，</JiaoLuo>
+			<TongYong>cu3-vi2*-e5 diorh6-si2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>發現 古厝的 生活蹤影，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 kou2-chhu3-e5 seng-oah8 iaN2-chiah，</JiaoLuo>
+			<TongYong>huat7-hen2 go4-cu3*-e5 sing1-uah6-iann4-ziah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>偶而 還會發現 古代人的 學問，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-si5-a2 iau3-e7 hoat-hian7 kou2-cha2-lang5 e5 hak8-bun7，</JiaoLuo>
+			<TongYong>u2-si5-a4* gorh-e2-huat7-hen2 go4-za4-lang5*-e5 hak6-vun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>人家說 「巷仔內」 是內行的，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lang5-kong2 「hang7-a2-lai7」 si7 lai7-hang5-e5，</JiaoLuo>
+			<TongYong>lang5-gong4 「hang2-a4-lai2*」 si2-lai2-hang5*-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>走進巷內 就發現了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiaN5-jip8 hang7-a2-lai7 to-hoat-hian7-ah，</JiaoLuo>
+			<TongYong>giann5-rip6 hang2-a4-lai2* diorh6-huat7-hen2*-a2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>內行人 用原子筆 一筆一畫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lai7-hang5-e5 eng7 goan5-chu2-pit chit8-pit-chit8-oeh8，</JiaoLuo>
+			<TongYong>lai2-hang5-lang5* iong2-quan5-zu4-bit7* zit6-bit7*-zit6-ue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>畫出佛像的 畫家 陳步雲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oe7-chhut hut8-siong7-e5 oe7-ka Tan5-pou7-hun5，</JiaoLuo>
+			<TongYong>ue2-cut7-hut6-siong2*-e5 ue2-ga1* Dan5-Bo2-Hun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>就住在 「巷仔內」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-toa3-ti7 「hang7-a2-lai7」 ，</JiaoLuo>
+			<TongYong>diorh6-dua3-di2 「hang2-a4-lai2*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>住在 左營舊部落 的 名人 不少，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa3-ti7 Cho2-iaN5 ku7-pou7-lok8-e5 mia5-lang5 be7-chio2，</JiaoLuo>
+			<TongYong>dua3-di2 Zor4-Iann5*-gu2-bo2-lorh6* e5 cut7-mia5-lang5* ve2-zior4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>還有一位 是 歌舞秀場 天王 豬哥亮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau3-u7 chit8-ui7 si7 koa-bu2-tiuN5 thian-ong5 Ti-ko-liang7，</JiaoLuo>
+			<TongYong>gorh7-u2-zit6-ui2* si2 gua1-vu4-siu3-diunn5* ten1-ong5* Di1-Gor1-Liang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>他 小時候 就在這裡 長大 的 巷弄文化，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i se3-han3-si5 to-ti7 chit-liah toa7-han3-e5 hang7-long7-bun5-hoa3，</JiaoLuo>
+			<TongYong>i1 se3-han3*-si5* diorh6-di2-zia1* dua2-han3* e5 hang2-long2-vun5-hua3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>呈現 歷史的軌跡 和 人文風情。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>theng5-hian7 lek8-su2-e5 kui2-jiah ham jin5-bun5-hong-cheng5。</JiaoLuo>
+			<TongYong>ding5-hen2 lik6-su4*-e5-gui4-zik7* gah7 rin5-vun5-hong1-zing5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>即將 在 三十一日 登場 的 左營萬年季，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tit-beh-ti7 saN-chap8-it-ho7 chiuN7-tiuN5-e5 Cho2-iaN5 Ban7-ni5-kui3，</JiaoLuo>
+			<TongYong>Diorh6-veh7 di2 sann1-zap6-it7-hor2* ding1-diunn5* e5 Zor4-Iann5*-Van2-Ni5-Gui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>邀請大家 來一趟 懷舊之旅。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau-chheng2 tak8-ke lai5-chit8-choa7 hoai5-ku7-chi-lu2。</JiaoLuo>
+			<TongYong>iau1-ciann4-dak6-ge1 lai5-zit6-zua2 huai5-gu2*-zi1-li4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

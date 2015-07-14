@@ -1,0 +1,139 @@
+<article>
+	<id>897</id>
+	<title>新流感 入侵校園 雲林 某國中 停課十天</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>雲林西螺 一所國中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hun5-lim5 Sai-le5 chit-so2 kok-tiong，</JiaoLuo>
+			<TongYong>Hun5-lim5*-sai1-le5* zit6-ging1-gok7-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>因為 全校 有 二百八十八名 學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 choan5-hau7 u7 nng-pah peh-chap-peh-mia5 hak-seng，</JiaoLuo>
+			<TongYong>in1-ui2 zuan5-hau2* u2 nng2-bah7-beh7-zap6-beh7-mia5 hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>出現 發燒、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhut-hian7 hoat-sio、</JiaoLuo>
+			<TongYong>cut7-hen2 huat7-sior1*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>嘔吐 等 感冒症狀，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>liah-tho3-a2 teng2 kam2-mo7 cheng3-chong7，</JiaoLuo>
+			<TongYong>au4-to3* ding4-ding4* gam4-mo2*-e5-zing3-zong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>校方 通報 疾病管制局 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hau7-hong thong-po3 Chit-penn7-koan2-li2-kiok au7，</JiaoLuo>
+			<TongYong>hau2-hong1* tong1-bor3 zit6-benn2*-guan4-ze3-giok6* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>在下午（七月三十日），</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 e5-po（chhit-goeh sann-chap-ho7），</JiaoLuo>
+			<TongYong>di2-e2-bo1*（cit7-queh6-sann1-zap6-hor2*），</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>決定 停課十天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koat-teng7 theng5-kho3 chap-kang，</JiaoLuo>
+			<TongYong>guat7-ding2 ting5-kor3*-zap6-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>校方追查，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hau7-hong tui-cha，</JiaoLuo>
+			<TongYong>hau2-hong1*-dui1-za1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>最早 是 在 二十八號，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong7-cha2 si7 ti7 ji7-chap-peh-ho7，</JiaoLuo>
+			<TongYong>siang2-za4* si2 di2 qi2-zap6-beh7-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>有 一名學生 發燒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 chit-mia5 hak-seng hoat-sio，</JiaoLuo>
+			<TongYong>u2 zit6-mia5-hak6-sing1* huat7-sior1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>之後， 這個班級的 學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>liau2-au7，chit-e5 pan-kip e5 hak-seng，</JiaoLuo>
+			<TongYong>liau4-au2*， zit6-le5-ban1-gip7*-e5 hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>陸續 有人 被傳染，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>liok-siok u7 lang5 pi7 thoan5-jiam2，</JiaoLuo>
+			<TongYong>liok6-siok6 u2-lang5 hong5*-tuan5-riam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>全校清查 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-hau7 chheng-cha au7，</JiaoLuo>
+			<TongYong>zuan5-hau2-cing1-za1* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>發現 有 疑似 病毒大流行 的 現象，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-hian7 u7 gi5-su7 penn7-tok toa7-liu5-heng5 e5 hian7-siong7，</JiaoLuo>
+			<TongYong>huat7-hen2 u2 qi5-su2 benn2-dok6*-dua2-liu5-hing5* e5 hen2-siong2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>才會 緊急 停課消毒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-e7 kin2-kip theng5-kho3 siau-tok，</JiaoLuo>
+			<TongYong>ziah7-e2 gin4-gip7* ting5-kor3*-siau1-dok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>而 最早發燒的 學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iah siong7-cha2 hoat-sio e5 hak-seng，</JiaoLuo>
+			<TongYong>a1* siang2-za4-huat7-sior1*-e5 hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>已經 由 疾管局人員 採樣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-keng Chit-koan2-kiok jin5-oan5 chhai2-iong7，</JiaoLuo>
+			<TongYong>i4-ging1 iu5 zit6-guan4-giok6*-rin5-uan5* cai4-iunn2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>檢驗報告 最快 三十一號 出爐。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiam2-giam7 po3-ko3 siong7-kin2 sann-chap-it-ho7 chhut-lo5。</JiaoLuo>
+			<TongYong>giam4-qiam2-bor3-gor3 siang2-gin4* sann1-zap6-it7-hor2* cut7-lo5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

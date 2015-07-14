@@ -1,0 +1,111 @@
+<article>
+	<id>1300</id>
+	<title>再審前兩天 殺警察嫌犯 出國赴越南</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>警政系統 傳出 有漏洞，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-cheng3-he7-thong2 thoan5-chhut u7-lau7-tong7，</JiaoLuo>
+			<TongYong>Ging4-zing3*-he2-tong4* tuan5-cut7 u2-kang1-pang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>殺害警察的 嫌疑犯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sat-hai7 keng2-chhat-e5 hiam5-gi5-hoan7，</JiaoLuo>
+			<TongYong>sat7-hai2-ging4-cat7*-e5 hiam5-qi5-huan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>竟然可以 逃出國境，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 e7-sai2 to5-chhut kok-keng2，</JiaoLuo>
+			<TongYong>ging3-ren5*-e2-sai4 dor5-cut7-gok7-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>這 是 在 十三年前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chia-si7-ti7 chap8-sann-ni5-cheng5，</JiaoLuo>
+			<TongYong>ze1* si2 di2 zap6-sann1-ni5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>犯下 警匪槍戰 兇嫌之一的 李得陽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoan7-ha7 keng2-hui2-chheng3-chian3 hiong-hiam5 chi-it-e5 Li2-tit-iong5，</JiaoLuo>
+			<TongYong>huan2-ha2 ging4-hui4*-cing3-zen3* hiong1-hiam5*-zi1-it7*-e5 Li4-Dik7-Iang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>因為 檢察官 沒上訴，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 kiam2-chhat-koann bo5-siang7-sou3，</JiaoLuo>
+			<TongYong>in1-ui2 giam4-cat7-guann1* vor5-siang2-so3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>整個案件 無罪確定，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-e5 an3-kiann7 bo5-choe7-khak-teng7，</JiaoLuo>
+			<TongYong>gui1-e5-an3-giann2* vor5-zue2*-kak7-ding2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>引發 受害者 家屬 不滿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in2-hoat siu7-hai7-chia2 ka-siok8 put-boan2 ， </JiaoLuo>
+			<TongYong>in4-huat7 siu2-hai2-zia4* ga1-siok6* but7-vuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>四處陳情，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si3-koe3-tin5-cheng5 ，</JiaoLuo>
+			<TongYong>si3-ge3*-din5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>高檢署 上個月 十九日，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-kiam2-su2 teng2-ko3-goeh chap8-kau2-ho7，</JiaoLuo>
+			<TongYong>gor1-giam4-su4* ding4-gor3-queh6* zap6-gau4-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>決定 要 聲請再審，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koat-teng7 boeh seng-chheng2-chai3-sim2，</JiaoLuo>
+			<TongYong>guat7-ding2 veh7 sing1-cing4-zai3-sim4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>但是 沒想到 這個時候 才發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-ko3 bo5-siunn7-kau3 chit-e5-si5-chun7 chiah-hoat-hian7，</JiaoLuo>
+			<TongYong>dan2-si2 vor5-siunn2-gau3 zit7-e5-si5-zun2* ziah7-huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>李得陽 卻 提前兩天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Li2-tit-iong5 soah-the5-cheng5 nng7-kang，</JiaoLuo>
+			<TongYong>Li4-Dik7-Iang5* suah7 te5-zing5-nng2-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>在十七日 搭飛機 飛往越南。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chap8-chhit-ho7 che7-hui-ki poe-ong2 Oat8-lam5。 </JiaoLuo>
+			<TongYong>di2-zap6-cit7-hor2* ze2-hui1-ling2-gi1* bue1-ong4-Uat6-Lam5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,125 @@
+<article>
+	<id>1145</id>
+	<title>疫苗 又惹禍 新竹男孩 接種三週 頭頸抽搐</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>這一波的 新流感 疫苗 接種，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-it-pho-e5 Sin-liu5-kam2-ek8-biau5 cheng3-chu，</JiaoLuo>
+			<TongYong>Zit7-por1*-e5 sin1-liu5-gam4* ik6-viau5* ziap7-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>又出現 疑似 後遺症。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-chhut-hian7 gi5-su7 penn7-boe2。</JiaoLuo>
+			<TongYong>gorh7-cut7-hen2 qi5-su2 au2-ui5-zing3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>新竹 一名 九歲男孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sin-tek chit8-mia5 kau2-hoe3 cha-pou-kiann2-a2，</JiaoLuo>
+			<TongYong>Sin1-Dik7* zit6-e5* gau4-hue3*-e5 za1-bo1-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>上個月 學校接種 當天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teng2-ko3-goeh hak8-hau7 cheng3-chu tong-jit8，</JiaoLuo>
+			<TongYong>ding4-gor3-queh6* hak6-hau2*-zu3-sia2* hit7-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>肚子痛 沒有接種，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pak-tou2-thiann3 bo5-cheng3-chu，</JiaoLuo>
+			<TongYong>bak7-do4*-tiann3* vor5-zu3-sia2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>但是 過了幾天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 koe3-liau2-kui2-kang，</JiaoLuo>
+			<TongYong>dan2-si2 gue3-liau4-gui4-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>爸爸 還是 帶去 打疫苗。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lau7-pe7 iau2-si7 chhoa7-khi3 chu-ek8-biau5。</JiaoLuo>
+			<TongYong>ba1-ba1* iau4-si2 cua2-ki3 zu1-ik6-viau5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>三星期 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-le2-pai3 liau2-au7，</JiaoLuo>
+			<TongYong>Sann1-le4-bai3* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>男孩的 臉皮和脖子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-pou-gin2-a2-e5 bin7-phoe5 kap am7-kun2，</JiaoLuo>
+			<TongYong>za1-bo1-qin4-a4*-e5 vin2-pue5*-gah7-am2-gun4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>卻 開始 不自主 抽搐，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah khai-si2 put-chu7-chu2-ban2-chhoah，</JiaoLuo>
+			<TongYong>suah7 kai1-si4 vor5-zu2-zu4*-e5 diuh7-cuah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>讓 爸爸 十分傷心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho7 lau7-pe7 chap8-hun7-siong-sim，</JiaoLuo>
+			<TongYong>ho2-ba1-ba1* hui1-siong5*-siong1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>原本 兒子 擔任 學校 棒球隊 捕手，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 hau7-senn tam-jim7 hak8-hau7 pang7-kiu5-tui7 pou4-chhiu2，</JiaoLuo>
+			<TongYong>quan5-bun4 hau2-senn1* dam1-rim2 hak6-hau2* bang2-giu5-dui2* bo4-ciu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>現在 頭 會 亂抖亂動，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 thau5 e7 loan7-chun3-loan7-tang7，</JiaoLuo>
+			<TongYong>zit7-ma4* tau5* e2 luan2-cuah7*-luan2-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>投捕之間 打暗號 成了問題，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tau5-pou7-chi-kan phah-am3-ho7 pinn3-chiann5 bun7-toe5，</JiaoLuo>
+			<TongYong>dau5-bo4*-zi1-gan1* pah7-am3-hor2* ben3-sing5-vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>不要說 棒球生涯，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>mai3-kong2 pang7-kiu5 seng-gai5，</JiaoLuo>
+			<TongYong>mai3-gong4 bang2-giu5*-sing1-qai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>更擔心 一輩子的 健康 因此 毀掉了。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-hoan5-lo2 chit8-si3-lang5-e5 kian7-khong in-chhu2 hui2-tiau7-liau2。</JiaoLuo>
+			<TongYong>gorh7-kah7-huan5-lor4 zit6-si3-lang5*-e5 gen2-kong1* in1-ui2-an4-ne1* hui4-diau2*-a2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

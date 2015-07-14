@@ -1,0 +1,272 @@
+<article>
+	<id>59</id>
+	<title>機長 誤拉煞車 復興航空 航班 爆胎</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5 po3-to7</JiaoLuo>
+			<TongYong>Vin5-si2*-sin1-vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>復興航空 一架客機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hok8-heng-hang5-khong chit8-tai5 kheh-ki ，</JiaoLuo>
+			<TongYong>Hok6-hing1-hang5-kong1* zit6-dai5-keh7-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>十二月十一日 在 馬公機場 降落 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-ji7-goeh8 chap8-it-ho7 ti7 Ma2-keng-ki-tiuN5 kang3-loh8-si5 ，</JiaoLuo>
+			<TongYong>zap6-ri2-queh6-zap6-it7-hor2* di2 ma4-ging1-gi1-diunn5* gang3-lorh6* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>發生 四個 主輪胎 都爆胎 的 意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng si3-e5 chu2-thai3-iah long2 pong7-lian2 e5 i3-goa7 ，</JiaoLuo>
+			<TongYong>huat7-sing1 si3-e5 zu4-len4-tai1* long4-bok6-tai1* e5 i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>這 還是 國內 第一次 發生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ia7-si7 kok-lai7 te7-it-pai2 hoat-seng ，</JiaoLuo>
+			<TongYong>ze1* iau4-si2 gok7-lai2* de2-it7-bai4* huat7-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>雖然 旅客、 飛機組員 都 平安無事，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5 lu2-kheh 、 hui-ki-chou2-oan5 long2 peng5-an-bo5-su7 ，</JiaoLuo>
+			<TongYong>sui1-ren5* li4-keh7*、 hui1-gi1-zo1-quan5* long4 bing5-an1*-vor5-su2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>但是 調查發現，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 tiau-cha hoat-hian7 ，</JiaoLuo>
+			<TongYong>dan2-si2 diau1-za1*-huat7-hen2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>竟然是 機長 在 飛行途中 誤拉剎車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng3-jian5-si7 ki-tiuN2 ti7 hui-heng5 tou5-tiong gou7-giu2 tong3-a2 ，</JiaoLuo>
+			<TongYong>ging3-ren5-si7 gi1-diunn4* di2 hui1-hing5-do5-diong1* qo2-qiu4-dong3-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>造成 輪胎鎖死 導致爆胎，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 thai3-iah so2-si2 ti3-su2 pong7-lian2 ，</JiaoLuo>
+			<TongYong>zor2-sing5 len4-tai1*-sor4-si4* di3-su4-bok6-tai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>連 飛航專家 都 直呼 太扯了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham poe-hang5 choan-ka long2-hoah-kong2 siuN-li7-keng ，</JiaoLuo>
+			<TongYong>len5 hui1-hang5-zuan1-ga1* long4-gong4 siunn1-li2-po4*-a3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>民航局 也將開罰。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-hang5-kiok8 ia7-beh khui-hoat8 。</JiaoLuo>
+			<TongYong>vin5-hang5-giok6* ma2-veh7-cu4-huat6*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>跑道上 長長的 黑色 煞車痕跡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phau2-to7 siang7 tng5-tng5-e5 ou-sek tong3-a2 hun5-chiah ，</JiaoLuo>
+			<TongYong>Pau4-dor2-ding4* dng5-dng5*-e5 o1-sik7* dong3-cia1-hun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>表示 飛機輪胎 完全鎖死，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>piau2-si7 hui-ki thai3-iah oan5-choan5 so2-si2 ，</JiaoLuo>
+			<TongYong>biau4-si2 hui1-gi1-len4-tai1* uan5-zuan5-sor4-si4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>完全沒有 轉動，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-choan5-bo5 lian2-tin2-tang7，</JiaoLuo>
+			<TongYong>uan5-zuan5-vor5 seh6-din4-dang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>近看 輪胎 破損的程度，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin7-khoaN3 thai3-iah phoa3-sun2-e5 teng5-tou7 ，</JiaoLuo>
+			<TongYong>gin2-kuann3 len4-tai1* pua3-sun4*-e5-ting5-do2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>更 叫人 提心吊膽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-kio3-lang5 kiann-sim-lun2-mia7 ，</JiaoLuo>
+			<TongYong>ging2-ga1 ho2-lang5 te5-sim1*-diau3-dann4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>這次 復興航空 爆胎事件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-pai2 Hok8-heng-hang5-khong pong7-lian2 su7-kiaN7 ，</JiaoLuo>
+			<TongYong>zit7-bai4* hok6-hing1-hang5-kong1* bok6-tai1-su2-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>經過 民航局 初步調查，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-koe3 Bin5-hang5-kiok8 chhou-pou7 tiau-cha ，</JiaoLuo>
+			<TongYong>ging1-gue3 vin5-hang5-giok6* co1-bo2-diau1-za1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>確定 是 人為疏失。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khak-teng7-si7 jin5-ui5-soe-sit 。</JiaoLuo>
+			<TongYong>kak7-ding2 si2 rin5-ui5-so1-sit7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>發生意外的 客機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng i3-goa7-e5 kheh-ki ，</JiaoLuo>
+			<TongYong>Huat7-sing1-i3-qua2*-e5 keh7-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>是 ATR 渦輪 螺旋槳 客機，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 ATR o-lun5 phu-lou2-pheh-lah kheh-ki ，</JiaoLuo>
+			<TongYong>si2 ATR or1-lun5 pu1-lo4-pe4-lah6* keh7-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>機上 載了 七十二名 旅客、 四位 飛機組員，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hui-teng2 chai3-liau2 chhit-chap8-ji7-mia5 lu2-kheh 、 si3-ui7 hui-ki-chou2-oan5 ，</JiaoLuo>
+			<TongYong>hui1-gi1-ding4* zai3-liau4 cit7-zap6-ri2-mia5 li4-keh7*、 si3-ui2 hui1-gi1-zo1-quan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>十一日 上午 從高雄 起飛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-it-ho7 chai2-khi2 tui3 Ko-hiong5 khi2-poe ，</JiaoLuo>
+			<TongYong>zap6-it7-hor2* zai4-ki4* ui3-kor1-hiong5* ki4-bue1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>降落在 馬公機場 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kang3-loh8 ti7 Ma2-keng-ki-tiuN5 si5 ，</JiaoLuo>
+			<TongYong>gang3-lorh6-di2 ma4-ging1-gi1-diunn5* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>發生 這場意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng chit-tiuN5 i3-goa7 ，</JiaoLuo>
+			<TongYong>huat7-sing1 zit7-diunn5-i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>正駕駛 王孝謙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiaN3-ka3-su2 Ong5-hau3-khiam ，</JiaoLuo>
+			<TongYong>zing3-ga3-su4* ong5-hau3-kiam1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>也是 復興航空 標準訓練室 主任，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-si7 Hok8-heng-hang5-khong phiau-chun2-hun3-lian7-sek chu2-jim7 ，</JiaoLuo>
+			<TongYong>ma2-si2 hok6-hing1-hang5-kong1* biau1-zun4*-hun3-len2-sik7* zu4-rim2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>有 九千一百零九 小時 的 飛行資歷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7 kau2-chheng-chit8-pah-khong3-kau2 tiam2-cheng e5 hui-heng5 chu-lek8 ，</JiaoLuo>
+			<TongYong>u2 gau4-cing1*-zit6-bah7-kong3-gau4 diam4-zing1* e5 hui1-hing5-zu1-lik6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>副駕駛 李志芳，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hu3-ka3-su2 Li2-chi3-hong ，</JiaoLuo>
+			<TongYong>hu3-ga3-su4* li4-zi3-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>經驗 較資淺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng-giam7 khah-chu-chhian2 ，</JiaoLuo>
+			<TongYong>ging1-qiam2* kah7-zu1-cen4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>僅僅有 一千八百零三 小時。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kan-na7-u7 chit8-chheng-peh-pah-khong3-saN tiam2-cheng ，</JiaoLuo>
+			<TongYong>gan1-na2-u2 zit6-cing1*-beh7-bah7-kong3-sann1 diam4-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>目前 二人 都 已經 暫時停飛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok8-cheng5 nng7-lang5 long2-i2-keng chiam7-si5 theng5-poe ，</JiaoLuo>
+			<TongYong>Vok6-zing5* nng2-e5-lang5* long4 i4-ging1 ziam2-si5-ting5-bue1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>至於 對二人 的 處罰，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi3-i5 tui3 nng7-lang5 e5 chhu2-hoat8 ，</JiaoLuo>
+			<TongYong>a4-na2 dui3-nng2-e5-lang5* e5 cu4-huat6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>還是 得 讓飛航會 開會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-si7 tioh8-hou7 Hui-an-hoe7 khui-hoe7 ，</JiaoLuo>
+			<TongYong>iau4-si2 ai3 ho2-hui1-hang5-hue2* kui1-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>決定 除了 機長本身 疏失 之外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koat-teng7 ti5-liau2 ki-tiuN2 pun2-sin soe-sit chi-goa7 ，</JiaoLuo>
+			<TongYong>guat7-ding2 di5-liau4 gi1-diunn4*-bun4-sin1* so1-sit7* zi1-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>飛機組員 竟然會 在 飛機 飛行過程 中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hui-ki-chou2-oan5 keng2-jian5 e7-ti7 hui-ki hui-heng5 koe3-teng5-tiong ， </JiaoLuo>
+			<TongYong>hui1-gi1-zo1-quan5* ging4-ren5-e2 di2 hui1-gi1 hui1-hing5 gue3-ding5-diong1， </TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>模擬 不正常的 情況 導致意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bou5-gi2 bo5-cheng3-siong5 e5 cheng5-hong2 ti3-su2 i3-goa7 ，</JiaoLuo>
+			<TongYong>mo5-qi4 vor5-zing3-siong5*-e5 zing5-kong4* dor4-di3-i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>民航局 也 已經要求 復興航空 改進 相關措施。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-hang5-kiok8 ia7-i2-keng iau-kiu5 Hok8-heng-hang5-khong kai2-chin3 siang-koan-chhou3-si 。</JiaoLuo>
+			<TongYong>vin5-hang5-giok6* ia2 i4-ging1-iau1-giu5 hok6-hing1-hang5-kong1* gai4-zin3 siong1-guan1-cor3-si1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

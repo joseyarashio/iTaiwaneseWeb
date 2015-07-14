@@ -1,0 +1,444 @@
+<html>
+<head>
+<title>Sum Game</title>
+<style type="text/css">
+span {font-size: 250%; 
+		font-family: "Courier New";
+		color: Yellow;
+}
+label {font-size: 125%; 
+		font-family: "Courier New";
+		color: Yellow;
+}
+body {background: url("chalkboard.jpg");
+		color: Yellow;
+}
+
+
+</style>
+
+<script type="text/javascript" src="data.js">
+</script>
+<script type="text/javascript">
+//AJAX start
+
+function getStats() { 
+	xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null) {
+  		alert ("Your browser does not support AJAX!");
+  		return;
+  	} 
+	var url="track.asp";
+	url = url + "?game=sum"; //game
+	url = url + "&sid=" + Math.random();
+	xmlHttp.onreadystatechange=stateChanged;
+	xmlHttp.open("GET",url,true);
+	xmlHttp.send(null);
+}
+
+function trackStats(winner, computerscore, playerscore) { 
+	xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null) {
+  		alert ("Your browser does not support AJAX!");
+  		return;
+  	} 
+	var url="track.asp";
+	url = url + "?game=sum"; //game
+	url = url + "&winner=" + winner; //winner
+	url = url + "&playerscore=" + playerscore; //player score
+	url = url + "&computerscore=" + computerscore; //computer score
+	url = url + "&sid=" + Math.random();
+	xmlHttp.onreadystatechange=stateChanged;
+	xmlHttp.open("GET",url,true);
+	xmlHttp.send(null);
+}
+
+function GetXmlHttpObject() {
+	var xmlHttp=null;
+	try {
+  		// Firefox, Opera 8.0+, Safari
+  		xmlHttp=new XMLHttpRequest();
+  	} catch (e) {
+  	// Internet Explorer
+  		try {
+    		xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+ 		} catch (e) {
+    		xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+    	}
+  	}
+	return xmlHttp;
+}
+
+function stateChanged() { 
+	if (xmlHttp.readyState==4) { 
+		respString = new String(xmlHttp.responseText)
+		splitString = respString.split(",")
+		var pWins = new Number(splitString[0]);
+		var pScore = new Number(splitString[1]);
+		var cWins = new Number(splitString[2]);
+		var cScore = new Number(splitString[3]);
+		
+		var playerPercentWins = Math.round(pWins / (pWins + cWins) * 100);
+		var computerPercentWins = Math.round(cWins / (pWins + cWins) * 100);
+		document.getElementById("playerWins").innerHTML = pWins + " (" + playerPercentWins + "%)";
+		document.getElementById("playerScore").innerHTML = Math.round(pScore * 1000) / 1000;
+		document.getElementById("computerWins").innerHTML = cWins + " (" + computerPercentWins + "%)";
+		document.getElementById("computerScore").innerHTML = Math.round(cScore * 1000) / 1000;
+	}
+}
+
+//AJAX end
+
+
+
+//index 0 is for player
+//index 1 is for computer
+a1=new Array(0, 0);
+a2=new Array(0, 0);
+b1=new Array(0, 0);
+b2=new Array(0, 0);
+c1=new Array(0, 0);
+c2=new Array(0, 0);
+d1=new Array(0, 0);
+d2=new Array(0, 0);
+
+availableSpot1=new Array("a", "a");
+availableSpot2=new Array("a", "a");
+
+currentRoll=0;
+rolls = new Array();
+rollNumber=0;
+totalPlayer=0;
+totalComputer=0;
+
+function newGame() {
+	a1=new Array(0, 0);
+	a2=new Array(0, 0);
+	b1=new Array(0, 0);
+	b2=new Array(0, 0);
+	c1=new Array(0, 0);
+	c2=new Array(0, 0);
+	d1=new Array(0, 0);
+	d2=new Array(0, 0);
+	
+	availableSpot1=new Array("a", "a");
+	availableSpot2=new Array("a", "a");
+	currentRoll=0;
+	rolls = new Array();
+	rollNumber=0;
+	totalPlayer=0;
+	totalComputer=0;
+	
+	document.getElementById("a1P-spot").innerHTML = "_";
+	document.getElementById("a2P-spot").innerHTML = "_";
+	document.getElementById("b1P-spot").innerHTML = "_";
+	document.getElementById("b2P-spot").innerHTML = "_";
+	document.getElementById("c1P-spot").innerHTML = "_";
+	document.getElementById("c2P-spot").innerHTML = "_";
+	document.getElementById("d1P-spot").innerHTML = "_";
+	document.getElementById("d2P-spot").innerHTML = "_";
+	
+	document.getElementById("a1C-spot").innerHTML = "_";
+	document.getElementById("a2C-spot").innerHTML = "_";
+	document.getElementById("b1C-spot").innerHTML = "_";
+	document.getElementById("b2C-spot").innerHTML = "_";
+	document.getElementById("c1C-spot").innerHTML = "_";
+	document.getElementById("c2C-spot").innerHTML = "_";
+	document.getElementById("d1C-spot").innerHTML = "_";
+	document.getElementById("d2C-spot").innerHTML = "_";
+	
+	document.getElementById("total-hundredP").innerHTML = "";
+	document.getElementById("total-tenP").innerHTML = "";
+	document.getElementById("total-oneP").innerHTML = "";
+	document.getElementById("total-hundredC").innerHTML = "";
+	document.getElementById("total-tenC").innerHTML = "";
+	document.getElementById("total-oneC").innerHTML = "";
+	
+	rollDice();
+}
+
+function rollDice() {
+	if (rolls.length == 0) {
+		while (rolls.length < 8) {
+			rolls[rolls.length]=Math.ceil(Math.random()*6);
+		}
+		document.getElementById("newGameButton").disabled = "disabled";
+	}
+	if (rollNumber <= 7) { 
+		ranNum = rolls[rollNumber];
+		document.getElementById("dice").innerHTML = ranNum;
+		currentRoll=ranNum;
+		rollNumber++;
+	} else {
+		document.getElementById("dice").innerHTML = "";
+		if (totalPlayer > 170)
+			totalPlayer = 0;
+			
+		if (totalComputer > 170)
+			totalComputer = 0;
+			
+		var winner = "";
+		if (totalPlayer > 170 && totalComputer > 170) {
+			winner = "No winner";
+		} else if (totalPlayer == totalComputer) {
+			winner = "No winner";
+		} else if (totalPlayer > 170) {
+			winner = "Computer";
+		} else if (totalComputer > 170) {
+			winner = "Player";
+		} else if (totalPlayer > totalComputer) {
+			winner = "Player";
+		} else {
+			winner = "Computer";
+		}
+		
+		var msg = "";
+		if (winner == "Computer")
+			msg = "You lose!";
+		else if (winner == "Player")
+			msg = "You win!";
+		else 
+			msg = "No winner.";
+			
+		document.getElementById("newGameButton").disabled = "";
+		trackStats(winner, totalComputer, totalPlayer);
+		if (confirm(msg + " Do you want to play again?"))
+			newGame();
+	}
+}
+
+function getSum() {
+	totalPlayer = (a1[0]*10)+a2[0]+(b1[0]*10)+b2[0]+(c1[0]*10)+c2[0]+(d1[0]*10)+d2[0];
+	var totalStr = new String(totalPlayer);
+	
+	if (totalPlayer >= 100) {
+		document.getElementById("total-hundredP").innerHTML = totalStr.substr(0, 1);
+		document.getElementById("total-tenP").innerHTML = totalStr.substr(1, 1);
+		document.getElementById("total-oneP").innerHTML = totalStr.substr(2, 1);
+	} else if (totalPlayer >= 10) {
+		document.getElementById("total-hundredP").innerHTML = "&nbsp;";
+		document.getElementById("total-tenP").innerHTML = totalStr.substr(0, 1);
+		document.getElementById("total-oneP").innerHTML = totalStr.substr(1, 1);
+	} else {
+		document.getElementById("total-hundredP").innerHTML = "&nbsp;";
+		document.getElementById("total-tenP").innerHTML = "&nbsp;";
+		document.getElementById("total-oneP").innerHTML = totalStr.substr(0, 1);	
+	}
+	
+	totalComputer = (a1[1]*10)+a2[1]+(b1[1]*10)+b2[1]+(c1[1]*10)+c2[1]+(d1[1]*10)+d2[1];
+	totalStr = new String(totalComputer);
+	
+	if (totalComputer >= 100) {
+		document.getElementById("total-hundredC").innerHTML = totalStr.substr(0, 1);
+		document.getElementById("total-tenC").innerHTML = totalStr.substr(1, 1);
+		document.getElementById("total-oneC").innerHTML = totalStr.substr(2, 1);
+	} else if (totalComputer >= 10) {
+		document.getElementById("total-hundredC").innerHTML = "&nbsp;";
+		document.getElementById("total-tenC").innerHTML = totalStr.substr(0, 1);
+		document.getElementById("total-oneC").innerHTML = totalStr.substr(1, 1);
+	} else {
+		document.getElementById("total-hundredC").innerHTML = "&nbsp;";
+		document.getElementById("total-tenC").innerHTML = "&nbsp;";
+		document.getElementById("total-oneC").innerHTML = totalStr.substr(0, 1);	
+	}
+}
+
+function isAvailable(spotId, who) {
+	var spotId = new String(spotId);
+	var row = spotId.substring(0, 1);
+	var col = spotId.substring(1, 2);
+	if (col == "1") {
+		if (row == availableSpot1[who])
+			return true;
+	} else {
+		if (row == availableSpot2[who])
+			return true;
+	}
+}
+
+function setNextAvailable(id, who) {
+	var spotId = new String(id);
+	var row = spotId.substring(0, 1);
+	var col = spotId.substring(1, 2);
+	if (col == "1") {
+		if (row == "a") availableSpot1[who] = "b";
+		else if (row == "b") availableSpot1[who] = "c";	
+		else if (row == "c") availableSpot1[who] = "d";	
+		else if (row == "d") availableSpot1[who] = "";	
+	} else {
+		if (row == "a") availableSpot2[who] = "b";
+		else if (row == "b") availableSpot2[who] = "c";	
+		else if (row == "c") availableSpot2[who] = "d";	
+		else if (row == "d") availableSpot2[who] = "";
+	}
+}
+
+function choose(spot, who) {
+	var val = spot.innerHTML;
+	if (val != "_")
+		return;
+	else if (isAvailable(spot.id, who) && currentRoll != 0) {
+		spot.innerHTML = currentRoll;
+		var spotId = new String(spot.id);
+		var id = spotId.substring(0, 2)+"["+who+"]";
+		eval(id+"="+currentRoll);
+		setNextAvailable(id, who);
+		
+		computerAIMove();
+		getSum();
+		rollDice();
+	}
+}
+
+function computerAIMove() {
+
+	var tensCol = availableSpot1[1];
+	var onesCol = availableSpot2[1];
+	var tensFreeSpots = numberOfFreeSpots(tensCol);
+	var onesFreeSpots = numberOfFreeSpots(onesCol);
+	var row;
+	var col;
+	
+	var tensFilledSpots = 4-tensFreeSpots;
+	var onesFilledSpots = 4-onesFreeSpots;
+	if (totalComputer < 170) {
+		//alert(tensFilledSpots+" "+onesFilledSpots+" "+totalComputer+" "+currentRoll+" = "+
+		//	bestChoices[tensFilledSpots][onesFilledSpots][totalComputer][currentRoll]);
+	}
+	
+	
+	if (tensFreeSpots == 0)
+		col = 2;
+	else if (onesFreeSpots == 0)
+		col = 1;
+	else if (totalComputer > 170)
+		col = 1;
+	else if (bestChoices[tensFilledSpots][onesFilledSpots][totalComputer][currentRoll] == 10)
+		col = 1;
+	else 
+		col = 2;
+		
+	if (col == 1)
+		row = tensCol;
+	else 
+		row = onesCol;
+	
+	var spotId = row+col+"C-spot";
+	var spot = document.getElementById(spotId);
+	spot.innerHTML = currentRoll;
+	var id = spotId.substring(0, 2)+"[1]";
+	eval(id+"="+currentRoll);
+	setNextAvailable(id, 1);
+}
+
+function numberOfFreeSpots (row) {
+	if (row == "a")
+		return 4;
+	else if (row == "b")
+		return 3;
+	else if (row == "c")
+		return 2;
+	else if (row == "d")
+		return 1;
+	else
+		return 0;
+}
+
+function highlight(obj, who) {
+	if (isAvailable(obj.id, who)) {
+		//obj.style.backgroundColor = "lightgray";
+		obj.style.cursor = "pointer";
+	}
+}
+
+function unhighlight(obj) {
+	//obj.style.backgroundColor = "white";
+	obj.style.cursor = "default";
+}
+
+</script>
+</head>
+<body onLoad="rollDice();getStats();">
+<center>
+<label><h1><u>Sum Game</u></h1></label>
+
+<table border="0" width="700" height="600" cellspacing="5">
+<tr valign="top"><td width="110">
+<label>Player:</label><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span id="a1P-spot" onMouseOver="highlight(this, 0);" onMouseOut="unhighlight(this);" onClick="choose(this, 0);">_</span>
+<span id="a2P-spot" onMouseOver="highlight(this, 0);" onMouseOut="unhighlight(this);" onClick="choose(this, 0);">_</span>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span id="b1P-spot" onMouseOver="highlight(this, 0);" onMouseOut="unhighlight(this);" onClick="choose(this, 0);">_</span>
+<span id="b2P-spot" onMouseOver="highlight(this, 0);" onMouseOut="unhighlight(this);" onClick="choose(this, 0);">_</span>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span id="c1P-spot" onMouseOver="highlight(this, 0);" onMouseOut="unhighlight(this);" onClick="choose(this, 0);">_</span>
+<span id="c2P-spot" onMouseOver="highlight(this, 0);" onMouseOut="unhighlight(this);" onClick="choose(this, 0);">_</span>
+<br/>
+
+<label>+</label>
+<span id="d1P-spot" onMouseOver="highlight(this, 0);" onMouseOut="unhighlight(this);" onClick="choose(this, 0);">_</span>
+<span id="d2P-spot" onMouseOver="highlight(this, 0);" onMouseOut="unhighlight(this);" onClick="choose(this, 0);">_</span>
+<hr align="left" width="80"/>
+
+<span id="total-hundredP"></span>
+<span id="total-tenP"></span>
+<span id="total-oneP"></span>
+</td>
+
+<td width="380">
+<center>
+<input id="newGameButton" name="newGameButton" type="button" value="New Game" onClick="newGame();"/><br>
+</center>
+<br>
+<label>Dice roll:</label> <label id="dice"></label><br><br>
+<label>Player's Average Total:</label> <label id="playerScore"></label><br>
+<label>Player's Wins:</label> <label id="playerWins"></label><br>
+<br>
+<label>Computer's Average Total:</label> <label id="computerScore"></label><br>
+<label>Computer's Wins:</label> <label id="computerWins"></label><br>
+<br>
+Rules:<br>
+ - Choose to put the dice roll in the next available tens or ones column.<br>
+ - Try to get the greatest tota that is 170 or less.<br>
+ - If you sum is greater than 170, you get 0 points.<br>
+</td>
+
+<td width="110">
+<label>Computer:</label><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span id="a1C-spot" >_</span>
+<span id="a2C-spot" >_</span>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span id="b1C-spot" >_</span>
+<span id="b2C-spot" >_</span>
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span id="c1C-spot" >_</span>
+<span id="c2C-spot" >_</span>
+<br/>
+
+<label>+</label>
+<span id="d1C-spot" >_</span>
+<span id="d2C-spot" >_</span>
+<hr align="left" width="80"/>
+
+<span id="total-hundredC"></span>
+<span id="total-tenC"></span>
+<span id="total-oneC"></span>
+</td>
+</tr>
+</table>
+
+</center>
+</body>
+</html>

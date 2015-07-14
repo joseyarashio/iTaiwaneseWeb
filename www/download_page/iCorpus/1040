@@ -1,0 +1,181 @@
+<article>
+	<id>1040</id>
+	<title>中科第四期 在彰化 二林民眾 憂污染</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7 sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>中科第四期 污水排放 工程，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kho te7-si3-ki5 lah-sap-chui2-pai5-hong3 kang-teng5，</JiaoLuo>
+			<TongYong>Diong1-Kor1*-de2-si3-gi5* u1-zui4*-bai5-hong3* gang1-ding5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>環評 有條件 通過，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoan5-pheng5 u7-tiau5-kiann7 thong-koe3，</JiaoLuo>
+			<TongYong>huan5-bing5* u2-diau5-giann2* tong1-gue3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>預定 在 彰化縣二林 建廠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-teng7-ti7 Chiong-hoa3-koan7 Ji7-lim5 kian3-chhiunn2，</JiaoLuo>
+			<TongYong>i2-ding2 di2 Ziang1-Hua3-Guan2*-Ri2-Lim5* gen3-ciang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>當地漁民 認為 污染爭議 沒有解決，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-te7 hi5-bin5 jim7-ui5-cheng-gi7 bo5-kai2-koat，</JiaoLuo>
+			<TongYong>dong1-de2-hi5-vin5* rin2-ui5* u1-riam4*-zing1-qi2* vor5-gai4-guat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>政府 卻 已經開始 強制徵收 房子和農地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng3-hu2 soah-i2-keng khai-si2 kiong5-che3-tin-siu chhu3 kap long5-te7，</JiaoLuo>
+			<TongYong>zing3-hu4* suah7 i4-ging1-kai1-si4 giong5-ze3-zin1-siu1 cu3*-gah7-long5-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>十二日 上百位 民眾，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-ji7-ho7 chiunn7-pah-ui7 bin5-chiong3，</JiaoLuo>
+			<TongYong>zap6-ri2-hor2* ziunn2-bah7-ui2 vin5-ziong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>北上 營建署 陳情抗議，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiuN7-pak Eng5-kian3-su7 tin5-cheng5-khong3-gi7，</JiaoLuo>
+			<TongYong>ziunn2-bak7* gau3-Ing5-Gen3-Su4* din5-zing5*-kong3-qi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>卻 被 大批警察 阻擋在 門外。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-pi7 toa7-phe keng2-chhat cho2-tong3-ti7 mng-goa7。</JiaoLuo>
+			<TongYong>suah7 ho2 dua2-pue1-ging4-cat7* zo4-dong3-di2 mng5-qua2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>為了 捍衛家園，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-tioh han7-oe7-ka-hng，</JiaoLuo>
+			<TongYong>Ui2-diorh6 han2-ui2-ga1-hng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>民眾 懸掛 抗議布條，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 tiau3-koa3 khong3-gi7-po3-liau5，</JiaoLuo>
+			<TongYong>vin5-ziong3* gua3-diorh6 kong3-qi2*-bo3-diau5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還把 大量的 臭牡蠣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-ka7 toa7-liong7-e5 chhau3-o5-a2，</JiaoLuo>
+			<TongYong>gorh7-ga2 dai2-liong2*-e5 cau3-or5-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>直接 倒在 營建署 門前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tit-chiap to2-ti7 Eng5-kian3-su7 mng5-cheng5，</JiaoLuo>
+			<TongYong>dit6-ziap7* dor4-di2 Ing5-Gen3-Su4* mng5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>要抗議 中科第四期，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>beh khong3-gi7 Tiong-kho-te7-si3-ki5，</JiaoLuo>
+			<TongYong>veh7-kong3-qi2 Diong1-Kor1*-de2-si3-gi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>即將 在 彰化二林 興建。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tit-beh ti7 Chiong-hoa3 Ji7-lim5 heng-kian3。</JiaoLuo>
+			<TongYong>diorh6-veh7 di2 Ziang1-Hua3*-Ri2-Lim5* hing1-gen3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>上百位 民眾 準備了 陳情書，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiunn7-pah-ui7 bin5-chiong3 chun2-pi7-liau2 tin5-cheng5-su，</JiaoLuo>
+			<TongYong>Ziunn2-bah7-ui2 vin5-ziong3* zun4-bi2-liau4 din5-zing5-si1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>希望 在 營建署 召開 區域計畫 會議 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi-bong7-ti7 Eng5-kian3-su7 tiau3-khai khu-hek-ke3-oe7 hoe7-gi7-si5，</JiaoLuo>
+			<TongYong>hi1-vang2 di2 Ing5-Gen3-Su4* ziau1-kai1 ku1-ik6-ge3-ue2* hue2-qi2* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>再度陳情，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-chai3 tin5-cheng5，</JiaoLuo>
+			<TongYong>gorh7-zai3-din5-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>大批警力 阻擋在 門外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-phe keng2-lek8 cho2-tong3-ti7 mng5-goa7，</JiaoLuo>
+			<TongYong>dua2-pue1-ging4-lik6* zo4-dong3-di2 mng5-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>連 事先準備的 雞蛋 也被沒收，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lian5-su7-sian chun2-pi7-e5 ke-nng oan-na2-pi7-but-siu，</JiaoLuo>
+			<TongYong>len5 su2-sen1-zun4-bi2*-e5 ge1-nng2* ma2-hong5*-vuat6-siu1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>抗議民眾 不滿的情緒 也 頓時爆發。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khong3-gi7-bin5-chiong3 put-boan2-e5 cheng5-su7 oan-na2-toe3-boe2 pok-hoat。</JiaoLuo>
+			<TongYong>kong3-qi2*-vin5-ziong3* but7-vuan4*-e5-zing5-su2* ma2 ma4-siong2-bok6-huat7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>民眾 無奈表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 bu5-nai7-piau2-si7，</JiaoLuo>
+			<TongYong>Vin5-ziong3* vu5-nai2*-biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>中科第四期 早就 已經決定，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kho te7-si3-ki5 cha2-tioh i2-keng-koat-teng7，</JiaoLuo>
+			<TongYong>Diong1-Kor1*-de2-si3-gi5* za4*-diorh6 i4-ging1-guat7-ding2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>在十八日 舉辦 動土典禮， </segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chap8-peh-ho7 ku2-pan7 tang7-tho2-tian2-le2，</JiaoLuo>
+			<TongYong>di2-zap6-beh7-hor2* gi4-ban2 dang2-to4-den4-le4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>區域計畫 會議 通過審查 是 遲早的事情。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khu-hek-ke3-oe7 hoe7-gi7 thong-koe3-sim2-cha si7 cha2-ban7-e5-tai7-chi3。</JiaoLuo>
+			<TongYong>ku1-ik6-ge3-ue2* hue2-qi2* tong1-gue3-sim4-za1* si2 za4-van2*-e5-dai2-zi3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

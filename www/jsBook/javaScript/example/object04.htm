@@ -1,0 +1,64 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>自訂物件示範：巢狀式物件</h2>
+<hr>
+
+<script>
+function course(inputName, inputCourseID, inputCredit) {
+	this.name = inputName;
+	this.courseID = inputCourseID;
+	this.credit = inputCredit;
+	this.display = displayCourse;
+}
+
+function displayCourse() {
+	var outStr="名稱 = "+this.name+"\n";
+	outStr = outStr + "課號 = "+this.courseID+"\n";
+	outStr = outStr + "學分 = "+this.credit+"\n";
+	alert(outStr);
+}
+
+function student(inputName, inputStudentID, inputAge, inputCourse) {
+	this.name = inputName;
+	this.studentID = inputStudentID;
+	this.age = inputAge;
+	this.course = inputCourse;
+	this.display = displayStudent;
+}
+
+function displayStudent() {
+	var outStr="大名 = "+this.name+"\n";
+	outStr = outStr + "學號 = "+this.studentID+"\n";
+	outStr = outStr + "年齡 = "+this.age+"\n";
+	outStr = outStr + "課程 = "+this.course.name+"\n";
+	alert(outStr);
+}
+
+course1 = new course("Web 程式設計、技術與應用","CS3431",3);
+course2 = new course("音訊處理與辨識","CS5770",3);
+course3 = new course("離散數學","CS3111",2);
+student1 = new student("Alex", 695326, 23, course1);
+student2 = new student("Joey", 998735, 20, course2);
+student3 = new student("Kelvin", 978732, 22, course1);
+</script>
+
+按鈕以顯示課程或學生資訊：
+<form>
+課程：
+<input type=button value=course1 onClick="javascript:course1.display()">
+<input type=button value=course2 onClick="javascript:course2.display()">
+<input type=button value=course3 onClick="javascript:course3.display()">
+<br>
+學生：
+<input type=button value=student1 onClick="javascript:student1.display()">
+<input type=button value=student2 onClick="javascript:student2.display()">
+<input type=button value=student3 onClick="javascript:student3.display()">
+</form>
+
+<hr>
+</body>
+</html>

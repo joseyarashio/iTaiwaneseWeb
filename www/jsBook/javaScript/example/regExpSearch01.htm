@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：搜尋並列出位置</h2>
+<hr>
+
+<script>
+function regExpMatch(string, pattern, flag){
+	var regexp = new RegExp(pattern, flag);
+	var index = string.search(regexp);
+	alert(index);
+}
+</script>
+<center>
+　字串：<input size=40 id=strId value="阿輝伯是李登輝，李炳輝是金門王的搭檔"><br>
+通用式：<input size=40 id=patId value="李.輝"><br>
+　選項：<input size=40 id=flagId value="g"><br>
+<input type="button" value="顯示搜尋結果" onClick="regExpMatch(strId.value, patId.value, flagId.value)">
+</center>
+
+<hr>
+</body>
+</html>

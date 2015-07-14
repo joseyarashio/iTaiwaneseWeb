@@ -1,0 +1,125 @@
+<article>
+	<id>1552</id>
+	<title>工程界相挺 蔡英文 情勢不錯</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>民進黨的 新北市長 參選人 蔡英文，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 e5 Sin-pak-chhi7-tiunn2 chham-soan2-jin5 Chhoa3-eng-bun5，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4*-e5 Sin1-Bak7-ci2-diunn4* cam1-suan4-rin5* Cua3-Ing1-Vun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>十七日 晚上 成立 工程界 後援會，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-chhit-ho7 am3-si5 seng5-lip8 kang-teng5-kai3 hou7-oan7-hoe7，</JiaoLuo>
+			<TongYong>zap6-cit7-hor2* am3-si5* sing5-lip6 gang1-ding5-gai3* au2-uan5-hue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>學校 活動中心 擠進上千人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hak8-hau7 oah8-tang7-tiong-sim chinn-jip8 chiunn7-chheng-lang5，</JiaoLuo>
+			<TongYong>hak6-hau2* uah6-dong2-diong1-sim1* zinn1-rip6-ziunn2-cing1-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>晚會 活動的場面 相當熱烈，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>am3-hoe7 oah8-tang7-e5 tiunn5-bin7 siang-tong-jiat8-liat8，</JiaoLuo>
+			<TongYong>am3-hue2* uah6-dong2*-e5-diunn5-vin2* siang1-dong1-ret6-let6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>蔡英文 當著 工程界的 面前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chhoa3-eng-bun5 tng-tioh8 kang-teng5-kai3 e5 bin7-cheng5，</JiaoLuo>
+			<TongYong>Cua3-Ing1-Vun5* dng1-diorh6 gang1-ding5-gai3*-e5 vin2-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>批評 馬英九的 政府 不尊重專業，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phoe-pheng5 Be2-Eng-kiu2 e5 cheng3-hu2 bo5-chun-tiong7 choan-giap8，</JiaoLuo>
+			<TongYong>pe1-ping5 Ma4-Ing1-Giu4*-e5 zing3-hu4* vor5-zun1-diong2-zuan1-qiap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>她 雖然 沒明講 自己跟對手 的 民調差距，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i-sui-jian5 bo5-beng5-kong2 ka-ki7 kap tui3-chhiu2-e5 bin5-tiau chha-ku7，</JiaoLuo>
+			<TongYong>i1 sui1-ren5* vor5-ving5-gong4 ga1-di2*-gah7-dui3-ciu4* e5 vin5-diau3*-ca1-gi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>但是 以 「情勢不錯」 來形容 選情看好。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-kuh eng7 「 pan7-si3-be7-bai2 」 lai5-heng5-iong5 soan2-cheng5-khoann3-ho2。</JiaoLuo>
+			<TongYong>m2-gorh7 ing2 「zing5-se3*-ve2-vai4*」 lai5-hing5-iong5 suan4-zing5*-kuann3-hor4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>蔡英文 在晚會 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chhoa3-eng-bun5 ti7-am3-hoe7 piau2-si7，</JiaoLuo>
+			<TongYong>Cua3-Ing1-Vun5* di2-am3-hue2* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>工程技師 後援會 在 民進黨 最困難的 時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kang-teng5-ki-su hou7-oan7-hoe7 ti7 Bin5-chin3-tong2 siang7-khun3-lan5-e5 si5-chun7，</JiaoLuo>
+			<TongYong>gang1-ding5-gi1-su1* au2-uan5-hue2* di2 Vin5-Zin3-Dong4* siang2-kun3-lan5*-e5 si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>仍舊 一路相挺，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-oan5 it-lou7-sio-theng2，</JiaoLuo>
+			<TongYong>iu5-quan5* zit6-lo2*-sior1-tin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>這 跟 過去 民進黨執政，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-kap-koe3-khi3 Bin5-chin3-tong2 chip-cheng3，</JiaoLuo>
+			<TongYong>ze1* gah7 gue3-ki3* Vin5-Zin3-Dong4*-zip7-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>不論是 在 中央政府 或是 地方政府，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5-lun7-si7-ti7 tiong-iang-cheng3-hu2 ah-si7 toe7-hong cheng3-hu2，</JiaoLuo>
+			<TongYong>vor5-lun2-si2 di2 diong1-iang1-zing3-hu4* ia2-si2 de2-hng1-zing3-hu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>能夠 就事論事，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-thang chiu7-su7-lun7-su7，</JiaoLuo>
+			<TongYong>e2-dang3 ziu2-su2*-lun2-su2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>在 政策 制定與執行 上 相信專業，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 cheng3-chhek che3-teng7 ham chip-heng5-siang7 siang-sin3 choan-giap8，</JiaoLuo>
+			<TongYong>di2 zing3-cik7*-e5 ze3-ding2*-gah7-zip7-hing5* ding4-vin2* siang1-sin3-zuan1-qiap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>充分尊重 專家的意見 有關。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiong-hun7 chun-tiong7 choan-ka-e5 i3-kian3 u7-koan。</JiaoLuo>
+			<TongYong>ciong1-hun2-zun1-diong2 zuan1-ga1*-e5-i3-gen3* u2-guan1-he2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

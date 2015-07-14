@@ -1,0 +1,167 @@
+<article>
+	<id>1003</id>
+	<title>高雄市 大同醫院 後方 污水槽 火警 無傷亡</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu7-iu5-si5-po3 po3-to7</JiaoLuo>
+			<TongYong>Zu2-Iu5-Si5-Bor3* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>高雄市立 大同醫院 的 後方，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7-lip8 Tai7-tong5-peN7-iN7 e5 au7-bin7，</JiaoLuo>
+			<TongYong>Gor1-Hiong5-Ci2-lip6 Dai2-Dong5-Benn2-Inn2* e5 au2-biah7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>有一座 鐵皮 污水槽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-chit8-cho7 thih-phiaN2 so3-ti5，</JiaoLuo>
+			<TongYong>u2-zit6-zor2 tih7-pue5*-e5 u1-zui4-zor5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>今天中午 發生火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-a2-jit8 tiong-tau3 hoat-seng hoe2-sio，</JiaoLuo>
+			<TongYong>gin1-a4-rit6* diong1-dau3* huat7-sing1-hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>院方 一度警戒。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iN7-hong it-tou7 keng2-kai3。</JiaoLuo>
+			<TongYong>inn2-hong1* it7-do2*-ging4-gai3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>高雄市政府 消防局，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ko-hiong5-chhi7-cheng3-hu2 siau-hong5-kiok8，</JiaoLuo>
+			<TongYong>Gor1-Hiong5-Ci2-Zing3-hu4* siau1-hong5-giok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>派出 消防車 與 人員 到場搶救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phai3-chhut siau-hong5-chhia ham jin5-oan5 kau3-tiuN5 chhiuN2-kiu3，</JiaoLuo>
+			<TongYong>pai3-cut7 siau1-hong5-cia1* gah7 rin5-uan5* gau3-hen2-diunn5* ciunn4-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>火勢 十多分鐘 後 即被撲滅，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe2-si3 chap8-goa7-hun-cheng au7 tioh8-pi7 phah-hoa，</JiaoLuo>
+			<TongYong>hue4-se3* zap6-qua2-hun1-zing1* liau4-au2* diorh6-hong5*-pah7-hua1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>沒有人員 傷亡。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bo5 jin5-oan5 siong-bong5。</JiaoLuo>
+			<TongYong>vor5-rin5-uan5* siong1-vong5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>這起火警 竄起濃煙，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-khi2 hoe2-sio chhng3-khi2 long5-ian，</JiaoLuo>
+			<TongYong>Zit7-ki4-hue4-ging4* cuan3-ki4-long5-en1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>污水槽 位於 醫院後方的 鐵皮屋 內，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>so3-ti5 ui7-ti7 peN7-iN7 au7-bin7-e5 thih-phiaN2-chhu3 lai7，</JiaoLuo>
+			<TongYong>u1-zui4-zor5* si2 di2 benn2-inn2*-au2-biah7*-e5 tih7-cu3* lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>不是 醫院主體，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-si7 peN7-iN7 chu2-the2，</JiaoLuo>
+			<TongYong>m2-si2 benn2-inn2*-e5-zu4-te4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>院方 一度警戒，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iN7-hong it-tou7 keng2-kai3，</JiaoLuo>
+			<TongYong>inn2-hong1* it7-do2*-ging4-gai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>準備 疏散病患。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chun2-pi7 sou-khai piN7-hoan7。</JiaoLuo>
+			<TongYong>zun4-bi2 so1-san3-benn2-huan2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>消防局 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-kiok8 piau2-si7，</JiaoLuo>
+			<TongYong>siau1-hong5-giok6* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>這座 污水槽 是 醫院的 污水處理 設備，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-cho7 so3-ti5 si7 peN7-iN7-e5 lah-sap-chui2-chhu2-li2 siat-pi7 ，</JiaoLuo>
+			<TongYong>zit6-zor2 u1-zui4-zor5* si2 benn2-inn2*-e5 u1-zui4*-cu4-li4* set7-bi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>疑似 運轉過熱 而 冒煙起火。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>gi5-su7 un7-choan2 siuN-sio soah chheng3-ian tioh8-hoe2-sio。</JiaoLuo>
+			<TongYong>qi5-su2 un2-zuan4* siunn1-gue3-sior1* ren5-au2* cing3-en1*-dorh6-hue4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>在 消防人員 灌救後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7  siau-hong5-jin5-oan5 koan3-kiu3-au7，</JiaoLuo>
+			<TongYong>Di2 siau1-hong5-rin5-uan5* guan3-giu3*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>大約 十多分鐘 即 撲滅火勢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tai7-iok chap8-goa7-hun-cheng tioh8 phah-hoa hoe2-si3，</JiaoLuo>
+			<TongYong>dai2-iok7* zap6-qua2-hun1-zing1* diorh6 pah7-hua1-hue4-se3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>清理火場 時 沒有看到 人員傷亡。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chheng-li2 hoe2-tiuN5 si5 bo5-khoaN3-tioh8 jin5-oan5 siong-bong5。</JiaoLuo>
+			<TongYong>cing1-li4-hue4-diunn5* si5* vor5-kuann3-diorh6 rin5-uan5*-siong1-vong5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>消防局 指出，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-kiok8 chi2-chhut，</JiaoLuo>
+			<TongYong>Siau1-hong5-giok6* zi4-cut7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>消防與鑑識 人員 繼續 清理火場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5 ham kam3-sek-jin5-oan5 ke3-siok8 chheng-li2 hoe2-tiuN5，</JiaoLuo>
+			<TongYong>siau1-hong5*-gah7-gam3-sik7* rin5-uan5* ge3-siok6 cing1-li4-hue4-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>詳細的 起火原因 有待調查。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siong5-se3 tioh8-hoe2-sio goan5-in tioh8-tan2-tiau-cha。</JiaoLuo>
+			<TongYong>siong5-se3*-e5 dorh6-hue4*-quan5-in1* dan4-tai2-diau1-za1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

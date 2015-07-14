@@ -1,0 +1,104 @@
+<article>
+	<id>1307</id>
+	<title>鶯歌工廠 疑似 乙炔氣爆 二死二重傷</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台北縣 鶯歌鎮 永昌路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-pak-koan7 Eng-koa-tin3 Eng2-chhiong-lou7，</JiaoLuo>
+			<TongYong>Dai5-Bak7-Guan2* Ing1-Gor1-Din3* Ing4-Ciang1-Lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一間 家庭工廠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-keng ka-teng5-kang-chhiunn2，</JiaoLuo>
+			<TongYong>zit6-ging1 ga1-ding5-gang1-ciang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>在 十一日 下午 三點 四十九分，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 chap8-it-ho7 e5-pou sann-tiam2 si3-chap8-kau2-hun，</JiaoLuo>
+			<TongYong>di2 zap6-it7-hor2* e2-bo1* sann1-diam4* si3-zap6-gau4-hun1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>突然 發生氣爆 造成火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tut8-jian5 hoat-seng khi3-phok8 cho7-seng5 he2-sio，</JiaoLuo>
+			<TongYong>tut6-ren5* huat7-sing1-ki3-bok6* zor2-sing5-hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>大火 將 男性外勞 燒得 全身焦黑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-he2 chiong cha-pou-goa7-lo5 sio-cho3 kui-seng-khu-chhau3-ta，</JiaoLuo>
+			<TongYong>dua2-hue4* ga2 za1-bo1-qua2-lor5* sior1-gah7 gui1-sin1-ku1* o1-ma3-ma3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>兩人 傷重 宣告不治，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-lang5 tang7-siong soan-ko3-bo5-i ，</JiaoLuo>
+			<TongYong>nng2-e5-lang5* siang1-se3*-qiam5-diong2* suan1-gor3-vor5-i1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>另一名 男性 嚴重 燒燙傷，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>leng7-chit8-mia5 cha-pou giam5-tiong7 sio-thng3-siong，</JiaoLuo>
+			<TongYong>ling2-zit6-e5* za1-bo1-lang5* qiam5-diong2*-e5 sior1-tng3-siang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>其中一名 還有 失明的危險，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-tiong chit8-mia5 iau3-u7 chhenn-me5-e5 gui5-hiam2，</JiaoLuo>
+			<TongYong>gi5-diong1*-zit6-e5* gorh7-u2 sit7-ving5*-e5-hui5-hiam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>消防隊 初步了解，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-tui7 chhou-pou7-liau2-kai2，</JiaoLuo>
+			<TongYong>siau1-hong5-dui2* co1-bo2*-liau4-gai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>這起 氣爆意外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-khi2 khi3-phok8-i3-goa7，</JiaoLuo>
+			<TongYong>zit7-giann2 ki3-bok6-i3-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>可能是 工人 在 使用 乙炔鋼瓶 的時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kho2-leng5-si7 kang-lang5 ti7-su2-iong7 It-cheh8 kng3-pan5 si5-chun7，</JiaoLuo>
+			<TongYong>kor4-ling5-si2 gang1-lang5* di2 su4-ing2 it7-kuat7*-gng3-tang4* e5-si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>操作不當 才會 釀成大禍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhau-chok-put-tong3 chiah-e7 liong7-seng5-toa7-ho7，</JiaoLuo>
+			<TongYong>cau1-zok7*-but7-dong3* ziah7-e2 liang2-sing5-dua2-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>不過 真正 肇事原因 還要 再調查。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 chin-chiann3 jia2-e7-goan5-in iau3-beh koh-tiau-cha。</JiaoLuo>
+			<TongYong>m2-gorh7 zin1-ziann3*-e5 zor2-su2*-quan5-in1* ai3-gorh7-diau1-za1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

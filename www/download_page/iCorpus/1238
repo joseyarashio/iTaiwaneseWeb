@@ -1,0 +1,76 @@
+<article>
+	<id>1238</id>
+	<title>加長靈車 撞 對向轎車 駕駛 恐怕失明</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>南投縣 發生一起 對撞車禍，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Lam5-tau5-koan7 hoat-seng chit8-khi2 tui3-chong7-chhia-ho7，</JiaoLuo>
+			<TongYong>Lam5-Dau5-Guan2* huat7-sing1-zit6-giann2 sior1-dui3-long3*-e5 cia1-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一台 加長型的 靈車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-tai5 ka-tng5-heng5-e5 leng5-chhia，</JiaoLuo>
+			<TongYong>zit6-dai5 ga1-dng5-hing5*-e5 ling5-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>從火葬場 離開 下山的途中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 hoe2-chong3-tiunn5 li5-khui loh8-soann-e5 tou5-tiong，</JiaoLuo>
+			<TongYong>ui3-hue4-zong3-diunn5* li2-kui1* lorh6-suann1*-e5-do5-diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>卻不知道 什麼原因，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>soah-m7-chai-iann2 siann2-mih goan5-in，</JiaoLuo>
+			<TongYong>suah7-m2-zainn1-iann4 siann4-mih7-quan5-in1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>撞上 對向的轎車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chong7-tioh8 tui3-hiong3-e5 kio7-chhia，</JiaoLuo>
+			<TongYong>long3-diorh6 dui3-hiang3*-e5-giau1-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>造成 開轎車的 陳姓 駕駛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho7-seng5 khui-kio7-chhia-e5 senn3-Tan5 ka3-su2，</JiaoLuo>
+			<TongYong>zor2-sing5 sai4-giau1-cia1* senn3-Dan5*-e5-ga3-su4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>左耳軟骨 骨折，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to3-hinn7 nng2-kut kut-tng7，</JiaoLuo>
+			<TongYong>dor3-hinn2*-nui4-gut7* duinn2*-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>不僅 失去聽力，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-na7 sit-khi3 thiann-lek8，</JiaoLuo>
+			<TongYong>m2-na2 sit7-ki3-tiann1-lik6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>眼睛 還可能 看不見。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bak8-chiu iau2- kho2-leng5 khoann3-be7-tioh8。</JiaoLuo>
+			<TongYong>vak6-ziu1* gorh7-kor4-ling5* kuann3-vor5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

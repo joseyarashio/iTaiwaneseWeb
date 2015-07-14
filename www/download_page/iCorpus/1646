@@ -1,0 +1,132 @@
+<article>
+	<id>1646</id>
+	<title>原木家具 分辨真假 敲、聽、看</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>號稱是 百萬的 原木家具，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kio3-cho3-si7 pah-ban7-e5 goan5-bok8-ka-khu7 ，</JiaoLuo>
+			<TongYong>Hor2-cing1-si2 bah7-van2*-e5 quan5-vok6-ga1-gu2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>竟然 被 做了手腳 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5-pi7 choe3-liau2-kha-chhiu2 ，</JiaoLuo>
+			<TongYong>ging3-ren5* hong5* zor3-liau4-ka1-ciu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>到底 原木的家具 該 怎麼分辨？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tau3-te2 goan5-bok8-e5 ka-khu7 kai-an-choann2 hun-pian7 ？</JiaoLuo>
+			<TongYong>dau3-de4* quan5-vok6*-e5 ga1-gu2* gai1-an1-zuann4 hun1-ben2 ？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>市場上 的 原木家具 和 纖維板 家具 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhi7-tiunn5-siang7 e5 goan5-bok8-ka-khu7 kap chhiam-ui5-pan2 ka-khu7 ，</JiaoLuo>
+			<TongYong>Ci2-diunn5-siong2* e5 quan5-vok6-ga1-gu2* gap7 ciam1-ui5-ban4 ga1-ku2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>價差 最少 差了 五成 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke3-chha siong7-chio2 chha-liau2 gou7-siann5 ，</JiaoLuo>
+			<TongYong>ge3-ca1 siong2-zior4 ca1-liau4 qo2-senn5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>敲看看 原木 聽到的 聲音 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kha3-khoann3-mai7 goan5-bok8 thiann-tioh8-e5 siann-im ，</JiaoLuo>
+			<TongYong>ka3-kuann3-mai2 quan5-vok6 tenn1-diorh6-e5 senn1-im1 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>比起 纖維板 、 夾層木 的 聲音 沉重扎實 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi2-khi2 chhiam-ui5-pan2 、 kah-chan5-pan2 e5 siann-im tim3-tau2-chat8-pak ，</JiaoLuo>
+			<TongYong>bi4-ki4 ciam1-ui5-ban4 、1 gah7-zan5-ban4 e5 senn1-im1 dim3-dau4-zat6-bak7 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>原木家具 的 花紋 自然生成 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-bok8-ka-khu7 e5 hoe-ji7 chu7-jian5-senn-chiann5 ，</JiaoLuo>
+			<TongYong>quan5-vok6-ga1-ku2 e5 hue1-ri2 zu2-ren5-senn1-zenn5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>比較 沒有一致性 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi2-kau3 bo5-it-ti3-seng3 ，</JiaoLuo>
+			<TongYong>bi4-gau3 vor5-it7-di3-sing3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>纖維板 黏上 人工貼皮 的 家具 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiam-ui5-pan2 liam5-tioh8 jin5-kang-tah-phoe5 e5 ka-khu7 ，</JiaoLuo>
+			<TongYong>ciam1-ui5-ban4 liam5-diorh6 rin5-gang1-dah7-pue5 e5 ga1-ku2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>紋路 就 相對的 整齊規律 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe-choa7 to siang-tui3-e5 che5-chann2-kui-lut8 ，</JiaoLuo>
+			<TongYong>hue1-zua2 dor1 siang1-dui3-e5 ze5-zann4-gui1-lut6 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>業者 黏的 如果是 原木貼皮 呢 ？</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>giap8-chia2 liam5-e5 na7-chun2-si7 goan5-bok8-tah-phoe5 ne ？</JiaoLuo>
+			<TongYong>qiap6-zia4 liam5-e5 na2-zun4-si2 quan5-vok6-dah7-pue5 ne1 ？</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>原木家具 的 紋路 能夠 一體成型 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-bok8-ka-khu7 e5 hoe-choa7 e7-thang heng5-mau7-it-the2 ，</JiaoLuo>
+			<TongYong>Quan5-vok6-ga1-gu2*-e5 vun5-lo2*hue1-zua2 e2-tang1 it7-te4*-sing5-hing5*-mau2-it7-te4 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>纖維板 一定要 經過 貼皮 處理 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhiam-ui5-pan2 it-teng7-ai3 keng-koe3 tah-phoe5 chhu2-li2 ，</JiaoLuo>
+			<TongYong>ciam1-ui5-ban4 it7-ding2-ai3 ging1-gue3 dah7-pue5 cu4-li4 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>接縫處 的 花紋 可以看到 有中斷 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiap-phang7-ui7 e5 hoe-ji7 e7-sai2 khoann3-tioh8 u7-chih-chat 。</JiaoLuo>
+			<TongYong>ziap7-pang2-ui2 e5 hue1-vun5* e2-sai4 kuann3-diorh6 u2-dng2*-ki3*zih7-zat7。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>消費者 多用一點心 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hui3-chia2 ke-iong7-koa2-a2-sim ，</JiaoLuo>
+			<TongYong>Siau1-hui3-zia4* ge1-iong2-zit6-gua4-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>就可以 保障 自己 不會受騙 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-e7-sai2 po2-chiong3 ka-ki7 be7-siu7-phian3 。</JiaoLuo>
+			<TongYong>dor1-e2-sai4 bor4-ziong3 ga1-gi2 ve2-siu2-pen3 。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

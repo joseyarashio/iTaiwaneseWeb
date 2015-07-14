@@ -1,0 +1,125 @@
+<article>
+	<id>1681</id>
+	<title>二線三星 警官 涉嫌 放高利貸</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7 sin-bun5 po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>澎湖縣 警察局 出現 警官 疑似 放高利貸 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Phenn5-ou5-koan7 keng2-chhat-kiok8 chhut-hian7 keng2-koann gi5-su7 pang3-tang7-che3 ，</JiaoLuo>
+			<TongYong>Penn5-O5-Guan2* ging4-cat7-giok6* cut7-hen2 ging4-guann1 qi5-su2 bang3-dang2-ze3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>二線三星的 警官 李哲貴 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ji7-soann3-sann-chhinn e5 keng2-koann Li2-tiat-kui3 ，</JiaoLuo>
+			<TongYong>qi2-suann3*-sann1-cenn1*-e5 ging4-guann1* Li4-Tik7-Gui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>遭人 檢舉 涉嫌 以 高達 十七分利 的 高利貸 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho-lang5 kiam2-ki2 siap8-hiam5 eng7 koan5-kau3 chap8-chhit-hun-li7 e5 tang7-che3 ，</JiaoLuo>
+			<TongYong>zor1-lang5 giam4-gi4 siap6-hiam5 ing2 guan5-gau3 zap6-cit7-hun1-li2 e5 dang2-ze3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>根據 檢舉人 陳先生 的 投訴 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kin-ki3 kiam2-ki2-lang5 Tan5-sin-senn e5 tau5-oe7 ，</JiaoLuo>
+			<TongYong>gin1-gi3 giam4-gi4-lang5 Tan5-sin1-senn1 e5 dau5-ue2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>去年 八月 向 李姓 警官 借了 二十萬元 周轉 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ku7-ni5 peh-goeh8 hiang3 senn3-Li2 keng2-koann chioh-liau2 ji7-chap8-ban7-kho3 chiu-choan2 ，</JiaoLuo>
+			<TongYong>gu2-ni5 beh7-queh6 hiang3 senn3-Li4 ging4-guann1 ziorh7-liau4 ri2-zap6-van2-kor3 ziu1-zuan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>結果 對方 竟然 要求 十七分利 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2 tui3-hong keng3-jian5 iau-kiu5 chap8-chhit-hun-li7 ，</JiaoLuo>
+			<TongYong>get7-gor4 dui3-hong1 ging3-ren5 iau1-giu5 zap6-cit7-hun1-li2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>除了 每期還 三萬元 以外 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti5-liau2 tak8-ki5-heng5 sann-ban7-kho3 i2-goa7 ，</JiaoLuo>
+			<TongYong>di5-liau4 dak6-gi5-hing5 sann1-van2-kor3 i4-qua2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>還得 再加 五千元 的 利息 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-tioh8 koh-ka gou7-chheng-kho3 e5 li7-sek ，</JiaoLuo>
+			<TongYong>iau4-diorh6 gorh7-ga1 qo2-cing1-kor3 e5 li2-sit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>一旦 延誤 還錢 時間 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tan3 ian5-gou7 heng5-chinn5 si5-kan ，</JiaoLuo>
+			<TongYong>it7-dan3 en5-qo2 hing5-zinn5 si5-gan1 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>每天 再加碼 三千元 ；</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tak8-kang koh-ka-ke3 sann-chheng-kho3 ；</JiaoLuo>
+			<TongYong>dak6-gang1 gorh7-ga1-ge3 sann1-cing1-kor3 ；</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>對方 惡行惡狀 不只 如此 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3-hong ok-heng5-ok-pa3 m7-na7 an2-ne ，</JiaoLuo>
+			<TongYong>dui3-hong1 ok7-hing5-ok7-ba3 m2-na2 an4-ne1 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>陳先生 一對 一萬 兩千元 的 花瓶 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tan5-sin-senn chit8-tui3 chit8-ban7 nng7-chheng-kho3 e5 hoe-kan ，</JiaoLuo>
+			<TongYong>Tan5-sin1-senn1 zit6-dui3 zit6-van2 nng2-cing1-kor3 e5 hue1-gan1 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>李姓 警官 強行 以 兩千元 買走 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>senn3-Li2 keng2-koann kiong5-heng5 eng7 nng7-chheng-kho3 be2-chau2 ，</JiaoLuo>
+			<TongYong>senn3-Li4 ging4-guann1 giong5-hing5 ing2 nng2-cing1-kor3 ve4-zau4 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>陳先生 忍無可忍 一狀 告到 督察室 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tan5-sin-senn jim2-bo5-kho2-jim2 chit8-chng7 ko3-kau3 tok-chhat-sek ，</JiaoLuo>
+			<TongYong>Tan5-sin1-senn1 rim4-vor5-kor4-rim4 zit6-zng2 gor3-gau3 dok7-cat7-sik7 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>李姓 警官 是否 涉嫌 放高利貸 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>senn3-Li2 keng2-koann si7-m7-si7 siap8-hiam5 pang3-tang7-che3 ，</JiaoLuo>
+			<TongYong>senn3-Li4 ging4-guann1 si2-m2-si2 siap6-hiam5 bang3-dang2-ze3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>警察局 表示 會持續 追查 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-chhat-kiok8 piau2-si7 e7-ke3-siok8 tui-cha 。</JiaoLuo>
+			<TongYong>ging4-cat7-giok6 biau4-si2 e2-ge3-siok6 dui1-za1 。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

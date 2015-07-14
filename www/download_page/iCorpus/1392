@@ -1,0 +1,90 @@
+<article>
+	<id>1392</id>
+	<title>三歲女孩 找爸爸 闖入快車道 警察 發現帶回</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台中縣 一名 年僅三歲的 女孩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-koan7 chit8-mia5 ni5-hoe3-ta sann-hoe3 e5 cha-bou2-gin2-a2，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Guan2* zit6-e5* gan1-na2*-sann1-hue3*-e5 za1-vo4-qin4-a4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>爸爸 凌晨 外出 開計程車，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lau7-pe7 thinn-beh-kng chhut-goa7 khui-ke3-teng5-chhia，</JiaoLuo>
+			<TongYong>lau2-be2* tau3-za4* cut7-ki3 sai4-ge3-ding5-cia1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>女孩 在 睡醒之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha-bou2-gin2-a2 ti7 khun3-cheng-sin5-liau2-au7，</JiaoLuo>
+			<TongYong>za1-vo4-qin4-a4* di2 kun3-zing1-sin5*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>獨自出門 要去 找爸爸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tok8-chu7 chhut-mng5 boeh-khi3-chhe7 lau7-pe7，</JiaoLuo>
+			<TongYong>ga1-di2*-cut7-mui5* veh7-ki3 cue2-lau2-be2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>竟然 走到 西濱 快速道路 上面，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-jian5 kiann5-kau3 Sai-pin-khoai3-sok-to7-lou7 bin7-teng2，</JiaoLuo>
+			<TongYong>ging3-ren5* giann5-gau3 Se1-Bin1* Kuai3-Sok7-Dor2-Lo2* ding4-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>往來車輛 車速飛快，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ong2-lai5 chhia-liong2 chhia-sok hoe2-kin2，</JiaoLuo>
+			<TongYong>lai5-ong4*-e5-cia1-liong2* cia1-sok7*-zin3-gin4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>情況 相當的危險，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chong7-hong2 siang-tong-e5 hui5-hiam2，</JiaoLuo>
+			<TongYong>zing5-hong4* siong1-dong1*-e5-hui5-hiam4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>幸好 被 巡邏的警員 看見，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho2-kai-chai3-pi7 sun5-lo5-e5 keng2-oan5 khoann3-tioh8，</JiaoLuo>
+			<TongYong>gai1-zai3* ho2 sun5-lor5*-e5-ging4-uan5* kuann3*-diorh6，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>把女孩 帶回 派出所，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka7 cha-bou2-gin2-a2 chhoa7-tng2 phai3-chhut-sou2，</JiaoLuo>
+			<TongYong>ga2 za1-vo4-qin4-a4* cua2-duinn4-ki3 pai3-cut7-so4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>幫忙她 聯絡上 爸爸，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pang-bang5-i lian5-lok8-tioh8 lau7-pe7，</JiaoLuo>
+			<TongYong>bang1-i1 len5-lok6-diorh6 lau2-be2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>平安 把女兒 帶回家。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng5-an ka7 cha-bou2-gin2-a2 chhoa7-tng2-khi3。</JiaoLuo>
+			<TongYong>bing5-an1* ga2 za1-vo4-giann4* cua2-duinn4-ki3-cu3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

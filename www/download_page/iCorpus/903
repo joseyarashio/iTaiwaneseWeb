@@ -1,0 +1,118 @@
+<article>
+	<id>903</id>
+	<title>警察 酒後 闖民宅 嗆聲 民眾 包圍 派出所</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam3-lip-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-lip6*-sin1-vun5-dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>國道三隊 泰安分隊 一名 曾姓員警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kok-to7-sann-tui7 thai3-an-hun-tui7 chit-mia5 Chan-senn3 oan5-keng2，</JiaoLuo>
+			<TongYong>Gok7-dor2*-sann1-dui2* tai3-an1-hun1-dui2* zit6-mia5 zan1-senn3*-uan5-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>因為 自己的朋友，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 ka-ki7 e5 peng5-iu2，</JiaoLuo>
+			<TongYong>in1-ui2 ga1-di2*-e5-bing5-iu4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>與 彰化 一位 蔡先生 發生糾紛，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham Chiong-hoa3 chit-ui7 Chhoa3-sian-sinn hoat-seng kiu3-hun，</JiaoLuo>
+			<TongYong>ham2 ziang1-hua3* zit6-ui2 cua3-sin1-senn1* huat7-sing1-giu3-hun1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>雙方 和解金 談不攏，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang-hong ho5-kai2-kim kong2-be7-hah，</JiaoLuo>
+			<TongYong>siang1-hong1* hor5-gai4-gim1* gong4-ve2-hor4-se3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>結果， 曾姓員警 喝酒後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat-ko2，Chan-senn3 oan5-keng2 lim-chiu2-au7，</JiaoLuo>
+			<TongYong>get7-gor4*， zan1-senn3*-uan5-ging4* lim1-ziu4*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>跑到 蔡先生的家 理論，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chau2-kau3 Chhoa3-sian-sinn e5 chhu3 li2-lun7，</JiaoLuo>
+			<TongYong>zau4-gau3 cua3-sin1-senn1* in1-cu3* li4-lun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>找不到人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhoe7 bo5-tioh lang5，</JiaoLuo>
+			<TongYong>cue2-vor5-diorh6-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>曾姓警察 就 對著 蔡先生的 姪女 嗆聲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chan-senn3 keng2-chhat to tui3-tioh Chhoa3-sian-sinn e5 tit-li2 chhngh-siann，</JiaoLuo>
+			<TongYong>zan1-senn3*-ging4-cat7* diorh6 dui3-diorh6 cua3-sin1-senn1*-e5 za1-vo4-sun1-na4* ciang3-siann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>甚至 出言恐嚇，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sim7-chi3 chhut-chhui3 khiong2-hat，</JiaoLuo>
+			<TongYong>sim2-zi3 cut7-cui3*-kiong4-hat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>口氣 非常兇，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khau2-khi3 hui-siong5 phainn2，</JiaoLuo>
+			<TongYong>kau4-ki3* hui1-siong5*-e5-painn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>讓 蔡先生的 姪女，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ho7 Chhoa3-sian-sinn e5 tit-li2，</JiaoLuo>
+			<TongYong>ho2 cua3-sin1-senn1*-e5 za1-vo4-sun1-na4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>驚恐不已，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiann-hiong5 bo5-soah，</JiaoLuo>
+			<TongYong>hui1-siong5-diorh6-giann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>親朋好友 報警處理，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhin-peng5-ho2-iu2 po3-keng2 chhu2-li2 ，</JiaoLuo>
+			<TongYong>cin1-bing5*-hor4-iu4* bor3-ging4*-cu4-li4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>曾姓員警 被帶去 派出所，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chan-senn3 oan5-keng2 pi7-chhoa7-khi3 phai3-chhut-so2，</JiaoLuo>
+			<TongYong>zan1-senn3*-uan5-ging4* hong5*-cua2-ki3 pai3-cut7-so4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>卻 否認 酒後開車 又 鬧事。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khiok ho2-jim7 chiu2-au7 khui-chhia koh nau7-su7。</JiaoLuo>
+			<TongYong>suah7 honn4-rin2 ziu4-au2*-kui1-cia1* gorh7 nau2-su2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

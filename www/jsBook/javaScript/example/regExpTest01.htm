@@ -1,0 +1,39 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>通用式：完整測試頁</h2>
+<hr>
+
+<script>
+function showMatched(form){
+	var regexp = new RegExp(form.pattern.value, form.flag.value);
+	var str = form.string.value;
+	var matched = str.match(regexp);
+	if (matched) {
+		var dispstr = matched.length + " 個比對到的字串：";
+		for (var i=0; i<matched.length; i++)
+			dispstr = dispstr + "\n" + matched[i];  
+		alert(dispstr);
+	} else
+		alert("沒有比對到任何字串！");
+}
+</script>
+<form>
+<table align=center>
+<tr><td align=right>字串：
+<td><input type=text size=30 name=string value="There are 10 rookies coming at 3 o'clock!">
+<tr><td align=right>通用式：
+<td><input type=text size=30 name=pattern value=" \w+ "> (範例：\d{2,3}, T.*a, T.*?a)
+<tr><td align=right>選項：
+<td><input type=text size=30 name=flag value="g"> (g, i, or gi)
+<tr><td align=right><br>
+<td><input type="button" value="顯示比對到的字串" onClick="showMatched(this.form)"><input type="reset">
+</table>
+</form>
+
+<hr>
+</body>
+</html>

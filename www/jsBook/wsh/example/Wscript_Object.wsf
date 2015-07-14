@@ -1,0 +1,16 @@
+'*****************************
+
+'File: Wscript_Object.wsf
+
+'*****************************
+
+<job>
+
+<script language="VBScript">
+
+MsgBox "Wscript host properties" & vbCrLf & vbCrLf & "Application: " & WScript.Application & vbCrLf  & "Name: " & WScript.Name & vbCrLf & "Version: " & WScript.Version & vbCrLf & "FullName: " & Wscript.FullName & vbCrLf & "Path: " & WScript.Path
+
+</script>
+
+</job>
+

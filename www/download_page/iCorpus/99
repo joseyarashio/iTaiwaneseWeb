@@ -1,0 +1,741 @@
+<article>
+	<id>99</id>
+	<title>屏東 竹田驛園 六堆客家 古樸之美</title>
+	<content>
+		<s id=0>
+			<segmentation>自由時報 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chu7-Iu5-Si5-Po3 po3-to7</JiaoLuo>
+			<TongYong>Zu2-iu5-si5-bor3* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>屏東縣 竹田驛園裡 的 車站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Pin5-tong-koan7 Tek-tian5 Ek8-hng5-lai7 e5 chhia-cham7 ，</JiaoLuo>
+			<TongYong>Bin5-dong1-guan2* dik7-can5-iah6-hng5*-lai2* e5 cia1-zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>是 台灣僅存的 三座，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 Tai5-oan5 kan-ta-chhun-e5 saN-cho7 ，</JiaoLuo>
+			<TongYong>si2 dai5-uan5*-gin4-zun5*-e5 sann1-zor2，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>日本式 木造 火車站 之一，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Jit8-pun2-sek bok8-cho7 hoe2-chhia-cham7 chi-it ，</JiaoLuo>
+			<TongYong>rit6-bun4-sik7* vok6-zor2 hue4-cia1-zam2* zi1-it7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>還保留了 日本統治 時代 的 澡堂和古井，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2 po2-liu5-liau2 Jit8-pun2-thong2-ti7 si5-tai7 se2-sin-khu-keng kah kou2-chiN2 ，</JiaoLuo>
+			<TongYong>iau4-bor4-liu5-liau4 rit6-bun4*-tong4-di2* si5-dai2* e5 se4-ik6-ging1* gah7 go4-zenn4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>結合 附近的 客家 歷史建築，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiat4-hap8 hu3-kin7-e5 kheh-ka lek8-su2 kian3-tiok8 ，</JiaoLuo>
+			<TongYong>get7-hap6 hu2-gin2*-e5 keh7-ga1* lik6-su4-gen3-diok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>整個驛園，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-e5 Ek8-hng5 ，</JiaoLuo>
+			<TongYong>gui1-e5-iah6-hng5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>裏外 散發著 竹田</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lai7-goa7 san3-hoat-tioh8 Tek-tian5 ，</JiaoLuo>
+			<TongYong>lai2-qua2* san3-huat7-diorh6 dik7-can5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>這個 六堆客家庄 的 古樸之美。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-e5 Lak8-tui kheh-ka-chng e5 phok-sou3-chi-bi2 。</JiaoLuo>
+			<TongYong>zit7-e5 lak6-dui1*-keh7-ga1-zng1* e5 go4-pok7*-zi1-vi4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>屏東縣的 竹田鄉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Pin5-tang-koan7 e5 Tek-tian5-hiong ，</JiaoLuo>
+			<TongYong>Bin5-dong1-guan2*-e5 dik7-can5-hiong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>是 六堆客家庄 的 「中堆」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 Lak8-tui kheh-ka-chng e5 「 Tiong-tui 」 ，</JiaoLuo>
+			<TongYong>si2 lak6-dui1*-keh7-ga1-zng1* e5 「diong1-dui1」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>位於 東港溪 及 隘寮溪 的 交會處，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ui7-ti7 Tang-Kang2-khe kah Ai3-liau5-khe e5 kau-hoe7-sou2-chai7 ，</JiaoLuo>
+			<TongYong>ui2-di2 dang1-gang4-ke1* gah7 ai3-liau5-ke1 e5 gau1-hue2-cu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>是 六堆 米穀集散 之地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 Lak8-tui bi2-chhek chip8-soaN3-te7 ，</JiaoLuo>
+			<TongYong>si2 lak6-dui1* vi4-gok7* zip6-suann3-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>舊名「頓物」，　客家話 存放東西 的 意思。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ku7-mia5 「 Tun3-but8 」 ， kheh-ka-oe7 kia3-khng3 mih8-kiaN7 e5 i3-su3 。</JiaoLuo>
+			<TongYong>gu2-mia5*「dun4-vut6*」， keh7-ga1-ue2* dun5-mih6-giann2* e5 i3-su3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>日治 大正八年 西元 一九一九年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Jit8-ti7 Tai7-Cheng3-peh-ni5 se-goan5 it-kiu2-it-kiu2-ni5 ，</JiaoLuo>
+			<TongYong>Rit6-di2* dai2-zing3*-beh7-ni5* se1-quan5* it7-giu4-it7-giu4-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>修築 潮州線 鐵路 時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khi2 Tio5-chiu-soaN3 thih-lou7 si5-chun7 ，</JiaoLuo>
+			<TongYong>siu1-zor2 dior5-ziu1-suann3* tih7-lo2* e5 si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>在 民眾要求 下，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 bin5-chiong3 iau-kiu5 chi-ha7 ，</JiaoLuo>
+			<TongYong>di2 vin5-ziong3*-iau1-giu5* zi1-ha2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>設置 簡易的 火車停靠站 「頓物 火車站」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siat-ti3 kan2-tan-e5 hoe2-chhia theng5-kho3-cham7 「 Tun3-but8 hoe2-chhia-cham7 」，</JiaoLuo>
+			<TongYong>set7-di3* gan4-i2*-e5 hue4-cia1*-ting5-kor3-zam2* 「dun3-vut6*-hue4-cia1-zam2*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>隔年 因為 地方制度 改變，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keh-tng2-ni5 in-ui7 te7-hng che3-tou7 kai-piN3 ，</JiaoLuo>
+			<TongYong>geh7-dng4-ni5* in1-ui2 de2-hng1-ze3-do2* gai1-binn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>所以 改為 竹田驛站。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou2-i2 kai2-ui5 Tek-tian5 Ek8-cham7 。</JiaoLuo>
+			<TongYong>so4-i4 gai4-ui5 dik7-can5-iah6-zam2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>火車站 設置之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoe2-chhia-cham7 siat-ti3 liau2-au7 ，</JiaoLuo>
+			<TongYong>Hue4-cia1-zam2* set7-di3*-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>原本 以水路</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 iong7 chui2-lou7 ，</JiaoLuo>
+			<TongYong>quan5-bun4* i4-zui4-lo2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>為 主要 交通工具 的 竹田，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho3 chu2-iau3 kau-thong kang-ku7 e5 Tek-tian5 ，</JiaoLuo>
+			<TongYong>ui5 zu4-iau3* gau1-tong1-gang1-gu2* e5 dik7-can5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>改 以 鐵路交通 為主。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kai2-iong7 thih-lou7 kau-thong ui5-chu2 。</JiaoLuo>
+			<TongYong>gai4 i4 tih7-lo2-gau1-tong1* ui5-zu4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>竹田驛站 現在的 木造建築，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tek-tian5-ek8-cham7 chit-ma2-e5 bok8-cho7 kian3-tiok8 ，</JiaoLuo>
+			<TongYong>Dik7-can5-iah6-zam2* zit7-ma4*-e5 vok6-zor2-gen3-diok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>建於 一九三九年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khi2-ti7 it-kiu2-saN-kiu2-ni5 ，</JiaoLuo>
+			<TongYong>ki4-di2 it7-giu4-sam1-giu4-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>是 一座 仿 西洋風格 的 日式 木造建築，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si7 chit8-cho7 hong2-se-iuN5 hong-keh-e5 Jit8-sek bok8-cho7-kian3-tiok8 ，</JiaoLuo>
+			<TongYong>si2 zit6-zor2 hong4 se1-iunn5-hong1-geh7* e5 rit6-sik7* vok6-zor2-gen3-diok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>與 南投縣的 集集，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham Lam5-tau5-koan7 e5 Chip8-chip8 ，</JiaoLuo>
+			<TongYong>ham2 lam5-dau5-guan2*-e5 zip6-zip6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>及 台南縣的 保安車站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kah Tai5-lam5-koan7 e5 Po2-an-chhia-cham7 ，</JiaoLuo>
+			<TongYong>gah7 dai5-lam5-guan2*-e5 bor4-an1-cia1-zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>同樣 是 目前 台灣</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kang7-khoan2-si7 bok8-cheng5 Tai5-oan5 ，</JiaoLuo>
+			<TongYong>gang2-kuan4* si2 vok6-zing5* dai5-uan5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>僅剩的 木造 火車站。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kan-na7-chhun-e5 bok8-cho7 hoe2-chhia-cham7 。</JiaoLuo>
+			<TongYong>gin4-zun5*-e5 vok6-zor2 hue4-cia1-zam2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>時代變遷 鐵路營運 下降，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si5-tai7 pian3-chhian thih-lou7 eng5-un7 ha7-kang3 ，</JiaoLuo>
+			<TongYong>Si5-dai2*-ben3-cen1* tih7-lo2-ing5-un2* ha2-gang3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>竹田車站 從 一九九一年 降為 簡易站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tek-tian5 chhia-cham7 tui3 it-kiu2-kiu2-it-ni5 kang3-cho3 kan2-i7-cham7 ，</JiaoLuo>
+			<TongYong>dik7-can5-cia1-zam2* ui3 it7-giu4-giu4-it7-ni5* gang3-zor3 gan4-i2-zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>兩千年 台灣鐵路局 原本 要 拆除 老舊站房，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-chheng-ni5 Tai5-oan5-thih-lou7-kiok8 goan5-pun2 beh thiah-tu5 lau7-ku7 cham7-pang5 ，</JiaoLuo>
+			<TongYong>nng2-cing1-ni5* dai5-uan5-tih7-lo2-giok6* quan5-bun4* veh7 tiah7-du5 lau2-gu2-zam2-bang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>當時 全台 這種 木造車站 僅剩不多，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hit-si5-chun7 choan5-Tai5 chit-khoan2 bok8-cho7 chhia-cham7 chhun-bo5-che7 ，</JiaoLuo>
+			<TongYong>dong1-si5* zuan5-dai5-uan5* zit7-ziong4 vok6-zor2-cia1-zam2* cun1-vor5-ze2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>竹田車站 有 竹田鄉民的 生活記憶，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tek-tian5 chhia-cham7 u7 Tek-tian5 hiong-chhin e5 seng-oah8 ki3-ek ，</JiaoLuo>
+			<TongYong>dik7-can5-cia1-zam2* u2 dik7-can5-hiong1-vin5*-e5 sing1-uah6*-gi3-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>在地人 和 文化之士，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chng-lai7-lang5 kah bun5-hoa3 jin5-su7 ，</JiaoLuo>
+			<TongYong>zai2-de2-lang5* gah7 vun5-hua3-rin5-su2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>爭取 竹田車站的 保留，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng-chhu2 Tek-tian5-chhia-cham7 e5 po2-liu5</JiaoLuo>
+			<TongYong>zing1-cu4 dik7-can5-cia1-zam2*-e5 bor4-liu5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>獲得 文建會 核定為 「鐵道文化 驛園區」─ 竹田驛站。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>theh8-tioh8 Bun5-kian3-hoe7 hut8-teng7-cho3 「 Thih-to7-bun5-hoa3 Ek8-hng5-khu 」 ─ Tek-tian5-ek8-cham7 。</JiaoLuo>
+			<TongYong>dit7-diorh6 vun5-gen3-hue2* hik6-ding2-ui5 「tih7-dor2-vun5-hua3* iah6-hng5-ku1*」─ dik7-can5-iah6-zam2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=39>
+			<segmentation>當時， 休閒風氣 在台灣 興起，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng-si5 ， hiu-eng5 hong-khi3 ti7 Tai5-oan5 heng-khi2 ，</JiaoLuo>
+			<TongYong>Dong1-si5*， hiu1-han5-hong1-ki3* di2-dai5-uan5* hing1-ki4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=40>
+			<segmentation>竹田站 成為 鐵道迷 必遊的車站，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tek-tian5-cham7 chiaN5-cho3 thih-to7-be5 tiaN7-tioh8-seh8 e5 chhia-cham7 ，</JiaoLuo>
+			<TongYong>dik7-can5-zam2* ben3-sing5 tih7-lo2-ve5* bit7-iu5*-e5-cia1-zam2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=41>
+			<segmentation>屏東縣政府、 竹田鄉公所 和 竹田的 文化人士，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Pin5-tang-koan7 cheng3-hu2 、 Tek-tian5-hiong-kong-sou2 kah Tek-tian5 e5 bun5-hoa3-jin5-su7 ，</JiaoLuo>
+			<TongYong>bin5-dong1-guan2-zing3-hu4*、 dik7-can5*-hiang1-gong1-so4* gah7 dik7-can5*-e5 vun5-hua3-rin5-su2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=42>
+			<segmentation>把 車站旁的 倉庫、 輾米廠 和 米倉 等，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ka7 chhia-cham7 piN-a2-e5 chhng-khou3 、 bi2-ka2 kah bi2-chhng teng2 ，</JiaoLuo>
+			<TongYong>ga2 cia1-zam2*-binn1*-a1*-e5 cng1-ko3*、 e1-vi4-ciang4* gah7 vi4-cng1* ding4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=43>
+			<segmentation>一併 列入規劃，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cho3-hoe2 liat8-jip8 kui-oe7 ，</JiaoLuo>
+			<TongYong>it7-bing3* let6-rip6-gui1-ue2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=44>
+			<segmentation>除了 做 公園式的 綠化、美化 之外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tu5-liau2 cho3 kong-hng5-sek e5 lek8-hoa3 bi2-hoa3 i2-goa7 ，</JiaoLuo>
+			<TongYong>di5-liau4 zor3 gong1-hng5-sik7*-e5 lik6-hua3*、vi4-hua3* i4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=45>
+			<segmentation>還設了 池上一郎 文庫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-siat-ti3-liau2 Ichiro Ikegami bun5-khou3 ，</JiaoLuo>
+			<TongYong>gorh7-set7-di3* di5-siong2-it7-long5* vun5-ko3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=46>
+			<segmentation>及 李秀雲 文物館，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kah Li2-siu3-hun5 bun5-but8-koan2 ，</JiaoLuo>
+			<TongYong>gah7 li4-siu3-hun5* vun5-vut6-guan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=47>
+			<segmentation>還有 火車風情 咖啡館，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 hoe2-chhia hong-cheng5 ka-pi-koan2 ，</JiaoLuo>
+			<TongYong>gorh7-u2 hue4-cia1-hong1-zing5* ga1-bi1-guan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=48>
+			<segmentation>所有的建築 都是木造。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou2-u7-e5 kian3-tiok8 long2-si7 bok8-cho7 。</JiaoLuo>
+			<TongYong>so4-u2*-e5-gen3-diok6* long4-si2-vok6-zor2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=49>
+			<segmentation>來到 竹田驛園， 最 讓人玩味 的，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lai5-kau3 Tek-tian5-ek8-hng5 ， siang7-hou7-lang5 chhu3-bi7-e5 ，</JiaoLuo>
+			<TongYong>Lai5-gau3 dik7-can5-iah6-hng5*， siong2 ho2-lang5 gam4-gak7-cu3-vi2*-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=50>
+			<segmentation>除了 日式的 木造建築 車站 以外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti5-liau2 Jit8-sek-e5 bok8-cho7-kian3-tiok8 chhia-cham7 i2-goa7 ，</JiaoLuo>
+			<TongYong>di5-liau4 rit6-sik7*-e5 vok6-zor2-gen3-diok6* cia1-zam2* i4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=51>
+			<segmentation>還 保留著 日治時代 火車站</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-po2-liu5-tioh8 Jit8-ti7-si5-tai7 hoe2-chhia-cham7 ，</JiaoLuo>
+			<TongYong>gorh7 bor4-liu5-liau4 rit6-di2-si5-dai2* hue4-cia1-zam2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=52>
+			<segmentation>站務員 使用 的 古井 和 公共澡堂，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cham7-bu7-oan5 su2-iong7-e5 kou2-chiN2 kah kong-kiong7-se2-ek8-keng ，</JiaoLuo>
+			<TongYong>zam2-vu2-quan5* su4-iong2* e5 go4-zenn4* gah7 gong1-giong2-se4-ik6-ging1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=53>
+			<segmentation>還有 日式 轉輪保險櫃，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-u7 Jit8-sek choan2-lun5-po2-hiam2-kui7 ，</JiaoLuo>
+			<TongYong>gorh7-u2 rit6-sik7* zuan4-lun5*-bor4-hiam4-gui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=54>
+			<segmentation>日治時的 油庫房，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Jit8-ti7-si5 e5 iu5-khou3-pang5 ，</JiaoLuo>
+			<TongYong>rit6-di2-si5*-e5 iu5-ko3-bang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=55>
+			<segmentation>及 古砲彈庫 就 改為 文物展示館。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kah kou2-phau3-toaN5-khou3 to-kai2-cho3 bun5-but8-tian2-si7-koan2 。</JiaoLuo>
+			<TongYong>i4-gip6 go4-pau3-duann2-ko3* diorh6 gai4-zor3 vun5-vut6-den4-si2-guan4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=56>
+			<segmentation>驛站一旁的 池上一郎 文庫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ek8-cham7 piN-a2-e5 Ichiro Ikegami bun5-khou3 ，</JiaoLuo>
+			<TongYong>Iah6-zam2*-binn1*-a1*-e5 di5-siong2-it7-long5* vun5-ko3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=57>
+			<segmentation>有 溫馨的 台日情誼 故事。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-kam2-sim-e5 Tai5-Jit8 cheng5-gi7 kou3-su7 。</JiaoLuo>
+			<TongYong>u2 un1-hing1*-e5 dai5-rit6-zing5-qi5* go3-su2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=58>
+			<segmentation>日本軍醫 池上一郎 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Jit8-pun2 kun-i Ichiro Ikegami ，</JiaoLuo>
+			<TongYong>Rit6-bun4-gun1-i1* di5-siong2-it7-long5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=59>
+			<segmentation>一九四三年 在竹田 服役兩年，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-kiu2-su3-saN-ni5 ti7 Tek-tian5 cho3-peng nng7-ni5 ，</JiaoLuo>
+			<TongYong>it7-giu4-su3-sam1-ni5* di2-dik7-can5* hok6-ik6-nng2-ni5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=60>
+			<segmentation>熱心的服務 受到 竹田人的 愛戴，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>jiat8-sim-e5 hok8-bu7 siu7-tioh8 Tek-tian5-lang5 e5 ai3-tai3 ，</JiaoLuo>
+			<TongYong>ret6-sim1*-e5-hok6-vu2* siu2-diorh6 dik7-can5-lang5*-e5 ai3-dai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=61>
+			<segmentation>日本戰敗 池上一郎 返回日本 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Jip8-pun2 chian3-pai7 Ichiro Ikegami tng2-khi3 Jip8-pun2 au7 ，</JiaoLuo>
+			<TongYong>Jip6-bun4*-zen3-bai2* di5-siong2-it7-long5* dng4-ki3-rip6-bun4* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=62>
+			<segmentation>仍然 把竹田 當成 第二故鄉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-oan5 ka7 Tek-tian5 chun2-cho3 te7-ji7-kou3-hiong ，</JiaoLuo>
+			<TongYong>iu5-quan5* ga2-dik7-can5* dong3-zor3 de2-ri2-go3-hiong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=63>
+			<segmentation>不但 資助 來自台灣的 留學生，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>m7-na7 chan7-chu lai5-chu7 Tai5-oan5-e5 liu5-hak8-seng ，</JiaoLuo>
+			<TongYong>but7-dan2 zu2-zo2 lai5-zu2-dai5-uan5*-e5 liu5-hak6-sing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=64>
+			<segmentation>也 捐贈 獎學金 和 圖書 給竹田。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-kia3-hu3 chiong2-hak8-kim kah tou5-su hou7 Tek-tian5 ，</JiaoLuo>
+			<TongYong>ma2 guan1-zing2 ziong4-hak6-gim1* gah7 do5-su1* ho2-dik7-can5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=65>
+			<segmentation>兩千年 池上一郎 把 他 所有的</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-chheng-ni5 Ichiro Ikegami ka7 i sou2-u7-e5 ，</JiaoLuo>
+			<TongYong>Nng2-cing1-ni5* di5-siong2-it7-long5* ga2 i1 so4-u2*-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=66>
+			<segmentation>圖書 五千冊 捐給 竹田鄉，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tou5-su gou7-chheng-chheh koan-hou7 Tek-tian5-hiong ，</JiaoLuo>
+			<TongYong>do5-su1* qo2-cing1-bun4* guan1-ho2 dik7-can5-hiong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=67>
+			<segmentation>當時 鄉民 正在爭取 驛站保留，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tong-si5 hiong-chhin chiaN3-leh cheng-chhu2 Ek8-cham7 po2-liu5 ，</JiaoLuo>
+			<TongYong>dong1-si5* hiong1-vin5* dng1-deh7-zing1-cu4 iah6-zam2-bor4-liu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=68>
+			<segmentation>就這樣 把 驛站房，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chu7-an2-ne ka7 Ek8-cham7-pang5 ，</JiaoLuo>
+			<TongYong>diorh6-an4-ne1* ga2 iah6-zam2-bang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=69>
+			<segmentation>原有的 「丸鐵送店」（貨運服務所）</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-iu2-e5 「 Oan5-thih-sang3-tiam3 」 （hoe3-un7-hok8-bu7-sou2 ） ，</JiaoLuo>
+			<TongYong>quan5-bun4*-e5 「uan5-tih7*-sang3-diam3*」（hue3-un2*-hok6-vu2-so4*）</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=70>
+			<segmentation>木造建築 重新修整，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bok8-cho7 kian3-tiok8 teng5-siu-cheng2 ，</JiaoLuo>
+			<TongYong>vok6-zor2-gen3-diok6* diong5-sin1*-siu1-zing4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=71>
+			<segmentation>成為 池上一郎 文庫。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiaN5-cho3 Ichiro Ikegami bun5-khou3 。</JiaoLuo>
+			<TongYong>ben3-sing5 di5-siong2-it7-long5* vun5-ko3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=72>
+			<segmentation>兩千零一年 一月，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>nng7-chheng-khong3-it-ni5 it-goeh8 ，</JiaoLuo>
+			<TongYong>Nng2-cing1*-kong3-it7-ni5* it7-queh6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=73>
+			<segmentation>池上一郎 在 他 九十一歲 大壽 時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ichiro Ikegami ti7-i kau2-chap8-it hoe3 ko-siu7 si5 ，</JiaoLuo>
+			<TongYong>di5-siong2-it7-long5* di2 i1 gau4-zap6-it7-hue3* senn1-rit6* si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=74>
+			<segmentation>與妻子 到竹田 為文庫 開幕剪綵，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham ke-au7 kau3 Tek-tian5 ui7 bun5-khou3 khai-bou7 chian2-chhai2 ，</JiaoLuo>
+			<TongYong>ham2-ge1-au2* gau3-dik7-can5* ui2-vun5-ko3* kai1-vo2*-zen4-cai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=75>
+			<segmentation>返回日本 後 不久 辭世，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng2-khi3 Jip8-pun2 au7 bo5-loa7-ku2 koe3-sin ，</JiaoLuo>
+			<TongYong>dng4-ki3-rip6-bun4* liau4-au2* vor5-qua2-gu4* gue3-sin1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=76>
+			<segmentation>至今 他的兒子，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kau3-taN i-e5 hau7-seN ，</JiaoLuo>
+			<TongYong>gau3-zit7-ma4* i1-e5-hau2-senn1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=77>
+			<segmentation>都 還會 到文庫 緬懷 他的父親，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-iau2-e7 kau3 bun5-khou3 siau3-liam7 i-e5 lau7-pe7 ，</JiaoLuo>
+			<TongYong>long4 iau4-e2 gau3-vun5-ko3* ven4-huai5 i1-e5-lau2-be2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=78>
+			<segmentation>而且 文庫 也 成為 竹田老人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiaN2 bun5-khou3 ia7-chiaN5-cho3 Tek-tian5 si7-toa7-lang5 ，</JiaoLuo>
+			<TongYong>ri5-ciann4 vun5-ko3* ma2 ben3-zor3 dik7-can5*-lau2-lang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=79>
+			<segmentation>定期 日文 讀書會 的 場所。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teng7-ki5 Jit8-bun5 thak8-chheh-hoe7 e5 tiuN5-sou2 。</JiaoLuo>
+			<TongYong>ding2-gi5* rit6-vun5 tak6-ceh7-hue2* e5 diunn5-so4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=80>
+			<segmentation>驛園裡的 李秀雲 文物館，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ek8-hng5 lai7 e5 Li2-siu3-hun5-bun5-but8-koan2 ，</JiaoLuo>
+			<TongYong>Iah6-hng5-lai2*-e5 li4-siu3-hun5* vun5-vut6-guan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=81>
+			<segmentation>就是 紀念 已經逝去的 老攝影家 李秀雲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-si7 ki3-liam7 i2-keng ong2-seng lau7-liap-iaN2-ka Li2-siu3-hun5 ，</JiaoLuo>
+			<TongYong>diorh6-si2 gi3-liam2 i4-ging1-gue3-sin1*-e5 lau2-liap7-iann4-ga1* li4-siu3-hun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=82>
+			<segmentation>李秀雲 生前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>li2-siu3-hun5 seN-cheng5 ，</JiaoLuo>
+			<TongYong>li4-siu3-hun5* zai2-senn1-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=83>
+			<segmentation>拍攝 高屏地區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hip Ko-pin5-te7-khu ，</JiaoLuo>
+			<TongYong>hip7-cu4 gor1-bin5-de2-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=84>
+			<segmentation>許多 客家生活 和 人物 的 照片，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiok-che7 kheh-ka seng-oah8 kah jin5-but8-e5 siang3-phiN3 ，</JiaoLuo>
+			<TongYong>zin1-ze2 keh7-ga1-sing1-uah6* gah7 rin5-vut6* e5 siong3-pinn3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=85>
+			<segmentation>文物館裡 有 他作品的 展示。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bun5-but8-koan2-lai7 u7 i chok-phin2 e5 tian2-si7 。</JiaoLuo>
+			<TongYong>vun5-vut6-guan4*-lai2* u2 i1-zok7-pin4*-e5 den4-si2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=86>
+			<segmentation>驛園裡的 火車風情 咖啡館，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Ek8-hng5-lai7 e5 hoe2-chhia hong-cheng5 ka-pi-koan2 ，</JiaoLuo>
+			<TongYong>Iah6-hng5-lai2*-e5 hue4-cia1-hong1-zing5* ga1-bi1-guan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=87>
+			<segmentation>除了 可 讓遊客 休息外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti5-liau2 tang3-hou7 iu5-kheh hioh-khun3-goa7 ，</JiaoLuo>
+			<TongYong>di5-liau4 e2-dang3 ho2-iu5-keh7* hiorh7-kun3* i4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=88>
+			<segmentation>也可以 預訂 客家美食 餐點。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ia7-e7-sai2 u7-teng7 kheh-ka ho2-liau7 chhan-tiam2 。</JiaoLuo>
+			<TongYong>ma2-e2-sai4 i2-ding2 keh7-ga1-vi4-sit6* can1-diam4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=89>
+			<segmentation>竹田鄉 除了驛園 以外，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tek-tian5-hiong ti5-liau2 Ek8-hng5 i2-goa7 ，</JiaoLuo>
+			<TongYong>Dik7-can5-hiong1* di5-liau4-iah6-hng5* i4-qua2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=90>
+			<segmentation>還有 凝聚 六堆 客家意識 的 「六堆忠義祠」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7 chu7-chip8 Lak8-tui kheh-ka i3-sek-e5 「 Lak8-tui tiong-gi7-su5 」 ，</JiaoLuo>
+			<TongYong>gorh7-u2 qing5-zu2 lak6-dui1* keh7-ga1-i3-sik7* e5 「lak6-dui1*-diong1-qi2-su5*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=91>
+			<segmentation>展示 六堆文物 的 「六堆文物館」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tian2-si7 Lak8-tui bun5-but8 e5 「 Lak8-tui bun5-but8-koan2 」 ，</JiaoLuo>
+			<TongYong>den4-si2 lak6-dui1*-vun5-vut6* e5 「lak6-dui1*-vun5-vut6-guan4*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=92>
+			<segmentation>和 昔日 客家人 敬字紙</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kah cha2-cheng5 kheh-ka-lang5 keng3-ji7-choa2 ，</JiaoLuo>
+			<TongYong>gah7 za4-zing5* keh7-ga1-lang5* ging3-ri2-zua4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=93>
+			<segmentation>所設 燒紙張的 「敬字亭」，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou2-siat sio-choa2 e5 「 Keng3-ji7-teng5 」 ，</JiaoLuo>
+			<TongYong>so4-set7* sior1-ri2-zua4*-e5 「ging3-ri2-ding5*」，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=94>
+			<segmentation>在 六堆 客家文化園區 設立後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Lak8-tui kheh-ka bun5-hoa3-hng5-khu siat-lip8-au7 ，</JiaoLuo>
+			<TongYong>di2 lak6-dui1* keh7-ga1-vun5-hua3*-hng5-ku1* set7-lip6*-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=95>
+			<segmentation>竹田鄉 成為 六堆地區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tek-tian5-hiong chiaN5-cho3 Lak8-tui te7-khu ，</JiaoLuo>
+			<TongYong>dik7-can5-hiong1* sing5-ui5 lak6-dui1*-de2-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=96>
+			<segmentation>文化觀光的 心臟。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bun5-hoa3 koan-kong-e5 sim-chong7 。</JiaoLuo>
+			<TongYong>vun5-hua3-guan1-gong1*-e5 sim1-zong2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=97>
+			<segmentation>文化園區 與在地 結合，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bun5-hoa3-hng5-khu ham chai7-te7 kiat4-hap8 ，</JiaoLuo>
+			<TongYong>Vun5-hua3-hng5-ku1* ham1-zai2-de2* get7-hap6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=98>
+			<segmentation>屏東縣政府 和 竹田鄉公所，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Pin5-tang-koan7-cheng3-hu2 kah Tek-tian5-hiong-kong-sou2 ，</JiaoLuo>
+			<TongYong>bin5-dong1-guan2-zing3-hu4* gah7 dik7-can5*-hiang1-gong1-so4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=99>
+			<segmentation>以 竹田驛園 為中心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iong7 Tek-tian5-ek8-hng5 ui7 tiong-sim ，</JiaoLuo>
+			<TongYong>i4 dik7-can5-iah6-hng5* ui2-diong1-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=100>
+			<segmentation>規劃 鐵馬 遊客庄 行程。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kui-oe7 thih-be2 seh8 kheh-chng heng5-teng5 。</JiaoLuo>
+			<TongYong>gui1-ue2 tih7-ve4* iu5-keh7-zng1* hing5-ding5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=101>
+			<segmentation>由於 竹田驛站 火車 還有停靠，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 Tek-tian5-ek8-cham7 hoe2-chhia iau2-u7 theng5-kho3 ，</JiaoLuo>
+			<TongYong>In1-ui2 dik7-can5-iah6-zam2* hue4-cia1* iau4-u2-ting5-kor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=102>
+			<segmentation>在 最近的 鐵馬休閒 風氣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 choe3-kin7-e5 thih-be2 hiu-eng5 hong-khi3，</JiaoLuo>
+			<TongYong>di2 zue3-gin2*-e5 tih7-ve4*-hiu1-han5* hong1-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=103>
+			<segmentation>竹田驛園 已經 讓 鐵馬族，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tek-tian5-ek8-hng5 i2-keng-hou7 thih-be2-chok8 ，</JiaoLuo>
+			<TongYong>dik7-can5-iah6-hng5* i4-ging1 ho2-tih7-ve4-zok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=104>
+			<segmentation>當成 鐵馬與鐵路 的 必遊之地。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chun2-cho3 thih-be2 kah thih-ki-lou7 nng7-thih e5 tiaN7-tioh8-seh8-sou2-chai7 。</JiaoLuo>
+			<TongYong>dong3-zor3 tih7-ve4*-gah7-tih7-lo2* e5 bit7-iu5*-zi1-de2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

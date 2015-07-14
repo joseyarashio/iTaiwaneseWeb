@@ -1,0 +1,19 @@
+<html>
+<head>
+<script type="text/javascript" src="script/prototype.js"></script>
+<script type="text/javascript" language="JavaScript">
+function show() {
+	var hash = $H();
+	hash['Name'] = 'syshen';
+	hash['Age'] = 28;
+
+	alert(hash.toQueryString());
+}
+</script>
+</head>
+
+<body>
+<input type="button" onClick="show()" value="Go">
+</body>
+
+</html>

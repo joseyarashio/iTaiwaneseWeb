@@ -1,0 +1,132 @@
+<article>
+	<id>1656</id>
+	<title>社團 抗議陳雲林 警方制止 爆衝突</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>中國海協會 會長 陳雲林 來台灣 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tiong-kok-hai2-hiap8-hoe7 hoe7-tiunn2 Tan5-hun5-lim5 lai5-Tai5-oan5 ，</JiaoLuo>
+			<TongYong>Diong1-gok7*-Hai4-Hiap6-hue2 hue2-diunn4 Tan5-hun5-lim5 lai5-Tai5-uan5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>第二天 下午 到達 台北 Victoria 酒店 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>te7-ji7-kang e5-pou kau3-te3 Tai5-pak Victoria chiu2-tiam3 ，</JiaoLuo>
+			<TongYong>de2-ri2-gang1 e5-bo1 gau3-de3 Tai5-bak7 Vicdorria1 ziu4-diam3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>本土社團 成員 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pun2-thou2-sia7-thoan5 seng5-oan5 ，</JiaoLuo>
+			<TongYong>bun4-to4-sia2-tuan5 sing5-uan5 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>也 如影隨形 在場外 抗議 江陳會 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7 ji5-iann2-sui5-heng5 ti7-tiunn5-goa7 khong3-gi7 Kang-Tan5-hoe7 ，</JiaoLuo>
+			<TongYong>uan5-a2 ri5-enn4-sui5-hing5 di2-diunn5-qua2 kong3-qi2 Kang1-Tan5-hue2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>標語 、 國旗 、 空飄氣球 通通出籠 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phiau-gi2 、 kok-ki5 、 khong-phiau-khi3-kiu5 thong-thong-chhut-lam ，</JiaoLuo>
+			<TongYong>piau1-qi4 、1 gok7-gi5 、1 kong1-piau1-ki3-giu5 tong1-tong1-cut7-lam1 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>還有人 放鞭炮 抗議 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-u7-lang5 pang3-phau3-a2 khong3-gi7 ，</JiaoLuo>
+			<TongYong>iau4-u2-lang5 bang3-pau3-a4 kong3-qi2 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>警方 為了 制止 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong ui7-tioh8 at-chi2 ，</JiaoLuo>
+			<TongYong>ging4-hong1 ui2-diorh6 at7-zi4 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>一度 和 民眾 發生 肢體 衝突 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-tou7 kap bin5-chiong3 hoat-seng ki-the2 chhiong-tut8 ，</JiaoLuo>
+			<TongYong>it7-do2 gap7 vin5-ziong3 huat7-sing1 gi1-te4 ciong1-dut6 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>場面 一片混亂 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tiunn5-bin7 it-phian3-hun7-loan7 。</JiaoLuo>
+			<TongYong>diunn5-vin2 it7-pen3-hun2-luan2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>民眾 點燃 手上的 沖天炮 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-chiong3 tiam2-toh8 chhiu2-teng2-e5 chhiong-thian-phau3 ，</JiaoLuo>
+			<TongYong>Vin5-ziong3* diam4-dorh6 ciu4-ding4-e5 ciong1-ten1-pau3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>警方 強勢的 搶走 民眾的 鞭炮 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>keng2-hong kiong5-se3-e5 chhiunn2-chau2 bin5-chiong3-e5 phau3-a2 ，</JiaoLuo>
+			<TongYong>ging4-hong1 giong5-se3-e5 ciunn4-zau4 vin5-ziong3-e5 pau3-a4 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>放鞭炮 行不通 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pang3-phau3-a2 kiann5-be7-thong ，</JiaoLuo>
+			<TongYong>bang3-pau3-a4 genn5-ve2-sai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>抗議 民眾 放出 綁著 民進黨 黨旗 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khong3-gi7 bin5-chiong3 pang3-chhut pak8-tioh8 Bin5-chin3-tong2 tong2-ki5 ，</JiaoLuo>
+			<TongYong>kong3-qi2 vin5-ziong3 bang3-cut7 bak6-diorh6 Bin5-zin3-dong4 dong4-gi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>以及 國旗的 空飄氣球 升空 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i2-kip8 kok-ki5-e5 khong-phiau-khi3-kiu5 seng-khong ，</JiaoLuo>
+			<TongYong>i4-gip6 gok7-gi5-e5 kong1-piau1-ki3-giu5 sing1-kong1 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>希望 陳雲林 一抬頭 就看到 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hi-bang7 Tan5-hun5-lim5 chit8-giah8-thau5 to-khoann3-tioh8 ，</JiaoLuo>
+			<TongYong>hi1-vang2 Tan5-hun5-lim5 zit6-qiah6-tau5 dor1-kuann3-diorh6 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>原本 在飯店裡 用餐的 民眾 ，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>goan5-pun2 ti7-png7-tiam3-lai7 iong7-chhan-e5 bin5-chiong3 ，</JiaoLuo>
+			<TongYong>quan5-bun4 di2-bng2-diam3-lai2 iong2-can1-e5 vin5-ziong3 ，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>因為 陳雲林 的 造訪 被迫 提前 離開 。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 Tan5-hun5-lim5 e5 cho7-hong2 pi7-pek chin3-cheng5 li7-khui 。</JiaoLuo>
+			<TongYong>in1-ui2 Tan5-hun5-lim5 e5 zor2-hong4 bi2-bik7 zin3-zing5 li2-kui1 。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

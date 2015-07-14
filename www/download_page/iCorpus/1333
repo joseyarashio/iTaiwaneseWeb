@@ -1,0 +1,97 @@
+<article>
+	<id>1333</id>
+	<title>滯留鋒面 北移 三十一日前 嚴防 局部性大雨</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>滯留鋒面 漸漸 朝台灣 逼近，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tun7-liu5 hong-bin7 tauh8-tauh8-a2-ng3 Tai5-oan5 pek-kin7，</JiaoLuo>
+			<TongYong>Di2-liu5*-hong1-vin2* ziam2-ziam2 hiong3-Dai5-Uan5* bik7-gin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>氣象局 表示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Khi3-siong7-kiok8 piau2-si7，</JiaoLuo>
+			<TongYong>ki3-siong2-giok6* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>明天 全台灣 會 開始下雨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bin5-a2-chai3 choan5-Tai5-oan5 e7-khai-si2 loh8-hou7，</JiaoLuo>
+			<TongYong>vin5-a4-zai3* zuan5-Dai5-Uan5* e2 kai1-si4-lorh6-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>而且 會 一連 下三天，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ji5-chhiann2-e7 sio-lian5-soa3 loh8-sann-kang，</JiaoLuo>
+			<TongYong>ri5-ciann4 e2 len5-sua3* lorh6-sann1-gang1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>氣象局 預報中心 主任 鄭明典，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Khi3-siong7-kiok8 i7-po3-tiong-sim chu2-jim7 Tenn7-beng5-tian2，</JiaoLuo>
+			<TongYong>ki3-siong2-giok6* i2-bor3*-diong1-sim1* zu4-rim2* Denn2-Ving5-Den4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>這回 又 在網路上 說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-hoe5 koh-ti7 bang7-lou7-teng2 kong2，</JiaoLuo>
+			<TongYong>zit7-hue5* gorh7 di2-vang2-lo2-ding4* gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>鋒面後頭 還有一道 西南氣流，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hong-bin7 au7-boe2 iau2-u7 chit8-to7 sai-lam5-khi3-liu5，</JiaoLuo>
+			<TongYong>hong1-vin2*-au2-tau5* iau4-u2-zit6-dor2 sai1-lam5-ki3-liu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>雖然 不會 增強為 颱風，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5-be7 cheng-kiong5-cho3 hong-thai，</JiaoLuo>
+			<TongYong>sui1-ren5* ve2 zing1-giong5-ui5 hong1-tai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>但是 西南氣流 併入鋒面 之後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tan7-si7 sai-lam5-khi3-liu5 peng3-jip8 hong-bin7 liau2-au7，</JiaoLuo>
+			<TongYong>dan2-si2 sai1-lam5-ki3-liu5* bing2-rip6-hong1-vin2* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>三十一日 以前，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sann-chap8-it-ho7 i2-cheng5，</JiaoLuo>
+			<TongYong>sann1-zap6-it7-hor2* i4-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>全台灣 都要嚴防 局部性 大雨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choan5-Tai5-oan5 long2-ai3 giam5-hong5 kiok8-pou7-seng3 toa7-hou7，</JiaoLuo>
+			<TongYong>zuan5-Dai5-Uan5* long4-ai3-qiam5-hong5 giok6-bo2-sing3* dua2-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>各縣市 也要嚴防 局部性 豪雨。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kok-koan7-chhi7 oan-na2-ai3 giam5-hong5 kiok8-pou7-seng3 toa7-chui2-hou7。</JiaoLuo>
+			<TongYong>gok7-guan2-ci2* ma2-ai3-qiam5-hong5 giok6-bo2-sing3* hor5-u4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

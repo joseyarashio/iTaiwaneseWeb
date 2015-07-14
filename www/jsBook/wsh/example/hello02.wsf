@@ -1,0 +1,11 @@
+<job>
+
+<script language="JScript">
+// 同時使用 JScript 和 VBScript 於一個 wsf 檔案
+WScript.Echo("「Hello world」 via JScript!");
+</script>
+<script language="VBScript">
+WScript.Echo("「Hello world」 via VBScript!")
+</script>
+
+</job>

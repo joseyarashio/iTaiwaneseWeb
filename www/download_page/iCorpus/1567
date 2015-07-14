@@ -1,0 +1,111 @@
+<article>
+	<id>1567</id>
+	<title>大鵬灣 鐵馬遊 看 小琉球美景 吃海產</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>屏東縣 大鵬灣 的 鐵馬專用道，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Pin5-tong-koan7 Toa7-pheng5-oan e5 thih-be2 choan-iong7-to7，</JiaoLuo>
+			<TongYong>Bin5-Dong1-Guan2* Dua2-Ping5-Uan1*-e5 tih7-ve4*-zuan1-iong2-dor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>環繞著 生態環境 豐富 的 潟湖，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>seh8-tioh8 seng-thai3-khoan5-keng2 hong-hu3-e5 lai7-hai2，</JiaoLuo>
+			<TongYong>ui5-riau2-diorh6 sing1-tai3-huan5-ging4* hong1-hu3* e5 lai2-hai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>除了 可以 看海、看湖，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti5-liau2 e7-tang3 khoann3-hai2 、 khoann3-ou5，</JiaoLuo>
+			<TongYong>du5-liau4 e2-dang3 kuann3-hai4*、kuann3-o5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>還可以 看到 一大片的 水筆仔 紅樹林。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-e7-tang3 khoann3-tioh8 kui-toa7-phinn3 e5 chui2-pit-a2 ang5-chhiu7-na5。</JiaoLuo>
+			<TongYong>gorh7-e2-dang3 kuann3-diorh6 gui1-dua2-pen3*-e5 zui4-bit7-a4* ang5-ciu2-na5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>如果 騎到 肚子餓了，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>na7-chun2 khia5-kau3 pak-tou2-iau-ah，</JiaoLuo>
+			<TongYong>Na2-si2 kia5-gah7 bak7-do4*-iau1*-a1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>可以 到 華僑市場 吃 新鮮海產。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e7-tang3-kau3 Hoa5-kiau5-chhi7-tiunn5 chiah8 sin-sian-hai2-san2。</JiaoLuo>
+			<TongYong>e2-dang3 gau3 Hua5-Giau5-Ci2-Diunn5* ziah6 sin1-sen1-hai4-san4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>這裡 在 下午兩點 以後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-tah-ti7 e5-pou nng7-tiam2 i2-au7，</JiaoLuo>
+			<TongYong>Zia1* di2 e2-bo1*-nng2-diam4* i4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>到處 都有 大批遊客 和 當地人 湧進，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>moa2-si3-ke3 long2-u7 toa7-phoe iu5-kheh kap chai7-toe7-lang5 iong2-jip8，</JiaoLuo>
+			<TongYong>si3-ge3* long4-u2 dua2-pue1-iu5-keh7* gah7 zai2-de2-lang5* ing4*-rip6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>尋找 美味的 新鮮海產。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chau2-chhoe7 bi2-bi7-e5 sin-sian-hai2-san2。</JiaoLuo>
+			<TongYong>zau4-cue2 vi4-vi2*-e5 sin1-sen1-hai4-san4*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>大鵬灣 除了 能夠 騎鐵馬、 吃海鮮，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Toa7-pheng5-oan ti5-liau2 e7-tang3 khia5-thih-be2 、 chiah8-hai2-sian，</JiaoLuo>
+			<TongYong>Dua2-Ping5-Uan1* du5-liau4 e2-dang3 kia5-tih7-ve4*、 ziah6-hai4-sen1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>還能 在海邊 玩水 或是 釣魚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iau2-e7-ti7 hai2-pinn sng2-chui2 ah-si7 tio3-hi5，</JiaoLuo>
+			<TongYong>gorh7-e2-dang3 di2-hai4-binn1* sng4-zui4* ia2-si2 dior3-hi5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>望著 遠遠的 小琉球 美景，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>bang7-tioh8 hng7-hng7-e5 Sio2-liu5-kiu5 bi2-keng2，</JiaoLuo>
+			<TongYong>vang2-diorh6 hng2-hng2*-e5 Sior4-Liu5-Giu5* vi4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>欣賞 傍晚時分的 夕陽，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>him-siong2 am3-pou-a2-si5-chun7 e5 sai-chio3-jit8，</JiaoLuo>
+			<TongYong>him1-siong4 vue4-am3-a4-si5* rit6-tau5*-dim5-sai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>燦爛的雲彩 倒影 映在潟湖上。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kim-iann3-iann3-e5 hun5-iann2 to3-chio3-iann2-ti7 lai7-hai2-teng2。</JiaoLuo>
+			<TongYong>can3-lan2*-e5-hun5-cai4* dor3-iann4* ing3-di2 lai2-hai4*-ding4-vin2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

@@ -1,0 +1,48 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>使用 window.open() 的範例：控制新視窗的選項</h2>
+<hr>
+<script>
+function openWindow(form){
+	var winFmt="";
+	winFmt += "width="+form.width.value+",";
+	winFmt += "height="+form.height.value+",";
+	winFmt += "left="+form.left.value+",";
+	winFmt += "top="+form.top.value+",";
+	winFmt += "titlebar="+(form.titlebar.status?1:0)+",";
+	winFmt += "menubar="+(form.menubar.status?1:0)+",";
+	winFmt += "toolbar="+(form.toolbar.status?1:0)+",";
+	winFmt += "location="+(form.location.status?1:0)+",";
+	winFmt += "scrollbars="+(form.scrollbars.status?1:0)+",";
+	winFmt += "resizable="+(form.resizable.status?1:0)+",";
+	winFmt += "status="+(form.status.status?1:0);
+	status="控制字串 = " + winFmt;
+	window.open(form.url.value, form.title.value, winFmt);
+}
+</script>
+
+<form>
+視窗網址：<input size=30 id=url value="http://www.cs.nthu.edu.tw"><br>
+視窗名稱：<input size=30 id=title value="newWin"><br>
+視窗寬度：<input size=30 id=width value=400><br>
+視窗高度：<input size=30 id=height value=300><br>
+水平位置：<input size=30 id=left value=100><br>
+垂直位置：<input size=30 id=top value=100><br>
+<input type=checkbox id=titlebar> 顯示標題列<br>
+<input type=checkbox id=menubar> 顯示下拉選單<br>
+<input type=checkbox id=toolbar> 顯示工具列<br>
+<input type=checkbox id=location> 顯示網址列<br>
+<input type=checkbox id=scrollbars> 顯示捲軸<br>
+<input type=checkbox id=resizable> 可變大小<br>
+<input type=checkbox id=status> 顯示狀態列<br>
+<p>
+<input type=button value="開啟新視窗" onClick="openWindow(this.form)">
+<input type=reset>
+<hr>
+
+</body>
+</html>

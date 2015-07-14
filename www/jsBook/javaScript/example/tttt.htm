@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>字典變數的建構方法</h2>
+<hr>
+
+<script src=listDict.js></script>
+<script>
+// 第二種方法
+capitalOf = new ActiveXObject("Scripting.Dictionary");	// 建構一個空的字典變數
+capitalOf.Add("Taiwan", "Taipei");	// 加入第 1 個元素
+capitalOf.Add("USA", "Washington");	// 加入第 2 個元素
+capitalOf.Add("Korea", "Seoul");	// 加入第 3 個元素
+document.writeln("capitalOf(\"Taiwan\") = " + capitalOf("Taiwan") + "<br>");
+document.writeln("capitalOf(\"USA\") = " + capitalOf("USA") + "<br>");
+document.writeln("capitalOf(\"Korea\") = " + capitalOf("Korea") + "<br>");
+listDict(capitalOf, "capitalOf");
+</script>
+
+<hr>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<article>
+	<id>1259</id>
+	<title>斗六 瓦斯行氣爆 義消記者 多人受傷</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>在 雲林縣 斗六市 鎮南路，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 Hun5-lim5-koan7 Tau2-lak8-chhi7 Tin3-lam5-lou7，</JiaoLuo>
+			<TongYong>Di2 Hun5-Lim5-Guan2* Dau4-Lak6-Ci2* Din3-Lam5-Lo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>一間 瓦斯行 倉庫，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-keng ga2-suh-hang5 chhng-khou3，</JiaoLuo>
+			<TongYong>zit6-ging1 qa4-su3-hang5* cng1-ko3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>下午 三點多 疑似 因 瓦斯外洩，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>e5-pou sann-tiam2-goa7 gi5-su7-in ga2-suh-goa7-siap8，</JiaoLuo>
+			<TongYong>e2-bo1* sann1-diam4-qua2* qi5-su2 in1-ui2 qa4-su3*-qua2-siap7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>發生 氣爆火警，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-seng khi3-phok8-hoe2-sio，</JiaoLuo>
+			<TongYong>huat7-sing1 ki3-pok6-hue4-ging4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>現場 不斷傳出 驚人的 爆炸聲，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hian7-tiunn5 put-toan7-thoan5-chhut kiann-lang5-e5 phok8-cha3-siann，</JiaoLuo>
+			<TongYong>hen2-diunn5* but7-duan2-tuan5-cut7 giann1-lang5*-e5 pok6-za3-siann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>並且 燃起 熊熊大火，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>peng7-chhiann2 sio-khi2 me2-kong5-toa7-hoe2，</JiaoLuo>
+			<TongYong>bing2-ciann4 dorh6-ki4 ong2-pann2-pann2*-e5 dua2-hue4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>消防隊 獲報後 出動 多輛消防車 搶救，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siau-hong5-tui7 hek8-po3-au7 chhut-tong7 choe7-tai5 siau-hong5-chhia chhiunn2-kiu3，</JiaoLuo>
+			<TongYong>siau1-hong5-dui2* ziap7-diorh6-tong1-bor3* liau4-au2* cut7-dong2 gui4*-a2-dai5 siau1-hong5-cia1* ciunn4-giu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>清理火場 時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chheng-li2 hoe2-tiunn5 si5-chun7，</JiaoLuo>
+			<TongYong>cing1-li4-hue4-diunn5* e5-si5-zun2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>數瓶 液態瓦斯 突然 發生閃燃，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sou3-koan3 ek8-thai3-ga2-suh tut8-jian5-hoat-seng siam2-sio，</JiaoLuo>
+			<TongYong>gui4*-a2-guan3 ik6-tai3*-qa4-su3* tut6-ren5* huat7-sing1-siam4-ren5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>導致 現場 消防人員、義消、記者，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti3-su2 hian7-tiunn5 siau-hong5-jin5-oan5 、 gi7-siau 、ki3-chia2，</JiaoLuo>
+			<TongYong>di3-su4 hen2-diunn5* siau1-hong5-rin5-uan5*、qi2-siau1*、gi3-zia4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>總共 十多人 受傷！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>long2-chong2 chap8-goa7-lang5 siu7-siong！</JiaoLuo>
+			<TongYong>zong4-giong2* zap6-qua2-lang5* siu2-siong1*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

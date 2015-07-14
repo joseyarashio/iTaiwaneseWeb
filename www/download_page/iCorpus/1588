@@ -1,0 +1,132 @@
+<article>
+	<id>1588</id>
+	<title>日本首相 電視專訪 重申 釣魚台 屬於日本！</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>日本首相 菅直人 自 今年六月 就任 後，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Jit8-pun2-siu2-siong3 Naoto-Kan chu7-kin-ni5 lak8-goeh8 chiu7-jim7-au7，</JiaoLuo>
+			<TongYong>Rit6-Bun4-siu4-siang3* Gan1-Dit6-Rin5* zu2 gin1-ni5*-lak6*-queh6 ziu2-rim2* liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>在八日 首度 接受 國際媒體 專訪，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ti7 peh-ho7 te7-it-pai2 chiap-siu7 kok-che3-mui5-the2  choan-hong2，</JiaoLuo>
+			<TongYong>di2-beh7-hor2* de2-it7-bai4* ziap7-siu2 gok7-ze3-mui5-te4* zuan1-hong4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>他 除了 幽默暢談 懼怕內人 傳言，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>i ti5-liau2 chhio3-khoe thiong3-tam5 kiann-chhoah ke-lai7 thoan5-gian5，</JiaoLuo>
+			<TongYong>i1 di5-liau4 iu1-vik6-dam5-lun2 giann1-tai3-tai3*-e5 tuan5-qen5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>也 再度 針對 釣魚台事件 重申立場，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan5-a7-koh-chai3 chiam-tui3 Tio3-hi5-tai5 su7-kiann7 tiong5-sin lip8-tiunn5，</JiaoLuo>
+			<TongYong>ma2 gorh7-zai3 ziam1-dui3 Dior3-Hi5-Dai5*-su2-giann2* ding5-sin1-lip6-diunn5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>強調 釣魚台島嶼 是 屬於 日本 固有的領土。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiong5-tiau7 Tio3-hi5-tai5-to2-su7 si7-siok8-i5 Jit8-pun2 kou3-iu2-e5 leng2-thou2，</JiaoLuo>
+			<TongYong>giang5-diau2 Dior3-Hi5-Dai5*-dor4-su2* si2 siok6-i5 Rit6-Bun4* go3-iu4*-e5-ling4-to4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>儘管 菅直人 沉穩應對，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chin7-koan2 Naoto-Kan teng7-seng3 eng3-tui3，</JiaoLuo>
+			<TongYong>Sui1-ren5* Gan1-Dit6-Rin5* dim5-un4-ing3-dui3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>依舊 難擋 媒體 尖銳提問，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>iu5-oan5 oh-tong3 mui5-the2 lai7-kiam3-kiam3 the5-bun7，</JiaoLuo>
+			<TongYong>ma2-si2 lan2-i4-de1-dong3 mui5-te4* ziam1-lai2*-e5-vun2-de5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>菅直人 對 他的施政 充滿信心，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Naoto-Kan tui3 i5 si-cheng3 chhiong-boan2 sin3-sim ，</JiaoLuo>
+			<TongYong>Gan1-Dit6-Rin5* dui3 i1-e5-si1-zing3* ciong1-vuan4-sin3-sim1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>不過， 七日的 日本民調 卻顯示，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 ， chhit-ho7 e5 Jit8-pun2 bin5-tiau7 soah-hian2-si7，</JiaoLuo>
+			<TongYong>but7-gor3*， cit7-hor2*-e5 Rit6-Bun4-vin5-diau3* suah7-hen4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>內閣支持率 跌到 百分之 三十六點四，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>loe7-koh chi-chhi5-lut8 poah8-kau3 pah-hun-chi sann-chap8-lak8-tiam2-si3，</JiaoLuo>
+			<TongYong>lue2-gorh7*-zi1-ci5-lut6* lak7-gau3 bah7-hun1-zi1 sann1-zap6-lak6*-diam4-si3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>創下 菅直人 執政六個月 以來 的 最低紀錄，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chhong3-ha7 Naoto-Kan chip-cheng3 lak8-kou3-goeh8 i2-lai5-e5 choe3-ke7 ki3-lok8，</JiaoLuo>
+			<TongYong>cong3-ha2 Gan1-Dit6-Rin5* zip7-zing3*-lak6-gor3-queh6* i4-lai5* e5 siang2-ge2*-gi3-lok6*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>對 菅直人的 領導力 負面評價，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tui3 Naoto-Kan e5 leng2-to7-lek8 hu7-bin7 pheng5-ke3 ， </JiaoLuo>
+			<TongYong>dui3 Gan1-Dit6-Rin5*-e5 ling4-dor2-lik6* hu2-vin2-bing5-ge3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>更 高達 百分之 七十七點三。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-koan5-kau3 pah-hun-chi chhit-chap8-chhit-tiam2-sann。</JiaoLuo>
+			<TongYong>ging2-ga1 gor1-dat6 bah7-hun1-zi1 cit7-zap6-cit7*-diam4-sann1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>強勢日圓 導致 日本出口商 居於劣勢，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kiong5-se3 jit8-oan5 ti3-su2 Jit8-pun2 chhut-khau2-siong khia7-ti7-su-bin7，</JiaoLuo>
+			<TongYong>Giang5-se3*-rit6-inn5* di3-su4 Rit6-Bun4-cut7-kau4-siang1* kia2-di2-su1-vin2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>菅直人 尚未拿出 具體辦法，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Naoto-Kan boe7-cheng5 theh8-chhut khu7-the2-pan7-hoat，</JiaoLuo>
+			<TongYong>Gan1-Dit6-Rin5* iah7-vue2-teh6-cut7 gi2-te4*-e5-ban2-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>看來 想要穩坐 日本首相的 大位，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khoann3-lai5 ai3-beh un2-che7 Jit8-pun2 siu2-siong3-e5 toa7-ui7 ，</JiaoLuo>
+			<TongYong>kuann3*-lai5 siunn2-veh7-ze2-un4 Rit6-Bun4-siu4-siang3*-e5 dua2-ui2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>恐怕 並沒有 那麼簡單。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khiong2-kiann peng7-bo5 hiah-kan2-tan。</JiaoLuo>
+			<TongYong>kiong4-giann1 bing2-vor5 hiah7-ni2-gan4-dan1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

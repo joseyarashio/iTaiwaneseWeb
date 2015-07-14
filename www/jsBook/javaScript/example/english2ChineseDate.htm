@@ -1,0 +1,44 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>英文日期至中文日期的轉換</h2>
+<hr>
+
+<script language=javascript>
+function updateTime(form) {
+	year = form.year.value;
+	month = form.month.value;
+	day = form.day.value;
+	minute = form.minute.value;
+	hour = form.hour.value;
+	second = form.second.value;
+	string1 = "今天是中華民國"+(year-1911)+"年"+month+"月"+day+"日，";
+	string2 = "時間是下午"+hour+"點"+minute+"分"+second+"秒。"
+	form.ChineseDate.value = string1+string2;
+}
+</script>
+
+<form>
+請輸入西元年代與時間：<br>
+Year:  <input type="text" size=4 name="year"   value="2000">
+Month: <input type="text" size=4 name="month"  value="3">
+Day:   <input type="text" size=4 name="day"    value="15">
+Hour   <input type="text" size=4 name="hour"   value="18">
+Minute <input type="text" size=4 name="minute" value="45">
+Second <input type="text" size=4 name="second" value="32">
+
+<p>
+<input type="button" name="Transform" value="轉換"
+onClick="updateTime(this.form)">
+<p>
+轉換後的中文元年代與時間：<br>
+<textarea name="ChineseDate" rows=2 cols=80></textarea>
+<br>（不可出現阿拉伯數字喔！）
+</form>
+
+<hr>
+</body>
+</html>

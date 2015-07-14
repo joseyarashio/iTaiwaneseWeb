@@ -1,0 +1,118 @@
+<article>
+	<id>1607</id>
+	<title>假造身分證 製作超精密 幾乎難辨識</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>刑事警察局 今天 破獲一件 詐騙案件，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Heng5-su7-keng2-chhat-kiok8 kin-a2-jit pho3-hek8 chit8-chan5 cha3-phian3 an3-kiann7，</JiaoLuo>
+			<TongYong>Hing5-su2-Ging4-cat7-Giok6* gin1-a4-rit6* zin1-pua3 zit6-giann2 za3-pen3* an3-giann2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>犯罪 得手金額 高達上億，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoan7-choe7 tit-chhiu2 kim-giah8 koan5-kau3 chiunn7-ek，</JiaoLuo>
+			<TongYong>huan2-zue2* dit7-ciu4*-e5-gim1-qiah6* gor1-dat6-ziunn2-ik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>這個 詐騙集團 專門 假造身分證，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-e5 cha3-phian3-chip8-thoan5 choan-bun5 ke2-cho7 sin-hun7-cheng3，</JiaoLuo>
+			<TongYong>zit7-e5 za3-pen3*-zip6-tuan5* zuan1-vun5 ge4-zor2-sin1-hun2-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>仿造的部分 包括 安全線、 浮水印、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hong2-cho7-e5 pou7-hun7 pau-koat an-choan5-soann3 、 phu5-chui2-in3 、</JiaoLuo>
+			<TongYong>hong4-zor2*-e5-bo2-hun2* bau1-guah7 an1-zuan5-suann3*、 pu5-zui4-in3*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>防偽 雷射針孔 台灣圖案 等，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hong5-gui7 lui5-sia7-chiam-khang Tai5-oan5 tou5-an3 teng2，</JiaoLuo>
+			<TongYong>hong5-ui2* lui5-sia2-ziam1-kang1* Dai5-Uan5*-do5-an3* ding4-ding4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>精密程度 如果 不用 專業儀器，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng-bit8 theng5-tou7 na7-chun2 bo5-eng7 choan-giap8-gi5-khi3，</JiaoLuo>
+			<TongYong>zing1-vit6-ting5-do2* na2-si2 vor5-iong2 zuan1-qiap6-qi5-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>一般民眾 幾乎 無法辨識。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-poann-bin5-chiong3 kiong5-beh bo5-hoat pian7-sek。</JiaoLuo>
+			<TongYong>it7-buann1-vin5-ziong3* ca1-but7-dor1 vor5-huat7-do2* ben2-sik7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>詐騙集團 假造的 身分證，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cha3-phian3-chip8-thoan5 ke2-cho7-e5 sin-hun7-cheng3，</JiaoLuo>
+			<TongYong>Za3-pen3*-zip6-tuan5* ge4-zor2*-e5 sin1-hun2-zing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>安全線 沒有 連成一條線，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>an-choan5-soann3 bo5 lian5-cho3 chit8-tiau5-soann3，</JiaoLuo>
+			<TongYong>an1-zuan5-suann3* vor5 len5-zor3-zit6-diau5-suann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>浮水印的 油墨色彩 比較淡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>phu5-chui2-in3 e5 iu5-bak8 sek-chhai2 khah8-chhian2，</JiaoLuo>
+			<TongYong>pu5-zui4-in3*-e5 iu5-vak6-sik7-cai4* kah7-cen4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>最難仿冒的 雷射針孔 台灣圖案，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-lan5 hong2-e5 lui5-sia7 chiam-khang Tai5-oan5 tou5-an3，</JiaoLuo>
+			<TongYong>siang2-painn4-hong4-mo2*-e5 lui5-sia2-ziam1-kang1* Dai5-Uan5*-do5-an3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>假造身分證 的 精密度 就 不如真的，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke2-cho7 sin-hun7-cheng3 e5 cheng-bit8-tou7 to-put-ju5 chin-e5，</JiaoLuo>
+			<TongYong>ge4-zor2-sin1-hun2-zing3* e5 zing1-vit6-do2* diorh6 vor5-ciunn2-zin1*-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>身分證 右下角 光彩變化 薄膜，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-hun7-cheng3 chiann3-e7-kha-peng5 kng-chhai2 pian3-hoa3 poh8-mouh8，</JiaoLuo>
+			<TongYong>sin1-hun2-zing3* ziann3-bing5*-e2-gak7* gng1-cai4*-ben3-hua3* borh6-mo5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>因為 嫌犯 沒辦法 假造，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 hiam5-hoan7 bo5-pan7-hoat ke2-cho7，</JiaoLuo>
+			<TongYong>in1-ui2 hiam5-huan2* vor5-huat7-do2* ge4-zor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>只能夠 拆真的 黏上去。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chi2-e7-sai2 thiah-chin-e5 liam5-khi2-khi3。</JiaoLuo>
+			<TongYong>zi4-e2-sai4 tiah7-zin1-e5 liam5-ki4-ki3。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

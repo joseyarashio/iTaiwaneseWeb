@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>每日一句（利用亂數點選字串陣列的元素）</h2>
+<hr>
+
+<script>
+text = new Array();
+i = 0;
+text[i++]="If you don't set aside time for exercise,<br>you'll set aside time for illness.";
+text[i++]="不管你們相愛的時間有多長或多短，<p>若你們能始終溫柔地相待，<p>那麼，所有的時刻都將是一種無瑕的美麗，<p>若不得不分離，也要好好的說聲再見，<p>也要在心裡存著感謝，<p>感謝他給了你一份記憶。<br><br>長大了以後，你才會知道，<p>在驀然回首的剎那，<p>沒有怨恨的青春才會了無遺憾，<p>如山岡上那輪靜靜的滿月。<br><br>席慕蓉‧無怨的青春";
+text[i++]="北方有佳人，遺世而獨立。<p>一顧傾人城，再顧傾人國。";
+text[i++] = "～～ 　一次的攜手<p> 　                             　    一生的誓約　～～";
+text[i++] ="我曾踏月而去 只因你在山中<p>而在今夜訴說著的熱淚裏<br>猶見你微笑的面容<p>叢山暗暗 我華年已逝<p>想林中次次回春 依然<p>會有強健的你 挽我拾級而上<p>而月色如水 芳草淒迷";
+text[i++] = "Yesterday is history, Tomorrow is mystery, and Today is a gift. That is why we call it present.";
+text[i++] = "愛的反面不是仇恨，而是漠不關心！";
+text[i++] = "如何讓你遇見我  在我最美麗的時刻<p>為這  我已在佛前 求了五百年 求祂讓我們結一段塵緣<p>佛於是把我化作一棵樹  長在你必經的路旁 <p>陽光下慎重的開滿了花  朵朵都是我前世的盼望<p>  當你走近  請你細聽 那顫抖的葉是我等待的熱情 <p> 而當你終於無視的走過  在你身後落了一地的...<p>朋友啊  那不是花瓣  是我凋零的心<br><br>席慕蓉‧一稞開花的樹";
+text[i++] = "Draft beers, not people.";
+text[i++] = "Of all the things I lost, I miss my mind most.";
+text[i++] = "Choose what you love ...<br>Love what you choose.";
+text[i++] = "Rules are made to be broken.";
+text[i++] = "Waste bandwidth; not trees!";
+text[i++] = "Work like you don't need the money.<br>Love like you've never been hurt.<br>Dance like nobody's watching.";
+text[i++] = "曾經滄海難為水，<br>除卻巫山不是雲。<br>取次花叢懶迴顧，<br>半緣修道半緣君。<br><br>元稹‧離思";
+ 
+index = Math.floor(Math.random()*text.length);		// 以亂數設定句子的索引值
+document.write("<CENTER><table border=2 cellpadding=20 bgcolor=white>");
+document.write("<tr><td><b><font size=+2 face=\"標楷體,Helvetical,Arial\" color=#408080>");
+document.write(text[index]);
+document.write("</font></b></td></tr></table></CENTER>");
+</script> 
+
+<hr>
+</body>
+</html>

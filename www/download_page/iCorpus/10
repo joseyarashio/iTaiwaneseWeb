@@ -1,0 +1,279 @@
+<article>
+	<id>10</id>
+	<title>Obama大勝 美國 首位 黑人總統</title>
+	<content>
+		<s id=0>
+			<segmentation>駐美 特派員 曹郁芬 華府 五日報導</segmentation>
+			<TaiLuo>Chu3-bi2 tek8-phai3-oan5 Cho5-am7-phang hoa5-hu2 po3-to7 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Zu2-vi4* dik6-pai3-quan5* zor5-iok7-hun1* hua5-hu4* qo2-rit6*-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>Obama大勝 美國 首位 黑人總統</segmentation>
+			<TaiLuo>Obama toa7-seng3 Bi2-kok thau5-chit8-ui7 ou-lang5 chong2-thong2 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Obama dua2-sing3* vi4-gok7* tau5-zit6-ui2 o1-lang5*-zong4-tong4</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>壓倒性勝利 創造 新歷史</segmentation>
+			<TaiLuo>ap-to2-seng3 seng3-li7 chhong3-cho7 sin-lek8-su2</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ap7-dor4-sing3* sing3-li2* cong3-zor2 sin1-lik6-su4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>民主黨 總統候選人 歐巴瑪 四日 以 壓倒性勝利，</segmentation>
+			<TaiLuo>Bin5-chu2-tong2 chong2-thong2 hau7-soan2-jin5 Obama si3-jit8 i2 ap-to2-seng3 seng3-li7 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vin5-zu4-dong4* zong4-tong4*-hau2-suan4-rin5* Obama si3-hor2* i4* ap7-dor4-sing3* sing3-li2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>當選 美國史上 首位 黑人總統。</segmentation>
+			<TaiLuo>tong3-soan2 Bi2-kok lek8-su2 siong7 thau5-chit8-ui7 ou-lang5 chong2-thong2 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>dong3-suan4 vi4-gok7-lik6-su4 siong2* tau5-zit6-ui2 o1-lang5*-zong4-tong4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>他 在 芝加哥的 勝選演說 中，</segmentation>
+			<TaiLuo>i ti7 Chicago e5 seng3-soan2 ian2-soat tiong </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>I1 di2 zi1-ga1-gor1*-e5 sing3-suan4-en4-suat7* diong1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>對著 二十多萬 支持者 宣告：</segmentation>
+			<TaiLuo>tui3-tioh8 ji7-chap8 joa7 ban7 chi-chhi5-chia2 soan-ko3 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>dui3-diorh6 ri2-zap6-qua2-van2 zi1-ci5-zia4* suan1-gor3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>「改變 已經 來到美國」。</segmentation>
+			<TaiLuo>kai2-pian3 i2-keng lai5-kau3 Bi2-kok </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gai4-ben3* i4-ging1 lai5-gau3-vi4-gok7*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>在 已開出的 選票 中，</segmentation>
+			<TaiLuo>ti7 i2-keng khui-chhut e5 soan2-phio3 tiong </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Di2 i4-ging1-kui1-cut7*-e5 suan4-pior3* diong1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>歐巴瑪 不僅 以 五十二％</segmentation>
+			<TaiLuo>Obama m7-na7 i2 pah-hun-chi gou7-chap8-ji7 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Obama m2-na2 i4* qo2-zap6-ri2-pa1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>（約 六千兩百九十六萬 票） 的 普選票，</segmentation>
+			<TaiLuo>(tai7-khai3 lak8-chheng-nng7-pah-kau2-chap8-lak8 ban7 phio3) e5 phou2-soan2 phio3 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>(dai2-iok7* lak6-cing1*-nng2-bah7-gau4-zap6-lak6-van2 pior3*) e5 po4-suan4-pior3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>贏過 共和黨候選人 麥肯 的 四十六％</segmentation>
+			<TaiLuo>iaN5-ke3 Kiong7-ho5-tong2 hau7-soan2-jin5 McCain e5 pah-hun-chi si3-chap8-lak8 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>iann5-gue3 giong2-hor5-dong4* hau2-suan4-rin5* McCain e5 si3-zap6-lak6-pa1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>（約 五千五百七十六萬 票），</segmentation>
+			<TaiLuo>(tai7-khai3 gou7-chheng-gou7-pah-chhit-chap8-lak8 ban7 phio3) </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>(dai2-iok7* qo2-cing1*-qo2-bah7-cit7-zap6-lak6-van2 pior3*)</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>選舉人票 更 超越麥肯 一倍多。</segmentation>
+			<TaiLuo>soan2-ki2-jin5 phio3 kiN chhiau-oat8 McCain chit8-poe7 goa7 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>suan4-gi4-lang5-pior3* gorh7 ciau-uat6 McCain zit6-bue2-qua2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>贏得 這場 最漫長的 總統大選 後，</segmentation>
+			<TaiLuo>soan2-ki2-lang5 phio3 kiN chhiau-oat8 McCain chit8-poe7 goa7 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Iann5-diorh6 zit7-diunn5 siong2-dng5*-e5 zong4-tong4-dai2-suan4* liau4-au2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>四十七歲的 歐巴瑪</segmentation>
+			<TaiLuo>si3-chap8-chhit he3 e5 Obama </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>si3-zap6-cit7-hue3*-e5 Obama</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>將 在 明年 元月二十日 宣誓就職，</segmentation>
+			<TaiLuo>chiong-ti7 me5-ni5 it-geh8 ji7-chap8 jit8 soan-se3-chiu7-chit</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>e2 di2 me5-ni5* it7-queh6-ri2-zap6-hor2* suan1-se3*-ziu2-zit7*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>成為 美國 第四十四屆 總統。</segmentation>
+			<TaiLuo>seng5-ui5 Bi2-kok te7-si3-chap8-si3 kai3 chong2-thong2 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>sing5-ui5 vi4-gok7* de2-si3-zap6-si3-gai3* zong4-tong4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>美國 各大 電視網</segmentation>
+			<TaiLuo>Bi2-kok sou2-iu2 toa7-tian7-si7-bang7 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vi4-gok7* gok7-dai2 den2-si2-vang2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>在 美東時間 四日 深夜十一時 宣布，</segmentation>
+			<TaiLuo>ti7 bi2-tang si5-kan si3-ho7 chhim-ia7 chap8-it tiam2 soan-pou3 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>di2 vi4-dang1-si5-gan1* si3-hor2* cim1-ia2* zap6-it7-diam4* suan1-bor3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>歐巴瑪的 選舉人票數</segmentation>
+			<TaiLuo>Obama e5 soan2-ki2-jin5 phio3-sou3 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Obama-e5 suan4-gi4-lang5-pior3-so3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>已超越 當選所需的 二百七十票。</segmentation>
+			<TaiLuo>i2 chhiau-oat8 tong3-soan2 sou2-su-iau3 e5 nng7-pah-chhit-chap8 phio3 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>i4-ging1 ciau1-gue3 dong3-suan4* so4-su1-iau3* e5 nng2-bah7-cit7-zap6-pior3*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>守在 芝加哥 競選總部</segmentation>
+			<TaiLuo>siu2-ti7 Chicago keng7-soan2 chong2-pou7 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Siu4-di2 zi1-ga1-gor1* ging2-suan4-zong4-bo2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>和 全國各地 的 歐巴瑪 支持者，</segmentation>
+			<TaiLuo>kah choan5-kok kok-te7 Obama e5 chi-chhi5-chia2 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gah7 zuan5-gok7*-gok7-de2* e5 Obama zi1-ci5-zia4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>頓時 響起 一片 歡呼聲，</segmentation>
+			<TaiLuo>hit-si5-chun7 hiang2-khi2 chit8-si3-koe3 hoan-hou-siaN </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>liam5-dong1-si* hiang4-ki4 zit6-pen3 huan1-ho1-siann1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>奮力 揮舞著 國旗。</segmentation>
+			<TaiLuo>he7-mia7 lang7-tioh8 kok-ki5 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>hun3-lik6 vu4-lang2-diorh6 gok7-gi5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>許多 支持者 激動落淚，</segmentation>
+			<TaiLuo>cheng3-che7 chi-chhi5-chia2 kek-tong7-kau3 lau5-bak8-sai2 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Zin1-ze2 zi1-ci5-zia4* gik7-dong2-gau3 lau5-vak6-sai4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>相互擁抱。</segmentation>
+			<TaiLuo>hou7-siong sio-lam2 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ho2-siong1-lam4-por2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>美國 主流報紙 五日</segmentation>
+			<TaiLuo>Bi2-kok chu2-liu5 po3-choa2 gou7-ho7 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vi4-gok7* zu4-liu5-bor3-zua4* qo2-hor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>紛紛 以 「歐巴瑪 創造歷史」 為標題，</segmentation>
+			<TaiLuo>hun-hun i2 「Obama chhong3-cho7 lek8-su2」cho3 phiau-te5 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>hun1-hun1* i4 「Obama cong3-zor2-lik6-su4*」 zor3-biau1-de5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>宣告 歐巴瑪 成為 美國白宮 新主人。</segmentation>
+			<TaiLuo>soan-ko3 Obama seng5-ui5 Bi2-kok Peh8-kiong sin chu2-lang5 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>suan1-gor3 Obama sing5-ui5 vi4-gok7-beh6-giong1* sin1-zu4-lang5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>歐巴瑪的 普選票 得票率 是 Lyndon Johnson 總統 以來，</segmentation>
+			<TaiLuo>Obama-e5 phou2-soan2 phio3 tit-phio3 lut8 si7 Johnson chong2-thong2 i2-lai5 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Obamae5 po4-suan4-pior3* dit7-pior3-lut6* si2 Lyndon Johnson zong4-tong4* i4-lai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>民主黨 總統候選人 得票最高的 一次。</segmentation>
+			<TaiLuo>Bin5-chu2-tong2 chong2-thong2 hau7-soan2-jin5 tit-phio3 siang7-koan5 e5 chit8-ke3 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>vin5-zu4-dong4* zong4-tong4*-hau2-suan4-rin5* dit7-pior3*-siang2-guan5*-e5 zit6-gai4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>布希總統 立即 致電 歐巴瑪 道賀。</segmentation>
+			<TaiLuo>Bush chong2-thong2 sui5 phah-tian7-oe7 hiaN3 Obama kiong-hi2 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Bush zong4-tong4* sui5 kah7-den2-ue2* hiong3 Obama giong1-hor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>民主黨 在 參眾兩院 選舉 也是贏家，</segmentation>
+			<TaiLuo>Bin5-chu2-tong2 ti7 Chham-Chiong3-nng7-iN7 long2-si7 iaN5-e5 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vin5-zu4-dong4* di2 cam1-ziong3*-liong4-inn2*-e5 suan4-gi4* ma2-si2-ing5-ga1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=35>
+			<segmentation>在 已開出的票 中，</segmentation>
+			<TaiLuo>ti7 i2-keng khui-chhut e5 phio3 tong-tiong </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>di2 i4-ging1-kui1-cut7*-e5 pior3* dang1-diong1*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=36>
+			<segmentation>民主黨 在 一百席的 參院 雖 未跨過 六十席 門檻，</segmentation>
+			<TaiLuo>Bin5-chu2-tong2 ti7 chit8-pah-sek8 e5 Chham-iN7 sui-jian5 bo5 hoah8-ke3 lak8-chap8-sek8 e5 hou7-teng7 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>vin5-zu4-dong4* di2 zit6-bah7-sik6*-e5 cam1-inn2* sui2-ren5* vor5-hann2-gue3 lak6-zap6-sik6*-e5 mng5-kam4*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=37>
+			<segmentation>但 已取得 五十六席，</segmentation>
+			<TaiLuo>tan3-si7 i2 chhu2-tit gou7-chap8-lak8-sek8 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>dan3-si2 i4-cu4-dit7 qo2-zap6-lak6-sik6*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=38>
+			<segmentation>在 眾院的席次 也 增為 二百五十二席。</segmentation>
+			<TaiLuo>ti7 Chiong3-iN7 e5 sek8-chhu3 oan-na2 cheng-ka-kau3 nng7-pah- gou7-chap8-ji7 sek8 </TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>di2 ziong3-inn2*-e5．sik6-cu3* ma2 zing1-ga1-gau3 nng2-bah7-qo2-zap6-ri2-sik6*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

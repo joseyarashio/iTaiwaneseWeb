@@ -1,0 +1,251 @@
+<article>
+	<id>926</id>
+	<title>斷交後 首次 美軍援助 抵達台南</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 南部 綜合報導</segmentation>
+			<TaiLuo>Bin5-si7 sin-bun5 lam5-pou7 chong-hap8 po3-to7</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Vin5-si2*-sin1-vun5* lam5-bo2* zong1-hap6-bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>台灣 向 國際社會 發出 求救訊息，</segmentation>
+			<TaiLuo>Tai5-oan5 hiong3 kok-che3 sia7-hoe7 hoat-chhut hoah kiu3-lang5 sin3-sit，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Dai5-uan5* hiong3 gok7-ze3-sia2-hue2* huat7-cut7 giu5-giu3*-sin3-sit7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>美國 立刻 有了 善意回應，</segmentation>
+			<TaiLuo>Bi2-kok lip8-khek u7-liau2 sian7-i3 hoe5-eng3，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>vi4-gok7* ma4-siong2* u2-liau4 sen2-i3*-hue5-ing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>八月十六日 美國軍方，</segmentation>
+			<TaiLuo>peh-goeh8 chap8-lak8-ho7 Bi2-kok kun-hong，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>beh7-queh6-zap6-lak6-hor2* vi4-gok7*-gun1-hong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>從 距離台灣 最近的 日本 琉球基地，</segmentation>
+			<TaiLuo>tui3 ki7-li7 Tai5-oan5 siong7-kun7 e5 Jit8-pun2 Liu5-kiu5-ki-te7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ui3 gi2-li5-dai5-uan5* siang2-gin2*-e5 rit6-bun4* liu5-giu5*-gi1-de2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>派了一架 C130 運輸機，</segmentation>
+			<TaiLuo>phai3-liau2 chit8-chiah C-it-saN-khong3 un7-su-ki，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>pai3-liau4-zit6-ziah7 C it7-sam1-kong3* un2-su1-gi*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>載著物資 來台灣。</segmentation>
+			<TaiLuo>chai3-tioh8 but8-chu lai5 Tai5-oan5。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zai3-diorh6-vut6-zu1* lai5-dai5-uan5*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>緊接著 十七日，</segmentation>
+			<TaiLuo>soa3-loh8-lai5 chap8-chhit-ho7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Sua3*-lorh6-lai5 zap6-cit7-hor2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>還有 第二波的 運輸直升機，</segmentation>
+			<TaiLuo>iau2-u7 te7-ji7-pho e5 un7-su tit8-seng-ki，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gorh7-u2 de2-ri2-por1*-e5 un2-su1*-dit6-sing1-gi1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>將 由 兩棲突擊艦 載運 來台灣 支援，</segmentation>
+			<TaiLuo>beh iu5 liong2-chhe tut8-kek8 lam7 chai3-un7 lai5 Tai5-oan5 chi-oan7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>e2 iu5 liang4-ce1*-tut6-gik7-gam3* zai3-un2* lai5-dai5-uan5* zi1-uan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>而 這 也是 台美斷交 以來，</segmentation>
+			<TaiLuo>iah chit iah8-si7 Tai5-Bi2 toan7-kau i2-lai5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>a1* ze1* ma2-si2 dai5-vi4*-dng2-gau1* i4-lai5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>美國軍隊 首次踏上 台灣 這塊土地。</segmentation>
+			<TaiLuo>Bi2-kok kun-tui7 thau5-koe3 tah8-chiuN7 Tai5-oan5 chit-te3 thou2-te7。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>vi4-gok7*-gun1-dui2* de2-it7-bai4* da2-ziunn2 dai5-uan5* zit7-de3-to4-de2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>這 是 美軍 第一波 對台灣的 援助，</segmentation>
+			<TaiLuo>chit-si7 Bi2-kun te7-it-pho tui3 Tai5-oan5 e5 oan7-chou7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Ze1* si2 vi4-gun1* de2-it7-por1* dui3-dai5-uan5*-e5 uan5-zo2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>帶來了 一百二十捲，</segmentation>
+			<TaiLuo>chah-lai5-liau2 chit8-pah-ji7-chap8 khun5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zah7-lai5-liau4 zit6-bah7-ri2-zap6-kun5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>總共四箱的 特殊 防水塑膠布，</segmentation>
+			<TaiLuo>chong2-kiong7 si3-siuN tek8-su5 hong5-chui2 sok-ka-pou3，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zong4-giong2*-si3-siunn1*-e5 dik6-su5* hong5-zui4*-sok7-ga1-bo3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>台灣的軍方 表示，</segmentation>
+			<TaiLuo>Tai5-oan5 e5 kun-hong piau2-si7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>dai5-uan5*-e5-gun1-hong1* biau4-si2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>這些物資 是 美國 決定要給的，</segmentation>
+			<TaiLuo>chia-e5 but8-chu si7 Bi2-kok koat-teng7 beh-hou7-e5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zia3-e5-vut6-zu1* si2 vi4-gok7* guat7-ding2 veh7-ho2*-lan4-e5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=17>
+			<segmentation>台灣 事先 並未提出 這樣的需求，</segmentation>
+			<TaiLuo>Tai5-oan5 su7-sian peng7-bo5 the5-chhut an2-ne e5 su-kiu5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>dai5-uan5* su2-sen1* bing2-vor5-te5-cut7 an4-ne1*-e5-su1-giu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=18>
+			<segmentation>甚至 剛開始 也不知道 要 拿來做啥。</segmentation>
+			<TaiLuo>sim7-chi3 tu2 khai-si2 iah8-m7-chai-iaN2 beh theh8-lai5 cho3-siaN2。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>sim2-zi3 du4-kai1-si4* ma2-m2-zainn1-iann4 veh7 teh6-lai5-zor3-siann3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=19>
+			<segmentation>有來幫忙 就算感謝，</segmentation>
+			<TaiLuo>u7-lai5 pang-bang5 chiu7-sng3 kam2-sia7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>U2-lai5-bang1-vang5* diorh6-sng3-gam4-sia2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=20>
+			<segmentation>美國方面 還有 第二波，</segmentation>
+			<TaiLuo>Bi2-kok hong-bin7 iau2-u7 te7-ji7-pho，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>vi4-gok7*-hong1-vin2* gorh7-u2 de2-ri2-por1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=21>
+			<segmentation>將 在十七日 由 兩棲突擊艦，</segmentation>
+			<TaiLuo>beh ti7 chap8-chhit-ho7 iu5 liong2-chhe tut8-kek8 lam7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>e2 di2-zap6-cit7-hor2* iu5 liang4-ce1*-tut6-gik7-gam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=22>
+			<segmentation>載送 運輸直升機 來台灣 協助救災，</segmentation>
+			<TaiLuo>chai3-sang3 un7-su tit8-seng-ki lai5 Tai5-oan5 hiap8-chou7 kiu3-chai，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zai3-sang3 un2-su1*-dit6-sing1-gi1* lai5-dai5-uan5* hiap6-zo2-giu3-zai1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=23>
+			<segmentation>但 基於 美軍 作業規定，</segmentation>
+			<TaiLuo>tan7-ki-i5 Bi2-kun chok-giap8 kui-teng7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>dan2-si2 gi1-i5 vi4-gun1* zok7-qiap6-gui1-ding2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=24>
+			<segmentation>軍機 不得 在台灣 過夜，</segmentation>
+			<TaiLuo>kun-ki put-tek ti7 Tai5-oan5 koe3-me5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>gun1-gi1* but7-dik7 di2-dai5-uan5* gue3-me5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=25>
+			<segmentation>因此 美軍的 兩棲突擊艦，</segmentation>
+			<TaiLuo>in-chhu2 Bi2-kun e5 liong2-chhe tut8-kek8 lam7，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>so4-i4 vi4-gun1*-e5 liang4-ce1*-tut6-gik7-gam3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=26>
+			<segmentation>會選擇 停放 花蓮 或是 高雄 外海，</segmentation>
+			<TaiLuo>e7 soan2-tek8 theng5-hong3 Hoa-lian hek8-si7 Ko-hiong5 goa7-hai2，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>e2-suan4-dik6 ting5-kng3 hua1-len5* ia2-si2 gor1-hiong5* qua2-hai4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=27>
+			<segmentation>白天 直升機 支援災區，</segmentation>
+			<TaiLuo>jit8-si5 tit8-seng-ki chi-oan7 chai-khu，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>rit6*-si5* dit6-sing1-gi1* zi1-uan5-zai1-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=28>
+			<segmentation>晚間 再 飛回艦上 過夜，</segmentation>
+			<TaiLuo>am3-si5 koh poe-tng2 lam7-siong7 koe3-me5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>am3-si5* ziah7 bue1-dng4-ki3 gun1-gam3* gue3-me5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=29>
+			<segmentation>而 這樣 也是 避免</segmentation>
+			<TaiLuo>iah an2-ne iah8-si7 pi7-bian2，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>a1* an4-ne1* ma2-si2 bi2-ven4</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=30>
+			<segmentation>觸發 中國方面的 敏感神經。</segmentation>
+			<TaiLuo>chhiok-hoat Tiong-kok hong-bin7 e5 bin2-kam2 sin5-keng。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>ciok7-huat7 diong1-gok7*-hong1-vin2*-e5 vin4-gam4-sin5-ging1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=31>
+			<segmentation>根據了解 美軍 支援救災的 範圍，</segmentation>
+			<TaiLuo>kin-ku3 liau2-kai2 Bi2-kun chi-oan7 kiu3-chai hoan7-ui5，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>Gin1-gi3-liau4-gai4* vi4-gun1* zi1-uan5-giu3-zai1*-e5 huan2-ui5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=32>
+			<segmentation>將 集中在 嘉義、台南 一帶，</segmentation>
+			<TaiLuo>chiong chip8-tiong ti7 Ka-gi7、Tai5-lam5 it-tai3，</TaiLuo>
+			<JiaoLuo></JiaoLuo> 
+			<TongYong>e2 zip6-diong1-di2 ga1-qi2*、dai5-lam5* it7-dai3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=33>
+			<segmentation>十七日 直升機 抵達之後，</segmentation>
+			<TaiLuo>chap8-chhit-ho7 tit8-seng-ki kau3-te3，</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>zap6-cit7-hor2* dit6-sing1-gi1* de4-dat6-liau4-au2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=34>
+			<segmentation>預計 十八日 投入救災。</segmentation>
+			<TaiLuo>u7-ke3 chap8-peh-ho7 tau5-jip8 kiu3-chai。</TaiLuo>
+			<JiaoLuo></JiaoLuo>
+			<TongYong>i2-ge3* zap6-beh7-hor2* dau5-rip6-giu3-zai1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

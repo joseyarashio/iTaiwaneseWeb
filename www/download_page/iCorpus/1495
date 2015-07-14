@@ -1,0 +1,118 @@
+<article>
+	<id>1495</id>
+	<title>熱帶低氣壓 發威 大雨 淹逢甲夜市</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>這幾天 熱帶低氣壓 發威，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-kui2-kang jiat8-tai3-ke7-khi3-ap tian2-ui，</JiaoLuo>
+			<TongYong>Zit7-gui4-gang1* ret6-dai3*-ge2-ki3-ap7* huat7-ui1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>台中市 在 八日傍晚 下起 傾盆大雨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong-chhi7 ti7 peh-ho7 am3-thau5-a2 loh8-khi2 chhia-thang2-to3-toa7-hou7，</JiaoLuo>
+			<TongYong>Dai5-Diong1-Ci2* di2 beh7-hor2*-am3-tau5*-a4* lorh6-ki4-dua2-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>才 短短 半小時，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah-te2-te2 poann3-tiam2-cheng，</JiaoLuo>
+			<TongYong>ziah7 de4-de4* buann3-diam4-zing1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>西屯的 逢甲夜市 鬧區，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sai-tun7-e5 Hong5-kah-ia7-chhi7-a2 nau7-khu ， </JiaoLuo>
+			<TongYong>Sai1-Dun2*-e5 Hong5-Gah7*-Ia2-Ci2* nau2-ku1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>因為 雨水 宣洩不及，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>in-ui7 hou7-chui2 soan-siap8-be7-hu3，</JiaoLuo>
+			<TongYong>in1-ui2 ho2-zui4* siau1-tau4-ve2-hu3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>水 就 淹到小腿肚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chui2-to-im-kau3 kha-tou2，</JiaoLuo>
+			<TongYong>zui4* diorh6 im1-gau3-ka1-do4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>當時 正好是 用餐時候，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tng-si5 tu2-ho2-si7 iong7-chhan-si5-chun7，</JiaoLuo>
+			<TongYong>dong1-si5* du4-hor4-si2 iong2-can1*-e5-si5-gan1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>有客人 還在吃麵，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>u7-lang5-kheh iau2-ti7 chiah8-mi7，</JiaoLuo>
+			<TongYong>u2-lang5-keh7* iah7-deh7-ziah6-mi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>大水 卻 突然 灌進店裡，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>toa7-chui2 soah-tut8-jian5 koan3-jip8 tiam3-lai7，</JiaoLuo>
+			<TongYong>dua2-zui4* suah7 tut6-ren5-gan1* guan3-rip6-diam3-lai2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>一度受困 動彈不得。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>it-to2-siu7-khun3 be7-tin2-be7-tang7。</JiaoLuo>
+			<TongYong>zit7-si5*-siu2-kun3* ve2-din4-ve2-dang2*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>水 越淹越高，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chui2-lu2-im-lu2-koan5，</JiaoLuo>
+			<TongYong>Zui4* lu4-im1*-lu4-guan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>老闆 急著 把 食材、</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5-ke kip-tioh8-ka7 sit8-chai5 、</JiaoLuo>
+			<TongYong>tau5-ge1* diorh6-gip7 ga2 sit6-zai5*、</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>雞蛋 往高處 搬移，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ke-nng7 ong2-koan5-chhu3 poann-soa2，</JiaoLuo>
+			<TongYong>ge1-nui2* hiong3 guan5*-e5-so4-zai2* buann1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>老闆娘 冒雨 送來 熱騰騰的麵，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>thau5-ke-niu5 thau3-hou7 sang3-lai5 sio-thng3-thng3-e5 mi7，</JiaoLuo>
+			<TongYong>tau5-ge1-niu5* tau-lorh6-ho2* sang3-lai5 sior1-tng3-tng3*-e5-mi2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>客人 只能夠 坐困在水中 用餐。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>lang5-kheh chi2-e7-thang che7-khun3-ti7 chui2-tiong iong7-chhan。</JiaoLuo>
+			<TongYong>lang5-keh7* zi4-e2-dang3 ze2-kun3-di2-zui4-diong1* iong2-can1*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

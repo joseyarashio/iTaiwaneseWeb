@@ -1,0 +1,104 @@
+<article>
+	<id>1347</id>
+	<title>勤跑基層 鄉親熱情 蘇嘉全 台中像故鄉</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>民進黨 大台中 市長參選人 蘇嘉全，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-chin3-tong2 toa7-Tai5-tiong chhi7-tiunn2-chham-soan2-jin5 Sou-ka-choan5，</JiaoLuo>
+			<TongYong>Vin5-Zin3-Dong4* dua2-Dai5-Diong1* ci2-diunn4*-cam1-suan4-rin5* So1-Ga1-Zuan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>現在 每天 深耕基層，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-ma2 tak8-kang chhim-keng ki-chan5，</JiaoLuo>
+			<TongYong>zit7-ma4* mui4-gang1* cim1-ging1-gi1-zan5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>積極 布局選戰，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chek-kek8 pou3-kiok8 soan2-chian3，</JiaoLuo>
+			<TongYong>zik7-gik6 bo3-giok6-suan4-zen3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>蘇嘉全 選定 從台中縣 出發，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sou-ka-choan5 soan2-teng7 tui3 Tai5-tiong-koan7 chhut-hoat，</JiaoLuo>
+			<TongYong>So1-Ga1-Zuan5 suan4-ding2 ui3-Dai5-Diong1-Guan2* cut7-huat7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>先到 高美濕地，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sian-kau3 Ko-bi2-tam5-toe7，</JiaoLuo>
+			<TongYong>sing1-gau3 Gor1-Vi4-Sip7-De2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>關心 生態的 保育情形，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koan-sim sinn-thai3-e5 po2-iok8 cheng5-heng5，</JiaoLuo>
+			<TongYong>guan1-sim1 sinn1-tai3*-e5 bor4-iok6-zing5-hing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>再參加 媽祖 回鑾遶境、 扛轎，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>koh-chham-ka Ma2-chou2 hoe5-loan5 chhai2-koe 、 kng-kio7，</JiaoLuo>
+			<TongYong>gorh7-cam1-ga1 Ma4-Zo4* hue5-luan5*-riau3-ging4*、 gng1-gior2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>祈求 媽祖保佑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ki5-kiu5 Ma2-chou2 po2-iu7，</JiaoLuo>
+			<TongYong>gi5-giu5 Ma4-Zo4*-bor4-bi3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>與鄉親 搏感情，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>ham-hiong-chhin poh-kam2-cheng5，</JiaoLuo>
+			<TongYong>ham2-hiang1-cin1* buah6-gam4-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>蘇嘉全 他說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sou-ka-choan5 i-kong2，</JiaoLuo>
+			<TongYong>So1-Ga1-Zuan5* i1-gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>台中鄉親的 熱情，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Tai5-tiong hiong-chhin-e5 jiat8-cheng5，</JiaoLuo>
+			<TongYong>Dai5-Diong1*-hiang1-cin1*-e5 ret6-zing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>讓他覺得 大台中，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hou7 i kam2-kak toa7-Tai5-tiong，</JiaoLuo>
+			<TongYong>ho2-i1-gam4-gak7 dua2-Dai5-Diong1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>就像是 他的故鄉 一樣親切。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-chhin-chhiunn7-si7 i-e5 kou3-hiong kang7-khoan2  chhin-chhiat。</JiaoLuo>
+			<TongYong>diorh6-cin1-ciunn2-si2 i1-e5-go3-hiang1* gang2-kuan4-cin1-cet7*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

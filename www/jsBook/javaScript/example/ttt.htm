@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>設定並顯示 Cookie 的範例</h2>
+<hr>
+
+<script src="../example/cookieUtility.js"></script>
+<form>
+請設定小餅乾的 name-value pair：<br>
+Name: <input id="cookieName"><br>
+Value: <input id="cookieValue"><br>
+<input type="button" value="寫入 Cookie"
+	onClick="document.cookie=escape(cookieName.value)+'='+escape(cookieValue.value); history.go(0)">
+<p>請注意：這些小餅乾只存放在記憶體中，會隨著所有瀏覽器的關閉或 Session 逾時而消失。
+</form>
+
+<hr>
+<h3 align=center>本網頁的小餅乾列表</h3>
+<script>listCookie();</script>
+
+<hr>
+</body>
+</html>

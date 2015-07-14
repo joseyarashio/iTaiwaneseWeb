@@ -1,0 +1,125 @@
+<article>
+	<id>1295</id>
+	<title>死囚母親 吐心聲 請放下仇恨</title>
+	<content>
+		<s id=0>
+			<segmentation>三立新聞台</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Sam-lip8-sin-bun5-tai5</JiaoLuo>
+			<TongYong>Sam1-Lip6*-Sin1-Vun5-Dai5*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>上星期五的 晚上，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>teng2-le2-pai3-gou7 e5 am3-si5，</JiaoLuo>
+			<TongYong>Ding4-le4-bai3-qo2*-e5 am3-si5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>法務部 突然 執行 四件死刑，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Hoat-bu7-pou7 tut8-jian5 chip-heng5 si3-kiann7 si2-heng5，</JiaoLuo>
+			<TongYong>Huat7-Vu2-Bo2* tut6-ren5* zip7-hing5 si3-giann2-si4-hing5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>也引來 後續效應，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>oan-na2-in2-lai5 soa3-au7-hau7-eng3，</JiaoLuo>
+			<TongYong>ma2-in4-lai5 au2-siok6-hau2-ing3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>死刑犯 與 家屬 非常恐慌，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>si2-heng5-hoan7 ham ka-siok8 hui-siong5-kiann-hiann5，</JiaoLuo>
+			<TongYong>si4-hing5-huan2* gah7 ga1-siok6* hui1-siang5-giann1-hiann5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>十六年前 犯下 女大學生 殺人案 的 陳錫卿，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chap8-lak8-ni5-cheng5 hoan7-ha7 lu2-tai7-hak8-seng sat-jin5-an3 e5 Tan5-siah-kheng，</JiaoLuo>
+			<TongYong>zap6-lak6-ni5-zing5* huan2-ha2 li4-dai2-hak6-sing1* sat7-rin5-an3* e5 Dan5-Sik7-King1*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>昨天 緊急遞狀，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>choh8-jit8 kin2-kip te7-chng7，</JiaoLuo>
+			<TongYong>za1-huinn1* gin4-gip7*-de2-zng2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>聲請 非常上訴，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siann-chheng2 hui-siong5-siang7-sou3，</JiaoLuo>
+			<TongYong>sing1-cing4 hui1-siang5-siang2-so3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>看守所的 其他死囚，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>khan3-siu2-sou2 e5 ki5-thann si2-hoan7，</JiaoLuo>
+			<TongYong>kan1-siu4-so4*-e5 gi5-tann1 si4-hing5-huan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>吃不下 也睡不著，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chiah8-be7-loh8 oan-na2-khun3-be7-khi3，</JiaoLuo>
+			<TongYong>ziah6-ve2-lorh6* ma2-kun3-ve2-ki3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>一名死囚的 母親 說，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit8-mia5 si2-hoan7-e5 bo2-chhin-kong2，</JiaoLuo>
+			<TongYong>zit6-mia5 si4-hing5-huan2* e5 lau2-vor4* gong4，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>被槍決的 其中一人，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>pi7-chheng3-koat-e5  ki5-tiong-chit8-lang5，</JiaoLuo>
+			<TongYong>hong5*-cing3-guat7*-e5 gi5-diong1*-zit6-e5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=12>
+			<segmentation>就 和他兒子 同房，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>to-ham i-hau7-senn tang5-pang5，</JiaoLuo>
+			<TongYong>diorh6 ham2-in1-hau2-senn1* gang2-bang5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=13>
+			<segmentation>兒子心情 因此 受影響，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hau7-senn sim-cheng5 in-chhu2 siu7-eng2-hiang2，</JiaoLuo>
+			<TongYong>hau2-senn1*-e5-sim1-zing5* in1-ui2-an4-ne1* siu2-ing4-hiang4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=14>
+			<segmentation>身為家屬的 只盼望，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sin-ui5 ka-siok8-e5 chi2-ng3-bang7，</JiaoLuo>
+			<TongYong>sin1-ui5-ga1-siok6*-e5 gan1-na2*-ng3-vang2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=15>
+			<segmentation>上天 有 好生之德，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>siang7-thinn-u7 honn3-seng-chi-tek，</JiaoLuo>
+			<TongYong>siang2-ten1* u2 honn3-sing1*-zi1-dik7*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=16>
+			<segmentation>總是 該給一個 自新的機會！</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chong2-si7 kai-hou7 chit8-e5 chu7-sin-e5-ki-hoe7！</JiaoLuo>
+			<TongYong>zong4-si2 ing3-gai1 ho2-i1-zit6-e5* zu2-sin1*-e5-gi1-hue2*！</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>

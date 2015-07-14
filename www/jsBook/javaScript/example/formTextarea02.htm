@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>多列文字欄位：textarea</h2>
+<hr>
+
+請修改下列文字後，在點選滑鼠於表單之外。
+<form>
+<textarea name=courseList cols=80 rows=10 onChange="alert('更改後的文字：\n'+this.value)">
+This is the text within the textarea tag.
+這是位於 textarea 標籤內的文字。
+</textarea>
+</form>
+
+<script src=listProp.js></script>
+<p>Prop. of courseList:<br>
+<script>listProp(document.forms[0].courseList, "courseList");</script>
+
+<hr>
+</body>
+</html>

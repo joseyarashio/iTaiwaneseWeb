@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
+
+<body>
+<h2 align=center>檢查瀏覽器的 Cookie 功能是否啟動</h2>
+<hr>
+
+<script>
+document.write("navigator.cookieEnabled = " + navigator.cookieEnabled + "<br>");
+if (navigator.cookieEnabled){
+	document.write("Cookie 功能已經啟動！");
+	// 在此加入使用 Cookie 的程式碼
+} else {
+	document.write("Cookie 功能尚未啟動！");
+	alert("你的瀏覽器設定不支援 Cookie，請先開啟瀏覽器的 Cookie 功能後，才能得到瀏覽本網頁的最佳效果！");
+	// 在此加入不使用 Cookie 的程式碼
+}
+</script>
+
+<hr>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<article>
+	<id>1485</id>
+	<title>本島 陸上警報 傍晚解除 仍須 嚴防豪雨</title>
+	<content>
+		<s id=0>
+			<segmentation>民視新聞 報導</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Bin5-si7-sin-bun5-po3-to7</JiaoLuo>
+			<TongYong>Vin5-Si2*-Sin1-Vun5* bor3-dor2*</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=1>
+			<segmentation>氣象局 在 九月一日 傍晚 五點半，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Khi3-siong7-kiok8 ti7 kau2-geh8 chhe-it am3-thau5-a2 gou7-tiam2-poann3，</JiaoLuo>
+			<TongYong>Ki3-Siang2-Giok6* di2 gau4-qeh6-ce1-it7* am3-tau5-a4* qo2-diam4-buann3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=2>
+			<segmentation>解除 颱風 萊羅克 台灣本島 陸上的警報，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>kai2-tu5 hong-thai Lai5-lo5-khek Tai5-oan5 pun2-to2 liok8-siang7-e5 keng2-po3，</JiaoLuo>
+			<TongYong>gai4-di5 hong1-tai1* Lai5-Lor5-Kik7* Dai5-Uan5*-bun4-dor4* liok6-siong2*-e5 ging4-bor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=3>
+			<segmentation>不過 雨勢 卻沒有 立刻停下來，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>put-ko3 hou7-se3 soah-bo5 sui5-theng5-loh8-lai5，</JiaoLuo>
+			<TongYong>m2-gorh7 ho2-se3* suah7-vor5 sui5-ting5*-lorh6-lai5，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=4>
+			<segmentation>氣象局 持續發布 豪雨特報，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Khi3-siong7-kiok8 lian5-soa3-hoat-pou3 toa7-chui2-hou7-tek8-po3，</JiaoLuo>
+			<TongYong>Ki3-Siang2-Giok6* ci5-siok6-huat7-bo3 hor5-u4*-dik6-bor3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=5>
+			<segmentation>東南部 還是 要 嚴防大豪雨，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tang-lam5-pou7 iau2-si7-ai3 giam5-hong5 toa7-chui2-hou7，</JiaoLuo>
+			<TongYong>dang1-lam5-bo2* ma2-si2 ai3 qiam5-hong5-dua2-ho2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=6>
+			<segmentation>這個週三 以前 累積 最高雨量，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>chit-e5-pai3-sann i2-cheng5 lui2-chek siang7-koan5-hou7-liong3，</JiaoLuo>
+			<TongYong>zit7-e5-bai3-sann1* i4-zing5* lui4-zik7* siong2-guan5*-e5-ho2-liong3*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=7>
+			<segmentation>前三名 都 集中在 台東縣，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>cheng5-sann-mia5 long2-chip8-tiong-ti7 Tai5-tang-koan7，</JiaoLuo>
+			<TongYong>zing5-sann1-mia5* long4 zip6-diong1-di2 Dai5-Dang1-Guan2*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=8>
+			<segmentation>雖然 雨勢 已經緩和，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>sui-jian5 hou7-se3 i2-keng tng2-ho5，</JiaoLuo>
+			<TongYong>sui1-ren5* ho2-se3* i4-ging1-hor5-huan4*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=9>
+			<segmentation>就是 怕 大雨 繼續下不停，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>tioh8-si7-kiann toa7-hou7 ke3-siok8-loh8-bo5-theng5，</JiaoLuo>
+			<TongYong>diorh6-si2 giann1 dua2-ho2* ge3-siok6-lorh6-vor5-ting5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=10>
+			<segmentation>水土保持局 針對 東南部的 一百一十五條 河流，</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>Chui2-thou2-po2-chhi5-kiok8 chiam-tui3 Tang-lam5-pou7-e5 chit8-pah-chap8-gou7-tiau5 ho5-liu5，</JiaoLuo>
+			<TongYong>Zui4-To4-Bor4-Ci5-Giok6* ziam1-dui3 dang1-lam5-bo2*-e5 zit6-bah7-zap6-qo2-diau5 hor5-liu5*，</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+		<s id=11>
+			<segmentation>發布 土石流的 警戒。</segmentation>
+			<TaiLuo></TaiLuo>
+			<JiaoLuo>hoat-pou3 thou5-chhoah-lau5-e5 keng2-kai3。</JiaoLuo>
+			<TongYong>huat7-bo3 to5-ziorh6-liu5*-e5 ging4-gai3*。</TongYong>
+			<HaoLuo></HaoLuo>
+		</s>
+	</content>
+</article>
